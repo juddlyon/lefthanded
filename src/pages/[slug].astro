@@ -1,0 +1,92 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+  return posts
+    .filter(p => !p.data.isPage)
+    .map(post => ({
+      params: { slug: post.data.slug },
+      props: { post },
+    }));
+}
+
+const { post } = Astro.props;
+const { title, description, tags, pubDate, featuredImage } = post.data;
+
+function formatDate(dateStr?: string) {
+  if (!dateStr) return '';
+  const d = new Date(dateStr);
+  return d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+}
+
+function readingTime(html: string) {
+  const text = html.replace(/<[^>]+>/g, '');
+  const words = text.split(/\s+/).length;
+  return Math.max(1, Math.ceil(words / 250));
+}
+
+const mins = post.body ? readingTime(post.body) : 1;
+const hasImage = featuredImage && !featuredImage.includes('ghost.org');
+const tagClasses = tags.map(t => `tag-${t.toLowerCase().replace(/\s+/g, '-')}`).join(' ');
+---
+
+<BaseLayout title={title} description={description} ogImage={featuredImage} bodyClass={`post-template ${tagClasses}`}>
+  <div class="content-area">
+    <main class="site-main">
+      <article class={`post ${tagClasses} single-post`}>
+        <header class="post-header big-title container medium">
+          <h1 class="post-title">{title}</h1>
+          <div class="post-meta">
+            <span class="post-meta-item post-meta-date">
+              <time datetime={pubDate?.split('T')[0]}>
+                {formatDate(pubDate)}
+              </time>
+            </span>
+            <span class="post-meta-item post-meta-length">
+              {mins} min read
+            </span>
+            {tags.length > 0 && (
+              <span class="post-meta-item post-meta-tags">
+                {tags.map(tag => {
+                  const tagSlug = tag.toLowerCase().replace(/\s+/g, '-');
+                  return <a class={`post-tag post-tag-${tagSlug}`} href={`/tag/${tagSlug}/`} title={tag}>{tag}</a>;
+                })}
+              </span>
+            )}
+          </div>
+        </header>
+
+        {hasImage && (
+          <figure class="post-media container large">
+            <div class="u-placeholder horizontal">
+              <img class="post-image u-object-fit" src={featuredImage} alt={title} loading="lazy">
+            </div>
+          </figure>
+        )}
+
+        <div class="post-content gh-content kg-canvas" set:html={post.body} />
+
+        <div class="container medium">
+          <section class="author">
+            <div class="author-image-placeholder u-placeholder">
+              <img class="author-image u-object-fit" src="/content/images/size/w150/2024/02/sammy-southpaw.jpeg" alt="Sammy Southpaw">
+            </div>
+            <div class="author-wrapper">
+              <header class="author-header">
+                <div class="author-header-wrapper">
+                  <h4 class="author-name">Sammy Southpaw</h4>
+                </div>
+              </header>
+              <div class="author-bio">Sammy Southpaw: Left-handed, left-leaning, and left in every sense of the word. Writer, musician, and southpaw enthusiast.</div>
+              <div class="author-location">
+                <i class="author-location-icon icon icon-map-marker"></i> Atlanta
+              </div>
+            </div>
+          </section>
+        </div>
+      </article>
+    </main>
+  </div>
+</BaseLayout>

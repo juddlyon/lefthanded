@@ -1,0 +1,96 @@
+---
+interface Props {
+  title: string;
+  description?: string;
+  ogImage?: string;
+  bodyClass?: string;
+}
+
+const { title, description = 'LeftHanded.io covers everything left-handed: expert tips, insightful articles, and unique products.', ogImage, bodyClass = '' } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{title}</title>
+  <link rel="stylesheet" href="/assets/built/screen.css">
+  <link rel="stylesheet" href="/ghost-public/cards.min.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&family=Mulish:ital,wght@0,400;0,700;0,800;1,400;1,700&display=swap">
+  <script is:inline>
+    if (localStorage.getItem('alto_dark') == 'true') {
+      document.documentElement.classList.add('dark-mode');
+    }
+  </script>
+  <meta name="description" content={description}>
+  <link rel="icon" href="/content/images/size/w256h256/2022/01/lefthanded-io-icon.png" type="image/png">
+  {ogImage && <meta property="og:image" content={ogImage} />}
+  <meta property="og:site_name" content="lefthanded.io">
+  <meta property="og:title" content={title}>
+  <meta property="og:description" content={description}>
+  <style is:global>:root {'--ghost-accent-color: #FF1A75;'}</style>
+</head>
+<body class={bodyClass}>
+  <div class="site">
+    <header class="site-header container">
+      <div class="navbar">
+        <div class="navbar-left">
+          <div class="burger hidden-lg hidden-xl"></div>
+          <a class="logo" href="/">
+            <img class="logo-image" src="/content/images/2022/01/lefthanded-io-logo-3.png" alt="lefthanded.io">
+          </a>
+          <div class="sep hidden-xs hidden-sm hidden-sm"></div>
+          <nav class="main-menu hidden-xs hidden-sm hidden-md">
+            <ul class="nav-list u-plain-list">
+              <li class="menu-item menu-item-facts"><a class="menu-item-link" href="/tag/facts/">Facts</a></li>
+              <li class="menu-item menu-item-people"><a class="menu-item-link" href="/tag/people/">People</a></li>
+              <li class="menu-item menu-item-products"><a class="menu-item-link" href="/tag/products/">Products</a></li>
+              <li class="menu-item menu-item-sports"><a class="menu-item-link" href="/tag/sports/">Sports</a></li>
+              <li class="menu-item menu-item-music"><a class="menu-item-link" href="/tag/music/">Music</a></li>
+              <li class="menu-item menu-item-professions"><a class="menu-item-link" href="/tag/professions/">Professions</a></li>
+            </ul>
+          </nav>
+        </div>
+        <div class="navbar-right">
+          <div class="toggle-track">
+            <div class="toggle-moon"><i class="icon icon-brightness-2"></i></div>
+            <div class="toggle-sun"><i class="icon icon-white-balance-sunny"></i></div>
+            <div class="toggle-thumb"></div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <div class="site-content">
+      <slot />
+    </div>
+
+    <footer class="site-footer container large">
+      <div class="copyright">
+        &copy; {new Date().getFullYear()} lefthanded.io
+      </div>
+      <nav class="footer-nav">
+        <ul class="nav-list u-plain-list">
+          <li class="menu-item menu-item-about"><a class="menu-item-link" href="/about/">About</a></li>
+          <li class="menu-item menu-item-contact"><a class="menu-item-link" href="/contact/">Contact</a></li>
+        </ul>
+      </nav>
+    </footer>
+  </div>
+
+  <div class="dimmer"></div>
+  <div class="off-canvas">
+    <div class="canvas-close">
+      <i class="canvas-icon icon icon-window-close"></i>
+    </div>
+    <div class="mobile-menu"></div>
+  </div>
+
+  <script is:inline src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+  <script is:inline src="/assets/built/main.min.js"></script>
+  <script is:inline src="/ghost-public/cards.min.js"></script>
+</body>
+</html>

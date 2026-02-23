@@ -1,0 +1,27 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const allPosts = await getCollection('posts');
+const aboutPost = allPosts.find(p => p.data.slug === 'about');
+---
+
+<BaseLayout title="About LeftHanded.io" description={aboutPost?.data.description} bodyClass="page-template page-about">
+  <div class="content-area">
+    <main class="site-main">
+      <article class="post single-post">
+        <header class="post-header big-title container medium">
+          <h1 class="post-title">About LeftHanded.io</h1>
+        </header>
+        {aboutPost?.data.featuredImage && !aboutPost.data.featuredImage.includes('ghost.org') && (
+          <figure class="post-media container large">
+            <div class="u-placeholder horizontal">
+              <img class="post-image u-object-fit" src={aboutPost.data.featuredImage} alt="Left handed artist with marker" loading="lazy">
+            </div>
+          </figure>
+        )}
+        <div class="post-content gh-content kg-canvas" set:html={aboutPost?.body} />
+      </article>
+    </main>
+  </div>
+</BaseLayout>

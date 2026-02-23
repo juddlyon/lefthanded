@@ -1,0 +1,92 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const allPosts = await getCollection('posts');
+const posts = allPosts
+  .filter(p => !p.data.isPage)
+  .sort((a, b) => {
+    const dateA = a.data.pubDate ? new Date(a.data.pubDate).getTime() : 0;
+    const dateB = b.data.pubDate ? new Date(b.data.pubDate).getTime() : 0;
+    return dateB - dateA;
+  });
+
+function formatDate(dateStr?: string) {
+  if (!dateStr) return '';
+  const d = new Date(dateStr);
+  return d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+}
+
+function readingTime(html: string) {
+  const text = html.replace(/<[^>]+>/g, '');
+  const words = text.split(/\s+/).length;
+  return Math.max(1, Math.ceil(words / 250));
+}
+---
+
+<BaseLayout title="Left-handed life: discover unique tools, tips, and stories" bodyClass="home-template">
+  <div class="content-area">
+    <main class="site-main">
+      <div class="post-feed">
+        {posts.map((post, i) => {
+          const hasImage = post.data.featuredImage && !post.data.featuredImage.includes('ghost.org');
+          const tag = post.data.tags[0];
+          const tagSlug = tag ? tag.toLowerCase().replace(/\s+/g, '-') : '';
+          const mins = post.body ? readingTime(post.body) : 1;
+          return (
+            <article class={`post ${hasImage ? '' : 'no-image'} ${tag ? `tag-${tagSlug}` : ''}`}>
+              {hasImage && (
+                <figure class="post-media container large">
+                  <div class="u-placeholder horizontal">
+                    <a class="post-image-link" href={`/${post.data.slug}/`}>
+                      <img class="post-image u-object-fit" src={post.data.featuredImage} alt={post.data.title} loading="lazy">
+                    </a>
+                  </div>
+                </figure>
+              )}
+              <div class="container medium">
+                <header class="post-header big-title">
+                  <h2 class="post-title">
+                    <a class="post-title-link" href={`/${post.data.slug}/`}>{post.data.title}</a>
+                  </h2>
+                  <div class="post-meta">
+                    <span class="post-meta-item post-meta-date">
+                      <time datetime={post.data.pubDate?.split('T')[0]}>
+                        {formatDate(post.data.pubDate)}
+                      </time>
+                    </span>
+                    <span class="post-meta-item post-meta-length">
+                      {mins} min read
+                    </span>
+                    {tag && (
+                      <span class="post-meta-item post-meta-tags">
+                        <a class={`post-tag post-tag-${tagSlug}`} href={`/tag/${tagSlug}/`} title={tag}>{tag}</a>
+                      </span>
+                    )}
+                  </div>
+                </header>
+                <div class="post-excerpt">
+                  {post.data.description}
+                </div>
+                <footer class="post-footer">
+                  <div class="post-action">
+                    <a class="post-link primary" href={`/${post.data.slug}/`}>Read Now</a>
+                  </div>
+                  <div class="post-author">
+                    <a class="post-author-image-link" href="/about/">
+                      <img class="post-author-image" src="/content/images/size/w150/2024/02/sammy-southpaw.jpeg" alt="Sammy Southpaw">
+                    </a>
+                    <div class="post-author-name hidden-xs hidden-sm">
+                      <span class="post-author-by">By: </span>
+                      <a class="post-author-name-link" href="/about/">Sammy Southpaw</a>
+                    </div>
+                  </div>
+                </footer>
+              </div>
+            </article>
+          );
+        })}
+      </div>
+    </main>
+  </div>
+</BaseLayout>

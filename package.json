@@ -1,0 +1,17 @@
+{
+  "name": "lefthanded-io",
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "extract": "node scripts/extract-content.mjs"
+  },
+  "dependencies": {
+    "astro": "^5.5.0"
+  },
+  "devDependencies": {
+    "cheerio": "^1.0.0"
+  }
+}

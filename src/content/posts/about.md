@@ -1,0 +1,12 @@
+---
+title: About LeftHanded.io
+description: LeftHanded.io is a website dedicated to all things left-handed. Lefties make up 10% of the population, but are often overlooked by companies who design products for right-handed people.
+slug: about
+tags: []
+pubDate: "2021-12-31T22:26:31.000Z"
+updatedDate: "2023-02-18T00:06:53.000Z"
+featuredImage: "https://images.unsplash.com/photo-1592312040436-64eec4863b7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fGxlZnQlMjBoYW5kZWR8ZW58MHx8fHwxNjQzMjUxNDM1&ixlib=rb-1.2.1&q=80&w=2000"
+isPage: true
+---
+
+<h2 id="our-mission">Our Mission</h2><p>At LeftHanded.io, we're dedicated to providing resources and information for the left-handed community. Lefties make up 10% of the population, but often have to deal with products and tools designed for right-handed people. Our mission is to help combat this issue by providing you with the best information on how to live life as a lefty and find great products that will work well for you.</p><h2 id="what-we-offer">What We Offer</h2><p>Our website provides a wealth of information and resources for left-handed individuals. From tips and tricks for everyday living to product reviews and recommendations, we're here to help you navigate a world that often seems designed for right-handed people. We're constantly updating our content with the latest news and insights, so be sure to check back often.</p><h2 id="meet-sammy-southpaw">Meet Sammy Southpaw</h2><figure class="kg-card kg-image-card"><img src="/content/images/2023/02/sammy-southpaw.webp" class="kg-image" alt="" loading="lazy" width="2000" height="2000" srcset="/content/images/size/w600/2023/02/sammy-southpaw.webp 600w, /content/images/size/w1000/2023/02/sammy-southpaw.webp 1000w, /content/images/size/w1600/2023/02/sammy-southpaw.webp 1600w, /content/images/2023/02/sammy-southpaw.webp 2048w" sizes="(min-width: 720px) 720px"></figure><p>Sammy Southpaw is the pen name of the author behind LeftHanded.io. As a left-handed 41-year-old male, he understands firsthand the unique challenges and advantages of being left-handed. Although he wasn't raised in the Southeast US, he currently resides there and is passionate about making life easier for lefties everywhere.</p><p>Whether you're a lefty looking for information and resources, or just interested in learning more about left-handedness, we hope you find our website informative and helpful. Thanks for visiting LeftHanded.io!</p>

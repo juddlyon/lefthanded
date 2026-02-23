@@ -1,0 +1,12 @@
+---
+title: Why are there no left-handed catchers?
+description: Left-handed catchers do exist around the league, but they are overwhelmingly outnumbered by right-handed throwers behind the plate.
+slug: left-handed-catchers
+tags: ["Sports"]
+pubDate: "2022-01-19T02:49:20.000Z"
+updatedDate: "2022-01-19T02:49:20.000Z"
+featuredImage: "https://images.unsplash.com/photo-1629241741379-9874f76faf95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fGNhdGNoZXJ8ZW58MHx8fHwxNjQyNTYwNDg4&ixlib=rb-1.2.1&q=80&w=2000"
+isPage: false
+---
+
+<p>Catcher is the most physically demanding position on the baseball field. The catcher crouches behind home plate for roughly nine-tenths of a game, so it’s no surprise that players who perform this task are some of the biggest and strongest athletes in professional sports.</p><p>Left-handed catchers do exist around the league, but they are overwhelmingly outnumbered by right-handed throwers behind the plate. The last lefty backstop in Major League Baseball was Mike Matheny, who retired after the 2006 season as a member of the San Francisco Giants.</p><p>Mike Matheny was also a special assistant to St. Louis Cardinals general manager John Mozeliak from 2007 through 2013 and played every position except pitcher and center field in his 15-year career.</p><p>The lack of lefty catchers has nothing to do with their ability to throw or hit, it’s just that because they are so few and far between, managers will put their best athletes at the position regardless of handedness.</p><p>Currently, the only left-handed catcher in professional baseball is Chris Gimenez, who has played for seven different MLB teams since 2010. The lack of left-handed catchers is primarily due to the fact that most players are right-handed; aside from Gimenez and Matheny, no active lefty catcher has made more than 20 plate appearances in an MLB season.</p><p>Virtually every big league catcher throws with his right hand; only three of the 30 backstops currently on MLB rosters are left-handed, and none of them is projected to be in the starting lineup on Opening Day.</p><p>The disadvantage that left-handed hitters have when batting against a right-hander can also be an obstacle for left-handed catchers. A right-hander’s fastball naturally moves toward a lefty’s body, and a good slider or sharp-breaking curveball can be difficult to catch.</p>

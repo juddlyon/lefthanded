@@ -1,0 +1,20 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const allPosts = await getCollection('posts');
+const contactPost = allPosts.find(p => p.data.slug === 'contact');
+---
+
+<BaseLayout title="Contact" description={contactPost?.data.description} bodyClass="page-template page-contact">
+  <div class="content-area">
+    <main class="site-main">
+      <article class="post single-post">
+        <header class="post-header big-title container medium">
+          <h1 class="post-title">Contact</h1>
+        </header>
+        <div class="post-content gh-content kg-canvas" set:html={contactPost?.body} />
+      </article>
+    </main>
+  </div>
+</BaseLayout>
