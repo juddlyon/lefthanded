@@ -5,6 +5,7 @@ slug: best-left-handed-guitars
 tags: ["Products", "Music"]
 pubDate: "2026-03-07T12:00:00.000Z"
 updatedDate: "2026-03-07T12:00:00.000Z"
+featuredImage: "/content/images/external/unsplash/photo-1498038432885-c6f3f1b912ee.jpg"
 isPage: false
 ---
 

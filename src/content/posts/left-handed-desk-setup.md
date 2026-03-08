@@ -5,6 +5,7 @@ slug: left-handed-desk-setup
 tags: ["How-to"]
 pubDate: "2026-03-07T12:00:00.000Z"
 updatedDate: "2026-03-07T12:00:00.000Z"
+featuredImage: "/content/images/external/unsplash/photo-1742198865450-cf9ce4335a33.jpg"
 isPage: false
 ---
 

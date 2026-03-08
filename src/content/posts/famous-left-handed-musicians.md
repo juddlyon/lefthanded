@@ -5,6 +5,7 @@ slug: famous-left-handed-musicians
 tags: ["Music", "People"]
 pubDate: "2026-03-07T12:00:00.000Z"
 updatedDate: "2026-03-07T12:00:00.000Z"
+featuredImage: "/content/images/external/unsplash/photo-1499364615650-ec38552f4f34.jpg"
 isPage: false
 ---
 

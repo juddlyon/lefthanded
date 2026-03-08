@@ -5,6 +5,7 @@ slug: best-left-handed-keyboards
 tags: ["Products"]
 pubDate: "2026-03-07T12:00:00.000Z"
 updatedDate: "2026-03-07T12:00:00.000Z"
+featuredImage: "/content/images/external/unsplash/photo-1737226416689-0651adf74bf0.jpg"
 isPage: false
 ---
 

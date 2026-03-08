@@ -5,6 +5,7 @@ slug: best-left-handed-pens
 tags: ["Products"]
 pubDate: "2026-03-07T12:00:00.000Z"
 updatedDate: "2026-03-07T12:00:00.000Z"
+featuredImage: "/content/images/external/unsplash/photo-1509827908497-9d239de281bc.jpg"
 isPage: false
 ---
 

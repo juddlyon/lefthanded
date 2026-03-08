@@ -5,6 +5,7 @@ slug: famous-left-handed-scientists
 tags: ["People"]
 pubDate: "2026-03-07T12:00:00.000Z"
 updatedDate: "2026-03-07T12:00:00.000Z"
+featuredImage: "/content/images/external/unsplash/premium_photo-1664478152161-812cde151291.jpg"
 isPage: false
 ---
 

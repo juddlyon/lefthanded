@@ -5,6 +5,7 @@ slug: best-left-handed-soccer-players
 tags: ["Sports", "People"]
 pubDate: "2026-03-07T12:00:00.000Z"
 updatedDate: "2026-03-07T12:00:00.000Z"
+featuredImage: "/content/images/external/unsplash/photo-1535940408559-534474708822.jpg"
 isPage: false
 ---
 

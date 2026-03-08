@@ -5,6 +5,7 @@ slug: left-handed-brain
 tags: ["Facts"]
 pubDate: "2026-03-07T12:00:00.000Z"
 updatedDate: "2026-03-07T12:00:00.000Z"
+featuredImage: "/content/images/external/unsplash/photo-1647613561332-3d88a6a0048e.jpg"
 isPage: false
 ---
 

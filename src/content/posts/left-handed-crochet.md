@@ -5,6 +5,7 @@ slug: left-handed-crochet
 tags: ["How-to"]
 pubDate: "2026-03-07T12:00:00.000Z"
 updatedDate: "2026-03-07T12:00:00.000Z"
+featuredImage: "/content/images/external/unsplash/photo-1682953307762-a640d8dbd659.jpg"
 isPage: false
 ---
 

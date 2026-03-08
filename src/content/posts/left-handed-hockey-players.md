@@ -5,6 +5,7 @@ slug: left-handed-hockey-players
 tags: ["Sports", "People"]
 pubDate: "2026-03-07T12:00:00.000Z"
 updatedDate: "2026-03-07T12:00:00.000Z"
+featuredImage: "/content/images/external/unsplash/photo-1735656244034-6b2b53d2657d.jpg"
 isPage: false
 ---
 

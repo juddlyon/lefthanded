@@ -5,6 +5,7 @@ slug: how-to-teach-left-handed-child-to-write
 tags: ["How-to"]
 pubDate: "2026-03-07T12:00:00.000Z"
 updatedDate: "2026-03-07T12:00:00.000Z"
+featuredImage: "/content/images/external/unsplash/photo-1631847560046-32bc5ae736e5.jpg"
 isPage: false
 ---
 

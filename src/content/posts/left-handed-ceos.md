@@ -5,6 +5,7 @@ slug: left-handed-ceos
 tags: ["People"]
 pubDate: "2026-03-07T12:00:00.000Z"
 updatedDate: "2026-03-07T12:00:00.000Z"
+featuredImage: "/content/images/external/unsplash/premium_photo-1661419813432-b44bcd778874.jpg"
 isPage: false
 ---
 

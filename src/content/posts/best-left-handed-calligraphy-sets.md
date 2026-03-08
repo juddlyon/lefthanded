@@ -5,6 +5,7 @@ slug: best-left-handed-calligraphy-sets
 tags: ["Products", "How-to"]
 pubDate: "2026-03-07T12:00:00.000Z"
 updatedDate: "2026-03-07T12:00:00.000Z"
+featuredImage: "/content/images/external/unsplash/photo-1455390582262-044cdead277a.jpg"
 isPage: false
 ---
 

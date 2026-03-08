@@ -5,6 +5,7 @@ slug: is-left-handedness-genetic
 tags: ["Facts"]
 pubDate: "2026-03-07T12:00:00.000Z"
 updatedDate: "2026-03-07T12:00:00.000Z"
+featuredImage: "/content/images/external/unsplash/photo-1681911046053-1d2fdce39ea0.jpg"
 isPage: false
 ---
 

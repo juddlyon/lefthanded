@@ -5,6 +5,7 @@ slug: are-left-handed-people-more-creative
 tags: ["Facts"]
 pubDate: "2026-03-07T12:00:00.000Z"
 updatedDate: "2026-03-07T12:00:00.000Z"
+featuredImage: "/content/images/external/unsplash/premium_photo-1691801608636-8d58d68c29d2.jpg"
 isPage: false
 ---
 

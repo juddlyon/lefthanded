@@ -5,6 +5,7 @@ slug: left-handedness-and-adhd
 tags: ["Facts"]
 pubDate: "2026-03-07T12:00:00.000Z"
 updatedDate: "2026-03-07T12:00:00.000Z"
+featuredImage: "/content/images/external/unsplash/photo-1684335269060-55d7440b5d8c.jpg"
 isPage: false
 ---
 

@@ -5,6 +5,7 @@ slug: how-to-write-left-handed
 tags: ["How-to"]
 pubDate: "2026-03-07T12:00:00.000Z"
 updatedDate: "2026-03-07T12:00:00.000Z"
+featuredImage: "/content/images/external/unsplash/photo-1506957833838-96c1e88d394f.jpg"
 isPage: false
 ---
 

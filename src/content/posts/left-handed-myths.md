@@ -5,6 +5,7 @@ slug: left-handed-myths
 tags: ["Facts"]
 pubDate: "2026-03-07T12:00:00.000Z"
 updatedDate: "2026-03-07T12:00:00.000Z"
+featuredImage: "/content/images/external/unsplash/photo-1679432095838-4945da3b0365.jpg"
 isPage: false
 ---
 
