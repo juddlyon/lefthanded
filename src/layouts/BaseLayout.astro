@@ -24,7 +24,7 @@ const {
 } = Astro.props;
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
-const ogImageURL = ogImage ? (ogImage.startsWith('http') ? ogImage : new URL(ogImage, Astro.site).href) : undefined;
+const ogImageURL = ogImage ? (ogImage.startsWith('http') ? ogImage : new URL(ogImage, Astro.site).href) : new URL('/content/images/og-default.svg', Astro.site).href;
 
 const jsonLd = ogType === 'article'
   ? {
@@ -82,8 +82,8 @@ const jsonLd = ogType === 'article'
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&family=Mulish:ital,wght@0,400;0,700;0,800;1,400;1,700&display=swap">
 
   <!-- Favicons -->
-  <link rel="icon" href="/content/images/size/w256h256/2022/01/lefthanded-io-icon.png" type="image/png">
-  <link rel="apple-touch-icon" href="/content/images/size/w256h256/2022/01/lefthanded-io-icon.png">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/favicon.svg">
 
   <!-- Open Graph -->
   <meta property="og:site_name" content="lefthanded.io">
