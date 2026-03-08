@@ -5,7 +5,7 @@ slug: contact
 tags: []
 pubDate: "2021-12-31T22:26:55.000Z"
 updatedDate: "2022-01-27T02:39:42.000Z"
-featuredImage: "https://static.ghost.org/v4.0.0/images/publication-cover.jpg"
+featuredImage: "/content/images/external/ghost/publication-cover.jpg"
 isPage: true
 ---
 

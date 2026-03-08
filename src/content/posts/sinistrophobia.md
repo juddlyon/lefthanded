@@ -5,7 +5,7 @@ slug: sinistrophobia
 tags: ["Facts"]
 pubDate: "2023-12-30T16:12:06.000Z"
 updatedDate: "2023-12-30T16:12:06.000Z"
-featuredImage: "https://images.unsplash.com/photo-1491319669671-30014eb16b8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGZlYXJ8ZW58MHx8fHwxNzAzOTUyNjM0fDA&ixlib=rb-4.0.3&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1491319669671-30014eb16b8d.jpg"
 isPage: false
 ---
 

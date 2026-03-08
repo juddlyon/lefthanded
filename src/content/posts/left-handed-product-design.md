@@ -5,7 +5,7 @@ slug: left-handed-product-design
 tags: ["How-to", "People"]
 pubDate: "2023-12-08T18:08:23.000Z"
 updatedDate: "2023-12-08T18:08:23.000Z"
-featuredImage: "https://images.unsplash.com/photo-1600869009498-8d429f88d4f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fHByb2R1Y3QlMjBkZXNpZ258ZW58MHx8fHwxNzAyMDU4NzA0fDA&ixlib=rb-4.0.3&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1600869009498-8d429f88d4f5.jpg"
 isPage: false
 ---
 

@@ -5,7 +5,7 @@ slug: left-handed-presidents-usa
 tags: ["People", "Facts"]
 pubDate: "2022-01-23T02:57:01.000Z"
 updatedDate: "2023-02-12T17:53:08.000Z"
-featuredImage: "https://images.unsplash.com/photo-1577942948749-a3dbb5c6db0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHByZXNpZGVudHxlbnwwfHx8fDE2NDI5MDY1Njg&ixlib=rb-1.2.1&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1577942948749-a3dbb5c6db0a.jpg"
 isPage: false
 ---
 

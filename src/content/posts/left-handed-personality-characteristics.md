@@ -5,7 +5,7 @@ slug: left-handed-personality-characteristics
 tags: ["Facts"]
 pubDate: "2023-12-03T17:58:46.000Z"
 updatedDate: "2023-12-04T22:06:33.000Z"
-featuredImage: "https://images.unsplash.com/photo-1617704716378-4022638c56e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fHBlcnNvbmFsaXRpZXN8ZW58MHx8fHwxNzAxNjI1NjkyfDA&ixlib=rb-4.0.3&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1617704716378-4022638c56e2.jpg"
 isPage: false
 ---
 

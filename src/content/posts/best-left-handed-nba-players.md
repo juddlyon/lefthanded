@@ -5,7 +5,7 @@ slug: best-left-handed-nba-players
 tags: ["People", "Sports"]
 pubDate: "2022-01-06T02:38:34.000Z"
 updatedDate: "2022-01-19T02:51:30.000Z"
-featuredImage: "https://images.unsplash.com/photo-1519861531473-9200262188bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fGJhc2tldGJhbGx8ZW58MHx8fHwxNjQyNTYwNjY0&ixlib=rb-1.2.1&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1519861531473-9200262188bf.jpg"
 isPage: false
 ---
 

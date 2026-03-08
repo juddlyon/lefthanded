@@ -5,7 +5,7 @@ slug: greatest-left-handed-golfers
 tags: ["Sports", "People"]
 pubDate: "2023-02-03T22:21:33.000Z"
 updatedDate: "2023-12-03T17:27:41.000Z"
-featuredImage: "https://images.unsplash.com/photo-1523982765444-622af25647b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fGdvbGYlMjB0b3VybmFtZW50fGVufDB8fHx8MTY3NTQ2MjU2OQ&ixlib=rb-4.0.3&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1523982765444-622af25647b8.jpg"
 isPage: false
 ---
 

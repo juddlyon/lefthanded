@@ -5,7 +5,7 @@ slug: left-handed-catchers
 tags: ["Sports"]
 pubDate: "2022-01-19T02:49:20.000Z"
 updatedDate: "2022-01-19T02:49:20.000Z"
-featuredImage: "https://images.unsplash.com/photo-1629241741379-9874f76faf95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fGNhdGNoZXJ8ZW58MHx8fHwxNjQyNTYwNDg4&ixlib=rb-1.2.1&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1629241741379-9874f76faf95.jpg"
 isPage: false
 ---
 

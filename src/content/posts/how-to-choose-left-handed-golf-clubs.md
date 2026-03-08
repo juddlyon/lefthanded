@@ -5,7 +5,7 @@ slug: how-to-choose-left-handed-golf-clubs
 tags: ["Sports"]
 pubDate: "2023-12-04T21:58:54.000Z"
 updatedDate: "2023-12-04T22:10:53.000Z"
-featuredImage: "https://images.unsplash.com/photo-1533079115945-fc2a264c637c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDI3fHxsZWZ0JTIwaGFuZGVkJTIwZ29sZiUyMGNsdWJzfGVufDB8fHx8MTcwMTcyNjc5MXww&ixlib=rb-4.0.3&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1533079115945-fc2a264c637c.jpg"
 isPage: false
 ---
 

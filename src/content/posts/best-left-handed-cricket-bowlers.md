@@ -5,7 +5,7 @@ slug: best-left-handed-cricket-bowlers
 tags: ["Sports", "People"]
 pubDate: "2023-12-28T19:29:15.000Z"
 updatedDate: "2023-12-28T19:32:12.000Z"
-featuredImage: "https://images.unsplash.com/photo-1531415074968-036ba1b575da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGNyaWNrZXQlMjBzcG9ydHxlbnwwfHx8fDE3MDM3OTExODN8MA&ixlib=rb-4.0.3&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1531415074968-036ba1b575da.jpg"
 isPage: false
 ---
 

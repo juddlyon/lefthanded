@@ -5,7 +5,7 @@ slug: best-left-handed-tennis-players
 tags: ["People", "Sports"]
 pubDate: "2023-12-08T21:22:43.000Z"
 updatedDate: "2023-12-08T21:24:32.000Z"
-featuredImage: "https://images.unsplash.com/photo-1592709823125-a191f07a2a5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHJhZmFlbCUyMG5hZGFsfGVufDB8fHx8MTcwMjA2OTk2MXww&ixlib=rb-4.0.3&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1592709823125-a191f07a2a5e.jpg"
 isPage: false
 ---
 

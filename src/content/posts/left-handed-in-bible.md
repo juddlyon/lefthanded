@@ -5,7 +5,7 @@ slug: left-handed-in-bible
 tags: ["Facts"]
 pubDate: "2022-01-19T02:53:36.000Z"
 updatedDate: "2022-01-19T02:53:36.000Z"
-featuredImage: "https://images.unsplash.com/photo-1480561807109-e2aa33f23be8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDIyfHxiaWJsZXxlbnwwfHx8fDE2NDI1NjA3NDE&ixlib=rb-1.2.1&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1480561807109-e2aa33f23be8.jpg"
 isPage: false
 ---
 

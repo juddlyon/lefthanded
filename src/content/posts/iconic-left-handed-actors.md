@@ -5,7 +5,7 @@ slug: iconic-left-handed-actors
 tags: ["People"]
 pubDate: "2023-02-03T22:14:19.000Z"
 updatedDate: "2023-02-12T17:51:44.000Z"
-featuredImage: "https://images.unsplash.com/photo-1594663805807-29a7cc1847c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDV8fGhvbGx5d29vZHxlbnwwfHx8fDE2NzU0NjE5NTI&ixlib=rb-4.0.3&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1594663805807-29a7cc1847c0.jpg"
 isPage: false
 ---
 

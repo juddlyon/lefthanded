@@ -5,7 +5,7 @@ slug: left-handed-discrimination
 tags: ["Facts"]
 pubDate: "2023-02-12T18:14:10.000Z"
 updatedDate: "2023-02-12T18:14:38.000Z"
-featuredImage: "https://images.unsplash.com/photo-1557478615-b2cf720feab2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDV8fGxlZnQlMjBoYW5kfGVufDB8fHx8MTY3NjIyNTUwNw&ixlib=rb-4.0.3&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1557478615-b2cf720feab2.jpg"
 isPage: false
 ---
 

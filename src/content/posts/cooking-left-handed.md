@@ -5,7 +5,7 @@ slug: cooking-left-handed
 tags: ["Professions"]
 pubDate: "2023-12-30T00:34:24.000Z"
 updatedDate: "2023-12-30T00:45:51.000Z"
-featuredImage: "https://images.unsplash.com/photo-1577106263724-2c8e03bfe9cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fGNoZWZ8ZW58MHx8fHwxNzAzODk2Mjg5fDA&ixlib=rb-4.0.3&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1577106263724-2c8e03bfe9cf.jpg"
 isPage: false
 ---
 

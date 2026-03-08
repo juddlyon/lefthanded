@@ -5,7 +5,7 @@ slug: left-handed-knitting
 tags: ["How-to"]
 pubDate: "2024-01-14T21:01:42.000Z"
 updatedDate: "2024-01-14T21:01:42.000Z"
-featuredImage: "https://images.unsplash.com/photo-1584992236310-6edddc08acff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGtuaXR0aW5nfGVufDB8fHx8MTcwNTI2NTkzMXww&ixlib=rb-4.0.3&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1584992236310-6edddc08acff.jpg"
 isPage: false
 ---
 

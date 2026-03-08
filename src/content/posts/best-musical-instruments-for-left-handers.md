@@ -5,7 +5,7 @@ slug: best-musical-instruments-for-left-handers
 tags: ["Music"]
 pubDate: "2023-12-08T17:39:32.000Z"
 updatedDate: "2023-12-08T17:41:18.000Z"
-featuredImage: "https://images.unsplash.com/photo-1512053459797-38c3a066cabd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGluc3RydW1lbnRzfGVufDB8fHx8MTcwMjA1Njc1Nnww&ixlib=rb-4.0.3&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1512053459797-38c3a066cabd.jpg"
 isPage: false
 ---
 

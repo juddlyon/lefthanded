@@ -5,7 +5,7 @@ slug: left-hand-vs-right-hand-bow
 tags: ["Sports"]
 pubDate: "2024-03-24T16:09:35.000Z"
 updatedDate: "2024-03-24T16:09:35.000Z"
-featuredImage: "https://images.unsplash.com/photo-1547347268-4a6dd064cdad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fGFyY2hlcnl8ZW58MHx8fHwxNzExMjk2MDIzfDA&ixlib=rb-4.0.3&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1547347268-4a6dd064cdad.jpg"
 isPage: false
 ---
 

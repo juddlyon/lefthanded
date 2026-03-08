@@ -5,7 +5,7 @@ slug: best-left-handed-boxers
 tags: ["Sports"]
 pubDate: "2024-02-02T21:44:01.000Z"
 updatedDate: "2024-03-23T19:14:34.000Z"
-featuredImage: "https://images.unsplash.com/photo-1591117207239-788bf8de6c3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGJveGluZyUyMGdsb3ZlfGVufDB8fHx8MTcxMTIxODk5N3ww&ixlib=rb-4.0.3&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1591117207239-788bf8de6c3b.jpg"
 isPage: false
 ---
 

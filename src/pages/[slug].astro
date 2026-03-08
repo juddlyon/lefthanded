@@ -32,7 +32,7 @@ const hasImage = featuredImage && !featuredImage.includes('ghost.org');
 const tagClasses = tags.map(t => `tag-${t.toLowerCase().replace(/\s+/g, '-')}`).join(' ');
 ---
 
-<BaseLayout title={title} description={description} ogImage={featuredImage} bodyClass={`post-template ${tagClasses}`}>
+<BaseLayout title={title} description={description} ogImage={featuredImage} ogType="article" pubDate={pubDate} updatedDate={post.data.updatedDate} bodyClass={`post-template ${tagClasses}`}>
   <div class="content-area">
     <main class="site-main">
       <article class={`post ${tagClasses} single-post`}>

@@ -5,7 +5,7 @@ slug: left-handers-day
 tags: ["Facts"]
 pubDate: "2023-02-12T17:50:20.000Z"
 updatedDate: "2023-02-12T17:51:26.000Z"
-featuredImage: "https://images.unsplash.com/photo-1588173130041-37cbfbb3ec32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE2fHxsZWZ0LWhhbmRlZHxlbnwwfHx8fDE2NzYyMjQxOTA&ixlib=rb-4.0.3&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1588173130041-37cbfbb3ec32.jpg"
 isPage: false
 ---
 

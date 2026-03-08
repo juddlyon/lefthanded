@@ -5,7 +5,7 @@ slug: about
 tags: []
 pubDate: "2021-12-31T22:26:31.000Z"
 updatedDate: "2023-02-18T00:06:53.000Z"
-featuredImage: "https://images.unsplash.com/photo-1592312040436-64eec4863b7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fGxlZnQlMjBoYW5kZWR8ZW58MHx8fHwxNjQzMjUxNDM1&ixlib=rb-1.2.1&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1592312040436-64eec4863b7b.jpg"
 isPage: true
 ---
 

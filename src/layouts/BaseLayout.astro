@@ -3,10 +3,56 @@ interface Props {
   title: string;
   description?: string;
   ogImage?: string;
+  ogType?: 'website' | 'article';
   bodyClass?: string;
+  pubDate?: string;
+  updatedDate?: string;
 }
 
-const { title, description = 'LeftHanded.io covers everything left-handed: expert tips, insightful articles, and unique products.', ogImage, bodyClass = '' } = Astro.props;
+const {
+  title,
+  description = 'LeftHanded.io covers everything left-handed: expert tips, insightful articles, and unique products.',
+  ogImage,
+  ogType = 'website',
+  bodyClass = '',
+  pubDate,
+  updatedDate,
+} = Astro.props;
+
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const ogImageURL = ogImage ? (ogImage.startsWith('http') ? ogImage : new URL(ogImage, Astro.site).href) : undefined;
+
+const jsonLd = ogType === 'article'
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'Article',
+      headline: title,
+      description,
+      ...(ogImageURL && { image: ogImageURL }),
+      ...(pubDate && { datePublished: pubDate }),
+      ...(updatedDate && { dateModified: updatedDate }),
+      author: {
+        '@type': 'Person',
+        name: 'Sammy Southpaw',
+        url: `${Astro.site}about/`,
+      },
+      publisher: {
+        '@type': 'Organization',
+        name: 'lefthanded.io',
+        url: Astro.site,
+      },
+      mainEntityOfPage: {
+        '@type': 'WebPage',
+        '@id': canonicalURL.href,
+      },
+    }
+  : {
+      '@context': 'https://schema.org',
+      '@type': 'WebSite',
+      name: 'lefthanded.io',
+      url: Astro.site,
+      description,
+    };
 ---
 
 <!DOCTYPE html>
@@ -15,23 +61,52 @@ const { title, description = 'LeftHanded.io covers everything left-handed: exper
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{title}</title>
+  <meta name="description" content={description}>
+  <link rel="canonical" href={canonicalURL.href}>
   <link rel="stylesheet" href="/assets/built/screen.css">
   <link rel="stylesheet" href="/ghost-public/cards.min.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&family=Mulish:ital,wght@0,400;0,700;0,800;1,400;1,700&display=swap">
+
+  <!-- Favicons -->
+  <link rel="icon" href="/content/images/size/w256h256/2022/01/lefthanded-io-icon.png" type="image/png">
+  <link rel="apple-touch-icon" href="/content/images/size/w256h256/2022/01/lefthanded-io-icon.png">
+
+  <!-- Open Graph -->
+  <meta property="og:site_name" content="lefthanded.io">
+  <meta property="og:type" content={ogType}>
+  <meta property="og:title" content={title}>
+  <meta property="og:description" content={description}>
+  <meta property="og:url" content={canonicalURL.href}>
+  {ogImageURL && <meta property="og:image" content={ogImageURL} />}
+  {pubDate && <meta property="article:published_time" content={pubDate} />}
+  {updatedDate && <meta property="article:modified_time" content={updatedDate} />}
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content={ogImageURL ? 'summary_large_image' : 'summary'}>
+  <meta name="twitter:title" content={title}>
+  <meta name="twitter:description" content={description}>
+  {ogImageURL && <meta name="twitter:image" content={ogImageURL} />}
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="lefthanded.io" href="/rss.xml">
+
+  <!-- JSON-LD -->
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+
   <script is:inline>
     if (localStorage.getItem('alto_dark') == 'true') {
       document.documentElement.classList.add('dark-mode');
     }
   </script>
-  <meta name="description" content={description}>
-  <link rel="icon" href="/content/images/size/w256h256/2022/01/lefthanded-io-icon.png" type="image/png">
-  {ogImage && <meta property="og:image" content={ogImage} />}
-  <meta property="og:site_name" content="lefthanded.io">
-  <meta property="og:title" content={title}>
-  <meta property="og:description" content={description}>
-  <style is:global>:root {'--ghost-accent-color: #FF1A75;'}</style>
+  <style is:global>
+    :root {--ghost-accent-color: #FF1A75;}
+    .lazyload, .lazyloading { opacity: 1 !important; }
+    .post-image, .author-image { position: relative; height: auto; width: 100%; object-fit: cover; }
+    .post-media .u-placeholder { overflow: hidden; }
+    .post-media .u-placeholder .post-image { position: absolute; top: 0; left: 0; height: 100%; }
+  </style>
 </head>
 <body class={bodyClass}>
   <div class="site">

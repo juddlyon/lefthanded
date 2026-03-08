@@ -5,7 +5,7 @@ slug: famous-left-handed-authors
 tags: ["People"]
 pubDate: "2024-03-23T19:31:04.000Z"
 updatedDate: "2024-03-23T19:31:04.000Z"
-featuredImage: "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fGxpdGVyYXR1cmV8ZW58MHx8fHwxNzExMjIxNTQzfDA&ixlib=rb-4.0.3&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1524995997946-a1c2e315a42f.jpg"
 isPage: false
 ---
 

@@ -5,7 +5,7 @@ slug: famous-left-handed-artists
 tags: ["People"]
 pubDate: "2024-01-14T20:48:36.000Z"
 updatedDate: "2024-01-14T20:48:36.000Z"
-featuredImage: "https://images.unsplash.com/photo-1499237882915-ce9a55013b83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fGFydGlzdHN8ZW58MHx8fHwxNzA1MjY0OTc1fDA&ixlib=rb-4.0.3&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1499237882915-ce9a55013b83.jpg"
 isPage: false
 ---
 

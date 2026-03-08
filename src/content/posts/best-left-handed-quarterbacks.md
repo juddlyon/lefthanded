@@ -5,7 +5,7 @@ slug: best-left-handed-quarterbacks
 tags: ["Sports", "People"]
 pubDate: "2022-02-16T05:14:12.000Z"
 updatedDate: "2022-06-21T21:06:04.000Z"
-featuredImage: "https://images.unsplash.com/photo-1627520547165-2421444d5596?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDM0fHxmb290YmFsbHxlbnwwfHx8fDE2NDQ5ODYyNzI&ixlib=rb-1.2.1&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1627520547165-2421444d5596.jpg"
 isPage: false
 ---
 

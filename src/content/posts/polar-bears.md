@@ -5,7 +5,7 @@ slug: polar-bears
 tags: ["Facts"]
 pubDate: "2022-01-19T02:50:35.000Z"
 updatedDate: "2022-01-19T02:50:35.000Z"
-featuredImage: "https://images.unsplash.com/photo-1589656966895-2f33e7653819?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHBvbGFyJTIwYmVhcnxlbnwwfHx8fDE2NDI1NjA1ODg&ixlib=rb-1.2.1&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1589656966895-2f33e7653819.jpg"
 isPage: false
 ---
 

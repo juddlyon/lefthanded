@@ -5,7 +5,7 @@ slug: left-handed-scholarships
 tags: ["How-to"]
 pubDate: "2023-12-03T18:21:28.000Z"
 updatedDate: "2023-12-04T22:07:56.000Z"
-featuredImage: "https://images.unsplash.com/photo-1503676382389-4809596d5290?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDEwfHxhcHBseSUyMGNvbGxlZ2V8ZW58MHx8fHwxNzAxNjI3NDY3fDA&ixlib=rb-4.0.3&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1503676382389-4809596d5290.jpg"
 isPage: false
 ---
 

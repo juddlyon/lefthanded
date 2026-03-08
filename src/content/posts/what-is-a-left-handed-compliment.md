@@ -5,7 +5,7 @@ slug: what-is-a-left-handed-compliment
 tags: ["Facts"]
 pubDate: "2024-03-24T16:44:49.000Z"
 updatedDate: "2024-03-24T16:44:49.000Z"
-featuredImage: "https://images.unsplash.com/photo-1598316560463-0083295ca902?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fG1lYW58ZW58MHx8fHwxNzExMjk4NjAwfDA&ixlib=rb-4.0.3&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1598316560463-0083295ca902.jpg"
 isPage: false
 ---
 

@@ -5,7 +5,7 @@ slug: playing-the-ukulele-left-handed
 tags: ["Music"]
 pubDate: "2022-10-31T19:50:47.000Z"
 updatedDate: "2022-10-31T19:51:08.000Z"
-featuredImage: "https://images.unsplash.com/photo-1529137258739-514294bd07f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fGxlZnQtaGFuZGVkJTIwdWt1bGVsZXxlbnwwfHx8fDE2NjcyNDU3NzA&ixlib=rb-4.0.3&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1529137258739-514294bd07f5.jpg"
 isPage: false
 ---
 

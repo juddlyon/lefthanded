@@ -5,7 +5,7 @@ slug: why-are-people-left-handed
 tags: ["Facts"]
 pubDate: "2022-02-13T03:53:41.000Z"
 updatedDate: "2022-02-13T03:53:41.000Z"
-featuredImage: "https://images.unsplash.com/photo-1617791160536-598cf32026fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fGJyYWluJTIwaGVtaXNwaGVyZXxlbnwwfHx8fDE2NDQ3MjQwNDM&ixlib=rb-1.2.1&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1617791160536-598cf32026fb.jpg"
 isPage: false
 ---
 

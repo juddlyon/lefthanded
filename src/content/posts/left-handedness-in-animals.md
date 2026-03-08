@@ -5,7 +5,7 @@ slug: left-handedness-in-animals
 tags: ["Facts"]
 pubDate: "2024-01-15T14:35:05.000Z"
 updatedDate: "2024-01-15T14:35:05.000Z"
-featuredImage: "https://images.unsplash.com/photo-1552071379-041b32707fed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDExfHxncm91cCUyMG9mJTIwYW5pbWFsc3xlbnwwfHx8fDE3MDUzMjkxMTF8MA&ixlib=rb-4.0.3&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1552071379-041b32707fed.jpg"
 isPage: false
 ---
 

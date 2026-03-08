@@ -3,3 +3,6 @@ dist/
 .astro/
 .DS_Store
 lefthanded.io/
+
+# Local Netlify folder
+.netlify

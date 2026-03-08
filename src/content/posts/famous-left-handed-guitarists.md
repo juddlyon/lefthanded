@@ -5,7 +5,7 @@ slug: famous-left-handed-guitarists
 tags: ["Music"]
 pubDate: "2022-10-31T20:06:26.000Z"
 updatedDate: "2023-02-12T17:52:05.000Z"
-featuredImage: "https://images.unsplash.com/photo-1508073890584-e7aa13246994?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI4fHxsZWZ0LWhhbmRlZCUyMGd1aXRhcnxlbnwwfHx8fDE2NjcyNDYzMTg&ixlib=rb-4.0.3&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1508073890584-e7aa13246994.jpg"
 isPage: false
 ---
 

@@ -5,7 +5,7 @@ slug: best-left-handed-hitters
 tags: ["Sports", "People"]
 pubDate: "2022-01-24T04:29:20.000Z"
 updatedDate: "2023-02-12T17:52:46.000Z"
-featuredImage: "https://images.unsplash.com/photo-1471295253337-3ceaaedca402?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDR8fGJhc2ViYWxsfGVufDB8fHx8MTY0Mjk5Nzk1NA&ixlib=rb-1.2.1&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1471295253337-3ceaaedca402.jpg"
 isPage: false
 ---
 

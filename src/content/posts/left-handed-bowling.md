@@ -5,7 +5,7 @@ slug: left-handed-bowling
 tags: ["Sports"]
 pubDate: "2024-03-23T19:39:05.000Z"
 updatedDate: "2024-03-23T19:39:05.000Z"
-featuredImage: "https://images.unsplash.com/photo-1660129071363-d13390de351f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDh8fGJvd2xpbmclMjBsYW5lfGVufDB8fHx8MTcxMTIyMjQ4NXww&ixlib=rb-4.0.3&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1660129071363-d13390de351f.jpg"
 isPage: false
 ---
 

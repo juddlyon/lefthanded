@@ -5,7 +5,7 @@ slug: best-left-handed-tennis-rackets
 tags: ["Sports"]
 pubDate: "2023-12-08T17:49:15.000Z"
 updatedDate: "2024-02-20T03:28:46.000Z"
-featuredImage: "https://images.unsplash.com/photo-1599280174407-fdc3e8c47856?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fHRlbm5pcyUyMHJhY2tldHN8ZW58MHx8fHwxNzA4Mzk5MzI5fDA&ixlib=rb-4.0.3&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1599280174407-fdc3e8c47856.jpg"
 isPage: false
 ---
 

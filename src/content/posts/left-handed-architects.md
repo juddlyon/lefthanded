@@ -5,7 +5,7 @@ slug: left-handed-architects
 tags: ["Professions"]
 pubDate: "2023-12-30T16:07:16.000Z"
 updatedDate: "2023-12-30T16:07:16.000Z"
-featuredImage: "https://images.unsplash.com/photo-1542621334-a254cf47733d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fGFyY2hpdGVjdHxlbnwwfHx8fDE3MDM5NTE4Mjl8MA&ixlib=rb-4.0.3&q=80&w=2000"
+featuredImage: "/content/images/external/unsplash/photo-1542621334-a254cf47733d.jpg"
 isPage: false
 ---
 
