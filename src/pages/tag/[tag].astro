@@ -26,6 +26,19 @@ export async function getStaticPaths() {
 }
 
 const { tag, tagPosts } = Astro.props;
+const tagDescription = `Articles about ${tag.toLowerCase()} and left-handedness. Tips, stories, and expert insights for lefties.`;
+
+const siteUrl = Astro.site?.toString().replace(/\/$/, '') || 'https://lefthanded.io';
+const tagSlug = tag.toLowerCase().replace(/\s+/g, '-');
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: `${siteUrl}/` },
+    { '@type': 'ListItem', position: 2, name: tag, item: `${siteUrl}/tag/${tagSlug}/` },
+  ],
+};
 
 function formatDate(dateStr?: string) {
   if (!dateStr) return '';
@@ -40,7 +53,7 @@ function readingTime(html: string) {
 }
 ---
 
-<BaseLayout title={`${tag} - lefthanded.io`} bodyClass={`tag-template tag-${tag.toLowerCase().replace(/\s+/g, '-')}`}>
+<BaseLayout title={`${tag} - lefthanded.io`} description={tagDescription} bodyClass={`tag-template tag-${tagSlug}`} noIndex={true} extraSchemas={[breadcrumbSchema]}>
   <div class="content-area">
     <main class="site-main">
       <section class="term container large">
@@ -52,10 +65,10 @@ function readingTime(html: string) {
         {tagPosts.map(post => {
           const hasImage = post.data.featuredImage && !post.data.featuredImage.includes('ghost.org');
           const firstTag = post.data.tags[0];
-          const tagSlug = firstTag ? firstTag.toLowerCase().replace(/\s+/g, '-') : '';
+          const firstTagSlug = firstTag ? firstTag.toLowerCase().replace(/\s+/g, '-') : '';
           const mins = post.body ? readingTime(post.body) : 1;
           return (
-            <article class={`post ${firstTag ? `tag-${tagSlug}` : ''}`}>
+            <article class={`post ${firstTag ? `tag-${firstTagSlug}` : ''}`}>
               {hasImage && (
                 <figure class="post-media container large">
                   <div class="u-placeholder horizontal">
@@ -81,7 +94,7 @@ function readingTime(html: string) {
                     </span>
                     {firstTag && (
                       <span class="post-meta-item post-meta-tags">
-                        <a class={`post-tag post-tag-${tagSlug}`} href={`/tag/${tagSlug}/`} title={firstTag}>{firstTag}</a>
+                        <a class={`post-tag post-tag-${firstTagSlug}`} href={`/tag/${firstTagSlug}/`} title={firstTag}>{firstTag}</a>
                       </span>
                     )}
                   </div>

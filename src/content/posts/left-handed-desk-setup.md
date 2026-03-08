@@ -8,7 +8,7 @@ updatedDate: "2026-03-07T12:00:00.000Z"
 isPage: false
 ---
 
-<p>A left-handed desk setup places the mouse on the left, positions the monitor slightly right of center to compensate, and arranges lighting from the right side to avoid hand shadows when writing. These three changes address the most common comfort issues left-handers face at a standard right-handed workstation.</p>
+<p><strong>How should a left-handed person set up their desk?</strong> Place the mouse on the left, position the monitor slightly right of center, and light from the right to prevent hand shadows when writing.</p><p>These three changes solve the most common ergonomic problems left-handers face at right-handed workstations.</p>
 
 <p>Most office furniture, accessories, and workspace layouts assume a right-handed user. The mouse sits on the right, the phone cradle goes on the left, the keyboard's number pad extends to the right, and desk lamps are positioned on the left. For the roughly 10 percent of workers who are left-handed, this default layout creates daily friction: reaching across the body for the mouse, casting shadows over handwritten notes, and bumping elbows against desk partitions placed on the wrong side. This guide covers every element of a left-handed workspace, from monitor placement to ergonomic accessories, for both home offices and corporate environments.</p>
 

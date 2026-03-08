@@ -8,7 +8,9 @@ updatedDate: "2026-03-07T12:00:00.000Z"
 isPage: false
 ---
 
-<p>Left-handedness is partially genetic, but no single gene determines which hand you favor. Research shows that genetics account for roughly 25 percent of the variation in handedness, while prenatal environment, hormonal exposure, and random developmental processes make up the rest. In short, your genes nudge you toward one hand or the other, but they do not seal the deal on their own.</p>
+<p><strong>Is left-handedness genetic?</strong> Partially. Genetics account for roughly 25% of the variation in handedness — no single gene determines hand preference.</p>
+
+<p>Prenatal environment, hormonal exposure, and random developmental processes make up the rest. Your genes nudge you toward one hand, but they do not decide on their own.</p>
 
 <p>Scientists have studied handedness for well over a century, and the question of nature versus nurture keeps producing nuanced answers. If you have ever wondered <a href="/why-are-people-left-handed/">why people are left-handed</a>, the full picture involves a tangle of hereditary signals, brain development, and even a bit of biological randomness.</p>
 

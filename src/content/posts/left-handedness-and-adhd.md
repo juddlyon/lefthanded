@@ -8,7 +8,9 @@ updatedDate: "2026-03-07T12:00:00.000Z"
 isPage: false
 ---
 
-<p>Research suggests a modest but statistically significant association between non-right-handedness and ADHD, with left-handed and mixed-handed individuals appearing at slightly higher rates among people diagnosed with attention deficit hyperactivity disorder. However, the relationship is correlational rather than causal, and being left-handed does not mean a person has or will develop ADHD. Here is what the science actually tells us.</p>
+<p><strong>Is left-handedness linked to ADHD?</strong> Studies show a small but statistically significant association between non-right-handedness and ADHD, with mixed-handedness showing a stronger link than consistent left-handedness.</p>
+
+<p>The relationship is correlational, not causal — most left-handed people do not have ADHD, and most people with ADHD are right-handed.</p>
 
 <h2 id="what-the-research-shows">What the research shows</h2>
 

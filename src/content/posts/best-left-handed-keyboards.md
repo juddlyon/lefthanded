@@ -8,7 +8,9 @@ updatedDate: "2026-03-07T12:00:00.000Z"
 isPage: false
 ---
 
-<p>The best left-handed keyboards are compact or tenkeyless (TKL) designs that place the mouse closer to the body's center line, along with dedicated left-handed numeric keypads that position the number pad on the left side. Standard full-size keyboards force left-handed mouse users to reach far to the right, causing shoulder strain and reducing efficiency. Switching to a left-friendly layout can dramatically improve comfort and productivity.</p>
+<p><strong>What is the best keyboard for left-handed people?</strong> A tenkeyless (TKL) keyboard paired with a left-side numeric keypad. Removing the right-side number pad moves the mouse 10 cm closer to your body's center line, reducing shoulder strain.</p>
+
+<p>For lefties who mouse with their left hand, this layout change is the single biggest ergonomic improvement available.</p>
 
 <p>Most keyboards are designed with right-handed assumptions baked into their layout. The numeric keypad sits on the right, the navigation cluster favors right-hand access, and the overall width pushes the mouse further from center. For lefties who mouse with their left hand, this standard layout creates an ergonomic mismatch that compounds over hours of daily use. This guide covers the keyboard categories, features, and configurations that work best for left-handed users.</p>
 

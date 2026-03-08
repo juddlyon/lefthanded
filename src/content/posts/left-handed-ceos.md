@@ -8,7 +8,7 @@ updatedDate: "2026-03-07T12:00:00.000Z"
 isPage: false
 ---
 
-<p>A striking number of the world's most successful CEOs and entrepreneurs have been left-handed, from Bill Gates and Oprah Winfrey to Henry Ford and Mark Zuckerberg. While left-handers make up only about 10 percent of the population, they appear to be overrepresented among business leaders — a pattern that has fueled speculation about a connection between handedness and entrepreneurial thinking.</p>
+<p><strong>Which famous CEOs are left-handed?</strong> Bill Gates, Oprah Winfrey, Mark Zuckerberg, and Henry Ford are all left-handed. Left-handers make up about 10% of the population but appear overrepresented among top business leaders.</p><p>This pattern has fueled research into links between handedness and entrepreneurial thinking.</p>
 
 <h2 id="bill-gates">Bill Gates</h2>
 

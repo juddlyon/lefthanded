@@ -8,7 +8,9 @@ updatedDate: "2026-03-07T12:00:00.000Z"
 isPage: false
 ---
 
-<p>Famous left-handed scientists include Albert Einstein, Nikola Tesla, Marie Curie, Alan Turing, and Benjamin Franklin, all of whom made groundbreaking contributions that reshaped our understanding of the world. While left-handed people make up only about 10 percent of the global population, they appear to be overrepresented among history's most innovative scientific thinkers. Whether this reflects a genuine cognitive advantage or simply the outsized impact of a few remarkable individuals, the connection between left-handedness and scientific achievement is a compelling area of study.</p>
+<p><strong>Which famous scientists were left-handed?</strong> Albert Einstein, Nikola Tesla, Marie Curie, Alan Turing, and Benjamin Franklin were all left-handed.</p>
+
+<p>Left-handers make up only 10% of the population yet appear overrepresented among history's most innovative scientists, possibly due to enhanced right-hemisphere processing and stronger cross-brain connectivity.</p>
 
 <h2>The connection between left-handedness and scientific thinking</h2>
 

@@ -8,7 +8,7 @@ updatedDate: "2026-03-07T12:00:00.000Z"
 isPage: false
 ---
 
-<p>The best left-handed hockey players in NHL history include Alexander Ovechkin, Bobby Hull, Luc Robitaille, and Brendan Shanahan, all of whom shot left and dominated the league with prolific scoring and physical play. In hockey, "left-handed" typically refers to a player who shoots with the left hand lower on the stick, which is distinct from being left-handed in everyday life. Understanding this distinction is important because many naturally right-handed people shoot left in hockey, particularly in Canada where left-shot players have historically outnumbered right-shot players.</p>
+<p><strong>Who are the best left-handed hockey players in NHL history?</strong> Alexander Ovechkin, Bobby Hull, Luc Robitaille, and Brendan Shanahan rank among the greatest left-shot players ever.</p><p>In hockey, "left-handed" means the left hand sits lower on the stick — a shooting preference that roughly 60–65% of NHL players share, regardless of their everyday handedness.</p>
 
 <h2>Left-handed shooting vs. left-handedness in hockey</h2>
 

@@ -8,7 +8,9 @@ updatedDate: "2026-03-07T12:00:00.000Z"
 isPage: false
 ---
 
-<p>The relationship between left-handedness and creativity is real but modest. Some studies find that left-handed people score slightly higher on measures of divergent thinking, the ability to generate multiple solutions to open-ended problems, but the differences are small and do not mean every left-hander is more creative than every right-hander. The popular belief is rooted in genuine neuroscience but has been inflated well beyond what the data supports.</p>
+<p><strong>Are left-handed people more creative?</strong> Slightly, on average. Studies show left-handers score 5–10% higher on divergent thinking tests, which measure the ability to generate multiple solutions to open-ended problems.</p>
+
+<p>The effect is real but small — left-handedness does not guarantee greater creativity, and the popular "right-brain creative" explanation overstates what the <a href="/left-handed-brain/">neuroscience</a> actually supports.</p>
 
 <p>The idea that left-handers are inherently more creative is one of the most persistent claims about handedness. It shows up in casual conversation, job interview advice columns, and pop psychology books. Sorting the real evidence from the myth requires looking at what creativity actually means, how it is measured, and what the <a href="/left-handed-brain/">neuroscience of left-handed brains</a> actually shows.</p>
 

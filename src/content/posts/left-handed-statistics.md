@@ -8,7 +8,9 @@ updatedDate: "2026-03-07T12:00:00.000Z"
 isPage: false
 ---
 
-<p>Approximately 10 percent of the world's population is left-handed, a figure that has remained remarkably stable across cultures and centuries once you account for social pressure. Males are slightly more likely to be left-handed than females, and the rate varies modestly across geographic regions, but left-handedness appears at a consistent baseline everywhere humans are found.</p>
+<p><strong>How common is left-handedness?</strong> About 10% of the world's population is left-handed. Males are slightly more likely to be left-handed than females, and the rate varies modestly by region.</p>
+
+<p>This baseline holds across cultures and centuries once social pressure is accounted for.</p>
 
 <p>Understanding exactly how many people are left-handed, and where and why rates fluctuate, sheds light on the biology of handedness and the cultural forces that have shaped it. If you have ever wondered <a href="/why-are-people-left-handed/">why people are left-handed</a> in the first place, the statistical picture is a natural starting point.</p>
 
