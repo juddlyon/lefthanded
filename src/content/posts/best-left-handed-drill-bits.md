@@ -1,6 +1,6 @@
 ---
 title: "Best left handed drill bits: top picks for efficiency and precision"
-description: ""
+description: "Find the best left-handed drill bits for removing broken bolts and screws. Top picks for efficiency and precision."
 slug: best-left-handed-drill-bits
 tags: ["Products"]
 pubDate: "2024-01-05T23:52:49.000Z"

@@ -1,6 +1,6 @@
 ---
 title: The greatest left-handed golfers of all time
-description: ""
+description: "The greatest left-handed golfers of all time, including Phil Mickelson, Bubba Watson, and Mike Weir."
 slug: greatest-left-handed-golfers
 tags: ["Sports", "People"]
 pubDate: "2023-02-03T22:21:33.000Z"

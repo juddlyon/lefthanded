@@ -1,6 +1,6 @@
 ---
 title: "Left-Handers Day: celebrating the unique advantages of being a 'lefty'"
-description: Join the celebration of Left-Handers Day and learn about the unique experiences and advantages of being left-handed. Discover the challenges and stereotypes, and how to create a more inclusive world.
+description: "Celebrate International Left-Handers Day on August 13th. History, events, and why this day matters for lefties."
 slug: left-handers-day
 tags: ["Facts"]
 pubDate: "2023-02-12T17:50:20.000Z"

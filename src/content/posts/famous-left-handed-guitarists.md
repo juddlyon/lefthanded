@@ -1,6 +1,6 @@
 ---
 title: "Hendrix, Clapton, and Page: the greatest left-handed guitarists of all time"
-description: ""
+description: "From Hendrix to Clapton and Page, the greatest left-handed guitarists who shaped rock and music history."
 slug: famous-left-handed-guitarists
 tags: ["Music"]
 pubDate: "2022-10-31T20:06:26.000Z"

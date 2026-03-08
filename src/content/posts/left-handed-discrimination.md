@@ -1,6 +1,6 @@
 ---
 title: "Left-handed in a right-handed world: the battle against bias"
-description: Discover the prevalence, origins, impact, and ways to combat left-handed discrimination in this high-school level article. Join the fight against discrimination!
+description: "The history, origins, and impact of left-handed discrimination, and how the world is slowly becoming more inclusive."
 slug: left-handed-discrimination
 tags: ["Facts"]
 pubDate: "2023-02-12T18:14:10.000Z"

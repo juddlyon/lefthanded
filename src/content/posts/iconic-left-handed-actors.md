@@ -1,6 +1,6 @@
 ---
 title: "Hollywood's most iconic left-handed actors"
-description: ""
+description: "Hollywood's most iconic left-handed actors, from Angelina Jolie and Tom Cruise to Brad Pitt."
 slug: iconic-left-handed-actors
 tags: ["People"]
 pubDate: "2023-02-03T22:14:19.000Z"

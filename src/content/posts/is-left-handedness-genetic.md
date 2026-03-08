@@ -1,6 +1,6 @@
 ---
 title: "Is left-handedness genetic? What science actually says"
-description: "Discover what science says about left-handedness and genetics, including twin studies, the LRRTM1 gene, and environmental factors that influence hand preference."
+description: "What science says about left-handedness and genetics, from twin studies to the LRRTM1 gene and environmental factors."
 slug: is-left-handedness-genetic
 tags: ["Facts"]
 pubDate: "2026-03-07T12:00:00.000Z"

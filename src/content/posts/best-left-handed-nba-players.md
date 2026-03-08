@@ -1,6 +1,6 @@
 ---
 title: The best left handed players in the NBA
-description: ""
+description: "The greatest left-handed NBA players of all time, from James Harden to Manu Ginobili and Bill Russell."
 slug: best-left-handed-nba-players
 tags: ["People", "Sports"]
 pubDate: "2022-01-06T02:38:34.000Z"

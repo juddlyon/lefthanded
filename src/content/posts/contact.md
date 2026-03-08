@@ -1,6 +1,6 @@
 ---
 title: Contact
-description: ""
+description: "Get in touch with the lefthanded.io team. Questions, feedback, or partnership inquiries welcome."
 slug: contact
 tags: []
 pubDate: "2021-12-31T22:26:55.000Z"

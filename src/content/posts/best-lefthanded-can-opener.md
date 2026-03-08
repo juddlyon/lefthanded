@@ -1,6 +1,6 @@
 ---
 title: "Best Left-Handed Can Opener: Top Picks for 2024"
-description: ""
+description: "Top left-handed can openers for 2024. Ergonomic, easy-to-use picks designed specifically for lefties."
 slug: best-lefthanded-can-opener
 tags: []
 pubDate: "2024-05-29T00:31:15.000Z"

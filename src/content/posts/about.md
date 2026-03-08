@@ -1,6 +1,6 @@
 ---
 title: About LeftHanded.io
-description: LeftHanded.io is a website dedicated to all things left-handed. Lefties make up 10% of the population, but are often overlooked by companies who design products for right-handed people.
+description: "LeftHanded.io is dedicated to all things left-handed: expert tips, articles, and products for the 10% of us who are lefties."
 slug: about
 tags: []
 pubDate: "2021-12-31T22:26:31.000Z"
