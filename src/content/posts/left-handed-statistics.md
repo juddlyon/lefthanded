@@ -93,7 +93,7 @@ isPage: false
 <li><strong>Boxing</strong>: roughly 20 to 30 percent of elite boxers are southpaws, giving them an advantage against opponents unfamiliar with left-handed fighters. See the list of <a href="/best-left-handed-boxers/">greatest left-handed boxers</a> for standout examples.</li>
 <li><strong>Tennis</strong>: about 15 to 20 percent of top-ranked players have been left-handed, including legends like Rafael Nadal and John McEnroe</li>
 <li><strong>Baseball</strong>: left-handed batters and pitchers are prized for strategic reasons, with left-handers making up roughly 25 to 30 percent of Major League hitters</li>
-<li><strong>Fencing</strong>: approximately 15 to 20 percent of elite fencers are left-handed, benefiting from the element of surprise in one-on-one combat</li>
+<li><strong><a href="/left-handed-fencing/">Fencing</a></strong>: approximately 15 to 20 percent of elite fencers are left-handed, benefiting from the element of surprise in one-on-one combat</li>
 <li><strong>Cricket</strong>: left-handed batsmen are valued for the variety they bring, comprising about 20 percent of top-order players</li>
 </ul>
 

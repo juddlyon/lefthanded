@@ -76,7 +76,7 @@ isPage: false
 <ul>
 <li><strong>Bill Gates</strong> - While primarily known as a technology entrepreneur, Gates is left-handed and his early programming work at Microsoft was foundational to the personal computing revolution. His analytical approach to philanthropy through the Gates Foundation reflects scientific rigor applied to global health and development challenges.</li>
 <li><strong>Neil Armstrong</strong> - The first person to walk on the moon was left-handed. Armstrong was also a trained aerospace engineer whose technical skills were critical to the success of the Apollo 11 mission. You can read more about left-handed space explorers in our article on <a href="/left-handed-astronauts/">left-handed astronauts</a>.</li>
-<li><strong>Dr. Albert Schweitzer</strong> - The Nobel Peace Prize-winning physician, theologian, and philosopher was left-handed. His medical work in equatorial Africa combined scientific practice with humanitarian philosophy.</li>
+<li><strong>Dr. Albert Schweitzer</strong> - The Nobel Peace Prize-winning physician, theologian, and philosopher was left-handed. His medical work in equatorial Africa combined scientific practice with humanitarian philosophy. Left-handed medical professionals continue to make their mark today, as explored in our article on <a href="/left-handed-surgeons/">left-handed surgeons</a>.</li>
 <li><strong>Linus Pauling</strong> - The only person to win two unshared Nobel Prizes (Chemistry in 1954 and Peace in 1962), Pauling was reportedly left-handed. His work on chemical bonding, molecular biology, and the structure of proteins was transformative.</li>
 </ul>
 

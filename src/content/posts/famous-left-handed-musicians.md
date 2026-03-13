@@ -83,7 +83,7 @@ isPage: false
 
 <h3>Left-handed pianists throughout history</h3>
 
-<p>The piano is one of the few instruments that is truly symmetrical, requiring equal dexterity from both hands. However, left-handed pianists may have a natural advantage in the bass register, where the left hand handles complex passages. Several notable pianists have been left-handed:</p>
+<p>The piano is one of the few instruments that is truly symmetrical, requiring equal dexterity from both hands. However, left-handed pianists may have a natural advantage in the bass register, where the left hand handles complex passages. For practical technique advice, see our <a href="/how-to-play-piano-left-handed/">guide to playing piano left-handed</a>. Several notable pianists have been left-handed:</p>
 
 <ul>
 <li><strong>Sergei Rachmaninoff</strong> - While primarily right-handed, Rachmaninoff had extraordinary left-hand technique, and his compositions feature demanding left-hand passages that showcase the bass register.</li>
