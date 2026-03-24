@@ -36,7 +36,7 @@ isPage: false
 <li>Females: approximately 9 to 11 percent left-handed</li>
 </ul>
 
-<p>A 2020 meta-analysis by Papadatou-Pastou and colleagues, covering nearly 2.4 million participants, found that males were 1.23 times more likely to be left-handed than females. The reason for this gap remains debated. Prenatal testosterone exposure is one hypothesis, while others point to greater behavioral variability in males across many traits. The <a href="/is-left-handedness-genetic/">genetic basis of handedness</a> appears to be largely the same across sexes.</p>
+<p>A 2020 meta-analysis by Papadatou-Pastou and colleagues, covering nearly 2.4 million participants, found that males were 1.23 times more likely to be left-handed than females. The reason for this gap remains debated. Prenatal testosterone exposure is one hypothesis, while others point to greater behavioral variability in males across many traits. The <a href="/is-left-handedness-genetic/">genetic basis of handedness</a> appears to be largely the same across sexes. For a deeper look at the gender gap, see our article on <a href="/left-handed-women-statistics/">how rare left-handed women are</a>.</p>
 
 <h2 id="geographic-variation">Geographic and cultural variation</h2>
 

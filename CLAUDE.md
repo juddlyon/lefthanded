@@ -85,3 +85,20 @@ Pushes to `main` auto-deploy via Netlify. Cache headers configured in `netlify.t
 
 - `scripts/extract-content.mjs` — Original Ghost export extraction script
 - `scripts/localize-images.mjs` — Downloads external images and updates markdown references
+
+## SEO Tools (Global)
+
+- **seo-pulse** — Search engine feedback loop for content optimization
+  ```bash
+  seo-pulse write sc-domain:lefthanded.io --content-dir .  # Interactive optimization from GSC/Bing data
+  seo-pulse read sc-domain:lefthanded.io                   # View search performance report
+  seo-pulse read sc-domain:lefthanded.io --cached          # Use cached data (faster)
+  ```
+- **internal-linker** — SEO audit and internal linking for Astro projects
+  ```bash
+  internal-linker              # Run all checks (from project root)
+  internal-linker scan         # Find internal linking opportunities
+  internal-linker seo          # Run SEO audit (missing H1s, descriptions, etc.)
+  internal-linker orphans      # Find pages with no incoming links
+  internal-linker links        # Check for broken links
+  ```
