@@ -1,6 +1,6 @@
 ---
-title: "Is Jim Carrey left-handed? Yes — and these Hollywood icons too"
-description: "Jim Carrey is left-handed, and so are Tom Cruise, Brad Pitt, Angelina Jolie, Emma Watson, Sylvester Stallone, Matt Damon, Will Smith, and Jennifer Lawrence."
+title: "Is Jim Carrey Left-Handed? 30+ Iconic Southpaw Actors"
+description: "Yes, Jim Carrey is left-handed — and he's far from alone in Hollywood. Explore our list of 30+ famous left-handed actors from classic film to today."
 slug: iconic-left-handed-actors
 tags: ["People"]
 pubDate: "2023-02-03T22:14:19.000Z"
