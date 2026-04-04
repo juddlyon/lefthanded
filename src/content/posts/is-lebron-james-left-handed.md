@@ -1,6 +1,6 @@
 ---
 title: "Is LeBron James left-handed?"
-description: "LeBron James writes with his left hand but shoots basketball right-handed, making him cross-dominant."
+description: "LeBron James is cross-dominant — he writes with his left hand but shoots basketball right-handed. Here's what that means and how it affects his game."
 slug: is-lebron-james-left-handed
 tags: ["Sports", "People"]
 pubDate: "2025-03-24T12:00:00.000Z"

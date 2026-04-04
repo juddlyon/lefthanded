@@ -1,6 +1,6 @@
 ---
-title: "Hollywood's most iconic left-handed actors"
-description: "Hollywood's most iconic left-handed actors, from Angelina Jolie and Tom Cruise to Brad Pitt."
+title: "Is Jim Carrey left-handed? Yes — and these Hollywood icons too"
+description: "Jim Carrey is left-handed, and so are Tom Cruise, Brad Pitt, Angelina Jolie, Emma Watson, Sylvester Stallone, Matt Damon, Will Smith, and Jennifer Lawrence."
 slug: iconic-left-handed-actors
 tags: ["People"]
 pubDate: "2023-02-03T22:14:19.000Z"

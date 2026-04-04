@@ -1,6 +1,6 @@
 ---
 title: What is a left-handed compliment?
-description: "Learn about left-handed compliments: what they mean, examples, and how to reply with a smile."
+description: "A left-handed compliment is an insult disguised as praise. Learn the definition, examples like 'you look good for your age,' and how to respond when someone uses one."
 slug: what-is-a-left-handed-compliment
 tags: ["Facts"]
 pubDate: "2024-03-24T16:44:49.000Z"

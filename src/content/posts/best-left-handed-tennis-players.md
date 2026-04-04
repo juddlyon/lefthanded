@@ -1,6 +1,6 @@
 ---
 title: The best left-handed tennis players of all time
-description: "The greatest left-handed tennis players of all time, featuring Nadal, McEnroe, Navratilova, and more."
+description: "The greatest left-handed tennis players of all time: Rafael Nadal, John McEnroe, Martina Navratilova, Monica Seles, Rod Laver, and more — and why lefties dominate the sport."
 slug: best-left-handed-tennis-players
 tags: ["People", "Sports"]
 pubDate: "2023-12-08T21:22:43.000Z"

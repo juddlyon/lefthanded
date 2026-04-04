@@ -1,6 +1,6 @@
 ---
 title: What are common design flaws for left-handed users?
-description: "Common product design flaws for left-handed users, from button placement to keyboard layouts, with solutions."
+description: "Why are everyday products designed for right-handers? From can openers to scissors to camera buttons, explore the most common left-handed product design flaws and practical fixes."
 slug: left-handed-product-design
 tags: ["How-to", "People"]
 pubDate: "2023-12-08T18:08:23.000Z"

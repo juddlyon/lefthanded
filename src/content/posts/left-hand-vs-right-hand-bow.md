@@ -1,6 +1,6 @@
 ---
 title: Do I need a left-handed or right-handed bow?
-description: Selecting the right bow is crucial for both comfort and performance.
+description: "Should you shoot a left-handed or right-handed bow? The answer depends on your dominant eye, not your dominant hand — here's how to choose the right draw hand."
 slug: left-hand-vs-right-hand-bow
 tags: ["Sports"]
 pubDate: "2024-03-24T16:09:35.000Z"

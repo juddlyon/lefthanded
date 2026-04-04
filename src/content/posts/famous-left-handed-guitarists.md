@@ -1,6 +1,6 @@
 ---
 title: "Hendrix, Clapton, and Page: the greatest left-handed guitarists of all time"
-description: "From Hendrix to Clapton and Page, the greatest left-handed guitarists who shaped rock and music history."
+description: "The greatest left-handed guitarists of all time: Jimi Hendrix, Kurt Cobain, Paul McCartney, Tony Iommi, and more — and how playing southpaw shaped their iconic sounds."
 slug: famous-left-handed-guitarists
 tags: ["Music"]
 pubDate: "2022-10-31T20:06:26.000Z"

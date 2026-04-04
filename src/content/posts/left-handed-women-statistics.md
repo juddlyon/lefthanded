@@ -1,6 +1,6 @@
 ---
 title: "How rare is it to be a left-handed woman?"
-description: "About 9-10% of women are left-handed, slightly less than men. Learn about gender differences in handedness."
+description: "About 9-10% of women are left-handed, slightly lower than the 11-12% rate in men. Learn what research says about gender differences in handedness and what drives them."
 slug: left-handed-women-statistics
 tags: ["Facts"]
 pubDate: "2025-03-24T12:00:00.000Z"

@@ -1,6 +1,6 @@
 ---
 title: Left-handed presidents of the United States
-description: "All 8 left-handed US presidents, from James Garfield to Barack Obama, and why lefties are overrepresented."
+description: "Eight US presidents were left-handed, including Obama, Clinton, George H.W. Bush, Reagan, Ford, Truman, Garfield, and Hoover — and why lefties are overrepresented in the White House."
 slug: left-handed-presidents-usa
 tags: ["People", "Facts"]
 pubDate: "2022-01-23T02:57:01.000Z"

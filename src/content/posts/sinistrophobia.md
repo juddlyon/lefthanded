@@ -1,6 +1,6 @@
 ---
 title: "Understanding sinistrophobia: the fear of left-handedness"
-description: Sinistrophobia is a lesser-known but impactful phobia that involves an irrational fear of left-handedness or things on the left side.
+description: "Sinistrophobia is an irrational fear of left-handedness or things on the left side. Learn the symptoms, historical roots, and how this rare phobia connects to cultural stigma around lefties."
 slug: sinistrophobia
 tags: ["Facts"]
 pubDate: "2023-12-30T16:12:06.000Z"

@@ -1,6 +1,6 @@
 ---
 title: Are polar bears left-handed?
-description: "Are polar bears left-handed? The popular myth examined through scientific research and what studies actually show."
+description: "Are polar bears left-handed? The popular myth says yes, but scientific research shows polar bears are actually ambidextrous. Here's what studies on paw preference actually found."
 slug: polar-bears
 tags: ["Facts"]
 pubDate: "2022-01-19T02:50:35.000Z"

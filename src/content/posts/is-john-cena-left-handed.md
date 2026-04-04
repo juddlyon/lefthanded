@@ -1,6 +1,6 @@
 ---
 title: "Is John Cena left-handed?"
-description: "Yes, John Cena is left-handed. The WWE star and actor writes and performs many tasks with his dominant left hand."
+description: "Yes, John Cena is left-handed. The WWE Champion and Hollywood star writes and trains with his dominant left hand — here's the evidence and what it means for his fighting style."
 slug: is-john-cena-left-handed
 tags: ["People", "Sports"]
 pubDate: "2025-03-24T12:00:00.000Z"

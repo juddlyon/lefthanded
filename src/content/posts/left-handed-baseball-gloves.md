@@ -1,6 +1,6 @@
 ---
 title: 5 tips for choosing top-rated left-handed baseball gloves
-description: "5 tips for choosing the best left-handed baseball gloves. Sizes, materials, webbing styles, and top brands."
+description: "How to choose left-handed baseball gloves: the right size, webbing style, leather grade, and top brands like Rawlings and Wilson — 5 tips for southpaw players."
 slug: left-handed-baseball-gloves
 tags: ["Sports"]
 pubDate: "2023-12-08T18:02:25.000Z"

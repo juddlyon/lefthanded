@@ -1,6 +1,6 @@
 ---
 title: "Best left-handed spatulas: top picks for effortless cooking"
-description: We help you find a spatula that feels like an extension of your own hand in the kitchen.
+description: "The best left-handed spatulas have offset handles and ergonomic grips designed for left-handed cooks. Top picks for flipping, spreading, and everyday kitchen use."
 slug: best-left-handed-spatulas
 tags: ["Products"]
 pubDate: "2024-03-26T20:10:08.000Z"

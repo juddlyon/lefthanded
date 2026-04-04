@@ -1,6 +1,6 @@
 ---
 title: "Is Jim Carrey left-handed?"
-description: "Yes, Jim Carrey is left-handed. The comedic actor writes, paints, and performs with his dominant left hand."
+description: "Yes, Jim Carrey is left-handed. The Ace Ventura and Truman Show star writes, paints, and performs with his left hand — and credits his creativity partly to being a southpaw."
 slug: is-jim-carrey-left-handed
 tags: ["People"]
 pubDate: "2025-03-24T12:00:00.000Z"

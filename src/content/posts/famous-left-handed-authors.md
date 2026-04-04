@@ -1,6 +1,6 @@
 ---
 title: Famous left-handed authors who shaped the literary world
-description: Discover the world of literature through left-handed authors from Twain to Vonnegut.
+description: "Famous left-handed authors include Mark Twain, Lewis Carroll, Franz Kafka, Kurt Vonnegut, and H.G. Wells — writers whose southpaw perspective shaped literary history."
 slug: famous-left-handed-authors
 tags: ["People"]
 pubDate: "2024-03-23T19:31:04.000Z"

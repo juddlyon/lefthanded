@@ -1,6 +1,6 @@
 ---
 title: "What is a left-handed door?"
-description: "A left-handed door has hinges on the left side and opens toward you with your left hand. Here's how to tell."
+description: "A left-handed door has its hinges on the left and swings toward you when you pull. Learn how to identify door handedness, why it matters for ordering hardware, and common mistakes."
 slug: what-is-a-left-handed-door
 tags: ["How-to", "Products"]
 pubDate: "2025-03-24T12:00:00.000Z"

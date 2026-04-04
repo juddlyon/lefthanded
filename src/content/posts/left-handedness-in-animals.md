@@ -1,6 +1,6 @@
 ---
 title: "Left-handedness in animals: more than just a human quirk"
-description: Discover the widespread and intriguing phenomenon of left-handedness in the animal kingdom.
+description: "Left-handedness exists across the animal kingdom — from chimps to cats to parrots. Learn which animals show paw preferences and what it reveals about brain lateralization."
 slug: left-handedness-in-animals
 tags: ["Facts"]
 pubDate: "2024-01-15T14:35:05.000Z"

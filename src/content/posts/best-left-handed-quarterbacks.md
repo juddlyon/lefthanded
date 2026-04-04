@@ -1,6 +1,6 @@
 ---
 title: The best left-handed quarterbacks
-description: "Here's a list of the best left-handed QBs in the league's history."
+description: "The best left-handed quarterbacks in NFL history: Steve Young, Ken Stabler, Boomer Esiason, Michael Vick, and Tua Tagovailoa — and what makes southpaw QBs special."
 slug: best-left-handed-quarterbacks
 tags: ["Sports", "People"]
 pubDate: "2022-02-16T05:14:12.000Z"

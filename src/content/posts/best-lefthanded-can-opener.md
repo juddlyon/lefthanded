@@ -1,6 +1,6 @@
 ---
 title: "Best Left-Handed Can Opener: Top Picks for 2026"
-description: "Top left-handed can openers for 2026. Ergonomic, easy-to-use picks designed specifically for lefties."
+description: "The best left-handed can openers cut smoothly for southpaws without hand strain. Top picks for 2026 including electric, side-cut, and ergonomic manual models."
 slug: best-lefthanded-can-opener
 tags: []
 pubDate: "2024-05-29T00:31:15.000Z"
