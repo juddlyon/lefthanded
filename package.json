@@ -4,9 +4,11 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "astro dev",
+    "prebuild": "node scripts/generate-redirects.mjs",
     "build": "astro build",
     "preview": "astro preview",
-    "extract": "node scripts/extract-content.mjs"
+    "extract": "node scripts/extract-content.mjs",
+    "redirects": "node scripts/generate-redirects.mjs"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.15",

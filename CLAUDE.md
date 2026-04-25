@@ -85,3 +85,18 @@ Pushes to `main` auto-deploy via Netlify. Cache headers configured in `netlify.t
 
 - `scripts/extract-content.mjs` — Original Ghost export extraction script
 - `scripts/localize-images.mjs` — Downloads external images and updates markdown references
+- `scripts/generate-redirects.mjs` — Generates `public/_redirects` from `src/data/products.json` (runs as `npm prebuild`)
+
+## Amazon Affiliate System
+
+Mirrors the pattern from `~/projects/paintballer` and `~/projects/modernpb.com`.
+
+- **Associate tag**: `lefthanded-io-20`
+- **Source of truth**: `src/data/products.json` — slug-keyed map of `{ asin, name, query? }`
+- **Cloaked redirects**: content links to `/go/<slug>`; Netlify 302s to `https://www.amazon.com/dp/<ASIN>?tag=lefthanded-io-20` (or `/s?k=<query>&tag=...` if no ASIN)
+- **Generation**: `scripts/generate-redirects.mjs` reads `products.json` and writes `public/_redirects` (auto-runs on `npm run build` via `prebuild` hook)
+- **Disclosures**: `/disclosures/` page (linked in footer) per Amazon Associates ToS
+- **CTA convention**: `<a href="/go/<slug>" rel="nofollow sponsored noopener" target="_blank">Check Amazon Price</a>`
+- **No price display**: Amazon Operating Agreement Section 5 prohibits cached prices without PA-API access. Don't list prices on the site.
+- **Adding a product**: append a slug-keyed entry to `products.json` (with ASIN and name), then reference it in content as `/go/<slug>`. The redirect is generated on the next build.
+- **Migration note**: existing inline `?tag=lefthanded-io-20` and `amzn.to/...` links scattered across older posts (~36 unique ASINs) still work — they're already revenue-generating. Migrating them to `/go/<slug>` is a cleanup pass, not an emergency. The full ASIN inventory is already seeded in `products.json`.
