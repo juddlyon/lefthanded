@@ -50,6 +50,12 @@ const hasImage = featuredImage && !featuredImage.includes('ghost.org');
 const tagClasses = tags.map(t => `tag-${t.toLowerCase().replace(/\s+/g, '-')}`).join(' ');
 const bodyHasH1 = !!post.body && /^\s*(?:<[^>]+>\s*)*<h1\b/i.test(post.body);
 
+// Suppress the sitewide Amazon CTA on product roundups (they have their own
+// product cards already) and on the gift hub itself (it IS the destination).
+const isProductsPost = tags.includes('Products');
+const isGiftHub = post.data.slug === 'best-gifts-for-left-handed-people';
+const showAmazonCta = !isProductsPost && !isGiftHub;
+
 // Build extra schemas
 const extraSchemas: Record<string, any>[] = [];
 const siteUrl = Astro.site?.toString().replace(/\/$/, '') || 'https://lefthanded.io';
@@ -135,6 +141,20 @@ if (post.body) {
 
         <div class="post-content gh-content kg-canvas" set:html={post.body} />
 
+        {showAmazonCta && (
+          <div class="container medium">
+            <aside class="amazon-cta" aria-label="Shop left-handed gifts">
+              <h3 class="amazon-cta-title">Looking for a great left-handed gift?</h3>
+              <p class="amazon-cta-text">Browse our curated picks or jump straight to Amazon's full selection — funny mugs, lefty notebooks, ergonomic tools, and more.</p>
+              <div class="amazon-cta-buttons">
+                <a href="/best-gifts-for-left-handed-people/" class="amazon-cta-btn amazon-cta-btn-primary">Browse our gift guide</a>
+                <a href="/go/lefty-gifts" class="amazon-cta-btn amazon-cta-btn-secondary" target="_blank" rel="nofollow sponsored noopener">Shop on Amazon →</a>
+              </div>
+              <p class="amazon-cta-disclosure">As an Amazon Associate, lefthanded.io earns from qualifying purchases.</p>
+            </aside>
+          </div>
+        )}
+
         <div class="container medium">
           <section class="author">
             <div class="author-image-placeholder u-placeholder">
@@ -157,3 +177,73 @@ if (post.body) {
     </main>
   </div>
 </BaseLayout>
+
+<style is:global>
+  .amazon-cta {
+    margin: 4.8rem 0 2rem;
+    padding: 2.4rem 2.8rem;
+    background-color: #f6f9fc;
+    border: 1px solid #e1e8ed;
+    border-left: 4px solid var(--primary-color, #49a8e4);
+    border-radius: 8px;
+  }
+  .amazon-cta-title {
+    font-size: 1.9rem;
+    font-weight: 800;
+    margin: 0 0 0.6rem;
+    line-height: 1.3;
+  }
+  .amazon-cta-text {
+    font-size: 1.5rem;
+    line-height: 1.5;
+    margin: 0 0 1.6rem;
+    color: var(--primary-text-color, #333);
+  }
+  .amazon-cta-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 1.4rem;
+  }
+  .amazon-cta-btn {
+    display: inline-block;
+    padding: 1rem 1.8rem;
+    border-radius: 6px;
+    font-size: 1.4rem;
+    font-weight: 800;
+    text-decoration: none !important;
+    transition: opacity 0.2s ease-in-out, transform 0.1s ease-in-out;
+  }
+  .amazon-cta-btn:hover {
+    opacity: 0.85;
+    transform: translateY(-1px);
+  }
+  .amazon-cta-btn-primary {
+    background-color: var(--primary-color, #49a8e4);
+    color: #fff !important;
+  }
+  .amazon-cta-btn-secondary {
+    background-color: #ff9900;
+    color: #111 !important;
+  }
+  .amazon-cta-disclosure {
+    font-size: 1.2rem;
+    color: var(--secondary-text-color, #888);
+    margin: 0;
+    font-style: italic;
+  }
+  .dark-mode .amazon-cta {
+    background-color: var(--dark-mode-darker-bg-color, #21252c);
+    border-color: var(--dark-mode-border-color, #495061);
+  }
+  .dark-mode .amazon-cta-text {
+    color: var(--dark-mode-primary-text-color, #ccc);
+  }
+  .dark-mode .amazon-cta-disclosure {
+    color: var(--dark-mode-secondary-text-color, #999);
+  }
+  @media (max-width: 575px) {
+    .amazon-cta { padding: 2rem 1.8rem; }
+    .amazon-cta-btn { display: block; text-align: center; }
+  }
+</style>
