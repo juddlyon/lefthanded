@@ -1,7 +1,7 @@
 {
   "babolat-pure-aero": {
-    "name": "Babolat Pure Aero Tennis Racket",
-    "query": "Babolat Pure Aero tennis racket"
+    "asin": "B07HR17HYX",
+    "name": "Babolat Pure Aero Tennis Racquet"
   },
   "coobeast-drill-set": {
     "asin": "B0C42MQDJC",
@@ -143,13 +143,13 @@
     "asin": "B07JFPH169",
     "name": "Westcott CarboTitanium Straight Scissors"
   },
-  "yonex-ezone-100": {
-    "name": "Yonex EZONE 100 Tennis Racket",
-    "query": "Yonex EZONE 100 tennis racket"
+  "yonex-ezone-night": {
+    "asin": "B0CS8F5XQB",
+    "name": "Yonex EZONE Night Tennis Racquet"
   },
-  "yonex-vcore-pro-97": {
-    "name": "Yonex VCORE Pro 97 Tennis Racket",
-    "query": "Yonex VCORE Pro 97 tennis racket"
+  "yonex-vcore-310g": {
+    "asin": "B09BZXMPJJ",
+    "name": "Yonex VCORE 310G Tennis Racquet"
   },
   "yazemkel-left-hand-scissors": {
     "asin": "B07JBMSLFF",
