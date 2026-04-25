@@ -1,4 +1,12 @@
 {
+  "babolat-pure-aero": {
+    "name": "Babolat Pure Aero Tennis Racket",
+    "query": "Babolat Pure Aero tennis racket"
+  },
+  "coobeast-drill-set": {
+    "asin": "B0C42MQDJC",
+    "name": "Coobeast 35-Piece Screw Extractor and Left-Hand Drill Bit Set"
+  },
   "drill-hog-extractor": {
     "asin": "B01H9P1QOM",
     "name": "Drill Hog Bolt Extractor Set"
@@ -134,6 +142,14 @@
   "westcott-carbotitanium-scissors": {
     "asin": "B07JFPH169",
     "name": "Westcott CarboTitanium Straight Scissors"
+  },
+  "yonex-ezone-100": {
+    "name": "Yonex EZONE 100 Tennis Racket",
+    "query": "Yonex EZONE 100 tennis racket"
+  },
+  "yonex-vcore-pro-97": {
+    "name": "Yonex VCORE Pro 97 Tennis Racket",
+    "query": "Yonex VCORE Pro 97 tennis racket"
   },
   "yazemkel-left-hand-scissors": {
     "asin": "B07JBMSLFF",
