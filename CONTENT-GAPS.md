@@ -92,7 +92,10 @@ Short pieces (400–600 words) with affiliate uplift.
 Every new post must clear all of the following before merge:
 
 1. **Frontmatter:** title ≤60 chars, description 30–160 chars, `pubDate` and `updatedDate` set, `featuredImage` points to an existing file ≥5 KB.
-2. **Image:** unique to this post (not shared with another article). Use `node scripts/fetch-pexels-covers.mjs` after adding the slug + query to its `QUERIES` map.
+2. **Image:** unique to this post (not shared with another article).
+   - **Celeb/athlete articles** ("is X left-handed?", individual celebrity profiles): use the Wikipedia portrait of the actual subject via `scripts/fetch-wikipedia-portraits.mjs`. Add the slug to `HERO_SLUGS`. Never use generic stock for a person-specific page.
+   - **Concept/topic articles** (statistics, debunks, biology): Pexels stock via `scripts/fetch-pexels-covers.mjs` is fine.
+   - To refresh an existing portrait, bump `HERO_VERSION` in the fetcher and update each affected `featuredImage` path — the immutable CDN cache requires a URL change.
 3. **Body structure:**
    - First element is `<h1 class="post-title">{matching frontmatter title}</h1>`.
    - First paragraph is the SVO direct answer in `<strong>` Q+A format, ≤250 chars.

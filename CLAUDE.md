@@ -49,6 +49,21 @@ public/
 - Articles include FAQ sections (`<h2>Frequently asked questions</h2>` + `<h3>`/`<p>` pairs)
 - All articles have `featuredImage` in frontmatter
 
+### Imagery for celeb/athlete articles ("is X left-handed?")
+
+A post that is *about a specific person* should show that person — never a generic stock photo. A "Is Donald Trump left-handed?" article with a stock photo of a podium reads as filler.
+
+- **Featured image**: Wikipedia portrait of the subject. Use `scripts/fetch-wikipedia-portraits.mjs` — add the slug + Wikipedia page title to `PORTRAITS`, add the slug to `HERO_SLUGS`, run the script.
+- **Hero size**: 1280px wide (the script rewrites the Wikipedia thumb URL to request this). Files saved as `/content/images/portraits/<slug>-<HERO_VERSION>.jpg`.
+- **Cache-busting**: `/content/images/*` is served with `Cache-Control: immutable`, so replacing a file at the same URL won't reach the CDN edge. Bump `HERO_VERSION` in the fetcher (e.g., `v2 → v3`) and update each post's `featuredImage` path; the renamed file forces a cache miss.
+- **Don't**: layer an inline portrait below the lead AND a portrait as the featured image — pick one. The featured image is more visible, so use that.
+- **Hub galleries** (e.g., `/famous-left-handed-people/`): use the default 320px thumbnails (no version suffix needed) — gallery thumbs don't get refreshed often and benefit from the immutable cache.
+
+### Imagery for non-celeb articles
+
+- **Concept/topic posts** (statistics, debunks, biology, etc.): Pexels stock via `scripts/fetch-pexels-covers.mjs` is fine — those articles aren't about a specific identifiable person.
+- **Product roundups**: per-product images go to `/content/images/products/<slug>.jpg`, fetched via `scripts/fetch-products.mjs` from SerpAPI Amazon data.
+
 ## SEO & AEO
 
 - Canonical URLs on every page
