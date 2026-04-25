@@ -24,9 +24,15 @@ const ROOT = path.resolve(__dirname, '..');
 const OUT_DIR = path.join(ROOT, 'public', 'content', 'images', 'portraits');
 const META_PATH = path.join(ROOT, 'src', 'data', 'portraits.json');
 
+// Slugs that get a larger image (used as a featured/hero image, not just a
+// gallery thumbnail). The fetcher rewrites the Wikipedia thumb URL to request
+// 1280px instead of the 320px default.
+const HERO_SLUGS = new Set(['donald-trump', 'jayden-daniels', 'tua-tagovailoa']);
+const HERO_SIZE = 1280;
+
 // slug → Wikipedia page title (URL-encoded form Wikipedia expects)
 const PORTRAITS = {
-  // For individual "is X left-handed" posts
+  // For individual "is X left-handed" posts (used as featured image)
   'donald-trump': 'Donald_Trump',
   'jayden-daniels': 'Jayden_Daniels',
   'tua-tagovailoa': 'Tua_Tagovailoa',
@@ -69,6 +75,14 @@ async function downloadImage(url, dest) {
   return true;
 }
 
+// Wikipedia returns thumbnail URLs of the form:
+//   https://upload.wikimedia.org/wikipedia/commons/thumb/X/XX/File.jpg/320px-File.jpg
+// Replacing "320px" with a larger value yields a higher-resolution thumbnail
+// without having to download the original (which can be huge).
+function rescaleWikipediaUrl(url, size) {
+  return url.replace(/\/(\d+)px-/, `/${size}px-`);
+}
+
 async function main() {
   fs.mkdirSync(OUT_DIR, { recursive: true });
   const meta = fs.existsSync(META_PATH) ? JSON.parse(fs.readFileSync(META_PATH, 'utf-8')) : {};
@@ -76,15 +90,21 @@ async function main() {
 
   for (const [slug, title] of Object.entries(PORTRAITS)) {
     const dest = path.join(OUT_DIR, `${slug}.jpg`);
-    if (fs.existsSync(dest) && fs.statSync(dest).size > 5000 && meta[slug]) {
+    const isHero = HERO_SLUGS.has(slug);
+    const expectedSize = isHero ? 80000 : 5000; // hero images should be ~100KB+
+    if (
+      fs.existsSync(dest) && fs.statSync(dest).size > expectedSize && meta[slug] &&
+      (meta[slug].is_hero === isHero)
+    ) {
       skipped++;
       continue;
     }
-    process.stdout.write(`  ${slug} (${title}) ... `);
+    process.stdout.write(`  ${slug} (${title})${isHero ? ' [hero]' : ''} ... `);
     try {
       const summary = await fetchSummary(title);
-      const imgUrl = summary.thumbnail?.source || summary.originalimage?.source;
+      let imgUrl = summary.thumbnail?.source || summary.originalimage?.source;
       if (!imgUrl) { console.log('no image in summary'); failed++; continue; }
+      if (isHero) imgUrl = rescaleWikipediaUrl(imgUrl, HERO_SIZE);
 
       const ok = await downloadImage(imgUrl, dest);
       if (!ok) { console.log('download failed'); failed++; continue; }
@@ -96,6 +116,7 @@ async function main() {
         wikipedia_url: summary.content_urls?.desktop?.page || `https://en.wikipedia.org/wiki/${title}`,
         image_path: `/content/images/portraits/${slug}.jpg`,
         source_image_url: imgUrl,
+        is_hero: isHero,
         fetched_at: new Date().toISOString().slice(0, 10),
       };
 

@@ -5,7 +5,7 @@ slug: is-tua-tagovailoa-left-handed
 tags: ["People", "Sports"]
 pubDate: "2026-04-25T12:00:00.000Z"
 updatedDate: "2026-04-25T12:00:00.000Z"
-featuredImage: "/content/images/covers/is-tua-tagovailoa-left-handed.jpg"
+featuredImage: "/content/images/portraits/tua-tagovailoa.jpg"
 isPage: false
 ---
 
@@ -23,11 +23,6 @@ isPage: false
 <li><strong>Tactical impact:</strong> defenses have to flip their pass-rush angles, and receivers have to adjust how they catch passes — Tua's left-handedness creates a measurable schematic ripple.</li>
 </ul>
 </aside>
-
-<figure class="kg-card kg-image-card kg-card-hascaption">
-  <img src="/content/images/portraits/tua-tagovailoa.jpg" class="kg-image" alt="Tua Tagovailoa, Miami Dolphins left-handed quarterback" loading="lazy" width="320" height="400">
-  <figcaption>Tua Tagovailoa is the only current left-handed starting QB in the NFL. <a href="https://en.wikipedia.org/wiki/Tua_Tagovailoa" target="_blank" rel="noopener">Photo: Wikipedia</a></figcaption>
-</figure>
 
 <h2 id="throwing-evidence">Tua Tagovailoa throws left-handed</h2>
 

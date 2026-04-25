@@ -36,9 +36,8 @@ const QUERIES = {
   'best-left-handed-childrens-scissors': 'kids craft scissors paper cutting',
   'are-left-handed-people-smarter': 'brain puzzle thinking abstract',
   'famous-left-handed-people': 'celebrity red carpet portrait',
-  'is-donald-trump-left-handed': 'white house podium speech',
-  'is-jayden-daniels-left-handed': 'american football quarterback throwing',
-  'is-tua-tagovailoa-left-handed': 'football stadium quarterback game',
+  // Note: is-X-left-handed posts use Wikipedia portraits as featured images
+  // (see scripts/fetch-wikipedia-portraits.mjs), not generic Pexels stock.
 };
 
 async function searchPexels(query) {

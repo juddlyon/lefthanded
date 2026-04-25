@@ -4,7 +4,8 @@
     "description": "President of the United States (2017–2021; since 2025)",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Donald_Trump",
     "image_path": "/content/images/portraits/donald-trump.jpg",
-    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/330px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
+    "is_hero": true,
     "fetched_at": "2026-04-25"
   },
   "jayden-daniels": {
@@ -12,7 +13,8 @@
     "description": "American football player (born 2000)",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jayden_Daniels",
     "image_path": "/content/images/portraits/jayden-daniels.jpg",
-    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Jayden_Daniels_2025.jpg/330px-Jayden_Daniels_2025.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Jayden_Daniels_2025.jpg/1280px-Jayden_Daniels_2025.jpg",
+    "is_hero": true,
     "fetched_at": "2026-04-25"
   },
   "tua-tagovailoa": {
@@ -20,7 +22,8 @@
     "description": "American football player (born 1998)",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tua_Tagovailoa",
     "image_path": "/content/images/portraits/tua-tagovailoa.jpg",
-    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tua_Tagovailoa_Miami_Dolphins_at_New_Orleans_Saints_2021_%28cropped%29.jpg/330px-Tua_Tagovailoa_Miami_Dolphins_at_New_Orleans_Saints_2021_%28cropped%29.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tua_Tagovailoa_Miami_Dolphins_at_New_Orleans_Saints_2021_%28cropped%29.jpg/1280px-Tua_Tagovailoa_Miami_Dolphins_at_New_Orleans_Saints_2021_%28cropped%29.jpg",
+    "is_hero": true,
     "fetched_at": "2026-04-25"
   },
   "paul-mccartney": {
@@ -29,6 +32,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_McCartney",
     "image_path": "/content/images/portraits/paul-mccartney.jpg",
     "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/McCartneyO2101224_p2_%2823_of_191%29_%28cropped%29.jpg/330px-McCartneyO2101224_p2_%2823_of_191%29_%28cropped%29.jpg",
+    "is_hero": false,
     "fetched_at": "2026-04-25"
   },
   "jimi-hendrix": {
@@ -37,6 +41,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Jimi_Hendrix",
     "image_path": "/content/images/portraits/jimi-hendrix.jpg",
     "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Jimi_Hendrix_%281967%29_%28cropped%29.jpg/330px-Jimi_Hendrix_%281967%29_%28cropped%29.jpg",
+    "is_hero": false,
     "fetched_at": "2026-04-25"
   },
   "kurt-cobain": {
@@ -45,6 +50,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kurt_Cobain",
     "image_path": "/content/images/portraits/kurt-cobain.jpg",
     "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Nirvana_around_1992_%28cropped%29.jpg",
+    "is_hero": false,
     "fetched_at": "2026-04-25"
   },
   "lady-gaga": {
@@ -53,6 +59,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Lady_Gaga",
     "image_path": "/content/images/portraits/lady-gaga.jpg",
     "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lady_Gaga_at_Joe_Biden%27s_inauguration_%28cropped_5%29.jpg/330px-Lady_Gaga_at_Joe_Biden%27s_inauguration_%28cropped_5%29.jpg",
+    "is_hero": false,
     "fetched_at": "2026-04-25"
   },
   "barack-obama": {
@@ -61,6 +68,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Barack_Obama",
     "image_path": "/content/images/portraits/barack-obama.jpg",
     "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/330px-President_Barack_Obama.jpg",
+    "is_hero": false,
     "fetched_at": "2026-04-25"
   },
   "bill-clinton": {
@@ -69,6 +77,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bill_Clinton",
     "image_path": "/content/images/portraits/bill-clinton.jpg",
     "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bill_Clinton_%28cropped_4%29.jpg/330px-Bill_Clinton_%28cropped_4%29.jpg",
+    "is_hero": false,
     "fetched_at": "2026-04-25"
   },
   "prince-william": {
@@ -77,6 +86,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/William%2C_Prince_of_Wales",
     "image_path": "/content/images/portraits/prince-william.jpg",
     "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Prince_of_Wales_at_State_Banquet_2025-09-17_%280.75_crop%29.jpg/330px-Prince_of_Wales_at_State_Banquet_2025-09-17_%280.75_crop%29.jpg",
+    "is_hero": false,
     "fetched_at": "2026-04-25"
   },
   "leonardo-da-vinci": {
@@ -85,6 +95,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
     "image_path": "/content/images/portraits/leonardo-da-vinci.jpg",
     "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Francesco_Melzi_-_Portrait_of_Leonardo.png/330px-Francesco_Melzi_-_Portrait_of_Leonardo.png",
+    "is_hero": false,
     "fetched_at": "2026-04-25"
   },
   "oprah-winfrey": {
@@ -93,6 +104,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Oprah_Winfrey",
     "image_path": "/content/images/portraits/oprah-winfrey.jpg",
     "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Oprah_Winfrey_2016.jpg/330px-Oprah_Winfrey_2016.jpg",
+    "is_hero": false,
     "fetched_at": "2026-04-25"
   },
   "babe-ruth": {
@@ -101,6 +113,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Babe_Ruth",
     "image_path": "/content/images/portraits/babe-ruth.jpg",
     "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Babe_Ruth2.jpg/330px-Babe_Ruth2.jpg",
+    "is_hero": false,
     "fetched_at": "2026-04-25"
   },
   "lebron-james": {
@@ -109,6 +122,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/LeBron_James",
     "image_path": "/content/images/portraits/lebron-james.jpg",
     "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/LeBron_James_%2851959977144%29_%28cropped2%29.jpg/330px-LeBron_James_%2851959977144%29_%28cropped2%29.jpg",
+    "is_hero": false,
     "fetched_at": "2026-04-25"
   },
   "rafael-nadal": {
@@ -117,6 +131,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rafael_Nadal",
     "image_path": "/content/images/portraits/rafael-nadal.jpg",
     "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rafael_Nadal_en_2024_%28cropped%29.jpg/330px-Rafael_Nadal_en_2024_%28cropped%29.jpg",
+    "is_hero": false,
     "fetched_at": "2026-04-25"
   },
   "keanu-reeves": {
@@ -125,6 +140,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Keanu_Reeves",
     "image_path": "/content/images/portraits/keanu-reeves.jpg",
     "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Keanu_Reeves_at_TIFF_2025_02_%28Cropped%29.jpg/330px-Keanu_Reeves_at_TIFF_2025_02_%28Cropped%29.jpg",
+    "is_hero": false,
     "fetched_at": "2026-04-25"
   },
   "morgan-freeman": {
@@ -133,6 +149,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Morgan_Freeman",
     "image_path": "/content/images/portraits/morgan-freeman.jpg",
     "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Morgan_Freeman_at_The_Pentagon_on_2_August_2023_-_230802-D-PM193-3363_%28cropped%29.jpg/330px-Morgan_Freeman_at_The_Pentagon_on_2_August_2023_-_230802-D-PM193-3363_%28cropped%29.jpg",
+    "is_hero": false,
     "fetched_at": "2026-04-25"
   },
   "bill-gates": {
@@ -141,6 +158,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bill_Gates",
     "image_path": "/content/images/portraits/bill-gates.jpg",
     "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bill_Gates_at_the_European_Commission_-_P067383-987995_%28cropped%29_5.jpg/330px-Bill_Gates_at_the_European_Commission_-_P067383-987995_%28cropped%29_5.jpg",
+    "is_hero": false,
     "fetched_at": "2026-04-25"
   }
 }

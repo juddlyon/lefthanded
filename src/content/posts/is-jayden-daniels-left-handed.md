@@ -5,7 +5,7 @@ slug: is-jayden-daniels-left-handed
 tags: ["People", "Sports"]
 pubDate: "2026-04-25T12:00:00.000Z"
 updatedDate: "2026-04-25T12:00:00.000Z"
-featuredImage: "/content/images/covers/is-jayden-daniels-left-handed.jpg"
+featuredImage: "/content/images/portraits/jayden-daniels.jpg"
 isPage: false
 ---
 
@@ -22,11 +22,6 @@ isPage: false
 <li><strong>Handedness rarity in the NFL:</strong> only about 1–2% of NFL quarterbacks have been left-handed historically — see our list of <a href="/best-left-handed-quarterbacks/">best left-handed quarterbacks</a>.</li>
 </ul>
 </aside>
-
-<figure class="kg-card kg-image-card kg-card-hascaption">
-  <img src="/content/images/portraits/jayden-daniels.jpg" class="kg-image" alt="Jayden Daniels, Washington Commanders quarterback and 2023 Heisman winner" loading="lazy" width="320" height="400">
-  <figcaption>Jayden Daniels throws with his right hand. <a href="https://en.wikipedia.org/wiki/Jayden_Daniels" target="_blank" rel="noopener">Photo: Wikipedia</a></figcaption>
-</figure>
 
 <h2 id="throwing-evidence">Jayden Daniels throws right-handed</h2>
 

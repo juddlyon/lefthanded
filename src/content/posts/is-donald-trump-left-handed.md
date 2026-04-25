@@ -5,7 +5,7 @@ slug: is-donald-trump-left-handed
 tags: ["People"]
 pubDate: "2026-04-25T12:00:00.000Z"
 updatedDate: "2026-04-25T12:00:00.000Z"
-featuredImage: "/content/images/covers/is-donald-trump-left-handed.jpg"
+featuredImage: "/content/images/portraits/donald-trump.jpg"
 isPage: false
 ---
 
@@ -22,11 +22,6 @@ isPage: false
 <li><strong>The query is popular</strong> because handedness is a frequently checked detail for high-profile public figures, and because lefty US presidents are unusually common in the modern era.</li>
 </ul>
 </aside>
-
-<figure class="kg-card kg-image-card kg-card-hascaption">
-  <img src="/content/images/portraits/donald-trump.jpg" class="kg-image" alt="Donald Trump, 45th and 47th US president, is right-handed" loading="lazy" width="320" height="400">
-  <figcaption>Donald Trump signs and writes with his right hand. <a href="https://en.wikipedia.org/wiki/Donald_Trump" target="_blank" rel="noopener">Photo: Wikipedia</a></figcaption>
-</figure>
 
 <h2 id="signing-evidence">Donald Trump signs documents with his right hand</h2>
 
