@@ -5,7 +5,7 @@ slug: best-left-handed-childrens-scissors
 tags: ["Products", "How-to"]
 pubDate: "2026-04-24T22:00:00.000Z"
 updatedDate: "2026-04-24T22:00:00.000Z"
-featuredImage: "/content/images/external/unsplash/photo-80ALvDvJzDQ.jpg"
+featuredImage: "/content/images/covers/best-left-handed-childrens-scissors.jpg"
 isPage: false
 ---
 

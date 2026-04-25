@@ -5,7 +5,7 @@ slug: left-handedness-and-longevity
 tags: ["Facts"]
 pubDate: "2026-04-24T21:10:00.000Z"
 updatedDate: "2026-04-24T21:10:00.000Z"
-featuredImage: "/content/images/external/unsplash/photo-Wqfpx-QnT-g.jpg"
+featuredImage: "/content/images/covers/left-handedness-and-longevity.jpg"
 isPage: false
 ---
 

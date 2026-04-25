@@ -5,7 +5,7 @@ slug: left-handed-mouse-vs-ambidextrous-mouse
 tags: ["Products"]
 pubDate: "2026-04-24T21:10:00.000Z"
 updatedDate: "2026-04-24T21:10:00.000Z"
-featuredImage: "/content/images/external/unsplash/photo-jBA9_jTM0PU.jpg"
+featuredImage: "/content/images/covers/left-handed-mouse-vs-ambidextrous-mouse.jpg"
 isPage: false
 ---
 

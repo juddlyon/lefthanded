@@ -5,7 +5,7 @@ slug: should-i-learn-guitar-left-or-right-handed
 tags: ["Music", "How-to"]
 pubDate: "2026-04-24T21:10:00.000Z"
 updatedDate: "2026-04-24T21:10:00.000Z"
-featuredImage: "/content/images/external/unsplash/photo-2GEr4fLZt8A.jpg"
+featuredImage: "/content/images/covers/should-i-learn-guitar-left-or-right-handed.jpg"
 isPage: false
 ---
 

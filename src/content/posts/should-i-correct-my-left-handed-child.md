@@ -5,7 +5,7 @@ slug: should-i-correct-my-left-handed-child
 tags: ["How-to", "Facts"]
 pubDate: "2026-04-24T21:10:00.000Z"
 updatedDate: "2026-04-24T21:10:00.000Z"
-featuredImage: "/content/images/external/unsplash/photo-9yhBvC2ykoc.jpg"
+featuredImage: "/content/images/covers/should-i-correct-my-left-handed-child.jpg"
 isPage: false
 ---
 
