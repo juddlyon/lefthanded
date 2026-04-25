@@ -135,7 +135,7 @@ isPage: false
 
 <h3 id="handedness-inventories">Handedness inventories</h3>
 
-<p>The Edinburgh Handedness Inventory, developed in 1971, asks participants to indicate their hand preference for ten activities: writing, drawing, throwing, using scissors, brushing teeth, using a knife, using a spoon, striking a match, opening a lid, and sweeping. Each response is scored, and the results produce a laterality quotient ranging from strongly left-handed to strongly right-handed.</p>
+<p>The Edinburgh Handedness Inventory, developed in 1971, asks participants to indicate their hand preference for ten activities: writing, drawing, throwing, using scissors, brushing teeth, using a knife, using a spoon, striking a match, opening a lid, and sweeping. Each response is scored, and the results produce a laterality quotient ranging from strongly left-handed to strongly right-handed. <a href="/edinburgh-handedness-inventory/">Take our free online version of the Edinburgh Handedness Inventory</a> to get your own score.</p>
 
 <p>Inventory-based measures tend to identify more left-handers and mixed-handers than simple self-report, because some people who consider themselves right-handed actually perform several tasks with their left hand.</p>
 

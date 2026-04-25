@@ -13,7 +13,7 @@ isPage: false
 
 <p>Prenatal environment, hormonal exposure, and random developmental processes make up the rest. Your genes nudge you toward one hand, but they do not decide on their own.</p>
 
-<p>Scientists have studied handedness for well over a century, and the question of nature versus nurture keeps producing nuanced answers. If you have ever wondered <a href="/why-are-people-left-handed/">why people are left-handed</a>, the full picture involves a tangle of hereditary signals, brain development, and even a bit of biological randomness.</p>
+<p>Scientists have studied handedness for well over a century, and the question of nature versus nurture keeps producing nuanced answers. If you have ever wondered <a href="/why-are-people-left-handed/">why people are left-handed</a>, the full picture involves a tangle of hereditary signals, brain development, and even a bit of biological randomness. Curious where you actually land on the spectrum? <a href="/edinburgh-handedness-inventory/">Our online Edinburgh Handedness Inventory</a> gives you a research-grade laterality score in two minutes.</p>
 
 <h2 id="how-heritable-is-handedness">How heritable is handedness?</h2>
 

@@ -1,0 +1,583 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const title = "Edinburgh Handedness Inventory: free online test";
+const description = "Take the standardized 10-question handedness test used in research since 1971. Get your laterality quotient (LQ) score and an interpretation in under two minutes.";
+
+const questions = [
+  { id: 'writing',    label: 'Writing' },
+  { id: 'drawing',    label: 'Drawing' },
+  { id: 'throwing',   label: 'Throwing' },
+  { id: 'scissors',   label: 'Using scissors' },
+  { id: 'toothbrush', label: 'Toothbrush' },
+  { id: 'knife',      label: 'Knife (without fork)' },
+  { id: 'spoon',      label: 'Spoon' },
+  { id: 'broom',      label: 'Broom (which hand is on top)' },
+  { id: 'match',      label: 'Striking a match (which hand holds the match)' },
+  { id: 'box',        label: 'Opening a box (which hand removes the lid)' },
+];
+
+const choices = [
+  { value: -2, label: 'Always left' },
+  { value: -1, label: 'Usually left' },
+  { value: 0,  label: 'No preference' },
+  { value: 1,  label: 'Usually right' },
+  { value: 2,  label: 'Always right' },
+];
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: [
+    {
+      '@type': 'Question',
+      name: 'What is the Edinburgh Handedness Inventory?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'The Edinburgh Handedness Inventory (EHI) is a 10-item questionnaire developed by R. C. Oldfield in 1971 to measure a person\'s hand preference across common daily activities. It produces a numerical Laterality Quotient (LQ) ranging from -100 (strongly left-handed) to +100 (strongly right-handed) and is the most widely used handedness assessment in scientific research.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'How is the laterality quotient calculated?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Each of the 10 items is scored from -2 (always left) to +2 (always right). The scores are summed and divided by the maximum possible total (20), then multiplied by 100. The result is the LQ, ranging from -100 (purely left-handed) to +100 (purely right-handed), with values around zero indicating mixed-handedness.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'What LQ score is considered left-handed?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'A common cutoff used in research is an LQ of -40 or lower for left-handedness, -40 to +40 for mixed-handedness, and +40 or higher for right-handedness. Some studies use stricter thresholds such as -60 and +60. The exact cutoff depends on the research context.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Is this test a medical diagnosis?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'No. The Edinburgh Handedness Inventory is a research instrument used to classify hand preference for studies of brain lateralization, cognition, and population statistics. It is not a clinical or medical diagnostic tool.',
+      },
+    },
+  ],
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  bodyClass="page-template page-handedness-test"
+  extraSchemas={[faqSchema]}
+>
+  <div class="content-area">
+    <main class="site-main">
+      <article class="post single-post">
+        <header class="post-header big-title container medium">
+          <h1 class="post-title">Edinburgh Handedness Inventory</h1>
+          <p class="post-excerpt">A free online version of the standardized handedness test used in research since 1971. Answer ten quick questions, get your laterality quotient, and see how the score is interpreted.</p>
+        </header>
+
+        <div class="post-content gh-content kg-canvas">
+          <p>The Edinburgh Handedness Inventory was developed by R. C. Oldfield in 1971 and remains the most widely cited handedness assessment in scientific literature. It works by sampling hand preference across ten common activities — writing, throwing, using scissors, and so on — and combining the answers into a single number called the <strong>Laterality Quotient (LQ)</strong>, which runs from -100 (purely left-handed) to +100 (purely right-handed).</p>
+
+          <p>Most people score near one of the two extremes. About 10% of the population scores in the strongly left-handed range; roughly 80% scores strongly right-handed; the rest fall somewhere in between, in what researchers call mixed-handedness.</p>
+
+          <form id="ehi-form" class="ehi-form" novalidate>
+            <fieldset class="ehi-fieldset">
+              <legend>Which hand do you use for each activity?</legend>
+              <p class="ehi-instructions">Pick the option that best matches your usual preference. If you've genuinely never thought about it, watch yourself do the task once before answering.</p>
+
+              {questions.map((q, idx) => (
+                <div class="ehi-question" data-question-id={q.id}>
+                  <p class="ehi-question-label"><span class="ehi-question-num">{idx + 1}.</span> {q.label}</p>
+                  <div class="ehi-options" role="radiogroup" aria-label={q.label}>
+                    {choices.map((c) => (
+                      <label class="ehi-option">
+                        <input type="radio" name={q.id} value={c.value} required />
+                        <span class="ehi-option-label">{c.label}</span>
+                      </label>
+                    ))}
+                  </div>
+                </div>
+              ))}
+            </fieldset>
+
+            <div class="ehi-submit-row">
+              <button type="submit" class="ehi-submit">Calculate my score</button>
+              <button type="reset" class="ehi-reset" id="ehi-reset">Reset</button>
+            </div>
+
+            <p class="ehi-error" id="ehi-error" hidden>Please answer all ten questions before submitting.</p>
+          </form>
+
+          <section class="ehi-result" id="ehi-result" hidden aria-live="polite">
+            <h2>Your result</h2>
+            <div class="ehi-score-display">
+              <div class="ehi-score-number"><span id="ehi-lq">0</span></div>
+              <div class="ehi-score-label">Laterality Quotient</div>
+            </div>
+            <div class="ehi-meter" aria-hidden="true">
+              <div class="ehi-meter-track">
+                <div class="ehi-meter-fill" id="ehi-meter-fill"></div>
+                <div class="ehi-meter-marker" id="ehi-meter-marker"></div>
+              </div>
+              <div class="ehi-meter-labels">
+                <span>-100<br><small>strongly left</small></span>
+                <span>0<br><small>mixed</small></span>
+                <span>+100<br><small>strongly right</small></span>
+              </div>
+            </div>
+            <p class="ehi-interpretation" id="ehi-interpretation"></p>
+            <p class="ehi-detail" id="ehi-detail"></p>
+            <button type="button" class="ehi-retake" id="ehi-retake">Take the test again</button>
+          </section>
+
+          <h2 id="how-the-score-is-interpreted">How the score is interpreted</h2>
+
+          <p>Researchers use different thresholds depending on the study, but a common scheme is:</p>
+
+          <ul>
+            <li><strong>LQ ≤ -40:</strong> Left-handed</li>
+            <li><strong>-40 &lt; LQ &lt; +40:</strong> Mixed-handed (sometimes called ambidextrous, though true ambidexterity is rare)</li>
+            <li><strong>LQ ≥ +40:</strong> Right-handed</li>
+          </ul>
+
+          <p>Stricter cutoffs (-60 and +60) are used in studies that want to exclude any mixed-handed participants. The 10% global figure for left-handedness is roughly the proportion scoring -40 or lower on this kind of inventory. For more on the population statistics, see our piece on <a href="/left-handed-statistics/">left-handedness statistics</a>.</p>
+
+          <h2 id="what-the-score-doesnt-tell-you">What the score doesn't tell you</h2>
+
+          <p>The LQ is a behavioral measure, not a brain measure. Two people with the same LQ can have meaningfully different patterns of brain lateralization for language, spatial processing, and motor control. About 95% of right-handers process language primarily in the left hemisphere; for left-handers the figure is closer to 70%, with the remaining 30% showing right-hemisphere or bilateral language processing. Hand preference correlates with brain organization, but it doesn't determine it.</p>
+
+          <p>For more on the underlying neuroscience, see our piece on the <a href="/left-handed-brain/">left-handed brain</a>.</p>
+
+          <h2 id="how-this-test-is-used-in-research">How this test is used in research</h2>
+
+          <p>The Edinburgh Handedness Inventory has been administered in thousands of published studies. Common uses include:</p>
+
+          <ul>
+            <li><strong>Sample classification.</strong> Studies of brain lateralization or cognitive performance often need to know the handedness profile of their participants. The EHI provides a standardized way to report it.</li>
+            <li><strong>Population estimates.</strong> Large-scale surveys use the EHI (or shortened versions of it) to estimate prevalence of left-handedness across countries, generations, and demographics.</li>
+            <li><strong>Genetic research.</strong> Studies of the <a href="/is-left-handedness-genetic/">genetic basis of handedness</a> use EHI scores to define phenotypes for analysis.</li>
+            <li><strong>Clinical neuroscience.</strong> Researchers studying stroke, epilepsy, or surgical planning often need to know which hemisphere likely handles language — and handedness is one input to that estimate.</li>
+          </ul>
+
+          <h2 id="limitations-of-the-original-inventory">Limitations of the original inventory</h2>
+
+          <p>Some of the 1971 items are dated. Most people don't strike matches anymore, and broom-handling assumes a household chore distribution that varies. Modern revisions of the inventory replace these items with more current ones — for example, "using a computer mouse" or "swiping a phone." The version above is the original 10-item Oldfield inventory, kept faithful to the standard form used in most published research.</p>
+
+          <p>The inventory also assumes you can answer about your usual preference with reasonable accuracy. People who were forced to switch hands as children, or who are genuinely mixed-handed, sometimes find their answers don't quite fit the available options. The "no preference" choice exists for these cases.</p>
+
+          <h2 id="related-reading">Related reading</h2>
+
+          <p>For broader context on what the score actually means, see our deep dive on <a href="/left-handed-statistics/">left-handedness statistics</a> for population data and historical trends, the <a href="/left-handed-brain/">left-handed brain</a> for the neuroscience, and <a href="/left-handed-101-the-definitive-guide/">left-handed 101</a> for the field-guide overview. If you scored as a left-hander or mixed-hander, our piece on <a href="/left-handed-personality-characteristics/">left-handed personality characteristics</a> covers the cognitive and behavioral patterns associated with the trait.</p>
+
+          <h2 id="frequently-asked-questions">Frequently asked questions</h2>
+
+          <h3>What is the Edinburgh Handedness Inventory?</h3>
+          <p>The Edinburgh Handedness Inventory (EHI) is a 10-item questionnaire developed by R. C. Oldfield in 1971 to measure a person's hand preference across common daily activities. It produces a numerical Laterality Quotient (LQ) ranging from -100 (strongly left-handed) to +100 (strongly right-handed) and is the most widely used handedness assessment in scientific research.</p>
+
+          <h3>How is the laterality quotient calculated?</h3>
+          <p>Each of the 10 items is scored from -2 (always left) to +2 (always right). The scores are summed and divided by the maximum possible total (20), then multiplied by 100. The result is the LQ, ranging from -100 to +100.</p>
+
+          <h3>What LQ score is considered left-handed?</h3>
+          <p>A common cutoff used in research is an LQ of -40 or lower for left-handedness, -40 to +40 for mixed-handedness, and +40 or higher for right-handedness. Some studies use stricter thresholds (such as -60 and +60). The exact cutoff depends on the research context.</p>
+
+          <h3>Can the test be wrong?</h3>
+          <p>The test reflects how you reported your preferences. If your answers don't match your actual behavior — for example, because you were forced to switch hands as a child — the score may not reflect your natural handedness. Watch yourself perform the activities once and re-take the test if your gut says the score is off.</p>
+
+          <h3>Is this a medical diagnosis?</h3>
+          <p>No. The Edinburgh Handedness Inventory is a research instrument for classifying hand preference. It is not a clinical or medical diagnostic tool, and the score has no medical implications on its own.</p>
+
+          <h3>Why are there only ten questions?</h3>
+          <p>Oldfield's original 1971 paper landed on ten items as the smallest set that produced reliable, reproducible scores across populations. Shorter versions (4-item and 6-item) exist and correlate well with the full inventory, but the 10-item version remains the gold standard.</p>
+        </div>
+      </article>
+    </main>
+  </div>
+</BaseLayout>
+
+<style>
+  .ehi-form {
+    background: var(--color-bg-secondary, #f7f7f7);
+    border-radius: 8px;
+    padding: 2rem;
+    margin: 2rem 0;
+  }
+
+  :global(.dark-mode) .ehi-form {
+    background: rgba(255, 255, 255, 0.03);
+  }
+
+  .ehi-fieldset {
+    border: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .ehi-fieldset legend {
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    padding: 0;
+  }
+
+  .ehi-instructions {
+    font-size: 0.95rem;
+    margin-bottom: 1.5rem;
+    color: var(--color-text-muted, #666);
+  }
+
+  .ehi-question {
+    margin-bottom: 1.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+  }
+
+  :global(.dark-mode) .ehi-question {
+    border-bottom-color: rgba(255, 255, 255, 0.08);
+  }
+
+  .ehi-question:last-of-type {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+
+  .ehi-question-label {
+    font-weight: 700;
+    margin-bottom: 0.75rem;
+    font-size: 1.05rem;
+  }
+
+  .ehi-question-num {
+    color: #FF1A75;
+    margin-right: 0.4em;
+  }
+
+  .ehi-options {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .ehi-option {
+    flex: 1 1 auto;
+    min-width: 130px;
+    cursor: pointer;
+    padding: 0.6rem 0.8rem;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 6px;
+    background: white;
+    transition: background 120ms, border-color 120ms;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.95rem;
+  }
+
+  :global(.dark-mode) .ehi-option {
+    background: rgba(255, 255, 255, 0.05);
+    border-color: rgba(255, 255, 255, 0.15);
+  }
+
+  .ehi-option:hover {
+    border-color: #FF1A75;
+  }
+
+  .ehi-option:has(input:checked) {
+    background: #FF1A75;
+    color: white;
+    border-color: #FF1A75;
+  }
+
+  .ehi-option input {
+    accent-color: #FF1A75;
+    margin: 0;
+  }
+
+  .ehi-option:has(input:checked) input {
+    accent-color: white;
+  }
+
+  .ehi-submit-row {
+    display: flex;
+    gap: 1rem;
+    margin-top: 2rem;
+    flex-wrap: wrap;
+  }
+
+  .ehi-submit, .ehi-reset, .ehi-retake {
+    padding: 0.85rem 1.5rem;
+    border-radius: 6px;
+    font-size: 1rem;
+    font-weight: 700;
+    cursor: pointer;
+    border: none;
+    transition: opacity 120ms, transform 120ms;
+  }
+
+  .ehi-submit, .ehi-retake {
+    background: #FF1A75;
+    color: white;
+  }
+
+  .ehi-submit:hover, .ehi-retake:hover {
+    opacity: 0.9;
+  }
+
+  .ehi-submit:active, .ehi-retake:active {
+    transform: translateY(1px);
+  }
+
+  .ehi-reset {
+    background: transparent;
+    color: var(--color-text, inherit);
+    border: 1px solid rgba(0, 0, 0, 0.2);
+  }
+
+  :global(.dark-mode) .ehi-reset {
+    border-color: rgba(255, 255, 255, 0.2);
+  }
+
+  .ehi-error {
+    margin-top: 1rem;
+    padding: 0.75rem 1rem;
+    background: #fff0f0;
+    color: #c00;
+    border-radius: 6px;
+    font-size: 0.95rem;
+  }
+
+  :global(.dark-mode) .ehi-error {
+    background: rgba(255, 0, 0, 0.1);
+    color: #ff6666;
+  }
+
+  .ehi-result {
+    background: var(--color-bg-secondary, #f7f7f7);
+    border: 2px solid #FF1A75;
+    border-radius: 8px;
+    padding: 2rem;
+    margin: 2rem 0;
+    text-align: center;
+  }
+
+  :global(.dark-mode) .ehi-result {
+    background: rgba(255, 26, 117, 0.05);
+  }
+
+  .ehi-result h2 {
+    margin-top: 0;
+  }
+
+  .ehi-score-display {
+    margin: 1.5rem 0;
+  }
+
+  .ehi-score-number {
+    font-size: 4rem;
+    font-weight: 800;
+    color: #FF1A75;
+    line-height: 1;
+  }
+
+  .ehi-score-label {
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--color-text-muted, #666);
+    margin-top: 0.25rem;
+  }
+
+  .ehi-meter {
+    margin: 2rem auto;
+    max-width: 500px;
+  }
+
+  .ehi-meter-track {
+    height: 12px;
+    background: linear-gradient(to right, #4a90e2 0%, #4a90e2 30%, #f5a623 30%, #f5a623 70%, #FF1A75 70%, #FF1A75 100%);
+    border-radius: 6px;
+    position: relative;
+    margin-bottom: 0.5rem;
+  }
+
+  .ehi-meter-marker {
+    position: absolute;
+    top: -6px;
+    left: 50%;
+    width: 4px;
+    height: 24px;
+    background: #222;
+    border-radius: 2px;
+    transform: translateX(-50%);
+    transition: left 400ms ease-out;
+  }
+
+  :global(.dark-mode) .ehi-meter-marker {
+    background: #fff;
+  }
+
+  .ehi-meter-labels {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.85rem;
+    color: var(--color-text-muted, #666);
+  }
+
+  .ehi-meter-labels small {
+    font-size: 0.75rem;
+    opacity: 0.8;
+  }
+
+  .ehi-interpretation {
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin: 1rem 0 0.5rem;
+  }
+
+  .ehi-detail {
+    font-size: 1rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .ehi-retake {
+    margin-top: 1rem;
+  }
+
+  @media (max-width: 600px) {
+    .ehi-form, .ehi-result {
+      padding: 1.25rem;
+    }
+
+    .ehi-options {
+      flex-direction: column;
+    }
+
+    .ehi-option {
+      min-width: 0;
+      width: 100%;
+    }
+
+    .ehi-score-number {
+      font-size: 3rem;
+    }
+  }
+</style>
+
+<script is:inline>
+  (function() {
+    const form = document.getElementById('ehi-form');
+    const resultBox = document.getElementById('ehi-result');
+    const errorBox = document.getElementById('ehi-error');
+    const lqDisplay = document.getElementById('ehi-lq');
+    const meterMarker = document.getElementById('ehi-meter-marker');
+    const interpretation = document.getElementById('ehi-interpretation');
+    const detail = document.getElementById('ehi-detail');
+    const retakeBtn = document.getElementById('ehi-retake');
+    const resetBtn = document.getElementById('ehi-reset');
+
+    if (!form) return;
+
+    const questionIds = [
+      'writing','drawing','throwing','scissors','toothbrush',
+      'knife','spoon','broom','match','box'
+    ];
+
+    function getInterpretation(lq) {
+      if (lq <= -80) {
+        return {
+          label: 'Strongly left-handed',
+          detail: 'Your score puts you among the most consistently left-handed roughly 5% of the population. Your dominant hand is left across nearly every measured activity.',
+        };
+      }
+      if (lq <= -40) {
+        return {
+          label: 'Left-handed',
+          detail: 'You\'re left-handed by the standard research definition. About 10% of people score in this range.',
+        };
+      }
+      if (lq < 0) {
+        return {
+          label: 'Mixed-handed (left-leaning)',
+          detail: 'You use your left hand for most things but not all. About 9 to 10% of the population is mixed-handed in some form, and "left-leaning mixed" is a distinct, normal pattern — not a sign of inconsistency.',
+        };
+      }
+      if (lq === 0) {
+        return {
+          label: 'Truly mixed-handed',
+          detail: 'You use each hand about equally across the activities measured. True ambidexterity (genuinely equal skill with both hands for any task) is rarer — about 1% of people — but functional mixed-handedness like this is more common.',
+        };
+      }
+      if (lq < 40) {
+        return {
+          label: 'Mixed-handed (right-leaning)',
+          detail: 'You use your right hand for most things but not all. About 9 to 10% of the population is mixed-handed in some form, and "right-leaning mixed" is a distinct, normal pattern.',
+        };
+      }
+      if (lq < 80) {
+        return {
+          label: 'Right-handed',
+          detail: 'You\'re right-handed by the standard research definition. About 80% of people fall in this range.',
+        };
+      }
+      return {
+        label: 'Strongly right-handed',
+        detail: 'Your score puts you among the most consistently right-handed group. Your dominant hand is right across nearly every measured activity.',
+      };
+    }
+
+    form.addEventListener('submit', function(e) {
+      e.preventDefault();
+
+      let total = 0;
+      let answered = 0;
+
+      for (const id of questionIds) {
+        const checked = form.querySelector('input[name="' + id + '"]:checked');
+        if (checked) {
+          total += parseInt(checked.value, 10);
+          answered++;
+        }
+      }
+
+      if (answered < questionIds.length) {
+        errorBox.hidden = false;
+        errorBox.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        return;
+      }
+
+      errorBox.hidden = true;
+
+      const lq = Math.round((total / 20) * 100);
+      const interp = getInterpretation(lq);
+
+      lqDisplay.textContent = (lq > 0 ? '+' : '') + lq;
+      const markerPosition = ((lq + 100) / 200) * 100;
+      meterMarker.style.left = markerPosition + '%';
+      interpretation.textContent = interp.label;
+      detail.textContent = interp.detail;
+
+      resultBox.hidden = false;
+      resultBox.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+
+    if (retakeBtn) {
+      retakeBtn.addEventListener('click', function() {
+        form.reset();
+        resultBox.hidden = true;
+        errorBox.hidden = true;
+        form.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      });
+    }
+
+    if (resetBtn) {
+      resetBtn.addEventListener('click', function() {
+        resultBox.hidden = true;
+        errorBox.hidden = true;
+      });
+    }
+  })();
+</script>

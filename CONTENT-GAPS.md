@@ -12,7 +12,7 @@ The five items most likely to move the needle.
 - [x] **Should I correct my left-handed child?** — anxious-parent query, opens the parenting funnel
 - [x] **Left-handed mouse vs ambidextrous mouse** — bottom-funnel comparison, ties to gaming mouse roundup
 - [x] **Left-handedness and longevity (debunking the die-younger myth)** — high-volume health query with no good answer currently ranking
-- [ ] **Online Edinburgh Handedness Inventory (interactive tool)** — link-bait play, requires engineering not just writing
+- [x] **Online Edinburgh Handedness Inventory (interactive tool)** — link-bait play, requires engineering not just writing
 
 ## Tier 2: decision/comparison content (the biggest gap)
 
@@ -73,7 +73,7 @@ No cadence for traffic spikes. Each item below should be refreshed annually.
 
 These earn backlinks. Everything else just consumes them.
 
-- [ ] Online Edinburgh Handedness Inventory (interactive, scored)
+- [x] Online Edinburgh Handedness Inventory (interactive, scored)
 - [ ] Dominant-eye test (paired with the bow article)
 - [ ] Annual *State of Left-Handedness* report (original survey or aggregated stats with charts)
 - [ ] "Is this product actually left-handed?" checker (interactive)
