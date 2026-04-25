@@ -9,7 +9,7 @@ featuredImage: "/content/images/external/unsplash/photo-1577942948749-a3dbb5c6db
 isPage: false
 ---
 
-<p><strong>Which US presidents were left-handed?</strong> Eight US presidents were left-handed: James Garfield, Herbert Hoover, Harry Truman, Gerald Ford, Ronald Reagan, George H.W. Bush, Bill Clinton, and Barack Obama.</p>
+<p><strong>Which US presidents were left-handed?</strong> Eight US presidents were left-handed: James Garfield, Herbert Hoover, Harry Truman, Gerald Ford, Ronald Reagan, George H.W. Bush, Bill Clinton, and Barack Obama. The two most recent presidents, <a href="/is-donald-trump-left-handed/">Donald Trump</a> and Joe Biden, are both right-handed.</p>
 
 <p>That is roughly 17% of all presidents — far above the 10% left-handedness rate in the general population. Left-handed leaders aren't unique to America — <a href="/is-prince-william-left-handed/">Prince William, the future King of England, is also left-handed</a>.</p>
 
