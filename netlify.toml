@@ -1,9 +1,21 @@
 [build]
-  command = "npm run build"
+  # Builds happen locally — `npm run deploy` uploads dist/ via Netlify CLI.
+  # The no-op command keeps Netlify from spending build minutes if the Git
+  # integration triggers anyway. Disable branch/Deploy Previews in the
+  # Netlify dashboard (Site settings → Build & deploy → Continuous deployment).
+  command = "echo 'Pre-built locally — skipping Netlify build'"
   publish = "dist"
 
 [build.processing.html]
   pretty_urls = true
+
+# No-op branch deploys and deploy previews so they don't burn build minutes
+# if the Git integration is left connected.
+[context.branch-deploy]
+  command = "echo 'Branch deploys disabled — deploy via npm run deploy'"
+
+[context.deploy-preview]
+  command = "echo 'Deploy previews disabled — deploy via npm run deploy'"
 
 [[redirects]]
   from = "/*"

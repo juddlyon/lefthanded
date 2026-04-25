@@ -75,9 +75,12 @@ public/
 npm run dev      # Local dev server
 npm run build    # Build to dist/
 npm run preview  # Preview built site
+npm run deploy   # Build locally + upload dist/ to Netlify production
 ```
 
-Pushes to `main` auto-deploy via Netlify. Cache headers configured in `netlify.toml`:
+**Deploy is local-only.** We don't burn Netlify build minutes — the `deploy` script runs `astro build` locally and uploads `dist/` via the Netlify CLI. `netlify.toml` has a no-op `command` so even if the Git integration triggers, Netlify won't actually build. Branch deploys and Deploy Previews are also no-op'd in `netlify.toml`. Pushing to `main` does NOT auto-deploy — run `npm run deploy` manually.
+
+Cache headers configured in `netlify.toml`:
 - `/assets/*` and `/content/images/*`: immutable, 1-year cache
 - `/*.html`: no cache, must-revalidate
 
