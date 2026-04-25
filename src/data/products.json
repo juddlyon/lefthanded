@@ -1,4 +1,28 @@
 {
+  "lefty-gifts": {
+    "name": "Left-handed gifts on Amazon",
+    "query": "left handed gifts"
+  },
+  "lefty-gifts-under-25": {
+    "name": "Left-handed gifts under $25 on Amazon",
+    "query": "left handed gifts under 25"
+  },
+  "lefty-mugs": {
+    "name": "Left-handed mugs on Amazon",
+    "query": "left handed mug funny"
+  },
+  "lefty-shirts": {
+    "name": "Left-handed t-shirts on Amazon",
+    "query": "left handed t shirt funny"
+  },
+  "lefty-kitchen": {
+    "name": "Left-handed kitchen tools on Amazon",
+    "query": "left handed kitchen tools"
+  },
+  "lefty-office": {
+    "name": "Left-handed office supplies on Amazon",
+    "query": "left handed office supplies"
+  },
   "babolat-pure-aero": {
     "asin": "B07HR17HYX",
     "name": "Babolat Pure Aero Tennis Racquet",
