@@ -1,0 +1,582 @@
+{
+  "keyword": "are left handed people smarter",
+  "timestamp": "2026-04-25",
+  "winnersMode": null,
+  "userPosition": null,
+  "serp": {
+    "query": "are left handed people smarter",
+    "ourPositions": [],
+    "ranking": false,
+    "bestPosition": null,
+    "competitors": [
+      {
+        "position": 1,
+        "title": "Are Left-Handed People Smarter?",
+        "link": "https://www.healthline.com/health/are-left-handed-people-smarter",
+        "domain": "healthline.com",
+        "snippet": "While some studies have suggested there may be a link between left-handedness and a higher IQ, others have shown that right-handed people may actually have the ...",
+        "type": "organic"
+      },
+      {
+        "position": 2,
+        "title": "Dear Lefties of Reddit, Do you consider yourself smarter ...",
+        "link": "https://www.reddit.com/r/lefthanded/comments/kx0n9x/dear_lefties_of_reddit_do_you_consider_yourself/",
+        "domain": "reddit.com",
+        "snippet": "Studies show that lefties have more creative thinking and spacial awareness than righties. Technically, lefties, such as myself aren't ...",
+        "type": "organic"
+      },
+      {
+        "position": 3,
+        "title": "Left Hand IQ",
+        "link": "https://www.cso.ie/en/media/csoie/newsevents/documents/johnhoopercomp2018/A_Statistical_Analysis_of_the_Correlation_Between_Left_Handedness_and_Brain_Function.pdf",
+        "domain": "cso.ie",
+        "snippet": "Overall there is statistically significant information · that leads us to conclude that left handed people · are more intelligent while right handed people.",
+        "type": "organic"
+      },
+      {
+        "position": 4,
+        "title": "Are left-handed people smarter?",
+        "link": "https://www.livescience.com/are-left-handed-people-smarter",
+        "domain": "livescience.com",
+        "snippet": "What's more, other data shows that righties have a slight intellectual edge over lefties. A 2017 study in the journal Neuroscience and ...",
+        "type": "organic"
+      },
+      {
+        "position": 5,
+        "title": "Are left-handed people more intelligent than right- ...",
+        "link": "https://www.quora.com/Are-left-handed-people-more-intelligent-than-right-handed-people",
+        "domain": "quora.com",
+        "snippet": "According to IQ tests, relatively more left-handed people are highly intelligent. So it is not surprising that there are many famous ...",
+        "type": "organic"
+      },
+      {
+        "position": 6,
+        "title": "Do left-handed people have higher IQ?",
+        "link": "https://www.facebook.com/groups/4841949695851276/posts/8608451285867746/",
+        "domain": "facebook.com",
+        "snippet": "Left-handed people are smarter than right-handed people. You see, right-handed people get all their brain signals from the left side of their ...",
+        "type": "organic"
+      },
+      {
+        "position": 7,
+        "title": "Are left-handers smarter?",
+        "link": "https://www.sciencefocus.com/the-human-body/are-left-handers-smarter",
+        "domain": "sciencefocus.com",
+        "snippet": "The idea that left-handed people are more intelligent than right-handers is a myth. There have been lefty geniuses in history like Leonardo da Vinci.",
+        "type": "organic"
+      },
+      {
+        "position": 8,
+        "title": "Large study compares the brains of left-handers and right- ...",
+        "link": "https://www.mpi.nl/news/large-study-compares-brains-left-handers-and-right-handers",
+        "domain": "mpi.nl",
+        "snippet": "Left-handedness was associated with differences in brain asymmetry in areas related to working memory, language, hand control and vision.",
+        "type": "organic"
+      },
+      {
+        "position": 9,
+        "title": "Right-handers have negligibly higher IQ scores than left- ...",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/28826694/",
+        "domain": "pubmed.ncbi.nlm.nih.gov",
+        "snippet": "No differences in mean IQ scores were found between right-handers and non-right-handers as well as between right-handers and mixed-handers. No sex differences ...",
+        "type": "organic"
+      }
+    ],
+    "topDomains": [
+      {
+        "domain": "healthline.com",
+        "count": 1
+      },
+      {
+        "domain": "reddit.com",
+        "count": 1
+      },
+      {
+        "domain": "cso.ie",
+        "count": 1
+      },
+      {
+        "domain": "livescience.com",
+        "count": 1
+      },
+      {
+        "domain": "quora.com",
+        "count": 1
+      },
+      {
+        "domain": "facebook.com",
+        "count": 1
+      },
+      {
+        "domain": "sciencefocus.com",
+        "count": 1
+      },
+      {
+        "domain": "mpi.nl",
+        "count": 1
+      },
+      {
+        "domain": "pubmed.ncbi.nlm.nih.gov",
+        "count": 1
+      }
+    ],
+    "themes": [
+      {
+        "phrase": "lefthanded people",
+        "count": 7
+      },
+      {
+        "phrase": "righthanded people",
+        "count": 3
+      },
+      {
+        "phrase": "people smarter",
+        "count": 2
+      },
+      {
+        "phrase": "handed people",
+        "count": 2
+      },
+      {
+        "phrase": "between righthanders",
+        "count": 2
+      }
+    ],
+    "paaQuestions": [
+      {
+        "question": "Do left-handed people have a higher IQ?",
+        "snippet": "",
+        "domain": null,
+        "type": "paa"
+      },
+      {
+        "question": "Was Einstein left or right-handed?",
+        "snippet": "",
+        "link": "https://www.google.com/search?sca_esv=d378d7b468f52dd5&hl=en&gl=us&udm=50&q=Was+Einstein+left+or+right-handed%3F+Tell+me+about+the+myth+of+his+left-handedness&aep=64&sa=X&ved=2ahUKEwje7d-5jImUAxW1L1kFHVfAF5wQy8AQKAB6BAgcEAc",
+        "domain": "google.com",
+        "type": "paa"
+      },
+      {
+        "question": "What is special about a left-handed person?",
+        "snippet": "",
+        "domain": null,
+        "type": "paa"
+      },
+      {
+        "question": "What ethnicity has the most left-handers?",
+        "snippet": "",
+        "domain": null,
+        "type": "paa"
+      }
+    ],
+    "unansweredPAA": [
+      {
+        "question": "Do left-handed people have a higher IQ?",
+        "snippet": "",
+        "domain": null,
+        "type": "paa"
+      },
+      {
+        "question": "Was Einstein left or right-handed?",
+        "snippet": "",
+        "link": "https://www.google.com/search?sca_esv=d378d7b468f52dd5&hl=en&gl=us&udm=50&q=Was+Einstein+left+or+right-handed%3F+Tell+me+about+the+myth+of+his+left-handedness&aep=64&sa=X&ved=2ahUKEwje7d-5jImUAxW1L1kFHVfAF5wQy8AQKAB6BAgcEAc",
+        "domain": "google.com",
+        "type": "paa"
+      },
+      {
+        "question": "What is special about a left-handed person?",
+        "snippet": "",
+        "domain": null,
+        "type": "paa"
+      },
+      {
+        "question": "What ethnicity has the most left-handers?",
+        "snippet": "",
+        "domain": null,
+        "type": "paa"
+      }
+    ],
+    "totalResults": 9
+  },
+  "directness": [
+    {
+      "pageIndex": 0,
+      "url": "https://www.healthline.com/health/are-left-handed-people-smarter",
+      "score": 100,
+      "firstAnswer": "The notion that lefties are smarter than righties has been floating around for some time.",
+      "sentenceIndex": 0,
+      "hedges": [],
+      "leadHasAnswer": true
+    },
+    {
+      "pageIndex": 1,
+      "url": "https://www.reddit.com/r/lefthanded/comments/kx0n9x/dear_lefties_of_reddit_do_you_consider_yourself/",
+      "score": 0,
+      "firstAnswer": "",
+      "sentenceIndex": -1,
+      "hedges": [],
+      "leadHasAnswer": false
+    },
+    {
+      "pageIndex": 2,
+      "url": "https://www.cso.ie/en/media/csoie/newsevents/documents/johnhoopercomp2018/A_Statistical_Analysis_of_the_Correlation_Between_Left_Handedness_and_Brain_Function.pdf",
+      "score": 0,
+      "firstAnswer": "",
+      "sentenceIndex": -1,
+      "hedges": [],
+      "leadHasAnswer": false
+    },
+    {
+      "pageIndex": 3,
+      "url": "https://www.livescience.com/are-left-handed-people-smarter",
+      "score": 64,
+      "firstAnswer": "Left-handed people comprise only around 10% of the global population, but a quick glance reveals that many key movers and shakers are lefties.",
+      "sentenceIndex": 3,
+      "hedges": [],
+      "leadHasAnswer": false
+    },
+    {
+      "pageIndex": 4,
+      "url": "https://www.quora.com/Are-left-handed-people-more-intelligent-than-right-handed-people",
+      "score": 10,
+      "firstAnswer": "",
+      "sentenceIndex": -1,
+      "hedges": [],
+      "leadHasAnswer": false
+    },
+    {
+      "pageIndex": 5,
+      "url": "https://www.facebook.com/groups/4841949695851276/posts/8608451285867746/",
+      "score": 0,
+      "firstAnswer": "",
+      "sentenceIndex": -1,
+      "hedges": [],
+      "leadHasAnswer": false
+    },
+    {
+      "pageIndex": 6,
+      "url": "https://www.sciencefocus.com/the-human-body/are-left-handers-smarter",
+      "score": 100,
+      "firstAnswer": "Asked by: Praneeth Vitharana, Sri Lanka The idea that left-handed people are more intelligent than right-handers is a myth.",
+      "sentenceIndex": 0,
+      "hedges": [],
+      "leadHasAnswer": false
+    },
+    {
+      "pageIndex": 7,
+      "url": "https://www.mpi.nl/news/large-study-compares-brains-left-handers-and-right-handers",
+      "score": 100,
+      "firstAnswer": "Scientists have long been fascinated by left-handedness.",
+      "sentenceIndex": 0,
+      "hedges": [],
+      "leadHasAnswer": true
+    },
+    {
+      "pageIndex": 8,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28826694/",
+      "score": 100,
+      "firstAnswer": "The relationship between intelligence and handedness remains a matter of debate.",
+      "sentenceIndex": 0,
+      "hedges": [],
+      "leadHasAnswer": false
+    }
+  ],
+  "intentCoverage": [
+    {
+      "question": "Do left-handed people have a higher IQ?",
+      "coveredBy": [
+        {
+          "pageIndex": 0,
+          "url": "https://www.healthline.com/health/are-left-handed-people-smarter",
+          "via": "heading"
+        },
+        {
+          "pageIndex": 3,
+          "url": "https://www.livescience.com/are-left-handed-people-smarter",
+          "via": "body"
+        },
+        {
+          "pageIndex": 6,
+          "url": "https://www.sciencefocus.com/the-human-body/are-left-handers-smarter",
+          "via": "body"
+        },
+        {
+          "pageIndex": 7,
+          "url": "https://www.mpi.nl/news/large-study-compares-brains-left-handers-and-right-handers",
+          "via": "body"
+        }
+      ],
+      "covered": true
+    },
+    {
+      "question": "Was Einstein left or right-handed?",
+      "coveredBy": [
+        {
+          "pageIndex": 0,
+          "url": "https://www.healthline.com/health/are-left-handed-people-smarter",
+          "via": "heading"
+        }
+      ],
+      "covered": true
+    },
+    {
+      "question": "What is special about a left-handed person?",
+      "coveredBy": [
+        {
+          "pageIndex": 0,
+          "url": "https://www.healthline.com/health/are-left-handed-people-smarter",
+          "via": "heading"
+        }
+      ],
+      "covered": true
+    },
+    {
+      "question": "What ethnicity has the most left-handers?",
+      "coveredBy": [
+        {
+          "pageIndex": 0,
+          "url": "https://www.healthline.com/health/are-left-handed-people-smarter",
+          "via": "body"
+        },
+        {
+          "pageIndex": 3,
+          "url": "https://www.livescience.com/are-left-handed-people-smarter",
+          "via": "body"
+        }
+      ],
+      "covered": true
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://www.healthline.com/health/are-left-handed-people-smarter",
+      "title": "Are Left-Handed People Smarter?",
+      "meta": "Are left-handed people smarter? See what the research says about the answer to this controversial question. ",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Are Left-Handed People Smarter?"
+        },
+        {
+          "level": 2,
+          "text": "A history of left-handedness"
+        },
+        {
+          "level": 3,
+          "text": "Famous left-handed people"
+        },
+        {
+          "level": 2,
+          "text": "What does the research say?"
+        },
+        {
+          "level": 3,
+          "text": "Are right-handed people smarter?"
+        },
+        {
+          "level": 3,
+          "text": "Are left-handed people smarter?"
+        },
+        {
+          "level": 2,
+          "text": "What else should I know about handedness?"
+        },
+        {
+          "level": 3,
+          "text": "Influences on handedness"
+        },
+        {
+          "level": 2,
+          "text": "What else should I know about intelligence?"
+        },
+        {
+          "level": 2,
+          "text": "Are any other traits associated with left-handedness?"
+        },
+        {
+          "level": 3,
+          "text": "The southpaw advantage"
+        },
+        {
+          "level": 2,
+          "text": "How do I know if I’m left-handed?"
+        },
+        {
+          "level": 2,
+          "text": "The takeaway"
+        },
+        {
+          "level": 3,
+          "text": "How we reviewed this article:"
+        },
+        {
+          "level": 2,
+          "text": "related stories"
+        }
+      ],
+      "lead": "The notion that lefties are smarter than righties has been floating around for some time.",
+      "content": "The notion that lefties are smarter than righties has been floating around for some time.\n\nWhile some studies have suggested there may be a link between left-handedness and a higher IQ, others have shown that right-handed people may actually have the edge.\n\nHere’s what the research says when it comes to lefties and IQ.\n\nLeft-handed people, also known as “lefties” and “southpaws,” make up about 10 percent of the population.\n\nSome famous lefties include great minds, such as:\n\nFrench emperor Napoleon Bonaparte\n\nRenaissance artist Leonardo DaVinci\n\nHistorically, left-handed people have been viewed and treated as outcasts. In the Middle Ages, left-handed people feared being accused of witchcraft.\n\nAs recently as the early 20th century, many educators in the United States forced left-handers to “retrain” their natural tendencies in order to become right-handed.\n\nScientists also used to think that left-handedness was due to minor brain damage in early development.\n\nThese myths have been debunked over the years, and some have asserted that being left-handed is actually associated with higher intelligence.\n\nWhile the claim is intriguing, medical literature reveals inconclusive results.\n\nThe belief that handedness is associated with intelligence has been around for centuries.\n\nResearch seems to support both sides of the argument. Here’s what studies have shown in favor and against the idea that left-handedness has anything to do with intelligence.\n\nA 2010 study in the Journal of the International Neuropsychological Society revealed that strong right-handers seemed to perform slightly better on cognitive tests when compared to left-handers.\n\nA 2015 study in Neuroscience & Biobehavioral Reviews looked at five meta-analyses that included data on more than 16,000 individuals. They found no difference in IQ levels among left- and right-handed people, but left-handers appeared to be more likely to have an intellectual disability.\n\nHowever, this study indicated that people who were intellectually gifted or following typical development were also just as likely to be left-handed.\n\nA study in Neuroscience and Biobehavioral Reviews looked at 18 studies measuring the full IQ scores of more than 20,000 participants.\n\nAlthough data suggested that right-handed people had slightly higher IQ scores compared to left-handers, the scientists noted that intelligence differences between right and left-handed people were negligible overall.\n\nOther studies have found lefties seem to have the upper hand when it comes to smarts.\n\nA 2007 study in the Journal of the Indian Academy of Applied Psychology found that, out of 150 subjects, left-handed participants were significantly more likely to perform better on an intelligence test than right-handed people. Right-handers also took more time to complete the test.\n\nAnother study in the journal Brain in 2019 revealed that there are genetic differences between left-handers and right-handers.\n\nExamining data on about 400,000 people, scientists discovered that the left and right hemispheres of the brain were better connected and more coordinated in regions involving language in left-handed people.\n\nThese traits suggest that left-handed individuals may have superior verbal skills.\n\nHandedness, or hand preference, is the tendency to be more comfortable and skilled when using one hand over the other to perform tasks.\n\nWhile right-handedness and left-handedness are well-known, there are also some less common variations, including:\n\nMixed-handedness: favor different hands depending on the task\n\nAmbidextrousness: can perform tasks equally with either hand\n\nScientists believe your hand preference is a complex characteristic that’s influenced by many factors, including:\n\nHand preference develops before birth and becomes more obvious during early childhood and throughout one’s life.\n\nResearchers believe hand preference may have to do with the developmental differences between the right and left hemispheres of the brain. The right hemisphere controls movement on the left side of the body, while the left hemisphere controls movement on the right side of the body.\n\nRecent studies have also suggested that multiple genes, maybe even close to 40, are related to hand preference.\n\nChildren of left-handed parents are more likely to be left-handed than children of right-handed parents. But because lefties are comparatively rare, most children of left-handed parents are right-handed.\n\nCultural influences, environment, and prenatal exposures may also play a role in determining handedness.\n\nIntelligence can be defined in many different ways.\n\nIn psychology, for instance, intelligence may be described as possessing one or a combination of the following attributes:\n\na higher ability level, such as abstract reasoning, problem-solving, or decision-making\n\nThere are different theories of intelligence and ways to measure it, including the well-known intelligence quotient (IQ) tests.\n\nWhile certain exams can provide useful information, they aren’t the only way to assess intelligence or validate this complex label.\n\nSome research has shown lefties may be more likely to develop certain conditions, including:\n\npost-traumatic stress disorder (PTSD)\n\nlearning disabilities, such as dyslexia\n\nBut other studies reveal lefties might have the advantage in certain areas.\n\nResearch shows left-handed people may have a lower risk of developing ulcers and arthritis. They may also recover more quickly from strokes.\n\nAn older article in the American Journal of Psychology suggests that left-handed people may be better at divergent thinking, a thought process used to generate creative ideas.\n\nStudies have also suggested that lefties excel athletically, sometimes dubbed the “southpaw advantage.”\n\nWhile only about 10 percent of the general population consists of left-handed people, they are overrepresented in some elite sports.\n\nHand preference is highly subjective and personal. Most people determine their handedness during childhood, sometimes with the help of a parent or caregiver.\n\nBut if you’re not sure if you’re a leftie or a righty, ask yourself this question: Which hand do you perform most activities with, not just writing?\n\nIf you happen to use one hand for about half of the activities and the other for the other half, you may be mixed-handed.\n\nWhile there are curious differences between lefties and righties, a higher intelligence level probably isn’t one of them.\n\nMany studies show mixed results when examining this complicated link, leading researchers to conclude that left-handed people are no smarter than their right-handed counterparts.",
+      "wordCount": 979,
+      "schemas": [],
+      "error": null
+    },
+    {
+      "url": "https://www.reddit.com/r/lefthanded/comments/kx0n9x/dear_lefties_of_reddit_do_you_consider_yourself/",
+      "title": "Reddit - Please wait for verification",
+      "meta": "",
+      "headings": [],
+      "lead": "",
+      "content": "",
+      "wordCount": 0,
+      "schemas": [],
+      "error": null
+    },
+    {
+      "url": "https://www.cso.ie/en/media/csoie/newsevents/documents/johnhoopercomp2018/A_Statistical_Analysis_of_the_Correlation_Between_Left_Handedness_and_Brain_Function.pdf",
+      "error": "Failed to crawl (status or block)"
+    },
+    {
+      "url": "https://www.livescience.com/are-left-handed-people-smarter",
+      "title": "Are left-handed people smarter? | Live Science",
+      "meta": "Lefties constitute about 10% of the world's population.",
+      "headings": [
+        {
+          "level": 2,
+          "text": "Lefty history"
+        }
+      ],
+      "lead": "Get the world’s most fascinating discoveries delivered straight to your inbox.",
+      "content": "Get the world’s most fascinating discoveries delivered straight to your inbox.\n\nUnlock instant access to exclusive member features.\n\nYour newsletter sign-up was successful\n\nGet full access to premium articles, exclusive features and a growing list of member rewards.\n\nLeft-handed people comprise only around 10% of the global population, but a quick glance reveals that many key movers and shakers are lefties.\n\nFor instance, three out of the last six American presidents were lefties: George H.W. Bush, Bill Clinton and Barack Obama. Plus, an eclectic slew of outliers who've rocked the world in one way or another had dominant left hands: Michelangelo, Leonardo da Vinci, Paul McCartney, David Bowie, Jimi Hendrix, James Baldwin, Nikola Tesla, Oprah Winfrey, Bill Gates and Steve Jobs, according to a 2019 report and The New York Times.\n\nIt's an impressive roster, but what does the data say? Are left-handed people smarter than righties?\n\nRelated: Why are people left- (or right-) handed?\n\nTo investigate this question, researchers looked at the differences in mathematical achievement between more than 2,300 right- and left-handed students between the ages of 6 and 17 in Italy. While there was no difference when looking at the easier math problems, left-handed students had a significant edge on the more difficult problems, such as associating a mathematical function to a set of data, according to the 2017 study in the journal Frontiers, led by Giovanni Sala, an assistant professor at the Institute for Comprehensive Medical Science at Fujita Health University in Japan.\n\nBut why would a person's dominant hand have anything to do with mathematical ability? Left-handedness is associated with some surprising differences in the architecture of the brain. A 1995 meta-analysis of 43 studies in the journal Psychobiology determined that left-handers possess a significantly larger corpus callosum — the bundle of nerve fibers connecting the two hemispheres of the brain — than right-handers do.\n\n\"A possibility is that the stronger connection between the two hemispheres allows the [left-handed] subject to have stronger spatial abilities, and we know that spatial abilities are connected to mathematics because mathematics is often conceptualized throughout space,\" said Sala, who conducted his research while at the University of Liverpool in the U.K.\n\nGet the world’s most fascinating discoveries delivered straight to your inbox.\n\nIn some cases, it might depend on how a person becomes left-handed. \"Handedness is a very complex trait, and specifically left-handedness may be an advantage or a disadvantage depending on what the cause is,\" Sala told Live Science. Sometimes, \"left-handedness can be caused by some kind of brain damage, when the right hemisphere has to take over because there is some kind of damage in the left hemisphere.\"\n\nThis type of damage could be caused by a hemispheric lesion that occurs prenatally, according to a 1985 study in the journal Brain and Cognition. If the lesions occur in the left hemisphere of the brain, then this could lead the individual to predominantly use the right half of their brain. Since the hemispheres of the brain are cross-indexed (meaning the left hemisphere controls the right side of the body, and vice versa), a dominant right hemisphere can lead to left-handedness. The study refers to this as \"pathological left-handedness,\" and noted that it can lead to learning difficulties. In other words, sometimes being lefty is associated with learning problems.\n\nIt's complex, but Sala's study paints a picture of left-handers being over-represented at both the bottom and top of the cognitive spectrum. \"Once you see that the subject is not intellectually challenged ... then left handedness seems to be a predictor of intellectual ability,\" specifically mathematical ability, according to his study, Sala said. However, he cautions that his results are not the final word, and that further studies must be done.\n\nWhat's more, other data shows that righties have a slight intellectual edge over lefties. A 2017 study in the journal Neuroscience and Behavioral Reviews reviewed 18 other studies which included data from over 20,400 people and found that right-handers had negligibly higher IQs than left-handers do, on average. \"The jury is still out when it comes to the questions of whether it is degree of hand preference that is associated with intelligence and whether there is a relationship between relative handskill and intelligence,\" the authors wrote in the study.\n\nLeft-handedness has not always been seen in such a positive light. In the 1936 pamphlet \"The Prevention and Correction of Left-Handedness in Children,\" by J.W. Conway, left-handedness was described as a \"disease\" as serious and problematic as rickets and pneumonia.\n\nPrejudice against left-handers has deep roots and is built into our very language. To be someone's \"right-hand man\" is good, while having \"two left feet\" or receiving a \"left-handed compliment\" is bad. The word itself comes from the old English \"lyft\" meaning weak or broken, while the word \"right\" is given the additional honors of meaning factually correct, morally justified, or a \"moral or legal entitlement.\"\n\n—Why do humans have palm lines?\n\n—What if our hands had 6 fingers?\n\n—Do hair and nails keep growing after a person dies?\n\nThese slights are not unique to English, either. The French word for left is \"gauche,\" which in both English and French also means \"awkward or tactless,\" while ,\"droite,\" the French word for right, translates to \"adroit.\" Going back further still, the Roman word for left was \"sinister,\" while their word for right, or \"dexter,\" gives us the English word dexterity.\n\nEven modern research acknowledges some downsides to being of the lefty persuasion. It's been statistically associated with schizophrenia, dyslexia, and breast cancer, to name a few. (However, an association does not prove that one causes the other.)\n\nBut these prejudices just make those numerous left-handers who have become historical and contemporary icons all the more impressive. Not bad for a group of supposed gauche and sinister abnormals, right?\n\nOriginally published on Live Science.\n\n1Loneliness may contribute to memory issues, but not dementia — they are 'not the same thing'\n\n2Naked mole rats wage bloody wars of succession to choose a new queen — but one colony did something scientists have never seen before\n\n3'The chances of you living 50 years are very small': Theoretical physicist explains why humanity likely won't survive to see all the forces unified\n\n4Can the US be trusted with the moon? A law scholar raises concerns after Artemis II's success.\n\n5Lyrid meteor shower 2026: See spring's first rain of 'shooting stars' peak in moonless skies",
+      "wordCount": 1068,
+      "schemas": [],
+      "error": null
+    },
+    {
+      "url": "https://www.quora.com/Are-left-handed-people-more-intelligent-than-right-handed-people",
+      "title": "Are left-handed people more intelligent than right-handed people? - Quora",
+      "meta": "",
+      "headings": [],
+      "lead": "Something went wrong. Wait a moment and try again.",
+      "content": "Something went wrong. Wait a moment and try again.",
+      "wordCount": 9,
+      "schemas": [],
+      "error": null
+    },
+    {
+      "url": "https://www.facebook.com/groups/4841949695851276/posts/8608451285867746/",
+      "title": "Left handed people only. | I was told left handed￼ people have higher IQ￼",
+      "meta": "I was told left handed￼ people have higher IQ￼. We have to use both sides of our brain.",
+      "headings": [],
+      "lead": "",
+      "content": "",
+      "wordCount": 0,
+      "schemas": [],
+      "error": null
+    },
+    {
+      "url": "https://www.sciencefocus.com/the-human-body/are-left-handers-smarter",
+      "title": "Are left-handers smarter? - BBC Science Focus Magazine",
+      "meta": "Right-handers rejoice, handedness may affect intelligence.",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Are left-handers smarter?"
+        }
+      ],
+      "lead": "Asked by: Praneeth Vitharana, Sri Lanka",
+      "content": "Asked by: Praneeth Vitharana, Sri Lanka\n\nThe idea that left-handed people are more intelligent than right-handers is a myth.\n\nThere have been lefty geniuses in history like Leonardo da Vinci, but this is not part of a larger pattern. If anything, the opposite is true.\n\nIn 2015 Dutch researchers combined the results from over 30 previous studies involving over half a million people and found no link between handedness and verbal ability and a small advantage for right-handers in terms of spatial ability.\n\nAnother recent study based on data from tens of thousands of people actually found that left-handedness was more common among people with very low IQ than among people with typical IQ.\n\nSubscribe to BBC Focus magazine for fascinating new Q&As every month and follow @sciencefocusQA on Twitter for your daily dose of fun science facts.",
+      "wordCount": 138,
+      "schemas": [],
+      "error": null
+    },
+    {
+      "url": "https://www.mpi.nl/news/large-study-compares-brains-left-handers-and-right-handers",
+      "title": "Large study compares the brains of left-handers and right-handers | Max Planck Institute",
+      "meta": "",
+      "headings": [
+        {
+          "level": 2,
+          "text": "Breadcrumb"
+        },
+        {
+          "level": 1,
+          "text": "Large study compares the brains of left-handers and right-handers"
+        },
+        {
+          "level": 2,
+          "text": "Share this page"
+        }
+      ],
+      "lead": "Scientists have long been fascinated by left-handedness. This is because left-handedness is related to brain asymmetry: the way that the two brain hemispheres are specialised for different functions. In right handers, the left hemisphere controls the dominant right hand, whereas the situation is reversed in left-handers. Most people also have left hemisphere dominance for language, but this is more often reversed in left-handers. As MPI’s Clyde Francks explains, “Hemispheric specialisation is important for language and other cognitive functions. Various psychiatric traits involve increased rates of left-handedness, including autism, schizophrenia and intellectual disability – although of course most left-handed people do not have these.” But how exactly is hand preference related to brain asymmetry, and what role do genes play?",
+      "content": "Scientists have long been fascinated by left-handedness. This is because left-handedness is related to brain asymmetry: the way that the two brain hemispheres are specialised for different functions. In right handers, the left hemisphere controls the dominant right hand, whereas the situation is reversed in left-handers. Most people also have left hemisphere dominance for language, but this is more often reversed in left-handers. As MPI’s Clyde Francks explains, “Hemispheric specialisation is important for language and other cognitive functions. Various psychiatric traits involve increased rates of left-handedness, including autism, schizophrenia and intellectual disability – although of course most left-handed people do not have these.” But how exactly is hand preference related to brain asymmetry, and what role do genes play?\n\nTo investigate the neural and genetic basis of left-handedness, researchers from the Max Planck Institute for Psycholinguistics and the Donders Institute in Nijmegen collaborated with an international team of scientists from the University of Bordeaux, the Basque Center on Cognition, Brain and Language in San Sebastian, and the University of Oslo. To examine differences between left-handers and right-handers, the team used images from a large dataset (the UK Biobank) to measure asymmetries. According to postdoctoral researcher Zhiqiang Sha, “It took around three months of processing on twelve computer cluster servers, running in parallel”. Francks adds “If we could map which parts of the brain are linked to handedness, and examine the genetic effects on these brain regions, then we could start to understand which other brain functions might be linked to handedness as it develops in individuals, or were linked during our evolutionary history”.\n\nRight-handers differed on average from left-handers in their brain asymmetry in ten specific regions, spread widely across the brain’s surface. In all ten of these regions, the grey matter of the right hemisphere tended to be relatively larger in left-handers, consistent with increased neural resources to support that hemisphere’s role in controlling the left hand. “This is the first time that specific parts of the brain’s anatomy have been linked confidently to handedness”, says Francks.\n\nThe scientists also discovered that genetic influences on handedness were associated with brain asymmetries in language-related regions. Interestingly, one of the implicated genes is NME7, which is also known to affect the positions of body organs—such as the heart or liver—on the right or left side of the body.\n\nAccording to Francks, handedness and language may be partly linked to each other during human brain development, and might have shared an evolutionary history. “Gestural communication may have been an important part of early language evolution, or perhaps hand control and language share a certain type of neural information processing that is particularly well supported by the left hemisphere in most people.”\n\nHowever, Francks stresses that the differences in brain anatomy between left- and right-handers were only visible as slightly different averages between the two groups, while the variation in both groups was largely overlapping. “We did not find a clear ‘marker’ or ‘signature’ in the brain’s anatomy that can predict whether someone is left-handed.”\n\nZhiqiang Sha, Antonietta Pepe, Dick Schijven, Amaia Carrion Castillo, James M. Roe, René Westerhausen, Marc Joliot, Simon E. Fisher, Fabrice Crivello & Clyde Francks. (2021). Handedness and its genetic influences are associated with structural asymmetries of the cerebral cortex in 31,864 individuals. PNAS.",
+      "wordCount": 545,
+      "schemas": [],
+      "error": null
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28826694/",
+      "title": "Right-handers have negligibly higher IQ scores than left-handers: Systematic review and meta-analyses - PubMed",
+      "meta": "The relationship between intelligence and handedness remains a matter of debate. The present study is a systematic review of 36 studies (totaling 66,108 individuals), which have measured full IQ scores in different handedness groups. Eighteen of those studies were further included in three sets of m …",
+      "headings": [
+        {
+          "level": 2,
+          "text": "Save citation to file"
+        },
+        {
+          "level": 2,
+          "text": "Email citation"
+        },
+        {
+          "level": 3,
+          "text": "Add to Collections"
+        },
+        {
+          "level": 3,
+          "text": "Add to My Bibliography"
+        },
+        {
+          "level": 2,
+          "text": "Your saved search"
+        },
+        {
+          "level": 2,
+          "text": "Create a file for external citation management software"
+        },
+        {
+          "level": 2,
+          "text": "Your RSS Feed"
+        },
+        {
+          "level": 2,
+          "text": "Abstract"
+        },
+        {
+          "level": 2,
+          "text": "Publication types"
+        },
+        {
+          "level": 2,
+          "text": "MeSH terms"
+        },
+        {
+          "level": 2,
+          "text": "LinkOut - more resources"
+        },
+        {
+          "level": 3,
+          "text": "Full Text Sources"
+        },
+        {
+          "level": 3,
+          "text": "Other Literature Sources"
+        }
+      ],
+      "lead": "The relationship between intelligence and handedness remains a matter of debate. The present study is a systematic review of 36 studies (totaling 66,108 individuals), which have measured full IQ scores in different handedness groups. Eighteen of those studies were further included in three sets of meta-analyses (totaling 20,442 individuals), which investigated differences in standardized mean IQ scores in (i) left-handers, (ii) non-right-handers, and (iii) mixed-handers compared to right-handers. The bulk of the studies included in the systematic review reported no differences in IQ scores between left- and right-handers. In the meta-analyses, statistically significant differences in mean IQ scores were detected between right-handers and left-handers, but were marginal in magnitude (d=-0.07); the data sets were found to be homogeneous. Significance was lost when the largest study was excluded. No differences in mean IQ scores were found between right-handers and non-right-handers as well as between right-handers and mixed-handers. No sex differences were found. Overall, the intelligence differences between handedness groups in the general population are negligible.",
+      "content": "The relationship between intelligence and handedness remains a matter of debate. The present study is a systematic review of 36 studies (totaling 66,108 individuals), which have measured full IQ scores in different handedness groups. Eighteen of those studies were further included in three sets of meta-analyses (totaling 20,442 individuals), which investigated differences in standardized mean IQ scores in (i) left-handers, (ii) non-right-handers, and (iii) mixed-handers compared to right-handers. The bulk of the studies included in the systematic review reported no differences in IQ scores between left- and right-handers. In the meta-analyses, statistically significant differences in mean IQ scores were detected between right-handers and left-handers, but were marginal in magnitude (d=-0.07); the data sets were found to be homogeneous. Significance was lost when the largest study was excluded. No differences in mean IQ scores were found between right-handers and non-right-handers as well as between right-handers and mixed-handers. No sex differences were found. Overall, the intelligence differences between handedness groups in the general population are negligible.\n\nKeywords:\n        \n      \n      Cerebral laterality; Cognitive ability; Hand preference; Handedness; IQ; Intelligence.\n\nCopyright © 2017 Elsevier Ltd. All rights reserved.\n\nMeta-Analysis\n    Actions\n              Search in PubMed\n            \n                Search in MeSH\n              \n              Add to Search\n\nSystematic Review\n    Actions\n              Search in PubMed\n            \n                Search in MeSH\n              \n              Add to Search\n\nFunctional Laterality*\n    Actions\n              Search in PubMed\n            \n                Search in MeSH\n              \n              Add to Search\n\nHumans\n    Actions\n              Search in PubMed\n            \n                Search in MeSH\n              \n              Add to Search\n\nIntelligence Tests / statistics & numerical data*\n    Actions\n              Search in PubMed\n            \n                Search in MeSH\n              \n              Add to Search\n\nFull Text Sources\n                    Elsevier Science\n                  \n                    Ovid Technologies, Inc.\n\nOther Literature Sources\n                    scite Smart Citations",
+      "wordCount": 259,
+      "schemas": [],
+      "error": null
+    }
+  ],
+  "yourPage": null
+}

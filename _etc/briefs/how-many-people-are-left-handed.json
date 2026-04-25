@@ -1,0 +1,697 @@
+{
+  "keyword": "how many people are left handed",
+  "timestamp": "2026-04-25",
+  "winnersMode": null,
+  "userPosition": null,
+  "serp": {
+    "query": "how many people are left handed",
+    "ourPositions": [],
+    "ranking": false,
+    "bestPosition": null,
+    "competitors": [
+      {
+        "position": 1,
+        "title": "Why are 12-13% of people left handed, rather than 50%? Is ...",
+        "link": "https://www.reddit.com/r/biology/comments/1iwjf20/why_are_1213_of_people_left_handed_rather_than_50/",
+        "domain": "reddit.com",
+        "snippet": "Why are 12-13% of people left handed, rather than 50%? Is this reflected in other species? Whatever happened to the \"dominant\" brain hemisphere ...",
+        "type": "organic"
+      },
+      {
+        "position": 2,
+        "title": "Handedness",
+        "link": "https://en.wikipedia.org/wiki/Handedness",
+        "domain": "en.wikipedia.org",
+        "snippet": "In a study from 1975 on 7,688 children in US grades 1–6, left handers comprised 9.6% of the sample, with 10.5% of male children and 8.7% of female children ...",
+        "type": "organic"
+      },
+      {
+        "position": 3,
+        "title": "Left-Handers Day: Amazing facts about lefties",
+        "link": "https://www.bbc.co.uk/newsround/53739189",
+        "domain": "bbc.co.uk",
+        "snippet": "Research suggests that between ten and twelve percent of the world's population is left-handed. Even though being left-handed might mean struggling with right- ...",
+        "type": "organic"
+      },
+      {
+        "position": 4,
+        "title": "Did you know that only about 10 to 15% of the world's ...",
+        "link": "https://www.facebook.com/News5Cleveland/posts/did-you-know-that-only-about-10-to-15-of-the-worlds-population-is-left-handed/1243404877831878/",
+        "domain": "facebook.com",
+        "snippet": "Left-handed people make up about 10% of the world's population. Although society is often designed to be convenient for right-handed individuals ...",
+        "type": "organic"
+      },
+      {
+        "position": 5,
+        "title": "The World's Biggest Study on Left-Handedness",
+        "link": "https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202004/the-worlds-biggest-study-on-left-handedness",
+        "domain": "psychologytoday.com",
+        "snippet": "They found that across studies, the prevalence of left-handedness lies between 9.3% and 18.1%, with the best overall estimate being 10.6%. So ...",
+        "type": "organic"
+      },
+      {
+        "position": 6,
+        "title": "Left-Handers: Health Risks and Other Facts",
+        "link": "https://www.healthline.com/health/left-handers-and-health-risk",
+        "domain": "healthline.com",
+        "snippet": "Although left-hand-dominant people represent only about 10% of the population, they appear to have higher health risks of certain conditions, ...",
+        "type": "organic"
+      },
+      {
+        "position": 7,
+        "title": "A large-scale population study of early life factors influencing ...",
+        "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6345846/",
+        "domain": "pmc.ncbi.nlm.nih.gov",
+        "snippet": "Roughly 90% of people have a preference for using the right hand for complex manual tasks. A minority of roughly 10% prefer to use the left hand, and a smaller ...",
+        "type": "organic"
+      },
+      {
+        "position": 8,
+        "title": "Why Only 10.6% of Humans Are Left-Handed ?",
+        "link": "https://www.youtube.com/watch?v=vhIQpibGh3s",
+        "domain": "youtube.com",
+        "snippet": "Why Are Some People Left-Handed? | The Science, Evolution, and Hidden Advantages Left-handed people make up only about 10% of the world's ...",
+        "type": "organic"
+      }
+    ],
+    "topDomains": [
+      {
+        "domain": "reddit.com",
+        "count": 1
+      },
+      {
+        "domain": "en.wikipedia.org",
+        "count": 1
+      },
+      {
+        "domain": "bbc.co.uk",
+        "count": 1
+      },
+      {
+        "domain": "facebook.com",
+        "count": 1
+      },
+      {
+        "domain": "psychologytoday.com",
+        "count": 1
+      },
+      {
+        "domain": "healthline.com",
+        "count": 1
+      },
+      {
+        "domain": "pmc.ncbi.nlm.nih.gov",
+        "count": 1
+      },
+      {
+        "domain": "youtube.com",
+        "count": 1
+      }
+    ],
+    "themes": [
+      {
+        "phrase": "1213 people",
+        "count": 2
+      },
+      {
+        "phrase": "people left",
+        "count": 2
+      },
+      {
+        "phrase": "left handed",
+        "count": 2
+      },
+      {
+        "phrase": "handed rather",
+        "count": 2
+      },
+      {
+        "phrase": "worlds population",
+        "count": 2
+      },
+      {
+        "phrase": "lefthanded people",
+        "count": 2
+      },
+      {
+        "phrase": "health risks",
+        "count": 2
+      }
+    ],
+    "paaQuestions": [
+      {
+        "question": "Why is being left-handed more rare?",
+        "snippet": "",
+        "link": "https://www.google.com/search?sca_esv=d378d7b468f52dd5&hl=en&gl=us&udm=50&q=Why+is+being+left-handed+more+rare%3F+Explain+negative+frequency-dependent+selection&aep=64&sa=X&ved=2ahUKEwjR6-K4jImUAxWWB-8CHYBcGzgQy8AQKAB6BAgaEAc",
+        "domain": "google.com",
+        "type": "paa"
+      },
+      {
+        "question": "What makes lefties so special?",
+        "snippet": "",
+        "domain": null,
+        "type": "paa"
+      },
+      {
+        "question": "What gender is mostly left-handed?",
+        "snippet": "",
+        "link": "https://www.google.com/search?sca_esv=d378d7b468f52dd5&hl=en&gl=us&udm=50&q=What+gender+is+mostly+left-handed%3F+Explain+the+genetic+theories+in+detail&aep=64&sa=X&ved=2ahUKEwjR6-K4jImUAxWWB-8CHYBcGzgQy8AQKAB6BAgeEAc",
+        "domain": "google.com",
+        "type": "paa"
+      },
+      {
+        "question": "Is being left-handed linked to ADHD?",
+        "snippet": "",
+        "link": "https://www.google.com/search?sca_esv=d378d7b468f52dd5&hl=en&gl=us&udm=50&q=Is+being+left-handed+linked+to+ADHD%3F+Explain+the+link+between+ADHD+and+brain+lateralization&aep=64&sa=X&ved=2ahUKEwjR6-K4jImUAxWWB-8CHYBcGzgQy8AQKAB6BAgfEAc",
+        "domain": "google.com",
+        "type": "paa"
+      }
+    ],
+    "unansweredPAA": [
+      {
+        "question": "Why is being left-handed more rare?",
+        "snippet": "",
+        "link": "https://www.google.com/search?sca_esv=d378d7b468f52dd5&hl=en&gl=us&udm=50&q=Why+is+being+left-handed+more+rare%3F+Explain+negative+frequency-dependent+selection&aep=64&sa=X&ved=2ahUKEwjR6-K4jImUAxWWB-8CHYBcGzgQy8AQKAB6BAgaEAc",
+        "domain": "google.com",
+        "type": "paa"
+      },
+      {
+        "question": "What makes lefties so special?",
+        "snippet": "",
+        "domain": null,
+        "type": "paa"
+      },
+      {
+        "question": "What gender is mostly left-handed?",
+        "snippet": "",
+        "link": "https://www.google.com/search?sca_esv=d378d7b468f52dd5&hl=en&gl=us&udm=50&q=What+gender+is+mostly+left-handed%3F+Explain+the+genetic+theories+in+detail&aep=64&sa=X&ved=2ahUKEwjR6-K4jImUAxWWB-8CHYBcGzgQy8AQKAB6BAgeEAc",
+        "domain": "google.com",
+        "type": "paa"
+      },
+      {
+        "question": "Is being left-handed linked to ADHD?",
+        "snippet": "",
+        "link": "https://www.google.com/search?sca_esv=d378d7b468f52dd5&hl=en&gl=us&udm=50&q=Is+being+left-handed+linked+to+ADHD%3F+Explain+the+link+between+ADHD+and+brain+lateralization&aep=64&sa=X&ved=2ahUKEwjR6-K4jImUAxWWB-8CHYBcGzgQy8AQKAB6BAgfEAc",
+        "domain": "google.com",
+        "type": "paa"
+      }
+    ],
+    "totalResults": 8
+  },
+  "directness": [
+    {
+      "pageIndex": 0,
+      "url": "https://www.reddit.com/r/biology/comments/1iwjf20/why_are_1213_of_people_left_handed_rather_than_50/",
+      "score": 0,
+      "firstAnswer": "",
+      "sentenceIndex": -1,
+      "hedges": [],
+      "leadHasAnswer": false
+    },
+    {
+      "pageIndex": 1,
+      "url": "https://en.wikipedia.org/wiki/Handedness",
+      "score": 38,
+      "firstAnswer": "The other hand, comparatively often the weaker, less dextrous or simply less subjectively preferred, is called the non-dominant hand.[2][3][4] In a study from 1975 on 7,688 children in US grades 1–6, left handers comprised 9.6% of the sample, with 10.5% of male children and 8.7% of female children being left-handed.[5][6][7] Overall, around 90% of people are right-handed.[8] Handedness is often defined by one's writing hand.",
+      "sentenceIndex": 1,
+      "hedges": [
+        "often"
+      ],
+      "leadHasAnswer": true
+    },
+    {
+      "pageIndex": 2,
+      "url": "https://www.bbc.co.uk/newsround/53739189",
+      "score": 76,
+      "firstAnswer": "It's a time to celebrate left-handed people and to raise awareness of some of the experiences many of them face in a world designed largely with right-handed people in mind.",
+      "sentenceIndex": 2,
+      "hedges": [],
+      "leadHasAnswer": true
+    },
+    {
+      "pageIndex": 3,
+      "url": "https://www.facebook.com/News5Cleveland/posts/did-you-know-that-only-about-10-to-15-of-the-worlds-population-is-left-handed/1243404877831878/",
+      "score": 0,
+      "firstAnswer": "",
+      "sentenceIndex": -1,
+      "hedges": [],
+      "leadHasAnswer": false
+    },
+    {
+      "pageIndex": 4,
+      "url": "https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202004/the-worlds-biggest-study-on-left-handedness",
+      "score": 32,
+      "firstAnswer": "For example, a recent study found that people born in England had a 10.1% chance of being left-handed, while people born outside the U.K. only had a 6.8% chance (de Kovel et al., 2019).",
+      "sentenceIndex": 6,
+      "hedges": [],
+      "leadHasAnswer": false
+    },
+    {
+      "pageIndex": 5,
+      "url": "https://www.healthline.com/health/left-handers-and-health-risk",
+      "score": 100,
+      "firstAnswer": "Some research suggests left-handed people have an increased risk of certain health conditions, but many of these studies are small or low quality.",
+      "sentenceIndex": 0,
+      "hedges": [],
+      "leadHasAnswer": true
+    },
+    {
+      "pageIndex": 6,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6345846/",
+      "score": 0,
+      "firstAnswer": "",
+      "sentenceIndex": -1,
+      "hedges": [],
+      "leadHasAnswer": false
+    },
+    {
+      "pageIndex": 7,
+      "url": "https://www.youtube.com/watch?v=vhIQpibGh3s",
+      "score": 0,
+      "firstAnswer": "",
+      "sentenceIndex": -1,
+      "hedges": [],
+      "leadHasAnswer": false
+    }
+  ],
+  "intentCoverage": [
+    {
+      "question": "Why is being left-handed more rare?",
+      "coveredBy": [
+        {
+          "pageIndex": 1,
+          "url": "https://en.wikipedia.org/wiki/Handedness",
+          "via": "body"
+        },
+        {
+          "pageIndex": 2,
+          "url": "https://www.bbc.co.uk/newsround/53739189",
+          "via": "heading"
+        },
+        {
+          "pageIndex": 4,
+          "url": "https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202004/the-worlds-biggest-study-on-left-handedness",
+          "via": "body"
+        },
+        {
+          "pageIndex": 5,
+          "url": "https://www.healthline.com/health/left-handers-and-health-risk",
+          "via": "heading"
+        }
+      ],
+      "covered": true
+    },
+    {
+      "question": "What makes lefties so special?",
+      "coveredBy": [
+        {
+          "pageIndex": 2,
+          "url": "https://www.bbc.co.uk/newsround/53739189",
+          "via": "body"
+        }
+      ],
+      "covered": true
+    },
+    {
+      "question": "What gender is mostly left-handed?",
+      "coveredBy": [
+        {
+          "pageIndex": 1,
+          "url": "https://en.wikipedia.org/wiki/Handedness",
+          "via": "heading"
+        }
+      ],
+      "covered": true
+    },
+    {
+      "question": "Is being left-handed linked to ADHD?",
+      "coveredBy": [
+        {
+          "pageIndex": 1,
+          "url": "https://en.wikipedia.org/wiki/Handedness",
+          "via": "body"
+        },
+        {
+          "pageIndex": 2,
+          "url": "https://www.bbc.co.uk/newsround/53739189",
+          "via": "heading"
+        },
+        {
+          "pageIndex": 4,
+          "url": "https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202004/the-worlds-biggest-study-on-left-handedness",
+          "via": "body"
+        },
+        {
+          "pageIndex": 5,
+          "url": "https://www.healthline.com/health/left-handers-and-health-risk",
+          "via": "heading"
+        }
+      ],
+      "covered": true
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://www.reddit.com/r/biology/comments/1iwjf20/why_are_1213_of_people_left_handed_rather_than_50/",
+      "title": "Reddit - Please wait for verification",
+      "meta": "",
+      "headings": [],
+      "lead": "",
+      "content": "",
+      "wordCount": 0,
+      "schemas": [],
+      "error": null
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Handedness",
+      "title": "Handedness - Wikipedia",
+      "meta": "",
+      "headings": [
+        {
+          "level": 2,
+          "text": "Types"
+        },
+        {
+          "level": 2,
+          "text": "Measurement"
+        },
+        {
+          "level": 2,
+          "text": "Evolution"
+        },
+        {
+          "level": 2,
+          "text": "Causes"
+        },
+        {
+          "level": 3,
+          "text": "Genetic factors"
+        },
+        {
+          "level": 3,
+          "text": "Prenatal hormone exposure"
+        },
+        {
+          "level": 3,
+          "text": "Ultrasound"
+        },
+        {
+          "level": 3,
+          "text": "Epigenetic markers"
+        },
+        {
+          "level": 3,
+          "text": "Language dominance"
+        },
+        {
+          "level": 2,
+          "text": "Developmental timeline"
+        },
+        {
+          "level": 2,
+          "text": "Correlation with other factors"
+        },
+        {
+          "level": 3,
+          "text": "Intelligence"
+        },
+        {
+          "level": 4,
+          "text": "Early childhood intelligence"
+        },
+        {
+          "level": 3,
+          "text": "Music"
+        },
+        {
+          "level": 3,
+          "text": "Health"
+        },
+        {
+          "level": 3,
+          "text": "Income"
+        },
+        {
+          "level": 3,
+          "text": "Sports"
+        },
+        {
+          "level": 3,
+          "text": "Sex"
+        },
+        {
+          "level": 3,
+          "text": "Sexuality and gender identity"
+        },
+        {
+          "level": 3,
+          "text": "Mortality rates in combat"
+        },
+        {
+          "level": 3,
+          "text": "Episodic memory"
+        },
+        {
+          "level": 3,
+          "text": "Corpus callosum"
+        },
+        {
+          "level": 3,
+          "text": "Divergent thinking"
+        },
+        {
+          "level": 2,
+          "text": "Products for left-handed use"
+        },
+        {
+          "level": 2,
+          "text": "Bias against left-handers"
+        },
+        {
+          "level": 3,
+          "text": "Negative connotations and discrimination"
+        },
+        {
+          "level": 4,
+          "text": "Discrimination in education"
+        },
+        {
+          "level": 3,
+          "text": "International Left-Handers Day"
+        },
+        {
+          "level": 2,
+          "text": "In other animals"
+        },
+        {
+          "level": 2,
+          "text": "See also"
+        },
+        {
+          "level": 3,
+          "text": "General"
+        },
+        {
+          "level": 3,
+          "text": "Handedness"
+        },
+        {
+          "level": 2,
+          "text": "References"
+        },
+        {
+          "level": 2,
+          "text": "Further resources"
+        },
+        {
+          "level": 2,
+          "text": "External links"
+        }
+      ],
+      "lead": "In human biology, handedness is an individual's preferential use of one hand, known as the dominant hand, due to and causing it to be stronger, faster or more dextrous. The other hand, comparatively often the weaker, less dextrous or simply less subjectively preferred, is called the non-dominant hand.[2][3][4] In a study from 1975 on 7,688 children in US grades 1–6, left handers comprised 9.6% of the sample, with 10.5% of male children and 8.7% of female children being left-handed.[5][6][7] Overall, around 90% of people are right-handed.[8] Handedness is often defined by one's writing hand. It is fairly common for people to prefer to do a particular task with a particular hand. Mixed-handed people change hand preference depending on the task.",
+      "content": "In human biology, handedness is an individual's preferential use of one hand, known as the dominant hand, due to and causing it to be stronger, faster or more dextrous. The other hand, comparatively often the weaker, less dextrous or simply less subjectively preferred, is called the non-dominant hand.[2][3][4] In a study from 1975 on 7,688 children in US grades 1–6, left handers comprised 9.6% of the sample, with 10.5% of male children and 8.7% of female children being left-handed.[5][6][7] Overall, around 90% of people are right-handed.[8] Handedness is often defined by one's writing hand. It is fairly common for people to prefer to do a particular task with a particular hand. Mixed-handed people change hand preference depending on the task.\n\nNot to be confused with handedness, ambidexterity describes having equal ability in both hands. Those who learn it still tend to favor their originally dominant hand. Natural ambidexterity (equal preference of either hand) does exist, but it is rare—most people prefer using one hand for most purposes.\n\nMost research suggests that left-handedness has an epigenetic marker—a combination of genetics, biology and the environment. In some cultures, the use of the left hand can be considered disrespectful. Because the vast majority of the population is right-handed, many devices are designed for use by right-handed people, making their use by left-handed people more difficult.[9] In many countries, left-handed people are or were required to write with their right hands. However, left-handed people have an advantage in sports that involve aiming at a target in an area of an opponent's control, as their opponents are more accustomed to the right-handed majority. As a result, they are over-represented in baseball, tennis, fencing,[10] cricket, boxing,[11][12] and mixed martial arts.[13]\n\nRight-handedness is the most common type. Right-handed people are more skillful with their right hands. Approximately 90% of people are right-handed.[7][14]\n\nLeft-handedness is less common. Left-handed people are more skillful with their left hands. Studies suggest that approximately 10% of people are left-handed.[7][15]\n\nAmbidexterity refers to having equal ability in both hands. Natural ambidexterity is uncommon, with about a 1% prevalence.[16]\n\nMixed-handedness or cross-dominance is the change of hand preference between different tasks. This is about as widespread as left-handedness.[17] This is highly associated with the person's childhood brain development.[18]\n\nHandedness may be measured behaviourally (performance measures) or through questionnaires (preference measures). The Edinburgh Handedness Inventory has been used since 1971 but contains some dated questions and is hard to score. Revisions have been published by Veale[19] and by Williams.[20] The longer Waterloo Handedness Questionnaire is not widely accessible. More recently, the Flinders Handedness Survey (FLANDERS) has been developed.[21]\n\nHandedness has been found in dozens of non-human vertebrates.[22] While data for fish is contentious, handedness has been found in amphibians, reptiles, birds, and various mammals.[22] Some non-human primates have a preferred hand for tasks, but they do not display a strong right-biased preference like modern humans, with individuals equally split between right-handed and left-handed preferences. When exactly a right handed preference developed in the human lineage is unknown, although it is known through various means that Neanderthals had a right-handedness bias like modern humans.[citation needed] Attempts to determine handedness of early humans by analysing the morphology of lithic artefacts have been found to be unreliable.[23]\n\nThere are several theories of how handedness develops.\n\nHandedness displays a complex inheritance pattern. For example, if both parents of a child are left-handed, there is a 26% chance of their child being left-handed.[24] A large study of twins from 25,732 families by Medland et al. (2006) indicates that the heritability of handedness is roughly 24%.[25]\n\nTwo theoretical single-gene models have been proposed to explain the patterns of inheritance of handedness, by Marian Annett[26] of the University of Leicester, and by Chris McManus[24] of UCL.\n\nHowever, growing evidence from linkage and genome-wide association studies suggests that genetic variance in handedness cannot be explained by a single genetic locus.[27][28][29][30][31][32][33][excessive citations] From these studies, McManus et al. now conclude that handedness is polygenic and estimate that at least 40 loci contribute to the trait.[34]\n\nBrandler et al. performed a genome-wide association study for a measure of relative hand skill and found that genes involved in the determination of left-right asymmetry in the body play a key role in handedness.[35] Brandler and Paracchini suggest the same mechanisms that determine left-right asymmetry in the body (e.g. nodal signaling and ciliogenesis) also play a role in the development of brain asymmetry\n(handedness being a reflection of brain asymmetry for motor function).[36]\n\nIn 2019, Wiberg et al. performed a genome-wide association study and found that handedness was significantly associated with four loci, three of them in genes encoding proteins involved in brain development.[37]\n\nFour studies have indicated that individuals who have had in-utero exposure to diethylstilbestrol (a synthetic estrogen-based medication used between 1940 and 1971) were more likely to be left-handed over the clinical control group. Diethylstilbestrol animal studies \"suggest that estrogen affects the developing brain, including the part that governs sexual behavior and right and left dominance\".[38][39][40][41]\n\nAnother theory is that ultrasound may sometimes affect the brains of unborn children, causing higher rates of left-handedness in children whose mothers receive ultrasound during pregnancy. Research suggests there may be a weak association between ultrasound screening (sonography used to check the healthy development of the fetus and mother) and left-handedness.[42]\n\nTwin studies indicate that genetic factors explain 25% of the variance in handedness, and environmental factors the remaining 75%.[43] While the molecular basis of handedness epigenetics is largely unclear, Ocklenburg et al. (2017) found that asymmetric methylation of CpG sites plays a key role for gene expression asymmetries related to handedness.[44][45]\n\nOne common handedness theory is the brain hemisphere division of labor. In most people, the left side of the brain controls speaking. The theory suggests it is more efficient for the brain to divide major tasks between the hemispheres—thus most people may use the non-speaking (right) hemisphere for perception and gross motor skills. As speech is a very complex motor control task, the specialised fine motor areas controlling speech are most efficiently used to also control fine motor movement in the dominant hand. As the right hand is controlled by the left hemisphere (and the left hand is controlled by the right hemisphere) most people are, therefore right-handed. The theory depends on left-handed people having a reversed organisation.[46] However, the majority of left-handers have been found to have left-hemisphere language dominance—just like right-handers.[47][48] Only around 30% of left-handers are not left-hemisphere dominant for language. Some of those have reversed brain organisation, where the verbal processing takes place in the right-hemisphere and visuospatial processing is dominant to the left hemisphere.[49] Others have more ambiguous bilateral organisation, where both hemispheres do parts of typically lateralised functions. When tasks designed to investigate lateralisation (preference for handedness) are averaged across a group of left-handers, the overall effect is that left-handers show the same pattern of data as right-handers, but with a reduced asymmetry.[50] The majority of the evidence comes from literature assessing oral language production and comprehension. When it comes to writing, findings from recent studies were inconclusive for a difference in lateralization for writing between left-handers and right-handers.[51]\n\nResearchers studied fetuses in utero and determined that handedness in the womb was a very accurate predictor of handedness after birth.[52] In a 2013 study, 39% of infants (6 to 14 months) and 97% of toddlers (18 to 24 months) demonstrated a hand preference.[53]\n\nIt has been observed that infants fluctuate significantly when choosing which hand to use for grasping and object manipulation tasks, particularly when comparing one-handed and two-handed grasping. Between the ages of 36 and 48 months, there is a significant decline in variability in handedness for one-handed grasping, which can be observed earlier for two-handed manipulation. Children aged 18–36 months showed a stronger hand preference when performing bimanual tasks than when grasping with one hand.[54]\n\nThe decrease in handedness variability in children of 36–48 months may be attributable to preschool or kindergarten attendance due to increased single-hand activities such as writing and coloring.[54] Scharoun and Bryden noted that right-handed preference increases with age up to the teenage years.[6]\n\nThe modern turn in handedness research has been toward emphasizing degree rather than direction of handedness as a critical variable.[55]\n\nIn his book Right-Hand, Left-Hand, Chris McManus of University College London argues that the proportion of left-handers is increasing, and that an above-average quota of high achievers have been left-handed. He says that left-handers' brains are structured in a way that increases their range of abilities, and that the genes that determine left-handedness also govern development of the brain's language centers.[56]\n\nWriting in Scientific American, he states:\n\nStudies in the U.K., U.S. and Australia have revealed that left-handed people differ from right-handers by only one IQ point, which is not noteworthy ... Left-handers' brains are structured differently from right-handers' in ways that can allow them to process language, spatial relations and emotions in more diverse and potentially creative ways. Also, a slightly larger number of left-handers than right-handers are especially gifted in music and math. A study of musicians in professional orchestras found a significantly greater proportion of talented left-handers, even among those who played instruments that seem designed for right-handers, such as violins. Similarly, studies of adolescents who took tests to assess mathematical giftedness found many more left-handers in the population.[57]\n\nLeft-handers are overrepresented among those with lower cognitive skills and mental impairments, with those with intellectual disability being roughly twice as likely to be left-handed, as well as generally lower cognitive and non-cognitive abilities amongst left-handed children.[58] Conversely, left-handers are also overrepresented in high IQ societies, such as Mensa. A 2005 study found that \"approximately 20% of the members of Mensa are lefthanded, double the proportion in most general populations\".[59]\n\nGhayas & Adil (2007) found that left-handers were significantly more likely to perform better on intelligence tests than right-handers and that right-handers also took more time to complete the tests.[60] In a systematic review and meta-analysis, Ntolka & Papadatou-Pastou (2018) found that right-handers had higher IQ scores, but that difference was negligible (about 1.5 points).[61]\n\nThe prevalence of difficulties in left-right discrimination was investigated in a cohort of 2,720 adult members of Mensa and Intertel by Storfer.[62] According to the study, 7.2% of the men and 18.8% of the women evaluated their left-right directional sense as poor or below average; moreover participants who were relatively ambidextrous experienced problems more frequently than did those who were more strongly left- or right-handed.[62] The study also revealed an effect of age, with younger participants reporting more problems.[62]\n\nNelson, Campbell and Michel investigated whether the development of handedness in infants was correlated with language abilities in toddlers. In their article, they assessed 38 infants, following them from birth to 12 months, and then again from 18 to 24 months. They found that children who developed a consistent preference for using either their right or left hand during infancy (e.g. putting the pacifier back in with the right hand or grasping random objects with the left hand) were more likely to have superior language skills as toddlers. Children who did not become lateral until after infancy (i.e., when they were toddlers) showed normal language development and had typical language scores. The researchers used Bayley scales of infant and toddler development to assess the subjects.[63]\n\nIn two studies, Diana Deutsch found that left-handers, particularly those with mixed-hand preference, performed significantly better than right-handers in musical memory tasks.[64][65] There are also handedness differences in perception of musical patterns. Left-handers as a group differ from right-handers, and are more heterogeneous than right-handers, in perception of certain stereo illusions, such as the octave illusion, the scale illusion, and the glissando illusion.[66]\n\nStudies have found a positive correlation between left-handedness and several specific physical and mental disorders and health problems, including:\n\nLower birth weight and complications at birth are positively correlated with left-handedness.[67][68]\n\nA variety of neuropsychiatric and developmental disorders such as autism spectrum,[69] bipolar disorder, anxiety disorders, schizophrenia, and alcoholism have been associated with left- and mixed-handedness.[45][70]\n\nA 2012 study showed that nearly 40% of children with cerebral palsy were left-handed,[71] while another study demonstrated that left-handedness was associated with a 62% increased risk of Parkinson's disease in women, but not in men.[72] Another study suggests that the risk of developing multiple sclerosis increases for left-handed women, but the effect is unknown for men at this point.[73]\n\nLeft-handed women may have a higher risk of breast cancer than right-handed women and the effect is greater in post-menopausal women.[74]\n\nAt least one study maintains that left-handers are more likely to suffer from heart disease, and are more likely to have reduced longevity from cardiovascular causes.[75]\n\nLeft-handers may be more likely to suffer bone fractures.[76]\n\nLeft-handers have a lower prevalence of arthritis and ulcer.[77]\n\nOne systematic review concluded, \"Left-handers showed no systematic tendency to suffer from disorders of the immune system.\"[78]\n\nAs handedness is a highly heritable trait associated with various medical conditions that could present a challenge to Darwinian fitness challenge in ancestral populations, it is possible that left-handedness was rarer in the distant past due to natural selection. However, left-handers have on average been found to have an advantage in combat and competitive sports, which could have increased their reproductive success in ancestral populations.[79]\n\nIn 2006, researchers from Lafayette College and Johns Hopkins University concluded that there was no statistically significant correlation between handedness and earnings for the general population. However, among people who had attended college, left-handers earned 10 - 15% more than their right-handed counterparts.[80]\n\nIn a 2014 study published by the National Bureau of Economic Research, Harvard economist Joshua Goodman finds that left-handed people earn 10 to 12 percent less over the course of their lives than right-handed people. Goodman attributes this disparity to higher rates of emotional and behavioral problems in left-handed people.[58]\n\nInteractive sports such as table tennis, badminton and cricket have an overrepresentation of left-handedness, while non-interactive sports such as swimming show no overrepresentation. Smaller physical distance between participants increases the overrepresentation. In fencing, about half the participants are left-handed.[81] In tennis, 40% of the seeded players are left-handed.[82] The term southpaw is sometimes used to refer to a left-handed individual, especially in baseball and boxing.[83] Some studies suggest that right handed male athletes tend to be statistically taller and heavier than left handed ones.[84]\n\nOther, sports-specific factors may increase or decrease the advantage left-handers usually hold in one-on-one situations:\n\nIn baseball, a right-handed pitcher's curve ball will break away from a right-handed batter and towards a left-handed batter (batting left or right does not indicate left or right handedness). While studies of handedness show that only 10% of the general population is left-handed, the proportion of left-handed MLB players is closer to 39% of hitters and 28% of pitchers, according to 2012 data.[85] Historical batting averages show that left-handed batters have a slight advantage over right-handed batters when facing right-handed pitchers.[86] Because there are fewer left-handed pitchers than right-handed pitchers, left-handed batters have more opportunities to face right-handed pitchers than their right-handed counterparts have against left-handed pitchers.[87] Fifteen of the top twenty career batting average leaders in Major League Baseball history have been posted by left-handed batters.[88]\nBecause a left-handed pitcher faces first base when he is in position to throw to the batter, whereas a right-handed pitcher has his back to first base, a left-handed pitcher has an advantage when attempting to pick off baserunners at first base.[89]\nDefensively in baseball, left-handedness is considered an advantage for first basemen because they are better suited to fielding balls hit in the gap between first and second base, and because they do not have to pivot their body around before throwing the ball to another infielder.[90] For the same reason, the other infielders' positions are seen as being advantageous to right-handed throwers. Historically, there have been few left-handed catchers because of the perceived disadvantage a left-handed catcher would have in making the throw to third base, especially with a right-handed hitter at the plate.[91] A left-handed catcher would have a potentially more dangerous time tagging out a baserunner trying to score.[91] With the ball in the glove on the right hand, a left-handed catcher would have to turn his body to the left to tag a runner. In doing so, he can lose the opportunity to brace himself for an impending collision.[91] On the other hand, the Encyclopedia of Baseball Catchers states:[91]\n\nBecause a left-handed pitcher faces first base when he is in position to throw to the batter, whereas a right-handed pitcher has his back to first base, a left-handed pitcher has an advantage when attempting to pick off baserunners at first base.[89]\n\nDefensively in baseball, left-handedness is considered an advantage for first basemen because they are better suited to fielding balls hit in the gap between first and second base, and because they do not have to pivot their body around before throwing the ball to another infielder.[90] For the same reason, the other infielders' positions are seen as being advantageous to right-handed throwers. Historically, there have been few left-handed catchers because of the perceived disadvantage a left-handed catcher would have in making the throw to third base, especially with a right-handed hitter at the plate.[91] A left-handed catcher would have a potentially more dangerous time tagging out a baserunner trying to score.[91] With the ball in the glove on the right hand, a left-handed catcher would have to turn his body to the left to tag a runner. In doing so, he can lose the opportunity to brace himself for an impending collision.[91] On the other hand, the Encyclopedia of Baseball Catchers states:[91]\n\nOne advantage is a left-handed catcher's ability to frame a right-handed pitcher's breaking balls. A right-handed catcher catches a right-hander's breaking ball across his body, with his glove moving out of the strike zone. A left-handed catcher would be able to catch the pitch moving into the strike zone and create a better target for the umpire.\n\nIn four wall handball, typical strategy is to play along the left wall forcing the opponent to use their left hand to counter the attack and playing into the strength of a left-handed competitor.\n\nIn handball, left-handed players have an advantage on the right side of the field when attacking, getting a better angle, and that defenders might be unused to them. Since few people are left-handed, there is a demand for such players.\n\nIn water polo, the centre forward position has an advantage in turning to shoot on net when rotating the reverse direction as expected by the centre of the opposition defence and gain an improved position to score. Left-handed drivers are usually on the right side of the field, because they can get better angles to pass the ball or shoot for goal.\n\nIce hockey typically uses a strategy in which a defence pairing includes one left-handed and one right-handed defender. A disproportionately large number of ice hockey players of all positions, 62 percent, shoot left, although this does not necessarily indicate left-handedness.[92]\n\nIn American football, the handedness of a quarterback affects blocking patterns on the offensive line. Tight ends, when only one is used, typically line up on the same side as the throwing hand of the quarterback, while the offensive tackle on the opposite hand, which protects the quarterback's \"blind side\", is typically the most valued member of the offensive line. Receivers also have to adapt to the opposite spin.[93] While uncommon, there have been several notable left-handed quarterbacks.\n\nIn bowling, the oil pattern used on the bowling lane breaks down faster the more times a ball is rolled down the lane. Bowlers must continually adjust their shots to compensate for the ball's change in rotation as the game or series is played and the oil is altered from its original pattern. A left-handed bowler competes on the opposite side of the lane from the right-handed bowler and therefore deals with less breakdown of the original oil placement. This means left-handed bowlers have to adjust their shot less frequently than right-handed bowlers in team events or qualifying rounds where there are possibly 4-10 people per set of two lanes. This can allow them to stay more consistent. However, this advantage is not present in bracket rounds and tournament finals where matches are 1v1 on a pair of lanes.\n\nAccording to a meta-analysis of 144 studies totalling 1,787,629 participants, the best estimate of the male to female odds ratio was 1.23, indicating that men are 23% more likely to be left-handed. For instance, if the prevalence of female left-handedness was 10%, the prevalence of male left-handedness would be approximately 12% (10% prevalence of left-handedness among women multiplied by an odds ratio of 1:1.23 for women: men results in a 12.3% prevalence of left-handedness among men).[94][clarification needed]\n\nSome studies examining the relationship between handedness and sexual orientation have reported that a disproportionately large fraction of homosexual people exhibit non-right-handedness,[95] though findings are mixed.[96][97][98]\n\nA 2001 study found that individuals assigned male at birth, whose gender identity did not align with their assigned sex, were more than twice as likely to be left-handed as a clinical control group (19.5% vs. 8.3%, respectively).[99]\n\nParaphilias (atypical sexual interests) have also been linked to higher rates of left-handedness. A 2008 study analyzing the sexual fantasies of 200 males found \"elevated paraphilic interests were correlated with elevated non-right handedness\".[100] Greater rates of left-handedness have also been documented among pedophiles.[101][102][103][104]\n\nA 2014 study attempting to analyze the biological markers of asexuality asserts that non-sexual men and women were 2.4 and 2.5 times, respectively, more likely to be left-handed than their heterosexual counterparts.[105]\n\nA study at Durham University—which examined mortality data for cricketers whose handedness was a matter of public record—found that left-handed men were almost twice as likely to die in war as their right-handed contemporaries.[106] The study theorised that this was because weapons and other equipment was designed for the right-handed. \"I can sympathise with all those left-handed cricketers who have gone to an early grave trying desperately to shoot straight with a right-handed Lee Enfield .303\", wrote a journalist reviewing the study in the cricket press.[107] The findings echo those of previous American studies, which found that left-handed US sailors were 34% more likely to have a serious accident than their right-handed counterparts.[108]\n\nA high level of handedness (whether strongly favoring right or left) is associated with poorer episodic memory,[109][110] and with poorer communication between brain hemispheres,[111] which may give poorer emotional processing, although bilateral stimulation may reduce such effects.[112][113]\n\nA high level of handedness is associated with a smaller corpus callosum whereas low handedness with a larger one.[114]\n\nLeft-handedness is associated with better divergent thinking.[115]\n\nMany tools and procedures are designed to facilitate use by right-handed people, with the difficulties faced by left-handed people often being overlooked. John W. Santrock has written, \"For centuries, left-handers have suffered unfair discrimination in a world designed for right-handers.\"[9]\n\nAlthough many products for left-handed use are made by specialist producers, they are not available from normal suppliers. Even simple items such as knives designed for right-handed use are less convenient for left-handers. There are many examples: kitchen tools such as knives, corkscrews and scissors, garden tools, and so on. While not requiring a purpose-designed product, there are more appropriate ways for left-handers to tie shoelaces.[116] There are companies that supply products designed specifically for left-handed use. One such is Anything Left-Handed, which in 1967 opened a shop in Soho, London; the shop closed in 2006, but the company continues to supply left-handed products worldwide by mail order.[117]\n\nStringed instruments such as the guitar and electric bass have been adapted for left-handed musicians. However, some guitarists such as Jimi Hendrix simply reversed the strings and played their instrument \"upside down,\" though others such as Paul McCartney use left-hand guitar and bass models.\n\nWriting from left to right, as in many languages, with the left hand tends to smear what has just been written, depending on how long it takes for the ink to dry. Left-handed writers have developed various ways of tilting the paper, or holding a pen to achieve the best results.[118] For using a fountain pen, preferred by many left-handers, nibs ground to optimise left-handed use (pushing rather than pulling across the paper) without scratching are available.\n\nMcManus observed that, as the Industrial Revolution spread across Western Europe and the United States in the 19th century, workers needed to operate complex machines that were designed with right-handers in mind. This would have made left-handers more visible, while also making them appear less capable and more clumsy. For example, writing with a dip pen was particularly prone to blots and smearing.\n\nApart from the inconveniences they face, left-handed people have historically been considered unlucky or even malicious because of their difference by the right-handed majority. In many languages, including English, the word for the direction \"right\" also means \"correct\" or \"proper\". Throughout history, being left-handed was considered negative, or evil.[119]\n\nBlack magic is sometimes referred to as the \"left-hand path\".[120]\n\nBefore the development of fountain pens and other modern writing instruments,  children were taught to write with a dip pen. While a right-hander could smoothly drag the pen across the paper from left to right, it was difficult for a left-hander to push the dip pen  across the paper without digging into it and creating blots and stains.[121] Even with more modern pens, writing from left to right with the left hand can smear what has just been written when moving across the line, as is the case in many languages.\n\nInto the 20th and even the 21st century, left-handed children in Uganda were beaten by schoolteachers or parents for writing with their left hand,[122] or had their left hands tied behind their backs to force them to write with their right hand.[123] As a child, the future British king George VI (1895–1952) was naturally left-handed. He was forced to write with his right hand, as was common practice at the time. He was not expected to become king, so that was not a factor.[124]\n\nDepending on the position and inclination of the writing paper, and the writing method, left-handed writers can write as neatly and efficiently, or as messily and slowly, as right-handed writers. Left-handed children usually need to be taught how to write correctly with their left hand, as discovering a comfortable left-handed writing method independently can be difficult.[125][126]\n\nIn the Soviet school system, all left-handed children were forced to write with their right hand.[127][128]\n\nInternational Left-Handers Day is held annually every August 13.[129] It was founded by the Left-Handers Club in 1992, with the club itself having been founded in 1990.[129] International Left-Handers Day is, according to the club, \"an annual event when left-handers everywhere can celebrate their sinistrality (left-handedness) and increase public awareness of the advantages and disadvantages of being left-handed\".[129] It celebrates their uniqueness and differences, who are from seven to ten percent of the world's population. Thousands of left-handed people in today's society have to adapt to use right-handed tools and objects. Again according to the club, \"in the U.K. alone there were over 20 regional events to mark the day in 2001—including left-v-right sports matches, a left-handed tea party, pubs using left-handed corkscrews where patrons drank and played pub games with the left hand only, and nationwide 'Lefty Zones' where left-handers' creativity, adaptability and sporting prowess were celebrated, whilst right-handers were encouraged to try out everyday left-handed objects to see just how awkward it can feel using the wrong equipment.\"[129]\n\nKangaroos and other macropod marsupials show a left-hand preference for everyday tasks in the wild. 'True' handedness is unexpected in marsupials however, because unlike placental mammals, they lack a corpus callosum. Left-handedness was particularly apparent in the red kangaroo (Macropus rufus) and the eastern gray kangaroo (Macropus giganteus). Red-necked (Bennett's) wallabies (Macropus rufogriseus) preferentially use their left hand for behaviours that involve fine manipulation, but the right for behaviours that require more physical strength. There was less evidence for handedness in arboreal species.[130] Studies of dogs, horses, and domestic cats have shown that females of those species tend to be right-handed, while males tend to be left-handed.[131]\n\nLateralization of brain function\n\nClockwise, which also discusses counterclockwise/anticlockwise, the two terms for the opposite sense of rotation\n\n^ Podestá, María Mercedes; Raffino, Rodolfo A.; Paunero, Rafael Sebastián; Rolandi, Diana S. (2005). El arte rupestre de Argentina indígena: Patagonia (in Spanish). Grupo Abierto Communicaciones. ISBN 978-987-1121-16-8. Archived from the original on 2021-10-29. Retrieved 2021-03-01.\n\n^ Holder MK. \"What does Handedness have to do with Brain Lateralization (and who cares?)\". Archived from the original on 2013-03-26. Retrieved 11 August 2012.\n\n^ \"dominant\". Merriam-Webster Dictionary. Merriam-Webster. Archived from the original on 8 March 2017. Retrieved 8 March 2017. 4 : biology :  being the one of a pair of bodily structures that is the more effective or predominant in action • dominant eye • used her dominant hand\n\n^ \"non-\". Merriam-Webster Dictionary. Merriam-Webster. Archived from the original on 8 March 2017. Retrieved 8 March 2017. Definition of non- 1 :  not :  other than :  reverse of :  absence of • nontoxic • nonlinear. (\"Nondominant\" is one of 945 words listed under \"non-\")\n\n^ Hardyck, C.; Petrinovich, L. F.; Goldman, R. D. (September 1976). \"Left-handedness and cognitive deficit\". Cortex. 12 (3): 266–279. doi:10.1016/s0010-9452(76)80008-1. ISSN 0010-9452. PMID 1000995. S2CID 4477753.\n\n^ a b Scharoun SM, Bryden PJ (2014). \"Hand preference, performance abilities, and hand selection in children\". Frontiers in Psychology. 5 (82): 82. doi:10.3389/fpsyg.2014.00082. PMC 3927078. PMID 24600414.\n\n^ a b c Papadatou-Pastou, Marietta; Ntolka, Eleni; Schmitz, Judith; Martin, Maryanne; Munafò, Marcus R.; Ocklenburg, Sebastian; Paracchini, Silvia (June 2020). \"Human handedness: A meta-analysis\". Psychological Bulletin. 146 (6): 481–524. doi:10.1037/bul0000229. hdl:10023/19889. PMID 32237881. S2CID 214768754.\n\n^ Pfeifer, Lena Sophie; Schmitz, Judith; Papadatou-Pastou, Marietta; Peterburs, Jutta; Paracchini, Silvia; Ocklenburg, Sebastian (15 January 2022). \"Handedness in twins: meta-analyses\". BMC Psychology. 10 (1): 11. doi:10.1186/s40359-021-00695-3. PMC 8760823. PMID 35033205.\n\n^ a b Santrock JW (2008). \"A Topical Approach to Life-Span Development\". In Ryan M (ed.). Motor, Sensory, and Perceptual Development. Boston, MA: McGraw-Hill Higher Education. pp. 172–205.\n\n^ Harris, Lauren Julius (January 2010). \"In fencing, what gives left-handers the edge? Views from the present and the distant past\". Laterality. 15 (1–2): 15–55. doi:10.1080/13576500701650430. PMID 20391153.\n\n^ Richardson, Thomas; Gilman, R. Tucker (28 October 2019). \"Left-handedness is associated with greater fighting success in humans\". Scientific Reports. 9 (1). Nature Portfolio: 15402. Bibcode:2019NatSR...915402R. doi:10.1038/s41598-019-51975-3. PMC 6817864. PMID 31659217.\n\n^ Guy, Jack (25 February 2019). \"Left-handed boxers win more fights, research shows\". CNN. Retrieved 6 December 2022.\n\n^ \"Why are left-handed people better fighters?\". ITV News. 2019-02-25. Retrieved 2021-03-01.\n\n^ Holder MK (1997). \"Why are more people right-handed?\". Scientific American. Archived from the original on 2013-12-03. Retrieved 2008-04-14.\n\n^ Hardyck C, Petrinovich LF (May 1977). \"Left-handedness\". Psychological Bulletin. 84 (3): 385–404. doi:10.1037/0033-2909.84.3.385. PMID 859955.\n\n^ \"Differences Between Left Handed, Mixed Handed and Ambidextrous\". Southpaw Essentials. 19 September 2021.[self-published source?]\n\n^ Williams, Stephen (20 February 2022). \"Non-Righthandedness\". Academia Letters. doi:10.20935/AL4777. S2CID 247032467.\n\n^ Annett, Marian (2013). Handedness and Brain Asymmetry. doi:10.4324/9780203759646. ISBN 978-1-134-95074-4.[page needed]\n\n^ Veale, Jaimie F. (4 March 2014). \"Edinburgh Handedness Inventory – Short Form: A revised version based on confirmatory factor analysis\". Laterality. 19 (2): 164–177. doi:10.1080/1357650X.2013.783045. PMID 23659650.\n\n^ Williams, Stephen Meredith (2020). A major revision of the Edinburgh Handedness Inventory: The EHI-8 (Preprint). doi:10.13140/RG.2.2.15176.55042/1 (inactive 15 November 2025).{{cite report}}:  CS1 maint: DOI inactive as of November 2025 (link)\n\n^ Nicholls, Michael E.R.; Thomas, Nicole A.; Loetscher, Tobias; Grimshaw, Gina M. (November 2013). \"The Flinders Handedness survey (FLANDERS): A brief measure of skilled hand preference\". Cortex. 49 (10): 2914–2926. doi:10.1016/j.cortex.2013.02.002. PMID 23498655. S2CID 4986724.\n\n^ a b Ströckens, Felix; Schwalvenberg, Maike; El Basbasse, Yasmin; Amunts, Katrin; Güntürkün, Onur; Ocklenburg, Sebastian (2025). \"Limb preferences in non-human vertebrates: A new decade\". Laterality. 0: 1–46. doi:10.1080/1357650X.2025.2499049. ISSN 1357-650X. PMID 40393935.\n\n^ Ruck, Lana; Broadfield, Douglas C.; Brown, Clifford T. (2015-05-07). \"Determining Hominid Handedness in Lithic Debitage: A Review of Current Methodologies\". Lithic Technology. 40 (3): 171–188. doi:10.1179/2051618515y.0000000009. ISSN 0197-7261.\n\n^ a b McManus C (2003). Right Hand, Left Hand. Phoenix Paperbacks. ISBN 978-0-7538-1355-3.\n\n^ Medland SE, Duffy DL, Wright MJ, Geffen GM, Hay DA, Levy F, et al. (January 2009). \"Genetic influences on handedness: data from 25,732 Australian and Dutch twin families\". Neuropsychologia. 47 (2): 330–7. doi:10.1016/j.neuropsychologia.2008.09.005. PMC 2755095. PMID 18824185.\n\n^ Annett M (2009). \"The genetic basis of lateralization\". In Sommer IE, Kahn RS (eds.). Language lateralization and psychosis. pp. 73–86. doi:10.1017/CBO9780511576744.006. hdl:2381/4737. ISBN 978-0-511-57674-4. S2CID 53411957.\n\n^ Francks C, DeLisi LE, Fisher SE, Laval SH, Rue JE, Stein JF, Monaco AP (February 2003). \"Confirmatory evidence for linkage of relative hand skill to 2p12-q11\". American Journal of Human Genetics. 72 (2): 499–502. doi:10.1086/367548. PMC 379245. PMID 12596796.\n\n^ Francks C, Maegawa S, Laurén J, Abrahams BS, Velayos-Baeza A, Medland SE, et al. (December 2007). \"LRRTM1 on chromosome 2p12 is a maternally suppressed gene that is associated paternally with handedness and schizophrenia\". Molecular Psychiatry. 12 (12): 1129–39, 1057. doi:10.1038/sj.mp.4002053. PMC 2990633. PMID 17667961.\n\n^ Van Agtmael T, Forrest SM, Williamson R (October 2002). \"Parametric and non-parametric linkage analysis of several candidate regions for genes for human handedness\". European Journal of Human Genetics. 10 (10): 623–30. doi:10.1038/sj.ejhg.5200851. PMID 12357333.\n\n^ Warren DM, Stern M, Duggirala R, Dyer TD, Almasy L (November 2006). \"Heritability and linkage analysis of hand, foot, and eye preference in Mexican Americans\". Laterality. 11 (6): 508–24. doi:10.1080/13576500600761056. PMID 16966240. S2CID 11711104.\n\n^ Laval SH, Dann JC, Butler RJ, Loftus J, Rue J, Leask SJ, et al. (September 1998). \"Evidence for linkage to psychosis and cerebral asymmetry (relative hand skill) on the X chromosome\". American Journal of Medical Genetics. 81 (5): 420–7. doi:10.1002/(SICI)1096-8628(19980907)81:5<420::AID-AJMG11>3.0.CO;2-E. PMID 9754628.\n\n^ Armour JA, Davison A, McManus IC (March 2014). \"Genome-wide association study of handedness excludes simple genetic models\". Heredity. 112 (3): 221–5. Bibcode:2014Hered.112..221A. doi:10.1038/hdy.2013.93. PMC 3931166. PMID 24065183.\n\n^ Scerri TS, Brandler WM, Paracchini S, Morris AP, Ring SM, Richardson AJ, et al. (February 2011). \"PCSK6 is associated with handedness in individuals with dyslexia\". Human Molecular Genetics. 20 (3): 608–14. doi:10.1093/hmg/ddq475. PMC 3016905. PMID 21051773.\n\n^ McManus IC, Davison A, Armour JA (June 2013). \"Multilocus genetic models of handedness closely resemble single-locus models in explaining family data and are compatible with genome-wide association studies\". Annals of the New York Academy of Sciences. 1288 (1): 48–58. Bibcode:2013NYASA1288...48M. doi:10.1111/nyas.12102. PMC 4298034. PMID 23631511.\n\n^ Brandler WM, Morris AP, Evans DM, Scerri TS, Kemp JP, Timpson NJ, et al. (September 2013). \"Common variants in left/right asymmetry genes and pathways are associated with relative hand skill\". PLOS Genetics. 9 (9) e1003751. doi:10.1371/journal.pgen.1003751. PMC 3772043. PMID 24068947.\n\n^ Brandler WM, Paracchini S (February 2014). \"The genetic relationship between handedness and neurodevelopmental disorders\". Trends in Molecular Medicine. 20 (2): 83–90. doi:10.1016/j.molmed.2013.10.008. PMC 3969300. PMID 24275328.\n\n^ Wiberg A, Ng M, Al Omran Y, Alfaro-Almagro F, McCarthy P, Marchini J, et al. (October 2019). \"Handedness, language areas and neuropsychiatric diseases: insights from brain imaging and genetics\". Brain. 142 (10): 2938–2947. doi:10.1093/brain/awz257. PMC 6763735. PMID 31504236.\n\n^ Titus-Ernstoff, Linda; Perez, Kimberly; Hatch, Elizabeth E.; Troisi, Rebecca; Palmer, Julie R.; Hartge, Patricia; Hyer, Marianne; Kaufman, Raymond; Adam, Ervin; Strohsnitter, William; Noller, Kenneth; Pickett, Kate E.; Hoover, Robert (March 2003). \"Psychosexual Characteristics of Men and Women Exposed Prenatally to Diethylstilbestrol\". Epidemiology. 14 (2): 155–160. doi:10.1097/01.EDE.0000039059.38824.B2. PMID 12606880. S2CID 31181675.\n\n^ Scheirs JG, Vingerhoets AJ (October 1995). \"Handedness and other laterality indices in women prenatally exposed to DES\". Journal of Clinical and Experimental Neuropsychology. 17 (5): 725–30. doi:10.1080/01688639508405162. PMID 8557813.\n\n^ Schachter SC (May 1994). \"Handedness in women with intrauterine exposure to diethylstilbestrol\". Neuropsychologia. 32 (5): 619–23. doi:10.1016/0028-3932(94)90149-x. PMID 8084419. S2CID 44387790.\n\n^ Smith LL, Hines M (July 2000). \"Language lateralization and handedness in women prenatally exposed to diethylstilbestrol (DES)\". Psychoneuroendocrinology. 25 (5): 497–512. doi:10.1016/s0306-4530(00)00005-6. PMID 10818283. S2CID 44323126.\n\n^ Salvesen KÅ (September 2011). \"Ultrasound in pregnancy and non-right handedness: meta-analysis of randomized trials\". Ultrasound in Obstetrics & Gynecology. 38 (3): 267–71. doi:10.1002/uog.9055. PMID 21584892. S2CID 5135695.\n\n^ Medland, Sarah E.; Duffy, David L.; Wright, Margaret J.; Geffen, Gina M.; Martin, Nicholas G. (1 February 2006). \"Handedness in Twins: Joint Analysis of Data From 35 Samples\". Twin Research and Human Genetics. 9 (1): 46–53. doi:10.1375/183242706776402885. PMID 16611467. S2CID 38843437.\n\n^ Sun T, Collura RV, Ruvolo M, Walsh CA (July 2006). \"Genomic and evolutionary analyses of asymmetrically expressed genes in human fetal left and right cerebral cortex\". Cerebral Cortex. 16 (Suppl 1): i18-25. doi:10.1093/cercor/bhk026. PMID 16766703.\n\n^ a b Ocklenburg S, Schmitz J, Moinfar Z, Moser D, Klose R, Lor S, et al. (February 2017). \"Epigenetic regulation of lateralized fetal spinal gene expression underlies hemispheric asymmetries\". eLife. 6 e22784. doi:10.7554/eLife.22784. PMC 5295814. PMID 28145864.\n\n^ Banich M (1997). Neuropsychology: The Neural Bases of Mental Function. Houghton Mifflin. ISBN 978-0-395-66699-9.\n\n^ Rasmussen, T; Milner, B (1977). \"The role of early left-brain injury in determining lateralization of cerebral speech functions\". Annals of the New York Academy of Sciences. 30 (299): 355–369. Bibcode:1977NYASA.299..355R. doi:10.1111/j.1749-6632.1977.tb41921.x. PMID 101116. S2CID 10981238.\n\n^ Carey, David; Johnstone, Leah (2014). \"Quantifying cerebral asymmetries for language in dextrals and adextrals with random-effects meta analysis\". Frontiers in Psychology. 5: 1128. doi:10.3389/fpsyg.2014.01128. PMC 4219560. PMID 25408673.\n\n^ Cai, Q; Van Der Haegen, L; Brysbaert, M (2013). \"Complementary hemispheric specialization for language production and visuospatial attention\". PNAS. 110 (4): 322–330. doi:10.1073/pnas.1212956110. PMC 3557046. PMID 23297206.\n\n^ Karlsson, Emma M.; Johnstone, Leah T.; Carey, David P. (2 November 2019). \"The depth and breadth of multiple perceptual asymmetries in right handers and non-right handers\". Laterality. 24 (6): 707–739. doi:10.1080/1357650X.2019.1652308. PMID 31399020. S2CID 199519317.\n\n^ Papadopoulou AK, Samsouris C, Vlachos F, Badcock N, Phylactou P, Papadatou-Pastou (November 2023). \"Exploring cerebral laterality of writing and the relationship to handedness: a functional transcranial Doppler ultrasound investigation\". Laterality. 29 (1): 117–150. doi:10.1080/1357650X.2023.2284407. PMID 38112692.\n\n^ Hepper PG, Wells DL, Lynch C (2005). \"Prenatal thumb sucking is related to postnatal handedness\". Neuropsychologia. 43 (3): 313–5. doi:10.1016/j.neuropsychologia.2004.08.009. PMID 15707608. S2CID 805957.\n\n^ Nelson EL, Campbell JM, Michel GF (April 2013). \"Unimanual to bimanual: tracking the development of handedness from 6 to 24 months\". Infant Behavior & Development. 36 (2): 181–8. doi:10.1016/j.infbeh.2013.01.009. PMC 3615031. PMID 23454419.\n\n^ a b Fagard J, Lockman JJ (2005). \"The effect of task constraints on infants' (bi)manual strategy for grasping and exploring objects\". Infant Behavior and Development. 28 (3): 305–315. doi:10.1016/j.infbeh.2005.05.005.\n\n^ Prichard, Eric; Propper, Ruth E.; Christman, Stephen D. (2013). \"Degree of Handedness, but not Direction, is a Systematic Predictor of Cognitive Performance\". Frontiers in Psychology. 4: 9. doi:10.3389/fpsyg.2013.00009. PMC 3560368. PMID 23386836.\n\n^ McManus C. \"Right-Hand, Left-Hand official website\". Archived from the original on 2012-05-04. Retrieved 1 June 2006.\n\n^ McManus C (14 April 2012). \"Is It True That Left-Handed People Are Smarter Than Right-Handed People?\". Scientific American Mind.\n\n^ a b Goodman, Joshua (1 November 2014). \"The Wages of Sinistrality: Handedness, Brain Structure, and Human Capital Accumulation\". Journal of Economic Perspectives. 28 (4): 193–212. doi:10.1257/jep.28.4.193.\n\n^ Perelle, Ira B.; Ehrman, Lee (May 2005). \"On the Other Hand\". Behavior Genetics. 35 (3): 343–350. doi:10.1007/s10519-005-3226-z. PMID 15864449.\n\n^ Ghayas, Saba; Adil, Adnan (2007). \"Effect of handedness on intelligence level of students\". Journal of the Indian Academy of Applied Psychology. 33 (1): 85–91.\n\n^ Ntolka E, Papadatou-Pastou M (January 2018). \"Right-handers have negligibly higher IQ scores than left-handers: Systematic review and meta-analyses\". Neuroscience and Biobehavioral Reviews. 84: 376–393. doi:10.1016/j.neubiorev.2017.08.007. PMID 28826694. S2CID 33792592.\n\n^ a b c Storfer, Miles D. (October 1995). \"Problems in Left-Right Discrimination in a High-Iq Population\". Perceptual and Motor Skills. 81 (2): 491–497. doi:10.1177/003151259508100226. PMID 8570344.\n\n^ Nelson EL, Campbell JM, Michel GF (March 2014). \"Early handedness in infancy predicts language ability in toddlers\". Developmental Psychology. 50 (3): 809–14. doi:10.1037/a0033803. PMC 4059533. PMID 23855258.\n\n^ Deutsch, D (3 February 1978). \"Pitch memory: an advantage for the left-handed\". Science. 199 (4328): 559–560. Bibcode:1978Sci...199..559D. doi:10.1126/science.622558. PMID 622558. S2CID 2274951.\n\n^ Deutsch, Diana (1980). \"Handedness and Memory for Tonal Pitch\". Neuropsychology of Left-Handedness. pp. 263–271. doi:10.1016/B978-0-12-343150-9.50016-0. ISBN 978-0-12-343150-9.\n\n^ \nDeutsch D (2019). Musical Illusions and Phantom Words: How Music and Speech Unlock Mysteries of the Brain. Oxford University Press. ISBN 978-0-19-020683-3. LCCN 2018051786.[page needed]\n\n^ Goodman, Joshua (November 2014). \"The Wages of Sinistrality: Handedness, Brain Structure, and Human Capital Accumulation\". Journal of Economic Perspectives. 28 (4): 193–212. doi:10.1257/jep.28.4.193.\n\n^ Heikkilä, Kauko; Van Beijsterveldt, Catharina E. M.; Haukka, Jari; Iivanainen, Matti; et al. (Jun 5, 2018). \"Triplets, birthweight, and handedness\". Proc Natl Acad Sci U S A. 115 (23): 6076–6081. Bibcode:2018PNAS..115.6076H. doi:10.1073/pnas.1719567115. PMC 6003315. PMID 29760105.\n\n^ Samadi, S. A. (2024). \"Handedness in autism spectrum disorders and intellectually disabled children and adolescents - Contrasting caregivers' reports with assessments of hand preference\". Heliyon. 10 (4) e25935. Bibcode:2024Heliy..1025935S. doi:10.1016/j.heliyon.2024.e25935. PMC 10877286. PMID 38380041.\n\n^ Hirnstein M, Hugdahl K (October 2014). \"Excess of non-right-handedness in schizophrenia: meta-analysis of gender effects and potential biases in handedness assessment\". The British Journal of Psychiatry. 205 (4): 260–7. doi:10.1192/bjp.bp.113.137349. PMID 25274314.\n\n^ Lin KR, Prabhu V, Shah H, Kamath A, Joseph B (2015). \"Handedness in diplegic cerebral palsy\". Developmental Neurorehabilitation. 15 (5): 386–9. doi:10.3109/17518423.2012.696736. PMID 22758776. S2CID 6972136.\n\n^ Gardener H, Gao X, Chen H, Schwarzschild MA, Spiegelman D, Ascherio A (August 2010). \"Prenatal and early life factors and risk of Parkinson's disease\". Movement Disorders. 25 (11): 1560–7. doi:10.1002/mds.23339. PMC 3132935. PMID 20740569.\n\n^ Gardener H, Munger K, Chitnis T, Spiegelman D, Ascherio A (May 2009). \"The relationship between handedness and risk of multiple sclerosis\". Multiple Sclerosis. 15 (5): 587–92. doi:10.1177/1352458509102622. PMC 2771381. PMID 19389750.\n\n^ Fritschi L, Divitini M, Talbot-Smith A, Knuiman M (September 2007). \"Left-handedness and risk of breast cancer\". British Journal of Cancer. 97 (5): 686–7. doi:10.1038/sj.bjc.6603920. PMC 2360366. PMID 17687338.\n\n^ Hughes JR, Dorner E, Wind M (October 2008). \"Is the decreased longevity among left-handers related to an increase in heart disease?\". Clinical EEG and Neuroscience. 39 (4): 182–4. doi:10.1177/155005940803900406. PMID 19044215. S2CID 21369165.\n\n^ Luetters CM, Kelsey JL, Keegan TH, Quesenberry CP, Sidney S (November 2003). \"Left-handedness as a risk factor for fractures\". Osteoporosis International. 14 (11): 918–22. doi:10.1007/s00198-003-1450-z. PMID 14530828. S2CID 32654176.\n\n^ Wysocki, C. J.; McManus, I. C. (March 2005). \"Left-handers have a lower prevalence of arthritis and ulcer\". Laterality. 10 (2): 97–102. doi:10.1080/13576500442000256. PMID 15849026. S2CID 34998957.\n\n^ \"Three Myths and Three Facts About Left-Handers\". Psychology Today.\n\n^ Knight W (8 December 2004). \"Left-handers win in hand-to-hand combat\". New Scientist. Archived from the original on 27 October 2016. Retrieved 27 October 2016.\n\n^ Waldfogel J (15 August 2006). \"Sinister and Rich: The evidence that lefties earn more\". Slate. Archived from the original on 2010-01-12.\n\n^ Widermann D, Barton RA, Hill RA (2011). \"Evolutionary perspectives on sport and competition\". In Roberts SC (ed.). Applied Evolutionary Psychology. Oxford University Press. doi:10.1093/acprof:oso/9780199586073.001.0001. ISBN 978-0-19-958607-3.\n\n^ Graham, Douglas; Bachmann, Thomas T. (2004-04-15). Ideation: The Birth and Death of Ideas. John Wiley & Sons. p. 38. ISBN 978-0-471-47944-4.\n\n^ \"southpaw, n. and adj.\". Oxford English Dictionary (3rd ed.). Oxford University Press. June 2011. Retrieved 5 July 2020.\n\n^ Abel & Kruger (2007). \"Lefties are still a little shorter\". Perceptual and Motor Skills. 104 (2): 405–406. doi:10.2466/pms.104.2.405-406. PMID 17566429. S2CID 28204534.\n\n^ Peterson D (17 March 2017). \"Righties vs Lefties - The Importance Of Handedness Training In Hitting\". Game Sense Sports. Archived from the original on 3 April 2019. Retrieved 3 April 2019.\n\n^ \"2012 Major League Baseball Batting Splits\". Baseball Reference. Archived from the original on 9 September 2015. Retrieved 6 March 2013.\n\n^ Walsh J (15 November 2007). \"The advantage of batting left-handed\". hardballtimes.com. Archived from the original on 13 March 2013. Retrieved 7 March 2013.\n\n^ \"Career Leaders & Records for Batting Average\". Baseball Reference. Archived from the original on 13 April 2013. Retrieved 6 March 2013.\n\n^ \"First Base Pickoffs for Lefty Pitchers\". isport.com. Archived from the original on 22 June 2013. Retrieved 7 March 2013.\n\n^ Miller S (29 March 2009). \"The Decline of Left-Handed First Basemen\". nytimes.com. Archived from the original on 26 September 2015. Retrieved 7 March 2013.\n\n^ a b c d \"Left Handed Catchers\". The Encyclopedia of Baseball Catchers. Archived from the original on 17 August 2012. Retrieved 7 March 2013.\n\n^ Hoppe B (January 23, 2017). \"Depleted Sabres defense thrives\". Buffalo Hockey Beat. Olean Times Herald. Archived from the original on December 16, 2018. Retrieved January 23, 2017.\n\n^ Greene, Nick (2 November 2020). \"Why Left-Handed Quarterbacks Are So Rare\". Slate. Retrieved 5 November 2020.\n\n^ Papadatou-Pastou M, Martin M, Munafò MR, Jones GV (September 2008). \"Sex differences in left-handedness: a meta-analysis of 144 studies\". Psychological Bulletin. 134 (5): 677–699. doi:10.1037/a0012814. PMID 18729568.\n\n^ Lalumière ML, Blanchard R, Zucker KJ (July 2000). \"Sexual orientation and handedness in men and women: a meta-analysis\". Psychological Bulletin. 126 (4): 575–92. doi:10.1037/0033-2909.126.4.575. PMID 10900997.\n\n^ Mustanski BS, Bailey JM, Kaspar S (February 2002). \"Dermatoglyphics, handedness, sex, and sexual orientation\". Archives of Sexual Behavior. 31 (1): 113–22. doi:10.1023/A:1014039403752. PMID 11910784. S2CID 29217315.\n\n^ Williams, Terrance J.; Pepitone, Michelle E.; Christensen, Scott E.; Cooke, Bradley M.; Huberman, Andrew D.; Breedlove, Nicholas J.; Breedlove, Tessa J.; Jordan, Cynthia L.; Breedlove, S. Marc (March 2000). \"Finger-length ratios and sexual orientation\". Nature. 404 (6777): 455–456. Bibcode:2000Natur.404..455W. doi:10.1038/35006555. PMID 10761903. S2CID 205005405.\n\n^ Schwartz G, Kim RM, Kolundzija AB, Rieger G, Sanders AR (February 2010). \"Biodemographic and physical correlates of sexual orientation in men\". Archives of Sexual Behavior. 39 (1): 93–109. doi:10.1007/s10508-009-9499-1. PMID 19387815. S2CID 24358057.\n\n^ Zucker KJ, Beaulieu N, Bradley SJ, Grimshaw GM, Wilcox A (September 2001). \"Handedness in boys with gender identity disorder\". Journal of Child Psychology and Psychiatry, and Allied Disciplines. 42 (6): 767–76. doi:10.1111/1469-7610.00773. PMID 11583249. S2CID 4987839.\n\n^ Rahman Q, Symeonides DJ (February 2008). \"Neurodevelopmental correlates of paraphilic sexual interests in men\". Archives of Sexual Behavior. 37 (1): 166–72. doi:10.1007/s10508-007-9255-3. PMID 18074220. S2CID 22274418.\n\n^ Blanchard R, Kolla NJ, Cantor JM, Klassen PE, Dickey R, Kuban ME, Blak T (September 2007). \"IQ, handedness, and pedophilia in adult male patients stratified by referral source\". Sexual Abuse. 19 (3): 285–309. doi:10.1177/107906320701900307. PMID 17634757. S2CID 220359453.\n\n^ Cantor JM, Klassen PE, Dickey R, Christensen BK, Kuban ME, Blak T, et al. (August 2005). \"Handedness in pedophilia and hebephilia\". Archives of Sexual Behavior. 34 (4): 447–59. doi:10.1007/s10508-005-4344-7. PMID 16010467. S2CID 6427342.\n\n^ Bogaert AF (2001). \"Handedness, criminality, and sexual offending\". Neuropsychologia. 39 (5): 465–9. doi:10.1016/S0028-3932(00)00134-2. PMID 11254928. S2CID 28513717.\n\n^ Dyshniku F, Murray ME, Fazio RL, Lykins AD, Cantor JM (November 2015). \"Minor Physical Anomalies as a Window into the Prenatal Origins of Pedophilia\". Archives of Sexual Behavior. 44 (8): 2151–9. doi:10.1007/s10508-015-0564-7. PMID 26058490. S2CID 25667170.\n\n^ Yule MA, Brotto LA, Gorzalka BB (February 2014). \"Biological markers of asexuality: Handedness, birth order, and finger length ratios in self-identified asexual men and women\". Archives of Sexual Behavior. 43 (2): 299–310. doi:10.1007/s10508-013-0175-0. PMID 24045903. S2CID 5347734.\n\n^ Aggleton JP, Kentridge RW, Neave NJ (June 1993). \"Evidence for longevity differences between left handed and right handed men: an archival study of cricketers\". Journal of Epidemiology and Community Health. 47 (3): 206–9. doi:10.1136/jech.47.3.206. PMC 1059767. PMID 8350033.\n\n^ Jonathan R (February 1995). \"Left For Dead\". Wisden Cricket Monthly.\n\n^ Brown W. \"Science: Sudden death for left-handers\". New Scientist. Retrieved 2020-02-01.\n\n^ Propper RE, Christman SD, Phaneuf KA (June 2005). \"A mixed-handed advantage in episodic memory: a possible role of interhemispheric interaction\". Memory & Cognition. 33 (4): 751–7. doi:10.3758/BF03195341. PMID 16248339. S2CID 2989930.\n\n^ Sahu A, Christman SD, Propper RE (November 2016). \"The contributions of handedness and working memory to episodic memory\". Memory & Cognition. 44 (8): 1149–1156. doi:10.3758/s13421-016-0625-8. PMID 27259533.\n\n^ Prichard E, Propper RE, Christman SD (2013). \"Degree of Handedness, but not Direction, is a Systematic Predictor of Cognitive Performance\". Frontiers in Psychology. 4: 9. doi:10.3389/fpsyg.2013.00009. PMC 3560368. PMID 23386836.\n\n^ Shobe ER (2014-04-22). \"Independent and collaborative contributions of the cerebral hemispheres to emotional processing\". Frontiers in Human Neuroscience. 8: 230. doi:10.3389/fnhum.2014.00230. PMC 4001044. PMID 24795597.\n\n^ Spielberg JM, Heller W, Miller GA (2013-06-17). \"Hierarchical brain networks active in approach and avoidance goal pursuit\". Frontiers in Human Neuroscience. 7: 284. doi:10.3389/fnhum.2013.00284. PMC 3684100. PMID 23785328.\n\n^ Luders, Eileen; Cherbuin, Nicolas; Thompson, Paul M.; Gutman, Boris; Anstey, Kaarin J.; Sachdev, Perminder; Toga, Arthur W. (August 2010). \"When more is less: Associations between corpus callosum size and handedness lateralization\". NeuroImage. 52 (1): 43–49. doi:10.1016/j.neuroimage.2010.04.016. PMC 2903194. PMID 20394828.\n\n^ Coren, Stanley (1995). \"Differences in Divergent Thinking as a Function of Handedness and Sex\". The American Journal of Psychology. 108 (3): 311–325. doi:10.2307/1422892. JSTOR 1422892. PMID 7573608.\n\n^ \"Tying shoelaces left handed\". Anything Left-Handed. 24 May 2013. Retrieved 19 May 2024.[self-published source?]\n\n^ \"Product Information\". Anything Left-Handed. 13 August 2022. Retrieved 19 May 2024.[self-published source?]\n\n^ Studley, Vance. \"Left-Handed Writers\". Nibs. Retrieved 19 May 2024.[self-published source?] Web page discussing ways different left-handed writers cope.\n\n^ Ade, Yewande (2021-09-20). \"Left-Handers Once Experienced Severe Stigmatization And Discrimination\". Medium. Archived from the original on 2023-12-14. Retrieved 2025-01-02.\n\n^ Donaghue, Timothy (2018-11-12). Black Magick: The Left Hand Path: 1. Independently Published. ISBN 978-1-7312-4270-9.\n\n^ McManus, I. C. (2009). \"The history and geography of human handedness\". In Sommer, Iris E. C; Kahn, Rene S (eds.). Language Lateralization and Psychosis. pp. 37–58. doi:10.1017/CBO9780511576744.004. ISBN 978-0-511-57674-4.\n\n^ Akullu, Lydia Felly (8 August 2023). \"Myths about left-handed persons\". Daily Monitor. Uganda.\n\n^ \"Pros and cons: Raising a left-handed child in a right-handed world\". Kids on the Coast. 22 July 2022.[self-published source?]\n\n^ Kushner, Howard I (June 2011). \"Retraining the King's left hand\". The Lancet. 377 (9782): 1998–1999. doi:10.1016/s0140-6736(11)60854-4. PMID 21671515. S2CID 35750495.\n\n^ \"Erste deutsche Beratungs- und Informationsstelle für Linkshänder und umge-schulte Linkshänder\". lefthander-consulting.org (in German). Archived from the original on 2013-09-22. Retrieved 21 September 2013.\n\n^ \"Teaching Left-Handers to Write\". Handedness Research Institute. Archived from the original on 2013-09-23. Retrieved 21 September 2013.\n\n^ А. П. Чуприков, В. Д. Мишиев. // Латеральность населения СССР в конце 70-х и начале 80-х годов. К истории латеральной нейропсихологии и нейропсихиатрии. Хрестоматия. Донецк, 2010, 192 с.\n\n^ А. П. Чуприков, Е. А. Волков. // Мир леворуких. Киев. 2008.\n\n^ a b c d \"Left-Handers' Day August 13th: Celebrate your right to be left-handed\". lefthandersday.com. Archived from the original on 2014-07-15. Retrieved 12 August 2013.\n\n^ Giljov, Andrey; Karenina, Karina; Ingram, Janeane; Malashichev, Yegor (July 2015). \"Parallel Emergence of True Handedness in the Evolution of Marsupials and Placentals\". Current Biology. 25 (14): 1878–1884. Bibcode:2015CBio...25.1878G. doi:10.1016/j.cub.2015.05.043. PMID 26096972.\n\n^ Wells, Deborah L.; Millsopp, Sarah (August 2009). \"Lateralized behaviour in the domestic cat, Felis silvestris catus\". Animal Behaviour. 78 (2): 537–541. Bibcode:2009AnBeh..78..537W. doi:10.1016/j.anbehav.2009.06.010.\n\nThe Lateralized Brain. 2024. doi:10.1016/C2021-0-02209-4. ISBN 978-0-323-99737-9.\n\nLefties Have The Advantage In Adversarial Situations, ScienceDaily, April 14, 2006.\n\nScience Creative Quarterly's overview of some of the genetic underpinnings of left-handedness\n\nHansard (1998). \"Left-handed Children\", Debate contribution by the Rt Hon. Mr. Peter Luff (MP for Mid-Worcestershire), House of Commons, 22 July.\n\nIs your Child Left-Handed? Why, according to psychological tests, left-handed people ought to remain so. Popular Science. December 1918. p. 22.\n\nHandedness and Earnings / Higher paychecks: a left-handed compliment?\n\nHandedness & earnings, published in Journal of Human Resources 2007\n\nStudy Reveals Why Lefties Are Rare\n\nCS1 Spanish-language sources (es)\n\nAll articles with self-published sources\n\nArticles with self-published sources from May 2024\n\nWikipedia articles needing page number citations from May 2024\n\nCS1 maint: DOI inactive as of November 2025\n\nWikipedia articles needing page number citations from November 2020\n\nCS1 German-language sources (de)\n\nArticles with short description\n\nShort description is different from Wikidata\n\nAll articles with unsourced statements\n\nArticles with unsourced statements from August 2025\n\nArticles tagged with the inline citation overkill template from March 2023\n\nWikipedia articles needing clarification from January 2018\n\nCommons category link is locally defined",
+      "wordCount": 8557,
+      "schemas": [],
+      "error": null
+    },
+    {
+      "url": "https://www.bbc.co.uk/newsround/53739189",
+      "title": "Left-Handers Day: Amazing facts about lefties - BBC Newsround",
+      "meta": "About one in 10 people are left-handed, and if you're one of them, then today is for you!",
+      "headings": [
+        {
+          "level": 2,
+          "text": "Left-hand leaders"
+        },
+        {
+          "level": 2,
+          "text": "Left-handed stars"
+        },
+        {
+          "level": 2,
+          "text": "When left isn't right"
+        },
+        {
+          "level": 2,
+          "text": "Lefties accused of witchcraft!"
+        },
+        {
+          "level": 2,
+          "text": "The left and right side of the brain"
+        },
+        {
+          "level": 2,
+          "text": "How do you become left-handed in the first place?"
+        },
+        {
+          "level": 2,
+          "text": "Why is being left-handed so rare?"
+        },
+        {
+          "level": 2,
+          "text": "Are there any 'left-handed' animals?"
+        },
+        {
+          "level": 2,
+          "text": "Early humans were left handed too!"
+        },
+        {
+          "level": 2,
+          "text": "More on this story"
+        }
+      ],
+      "lead": "If you're left-handed, then today is a special one for you.",
+      "content": "If you're left-handed, then today is a special one for you.\n\nIt's International Left-handers Day!\n\nIt's a time to celebrate left-handed people and to raise awareness of some of the experiences many of them face in a world designed largely with right-handed people in mind.\n\nResearch suggests that between ten and twelve percent of the world's population is left-handed.\n\nEven though being left-handed might mean struggling with right-handed scissors from time-to-time, there are plenty of reasons being a lefty is pretty cool!\n\nInternational Left-Handers' Day: Why are some people left-handed?\n\nQUIZ: Are these animals right or left handed?\n\nThough left-handers make up a small percentage of the world's population, many have had very important jobs.\n\nSeveral past US presidents have been left-handed, including Bill Clinton and Barack Obama.\n\nFormer UK prime minister David Cameron is left-handed, same as famous wartime prime minister Winston Churchill.\n\nFuture King of the United Kingdom, Prince William is also left-handed.\n\nWilliam's great-grandfather George VI was naturally left-handed too, but his father George V forced him to write with his right hand.\n\nPrince William is a famous lefty\n\nThere are a number of famous stars who are also lefties.\n\nSinger Justin Bieber is left-handed, although the very first guitar he picked up was actually a right-handed one. He attempted to play the instrument backwards, although this proved to be a struggle!\n\nJustin's mum ended up buying him a left-handed guitar which he used to learn how to play.\n\nOther celebrities who are left-handed include Oprah Winfrey, Sir Paul McCartney, Lady Gaga and actress Jennifer Lawrence.\n\nSinger Justin Bieber is left-handed\n\nJust like Prince William's great-grandfather George VI, it wasn't uncommon in the past for left-handers to be forced to use their right hand to do things.\n\nIn the UK, left-handed people were historically forced to use their right hands for tasks where they would naturally use their left hand. This still happens in some countries now.\n\nIn many parts of the world, the left hand is considered unclean or rude to use. If you're left-handed and visiting places like India, Pakistan, Bangladesh, Indonesia, Nepal and the Middle East, it's thought of as rude behaviour to eat, pick up or hand over things with your left hand.\n\nEven language proves that left-handers get a bad rap.\n\nIn French, \"gauche\" can mean \"left\" or \"clumsy\". In English the word 'left' comes from the Anglo-Saxon word 'lyft', meaning 'weak'. \"Right\" also means \"to be right\".\n\nSo, as we know for many cultures, being left-handed is considered to be a bad thing and historically that's been the case too!\n\nLeft-handed people have been considered unlucky and even evil - the word \"sinister\" comes from the Latin word for left.\n\nIn Britain in the Middle Ages, lefties were associated with the devil and often accused of the crime of witchcraft, meaning they would get burned at the stake.\n\nThankfully, left-handers don't have to worry about that these days.\n\nHowever, there are some things they may struggle with like using certain types of scissors, writing in spiral notebooks, using can openers,  or playing the guitar.\n\nSome studies suggest more and more people are left-handed, but that's probably because it was previously seen as such a bad thing so people didn't admit to it.\n\nThe left and right side of the brain do different things\n\nThe brain is cross-wired, meaning that the right side controls the left side of the body and vice versa.\n\nScientists at the University of Oxford say that the brains of left-handed people work differently than right-handed people.\n\nIn a study, the brain was monitored in left-handed participants. Scientists say the two sides of the brain were better connected in lefties and more co-ordinated, particularly in the areas that involve using language.\n\nChris McManus, from University College London, author of the book Right Hand, Left Hand says:\n\n\"If you are left-handed you might find yourself with a slightly unusual way your brain is organised and suddenly that gives you skills that other people don't have.\"\n\nIt's often claimed that left-handed people are more likely to be creative and good at art or music. However there is not enough scientific evidence to prove this so far.\n\nHowever, other famous creative left-handers include: Lady Gaga, Angelina Jolie and Simpsons creator Matt Groening.\n\nThis i why Bart Simpson writes with his left-hand.\n\nSimpson's character Bart Simpson is left-handed\n\nNorthern Irish psychologist Peter Hepper studied several hundred baby scans, when the baby in the womb was sucking its thumb.\n\nAbout 90% of babies sucked their right thumb and at 12-years-old almost all of those right thumb suckers were right-handed.\n\nWhereas three-quarters of the left thumb suckers became left-handed.\n\nYour genetics are also important.\n\nOne left-handed parent means you're more likely to be left-handed. If both parents are left-handed then there's a one in four chance you'll be left-handed too.\n\nAs babies, it's quite common for small children to randomly use one hand one day and a different hand the next. But from about two-years-old toddlers tend to prefer using one hand more than the other.\n\nA study revealed three-quarters of babies who sucked their left thumb became left-handed\n\nExperts don't know exactly why more people aren't left-handed, but one suggestion is something known as social cooperation.\n\nOver thousands of years, communities of people which have shared tools and living spaces have recognised using the same hand makes life easier for everyone when it comes to achieving goals. It means that over time, people using their right-hand for lots of things has become the norm.\n\nKangaroos use their left hand to groom and eat\n\nHumans are one of the few animals to show a preference between the left and right hand.\n\nMost creatures, even apes, our closest cousins in the animal kingdom show a 50-50 split when it comes to which hand, foot or paw they use the most.\n\nHowever, left-handed animals include kangaroos, which tend to favour their left paw for things like grooming and eating. Also, studies have shown that 90% of parrots use their left foot to pick things up.\n\nEvidence suggests cave men and women were left-handed too\n\nLike the humans of today, most of our ancient ancestors were right handed, but there is evidence that there were left-handed Neanderthals 500,000 years ago.\n\nBack then cave men and women were probably eating raw meat a lot of the time, which is pretty tough on the teeth.\n\nArchaeologists think Neanderthals would bite the meat and use a sharp piece of stone to cut the meat up next to their mouth.\n\nOccasionally the stone would slip...\n\nFrom the direction of the scratches on their teeth, ten percent of Neanderthals seem to have held the stone cutter with their left hand.\n\nAre you left-handed? Do you think it's given you any advantages or disadvantages? Let us know your thoughts in the comments below!\n\nWhy are we left-handed?Published6 September 2019\n\nWhy are some people left-handed? Video, 00:02:07Why are some people left-handed?Published13 August 20182:07\n\nWhy are some people left-handed? Video, 00:02:07Why are some people left-handed?",
+      "wordCount": 1170,
+      "schemas": [],
+      "error": null
+    },
+    {
+      "url": "https://www.facebook.com/News5Cleveland/posts/did-you-know-that-only-about-10-to-15-of-the-worlds-population-is-left-handed/1243404877831878/",
+      "title": "Did you know that only about 10 to 15%... - News 5 Cleveland",
+      "meta": "Did you know that only about 10 to 15% of the world's population is left-handed?",
+      "headings": [
+        {
+          "level": 2,
+          "text": "News 5 Cleveland's Post"
+        },
+        {
+          "level": 3,
+          "text": "News 5 Cleveland"
+        }
+      ],
+      "lead": "",
+      "content": "",
+      "wordCount": 0,
+      "schemas": [],
+      "error": null
+    },
+    {
+      "url": "https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202004/the-worlds-biggest-study-on-left-handedness",
+      "title": "The World’s Biggest Study on Left-Handedness | Psychology Today",
+      "meta": "A new large-scale analysis gives us the best idea yet of how many people really are left-handed.",
+      "headings": [
+        {
+          "level": 1,
+          "text": "The World’s Biggest Study on Left-Handedness"
+        },
+        {
+          "level": 2,
+          "text": "An analysis of 2.3 million people shows how many people really are left-handed."
+        }
+      ],
+      "lead": "Updated May 22, 2024\n\n                          \n                |\n                \n                  \n                  Reviewed by Matt Huston",
+      "content": "Updated May 22, 2024\n\n                          \n                |\n                \n                  \n                  Reviewed by Matt Huston\n\nIf there is one thing that is for certain about left-handers, it is that they are much rarer than right-handers. But how much of the world’s population is actually left-handed? Scientific studies have given widely varying answers to this question, ranging from less than 3% to more than 15%. This wide variation is likely due to two factors: cultural effects and small study samples.\n\nMost scientific studies are only conducted in people from one country. But it has been shown that the country in which the data is collected can have a huge impact on handedness measures. For example, a recent study found that people born in England had a 10.1% chance of being left-handed, while people born outside the U.K. only had a 6.8% chance (de Kovel et al., 2019). This likely reflects that some societies have social taboos that may include using the left hand for writing or eating, perhaps (for example) because the left hand is used for personal hygiene. In these countries, lower rates of left-handedness are likely to be observed. Thus, a study on how many people are left-handed should ideally include datasets from all over the world. The other problem is that many studies only test small samples, less than a hundred people. In these small studies, chance could lead to more or fewer left-handers being included than in the whole population, making the results not very reliable.\n\nA team of researchers led by Greek scientist Marietta Papadatou-Pastou from the National and Kapodistrian University of Athens set out to solve this problem by conducting the biggest ever global study on left-handedness, which has just been published in the journal Psychological Bulletin (Papadatou-Pastou et al., 2020).\n\nThe research team (which I have been a part of) from Athens, the University of Oxford, the University of Bristol, Ruhr University Bochum in Germany and the University of St Andrews in Scotland conducted a meta-analysis of 262 datasets from 200 different published studies on left-handedness. A meta-analysis is a form of statistical analysis that integrates the results of many different scientific studies. It has the advantage of a larger sample size, increasing statistical power and rendering the analysis less likely to be affected by characteristics of individual studies.\n\nOverall, more than 2.3 million individuals were included in the study, making this the largest published study on left-handedness so far. They found that across studies, the prevalence of left-handedness lies between 9.3% and 18.1%, with the best overall estimate being 10.6%. So given these new results, how many people in the world are left-handed? As of March 2020, the world’s overall population is estimated to be somewhere around 7.8 billion people, and 10.6% of that would be almost 827 million people.\n\nGetting an accurate understanding of how many people are left-handed is important for many fields in psychology and related sciences. For example, it can help in understanding human evolution. While many species show left-handedness (see my blog post on cats here and on dogs here), only humans seem to show the roughly 90:10 distribution overserved in the study. As handedness has been linked to both the capacity to make and use tools and to produce and understand language, it is an interesting feature in the context of the divergent evolution of humans from apes.\n\nFacebook image: RomanSo/Shutterstock\n\nde Kovel CGF, Carrión-Castillo A, Francks C. (2019). A large-scale population study of early life factors influencing left-handedness. Sci Rep, 9, 584.\n\nPapadatou-Pastou M, Ntolka E, Schmitz J, Martin M, Munafò MR, Ocklenburg S, Paracchini S. (2020). Human handedness: A meta-analysis. Psychol Bull, in press.\n\nThere was a problem adding your email address. Please try again.\n\nBy submitting your information you agree to the Psychology Today Terms & Conditions and Privacy Policy\n\nSebastian Ocklenburg, Ph.D., is a professor for research methods in psychology at the Department of Psychology at MSH Medical School in Hamburg, Germany. His research focuses on left-handedness and brain asymmetries.",
+      "wordCount": 661,
+      "schemas": [],
+      "error": null
+    },
+    {
+      "url": "https://www.healthline.com/health/left-handers-and-health-risk",
+      "title": "Left-Handers: Health Risks and Other Facts",
+      "meta": "Learn why left-handers — who represent only about 10% of the population — may have higher rates of psychotic disorders, breast cancer, and other conditions.",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Are Left-Handers Less Healthy Than Right-Handers?"
+        },
+        {
+          "level": 3,
+          "text": "Why would being left-handed affect my health?"
+        },
+        {
+          "level": 2,
+          "text": "Left-handers and breast cancer"
+        },
+        {
+          "level": 2,
+          "text": "Left-handers and schizophrenia"
+        },
+        {
+          "level": 2,
+          "text": "Left-handers and mental health"
+        },
+        {
+          "level": 2,
+          "text": "Left-handers and neurological disorders"
+        },
+        {
+          "level": 2,
+          "text": "Left-handers and alcohol consumption"
+        },
+        {
+          "level": 2,
+          "text": "Left-handers and heart disease"
+        },
+        {
+          "level": 3,
+          "text": "Does being left-handed affect your life expectancy?"
+        },
+        {
+          "level": 2,
+          "text": "Positive health information for left-handers"
+        },
+        {
+          "level": 2,
+          "text": "Takeaway"
+        },
+        {
+          "level": 3,
+          "text": "How we reviewed this article:"
+        },
+        {
+          "level": 2,
+          "text": "related stories"
+        }
+      ],
+      "lead": "Some research suggests left-handed people have an increased risk of certain health conditions, but many of these studies are small or low quality. However, there may be some genetic links, particularly for ambidextrous people.",
+      "content": "Some research suggests left-handed people have an increased risk of certain health conditions, but many of these studies are small or low quality. However, there may be some genetic links, particularly for ambidextrous people.\n\nAbout 10% of the population is left-handed. The rest are right-handed, while about 1% are ambidextrous, meaning they have no dominant hand.\n\nNot only are lefties outnumbered about 9 to 1 by righties, but they may be at greater risk of certain health conditions.\n\nAlthough researchers observe higher rates of some conditions among left-handers, it’s not always clear why. However, there are some reasons your dominant hand may affect your health, including:\n\nGenetics: Genes that determine handedness may also be linked to other conditions.\n\nBrain connectivity: The right hemisphere of your brain controls your left hand. Scientists propose that differences in brain connectivity between lefties, righties, and people with no preference may contribute to neurological differences.\n\nEnvironment: Many tools and spaces are designed for right-handed people and bodies, meaning that left-handed people may have to make more significant adjustments or be more prone to injury.\n\nSome older research links left-handedness to breast cancer risk. But several of those studies only examined small populations, and other variables may have affected the results.\n\nA 2016 study found that breast cancer developed an average of 2 years earlier in those who were left-handed, suggesting that earlier screening may be warranted.\n\nResearchers propose that the increased risk of breast cancer in left-handed people may be due to increased exposure to estrogen while still in the womb, which they believe contributes to left-handedness.\n\nHowever, more recent research has been unable to draw a link between fetal estrogen and being left-handed.\n\nWhile research on left-handedness and certain disorders is lacking, there has been a wealth of research regarding psychotic disorders and handedness, especially schizophrenia.\n\nA 2014 meta-analysis of 50 studies concludes that people with schizophrenia were more likely to be left-handed or ambidextrous. Researchers propose this is due to genetics that predetermine how the two sides of the brain divvy up their functions, a process known as lateralization.\n\nResearchers suggest that schizophrenia may develop due to less brain lateralization, which may be a more common feature of left-handed people. A 2019 study supports these findings through brain imaging and genetic studies.\n\nIn a 2024 study, people with schizophrenia were more than twice as likely to be mixed-handed than people who didn’t have schizophrenia.\n\nAnd in a 2022 study, almost half of the participants with schizophrenia were either mixed- or left-dominant, which considered hand, foot, and eye dominance.\n\nA 2019 study found a link between being left-handed and several mental health symptoms, including:\n\nResearch also links non-right-handedness to post-traumatic stress disorder (PTSD), though the link appears to be stronger for mixed-handedness.\n\nA 2021 meta-analysis found no association between non-right-handedness and depression.\n\nOther neurological disorders may also have links to not being right-handed (i.e., being left-handed or ambidextrous). Researchers have found left-handedness more common in people with:\n\nattention deficit hyperactivity disorder (ADHD)\n\ndevelopmental coordination disorder (dyspraxia)\n\nThere’s anecdotal evidence that left-handedness is more common in children with dyslexia, but a 2023 meta-analysis suggests that a link only exists with mixed-handedness.\n\nSome older research suggests that left-handers consume more alcohol than right-handers.\n\nHowever, a 2022 Australian study did not find a significant correlation between handedness and alcohol consumption. Researchers discuss the role stigma may have played in influencing the results of previous research.\n\nResults of a 2023 study involving 379 adults 18 to 50 years old suggest that left-handed people may have a higher risk of cardiovascular disease.\n\nResearchers could not identify a cause, though, and expressed the need for future research to explore potential mechanisms.\n\nA 1991 report claimed that people who were left-handed died an average of 9 years earlier than people who were right-handed. However, research since then has consistently critiqued that report, citing problems with its methodology.\n\nMore recent research suggests that left-handers have a similar life expectancy to right-handers.\n\nAlthough left-handers may have some disadvantages from a health risk perspective, they may also have some advantages.\n\nDifferences in brain lateralization and connectivity in left-handers may lead to improvements in verbal fluency and recognizing and processing bodies and faces, according to 2021 research.\n\nResearch from 2019 also suggests that left-handers have a slightly lower risk of Parkinson’s disease, possibly due to a genetic linkage.\n\nFinally, a 2017 study indicates that left-hand-dominant athletes in certain sports have a much higher representation than they do in the broader population. For example, while about 10% of people are left-handed, about 30% of the elite pitchers in baseball are lefties.\n\nAlthough left-hand-dominant people represent only about 10% of the population, they appear to have higher health risks of certain conditions, including breast cancer, some mental health conditions, and even heart disease.\n\nIn some cases, there’s a stronger link between being ambidextrous (not having a preferred dominant hand) and having health conditions.\n\nThe reasons for these links aren’t always clear, though they may have to do with genetics, differences in brain connectivity, or acquired structural differences.\n\nStill, research has shown that your dominant hand doesn’t affect your overall health or life expectancy.\n\nWhile it’s interesting to consider how left-handedness might affect your risk of certain conditions, it’s important to pay attention to other known, well-established risk factors that could play a much more significant role in disease development.",
+      "wordCount": 892,
+      "schemas": [],
+      "error": null
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6345846/",
+      "title": "Checking your browser - reCAPTCHA",
+      "meta": "",
+      "headings": [],
+      "lead": "",
+      "content": "",
+      "wordCount": 0,
+      "schemas": [],
+      "error": null
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vhIQpibGh3s",
+      "title": "Why Only 10.6% of Humans Are Left-Handed ? - YouTube",
+      "meta": "Why Are Some People Left-Handed? | The Science, Evolution, and Hidden AdvantagesLeft-handed people make up only about 10% of the world’s population—a ratio t...",
+      "headings": [],
+      "lead": "",
+      "content": "",
+      "wordCount": 0,
+      "schemas": [],
+      "error": null
+    }
+  ],
+  "yourPage": null
+}
