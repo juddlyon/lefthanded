@@ -27,12 +27,14 @@
   "global-g2l-lefty-chef": {
     "name": "Global G-2L Left-Handed 8-inch Chef's Knife",
     "query": "Global G-2L left handed chef knife 8 inch",
-    "last_fetched": "2026-04-25"
+    "last_fetched": "2026-04-25",
+    "image": "/content/images/products/global-g2l-lefty-chef.jpg"
   },
   "mac-professional-lefty-chef": {
     "name": "Mac Knife Professional Left-Handed 8-inch Chef's Knife",
     "query": "Mac Knife Professional left handed chef knife 8 inch",
-    "last_fetched": "2026-04-25"
+    "last_fetched": "2026-04-25",
+    "image": "/content/images/products/mac-professional-lefty-chef.jpg"
   },
   "maped-koopy-lefty-spring": {
     "asin": "B00ZCK8NNY",
@@ -46,12 +48,14 @@
   "mercer-genesis-lefty-paring": {
     "name": "Mercer Culinary Genesis Left-Handed Paring Knife",
     "query": "Mercer Culinary Genesis left handed paring knife",
-    "last_fetched": "2026-04-25"
+    "last_fetched": "2026-04-25",
+    "image": "/content/images/products/mercer-genesis-lefty-paring.jpg"
   },
   "shun-classic-western-lefty-chef": {
     "name": "Shun Classic Western Left-Handed Chef's Knife",
     "query": "Shun Classic Western left handed chef knife",
-    "last_fetched": "2026-04-25"
+    "last_fetched": "2026-04-25",
+    "image": "/content/images/products/shun-classic-western-lefty-chef.jpg"
   },
   "westcott-kleenearth-lefty": {
     "asin": "B00VJ3MXCU",
@@ -83,7 +87,8 @@
   "wusthof-classic-ikon-lefty-paring": {
     "name": "Wüsthof Classic Ikon Left-Handed 3.5-inch Paring Knife",
     "query": "Wusthof Classic Ikon left handed paring knife",
-    "last_fetched": "2026-04-25"
+    "last_fetched": "2026-04-25",
+    "image": "/content/images/products/wusthof-classic-ikon-lefty-paring.jpg"
   },
   "yaxell-super-gou-lefty-yanagiba": {
     "asin": "B00G71LDC0",

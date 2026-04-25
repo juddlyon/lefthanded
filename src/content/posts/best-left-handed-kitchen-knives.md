@@ -44,6 +44,7 @@ isPage: false
 
 <div class="kg-card kg-product-card">
   <div class="kg-product-card-container">
+    <a href="/go/mac-professional-lefty-chef" target="_blank" rel="nofollow sponsored noopener"><img src="/content/images/products/mac-professional-lefty-chef.jpg" class="kg-product-card-image" loading="lazy" alt="Mac Professional left-handed chef's knife"></a>
     <div class="kg-product-card-title-container">
       <h4 class="kg-product-card-title"><span style="white-space: pre-wrap;">Mac Professional Left-Handed Chef's Knife</span></h4>
     </div>
@@ -56,6 +57,7 @@ isPage: false
 
 <div class="kg-card kg-product-card">
   <div class="kg-product-card-container">
+    <a href="/go/global-g2l-lefty-chef" target="_blank" rel="nofollow sponsored noopener"><img src="/content/images/products/global-g2l-lefty-chef.jpg" class="kg-product-card-image" loading="lazy" alt="Global G-2L left-handed chef's knife"></a>
     <div class="kg-product-card-title-container">
       <h4 class="kg-product-card-title"><span style="white-space: pre-wrap;">Global G-2L Left-Handed Chef's Knife</span></h4>
     </div>
@@ -72,6 +74,7 @@ isPage: false
 
 <div class="kg-card kg-product-card">
   <div class="kg-product-card-container">
+    <a href="/go/wusthof-classic-ikon-lefty-paring" target="_blank" rel="nofollow sponsored noopener"><img src="/content/images/products/wusthof-classic-ikon-lefty-paring.jpg" class="kg-product-card-image" loading="lazy" alt="Wüsthof Classic Ikon left-handed paring knife"></a>
     <div class="kg-product-card-title-container">
       <h4 class="kg-product-card-title"><span style="white-space: pre-wrap;">Wüsthof Classic Ikon Left-Handed Paring Knife</span></h4>
     </div>
@@ -84,6 +87,7 @@ isPage: false
 
 <div class="kg-card kg-product-card">
   <div class="kg-product-card-container">
+    <a href="/go/mercer-genesis-lefty-paring" target="_blank" rel="nofollow sponsored noopener"><img src="/content/images/products/mercer-genesis-lefty-paring.jpg" class="kg-product-card-image" loading="lazy" alt="Mercer Genesis left-handed paring knife"></a>
     <div class="kg-product-card-title-container">
       <h4 class="kg-product-card-title"><span style="white-space: pre-wrap;">Mercer Culinary Genesis Left-Handed Paring Knife</span></h4>
     </div>
@@ -130,6 +134,7 @@ isPage: false
 
 <div class="kg-card kg-product-card">
   <div class="kg-product-card-container">
+    <a href="/go/shun-classic-western-lefty-chef" target="_blank" rel="nofollow sponsored noopener"><img src="/content/images/products/shun-classic-western-lefty-chef.jpg" class="kg-product-card-image" loading="lazy" alt="Shun Classic Western left-handed chef's knife"></a>
     <div class="kg-product-card-title-container">
       <h4 class="kg-product-card-title"><span style="white-space: pre-wrap;">Shun Classic Western Left-Handed Chef's Knife</span></h4>
     </div>
