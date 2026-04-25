@@ -26,6 +26,73 @@ isPage: false
 
 <p>This page collects 70+ verified famous lefties across every major field, organized by category. Each entry includes a short note on why their handedness matters or how it shaped their craft. Entries are cross-linked to our deeper category guides — <a href="/famous-left-handed-musicians/">musicians</a>, <a href="/famous-left-handed-scientists/">scientists</a>, <a href="/iconic-left-handed-actors/">actors</a>, <a href="/left-handed-presidents-usa/">US presidents</a>, and others — for fuller treatments.</p>
 
+<h2 id="gallery">A visual roll call of famous left-handers</h2>
+
+<div class="lefty-gallery">
+  <figure class="lefty-gallery-item">
+    <img src="/content/images/portraits/leonardo-da-vinci.jpg" alt="Leonardo da Vinci, left-handed Renaissance master" loading="lazy">
+    <figcaption>Leonardo da Vinci</figcaption>
+  </figure>
+  <figure class="lefty-gallery-item">
+    <img src="/content/images/portraits/paul-mccartney.jpg" alt="Paul McCartney, left-handed Beatles bassist" loading="lazy">
+    <figcaption>Paul McCartney</figcaption>
+  </figure>
+  <figure class="lefty-gallery-item">
+    <img src="/content/images/portraits/jimi-hendrix.jpg" alt="Jimi Hendrix, left-handed guitar legend" loading="lazy">
+    <figcaption>Jimi Hendrix</figcaption>
+  </figure>
+  <figure class="lefty-gallery-item">
+    <img src="/content/images/portraits/kurt-cobain.jpg" alt="Kurt Cobain, left-handed Nirvana frontman" loading="lazy">
+    <figcaption>Kurt Cobain</figcaption>
+  </figure>
+  <figure class="lefty-gallery-item">
+    <img src="/content/images/portraits/lady-gaga.jpg" alt="Lady Gaga, left-handed pianist and singer" loading="lazy">
+    <figcaption>Lady Gaga</figcaption>
+  </figure>
+  <figure class="lefty-gallery-item">
+    <img src="/content/images/portraits/barack-obama.jpg" alt="Barack Obama, left-handed 44th US president" loading="lazy">
+    <figcaption>Barack Obama</figcaption>
+  </figure>
+  <figure class="lefty-gallery-item">
+    <img src="/content/images/portraits/bill-clinton.jpg" alt="Bill Clinton, left-handed 42nd US president" loading="lazy">
+    <figcaption>Bill Clinton</figcaption>
+  </figure>
+  <figure class="lefty-gallery-item">
+    <img src="/content/images/portraits/prince-william.jpg" alt="Prince William, left-handed heir to the British throne" loading="lazy">
+    <figcaption>Prince William</figcaption>
+  </figure>
+  <figure class="lefty-gallery-item">
+    <img src="/content/images/portraits/oprah-winfrey.jpg" alt="Oprah Winfrey, left-handed media mogul" loading="lazy">
+    <figcaption>Oprah Winfrey</figcaption>
+  </figure>
+  <figure class="lefty-gallery-item">
+    <img src="/content/images/portraits/babe-ruth.jpg" alt="Babe Ruth, left-handed baseball legend" loading="lazy">
+    <figcaption>Babe Ruth</figcaption>
+  </figure>
+  <figure class="lefty-gallery-item">
+    <img src="/content/images/portraits/lebron-james.jpg" alt="LeBron James, naturally left-handed NBA superstar" loading="lazy">
+    <figcaption>LeBron James</figcaption>
+  </figure>
+  <figure class="lefty-gallery-item">
+    <img src="/content/images/portraits/rafael-nadal.jpg" alt="Rafael Nadal, left-handed tennis champion" loading="lazy">
+    <figcaption>Rafael Nadal</figcaption>
+  </figure>
+  <figure class="lefty-gallery-item">
+    <img src="/content/images/portraits/keanu-reeves.jpg" alt="Keanu Reeves, left-handed actor" loading="lazy">
+    <figcaption>Keanu Reeves</figcaption>
+  </figure>
+  <figure class="lefty-gallery-item">
+    <img src="/content/images/portraits/morgan-freeman.jpg" alt="Morgan Freeman, left-handed actor" loading="lazy">
+    <figcaption>Morgan Freeman</figcaption>
+  </figure>
+  <figure class="lefty-gallery-item">
+    <img src="/content/images/portraits/bill-gates.jpg" alt="Bill Gates, left-handed Microsoft co-founder" loading="lazy">
+    <figcaption>Bill Gates</figcaption>
+  </figure>
+</div>
+
+<p class="lefty-gallery-credit">Portraits via Wikipedia (CC BY-SA / public domain).</p>
+
 <h2 id="actors">Famous left-handed actors</h2>
 
 <p>Hollywood is full of southpaws. The percentage of left-handed actors is roughly proportional to the general population, but several A-listers have made their handedness visible on screen.</p>

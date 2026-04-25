@@ -24,6 +24,11 @@ isPage: false
 </ul>
 </aside>
 
+<figure class="kg-card kg-image-card kg-card-hascaption">
+  <img src="/content/images/portraits/tua-tagovailoa.jpg" class="kg-image" alt="Tua Tagovailoa, Miami Dolphins left-handed quarterback" loading="lazy" width="320" height="400">
+  <figcaption>Tua Tagovailoa is the only current left-handed starting QB in the NFL. <a href="https://en.wikipedia.org/wiki/Tua_Tagovailoa" target="_blank" rel="noopener">Photo: Wikipedia</a></figcaption>
+</figure>
+
 <h2 id="throwing-evidence">Tua Tagovailoa throws left-handed</h2>
 
 <p>Tua's left-handedness is one of the most visible facts about him. He releases with his left hand from a high three-quarter slot, and the spiral rotates in the opposite direction of every right-handed quarterback's pass. Defenders have to adjust how they read his throwing motion, and pass-rushers approach from the opposite side of the offensive tackle than they would for a right-handed QB.</p>

@@ -23,6 +23,11 @@ isPage: false
 </ul>
 </aside>
 
+<figure class="kg-card kg-image-card kg-card-hascaption">
+  <img src="/content/images/portraits/jayden-daniels.jpg" class="kg-image" alt="Jayden Daniels, Washington Commanders quarterback and 2023 Heisman winner" loading="lazy" width="320" height="400">
+  <figcaption>Jayden Daniels throws with his right hand. <a href="https://en.wikipedia.org/wiki/Jayden_Daniels" target="_blank" rel="noopener">Photo: Wikipedia</a></figcaption>
+</figure>
+
 <h2 id="throwing-evidence">Jayden Daniels throws right-handed</h2>
 
 <p>Daniels' throwing mechanics are unmistakably right-handed. From the moment he stepped on the field at Arizona State as a true freshman in 2019, every snap shows him receiving the ball, planting his right foot, and releasing with his right hand. The same is true at LSU during his Heisman-winning 2023 season and in his rookie year with the Washington Commanders.</p>

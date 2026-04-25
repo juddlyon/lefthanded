@@ -23,6 +23,11 @@ isPage: false
 </ul>
 </aside>
 
+<figure class="kg-card kg-image-card kg-card-hascaption">
+  <img src="/content/images/portraits/donald-trump.jpg" class="kg-image" alt="Donald Trump, 45th and 47th US president, is right-handed" loading="lazy" width="320" height="400">
+  <figcaption>Donald Trump signs and writes with his right hand. <a href="https://en.wikipedia.org/wiki/Donald_Trump" target="_blank" rel="noopener">Photo: Wikipedia</a></figcaption>
+</figure>
+
 <h2 id="signing-evidence">Donald Trump signs documents with his right hand</h2>
 
 <p>Trump's right-handedness is most visible in his signing routine. During both of his presidential terms, he was photographed daily signing executive orders, bills, and proclamations at the Resolute Desk — always with his right hand. His distinctive sharp-angled signature is produced with a right-handed grip. The same pattern is visible in pre-presidential photographs going back to his real estate career, his books, and his television work on <em>The Apprentice</em>.</p>
