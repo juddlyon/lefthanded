@@ -79,9 +79,13 @@ async function fetchSlug(slug) {
       return;
     }
 
+    // Upgrade Amazon image URL to a larger size (replaces _UY300_ etc. with _SL500_)
+    const upgraded = thumb.replace(/\._[A-Z][A-Z_0-9]*_\.jpg/i, '._SL500_.jpg');
+
     fs.mkdirSync(IMAGES_DIR, { recursive: true });
     const dest = path.join(IMAGES_DIR, `${slug}.jpg`);
-    const ok = await downloadImage(thumb, dest);
+    let ok = await downloadImage(upgraded, dest);
+    if (!ok) ok = await downloadImage(thumb, dest);
     if (!ok) {
       console.log('download failed');
       return;
