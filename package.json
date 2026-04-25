@@ -8,7 +8,8 @@
     "build": "astro build",
     "preview": "astro preview",
     "extract": "node scripts/extract-content.mjs",
-    "redirects": "node scripts/generate-redirects.mjs"
+    "redirects": "node scripts/generate-redirects.mjs",
+    "fetch-products": "node scripts/fetch-products.mjs"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.15",

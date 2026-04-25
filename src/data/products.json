@@ -1,210 +1,401 @@
 {
   "babolat-pure-aero": {
     "asin": "B07HR17HYX",
-    "name": "Babolat Pure Aero Tennis Racquet"
+    "name": "Babolat Pure Aero Tennis Racquet",
+    "title": "Babolat 2019 Pure Aero Tennis Racquet (4-3/8)",
+    "image": "/content/images/products/babolat-pure-aero.jpg",
+    "last_fetched": "2026-04-25"
   },
   "fiskars-lefty-kids-blunt": {
+    "asin": "B00JV8I4VE",
     "name": "Fiskars Left-Handed Kids Scissors (5-inch, blunt tip)",
-    "query": "Fiskars left handed kids scissors 5 inch blunt tip"
+    "title": "Scissors Blunt-tip Safety-Edge Blades w/ Sheath (Navy Blue)",
+    "price": "$5.36",
+    "query": "Fiskars left handed kids scissors 5 inch blunt tip",
+    "image": "/content/images/products/fiskars-lefty-kids-blunt.jpg",
+    "last_fetched": "2026-04-25"
   },
   "fiskars-lefty-kids-pointed": {
+    "asin": "B0FJ8YSXVG",
     "name": "Fiskars Left-Handed Kids Scissors (5-inch, pointed tip)",
-    "query": "Fiskars left handed kids scissors 5 inch pointed tip"
+    "title": "5\" SoftGrip Left-Handed Kids Scissors, Pointed Tip, Pink/Light Blue Floral, Safety Edge for Precision Cutting",
+    "price": "$7.6",
+    "query": "Fiskars left handed kids scissors 5 inch pointed tip",
+    "image": "/content/images/products/fiskars-lefty-kids-pointed.jpg",
+    "last_fetched": "2026-04-25"
   },
   "global-g2l-lefty-chef": {
     "name": "Global G-2L Left-Handed 8-inch Chef's Knife",
-    "query": "Global G-2L left handed chef knife 8 inch"
+    "query": "Global G-2L left handed chef knife 8 inch",
+    "last_fetched": "2026-04-25"
   },
   "mac-professional-lefty-chef": {
     "name": "Mac Knife Professional Left-Handed 8-inch Chef's Knife",
-    "query": "Mac Knife Professional left handed chef knife 8 inch"
+    "query": "Mac Knife Professional left handed chef knife 8 inch",
+    "last_fetched": "2026-04-25"
   },
   "maped-koopy-lefty-spring": {
+    "asin": "B00ZCK8NNY",
     "name": "Maped Koopy Spring-Assisted Left-Handed Kids Scissors",
-    "query": "Maped Koopy spring assisted left handed kids scissors"
+    "title": "Helix USA Koopy Spring-Assisted Educational Scissors, Kids, 5 Inch, Blunt Tip, Right Handed Use (470249US),Black/White",
+    "price": "$5.79",
+    "query": "Maped Koopy spring assisted left handed kids scissors",
+    "image": "/content/images/products/maped-koopy-lefty-spring.jpg",
+    "last_fetched": "2026-04-25"
   },
   "mercer-genesis-lefty-paring": {
     "name": "Mercer Culinary Genesis Left-Handed Paring Knife",
-    "query": "Mercer Culinary Genesis left handed paring knife"
+    "query": "Mercer Culinary Genesis left handed paring knife",
+    "last_fetched": "2026-04-25"
   },
   "shun-classic-western-lefty-chef": {
     "name": "Shun Classic Western Left-Handed Chef's Knife",
-    "query": "Shun Classic Western left handed chef knife"
+    "query": "Shun Classic Western left handed chef knife",
+    "last_fetched": "2026-04-25"
   },
   "westcott-kleenearth-lefty": {
+    "asin": "B00VJ3MXCU",
     "name": "Westcott KleenEarth Recycled Left-Handed Scissors (7-inch)",
-    "query": "Westcott KleenEarth recycled left handed scissors 7 inch"
+    "title": "16451 8-Inch KleenEarth Recycled Scissors For Office and Home, Black",
+    "price": "$6.73",
+    "query": "Westcott KleenEarth recycled left handed scissors 7 inch",
+    "image": "/content/images/products/westcott-kleenearth-lefty.jpg",
+    "last_fetched": "2026-04-25"
   },
   "wusthof-classic-ikon-lefty-bread": {
+    "asin": "B0883TY8BB",
     "name": "Wüsthof Classic Ikon Left-Handed 9-inch Bread Knife",
-    "query": "Wusthof Classic Ikon left handed bread knife 9 inch"
+    "title": "Classic IKON 9\" Double Serrated Bread Knife, Black",
+    "price": "$150",
+    "query": "Wusthof Classic Ikon left handed bread knife 9 inch",
+    "image": "/content/images/products/wusthof-classic-ikon-lefty-bread.jpg",
+    "last_fetched": "2026-04-25"
   },
   "wusthof-classic-ikon-lefty-chef": {
+    "asin": "B0861CQZKB",
     "name": "Wüsthof Classic Ikon Left-Handed 8-inch Chef's Knife",
-    "query": "Wusthof Classic Ikon left handed chef knife 8 inch"
+    "title": "Classic Ikon Crème 8 Inch Chef's Knife",
+    "price": "$200",
+    "query": "Wusthof Classic Ikon left handed chef knife 8 inch",
+    "image": "/content/images/products/wusthof-classic-ikon-lefty-chef.jpg",
+    "last_fetched": "2026-04-25"
   },
   "wusthof-classic-ikon-lefty-paring": {
     "name": "Wüsthof Classic Ikon Left-Handed 3.5-inch Paring Knife",
-    "query": "Wusthof Classic Ikon left handed paring knife"
+    "query": "Wusthof Classic Ikon left handed paring knife",
+    "last_fetched": "2026-04-25"
   },
   "yaxell-super-gou-lefty-yanagiba": {
+    "asin": "B00G71LDC0",
     "name": "Yaxell Super Gou Left-Handed Yanagiba Knife",
-    "query": "Yaxell Super Gou left handed yanagiba knife"
+    "title": "Super Gou 8\" Chef's Knife - Made in Japan - 161 Layers SG2 Stainless Damascus",
+    "price": "$279",
+    "query": "Yaxell Super Gou left handed yanagiba knife",
+    "image": "/content/images/products/yaxell-super-gou-lefty-yanagiba.jpg",
+    "last_fetched": "2026-04-25"
   },
   "coobeast-drill-set": {
     "asin": "B0C42MQDJC",
-    "name": "Coobeast 35-Piece Screw Extractor and Left-Hand Drill Bit Set"
+    "name": "Coobeast 35-Piece Screw Extractor and Left-Hand Drill Bit Set",
+    "title": "Coobeast 35 Pcs Screw Extractor and Left Hand Drill Bits Set, Easy Out Screw Extractor Kit with HSS Steel Reverse Drill Bit for Broken Nuts, Stripped Bolts Remove",
+    "price": "$66.99",
+    "image": "/content/images/products/coobeast-drill-set.jpg",
+    "last_fetched": "2026-04-25"
   },
   "drill-hog-extractor": {
     "asin": "B01H9P1QOM",
-    "name": "Drill Hog Bolt Extractor Set"
+    "name": "Drill Hog Bolt Extractor Set",
+    "title": "Drill Hog® 15 Pc Left Handed Drill Bit Set Screw Extractor EZ-OUT HI-Molybdenum M7",
+    "price": "$97.00",
+    "image": "/content/images/products/drill-hog-extractor.jpg",
+    "last_fetched": "2026-04-25"
   },
   "drill-hog-niobium": {
     "asin": "B071ZJLJ3Q",
-    "name": "Drill Hog Left-Handed Niobium Drill Bits"
+    "name": "Drill Hog Left-Handed Niobium Drill Bits",
+    "title": "Drill Hog USA 5 Pc Left Handed Drill Bit Set Niobium Nb41",
+    "price": "$39.99",
+    "image": "/content/images/products/drill-hog-niobium.jpg",
+    "last_fetched": "2026-04-25"
   },
   "drillforce-left-hand-drill-bits": {
     "asin": "B000BMJX8C",
-    "name": "Drillforce Left-Hand Drill Bit Set"
+    "name": "Drillforce Left-Hand Drill Bit Set",
+    "title": "NEIKO 10037A Left-Hand Drill-Bit Set, High-Speed Steel Drills with Titanium Nitride Coating, Reverse-Twist Drill Bits, SAE Sizes, 15-Piece Set",
+    "price": "$29.99",
+    "image": "/content/images/products/drillforce-left-hand-drill-bits.jpg",
+    "last_fetched": "2026-04-25"
   },
   "dwiyittn-notebook": {
     "asin": "B0CM31PRVG",
-    "name": "DWIYITTN A5 Spiral Notebook"
+    "name": "DWIYITTN A5 Spiral Notebook",
+    "title": "4 Pack Lined Spiral Notebook 5.7\"x 8.25\"- 160 Pages/80 Sheets, Hardcover - A5 Journal for Note Taking, Writing, Journaling, Gift, School, Work (Muti)",
+    "image": "/content/images/products/dwiyittn-notebook.jpg",
+    "last_fetched": "2026-04-25"
   },
   "ergo-rechargeable-left-handed-mouse": {
     "asin": "B089T2C823",
-    "name": "Ergonomic Left-Handed Rechargeable Mouse"
+    "name": "Ergonomic Left-Handed Rechargeable Mouse",
+    "title": "Ergonomic Left-Handed Wireless Vertical Mouse, 2.4G, 3 Adjustable DPI (800/1200/1600), Specially for Left Handers",
+    "price": "$20.78",
+    "image": "/content/images/products/ergo-rechargeable-left-handed-mouse.jpg",
+    "last_fetched": "2026-04-25"
   },
   "faay-left-handed-spatula": {
     "asin": "B083W32DP5",
-    "name": "FAAY Left-Handed Teak Spatula"
+    "name": "FAAY Left-Handed Teak Spatula",
+    "title": "FAAY 13.5” Left-Hand Stir Fry Spatula – True Left-Hand Angled Teak Wooden Turner for Wok & Nonstick Pans, Natural Coconut Oil Finish, Handcrafted Wood Tool for Stirring & Flipping",
+    "price": "$12.99",
+    "image": "/content/images/products/faay-left-handed-spatula.jpg",
+    "last_fetched": "2026-04-25"
   },
   "fiskars-left-handed-scissors": {
     "asin": "B00006IFN8",
-    "name": "Fiskars Left-Handed Bent Scissors"
+    "name": "Fiskars Left-Handed Bent Scissors",
+    "title": "Fiskars Left-Handed Scissors, Precision Cutting for Craft Fabric Paper, Ergonomic Comfort Grip, Stainless Steel, 8\", Red",
+    "price": "$9.43",
+    "image": "/content/images/products/fiskars-left-handed-scissors.jpg",
+    "last_fetched": "2026-04-25"
   },
   "ginmlyda-spiral-journal": {
     "asin": "B0BRPXMJDF",
-    "name": "GINMLYDA Spiral Journal Notebook"
+    "name": "GINMLYDA Spiral Journal Notebook",
+    "title": "GINMLYDA Small Spiral Notebook 12Pack, 120 Lined Pages 8.25x5.50 Inches Spiral Journal Kraft Cover Notebooks & Writing Pads for School Home Office Aesthetic Sketch Drawing Note",
+    "price": "$28.73",
+    "image": "/content/images/products/ginmlyda-spiral-journal.jpg",
+    "last_fetched": "2026-04-25"
   },
   "gorilla-grip-can-opener": {
     "asin": "B09NXMDPS1",
-    "name": "Gorilla Grip Handheld Can Opener"
+    "name": "Gorilla Grip Handheld Can Opener",
+    "title": "GORILLA GRIP Heavy Duty Stainless Steel Smooth Edge Manual Can Opener and Bottle Openers, US Designed, Soft Comfortable Handle, Oversized Handheld Turn Knob, Multifunctional Kitchen Tool, Black",
+    "price": "$7.99",
+    "image": "/content/images/products/gorilla-grip-can-opener.jpg",
+    "last_fetched": "2026-04-25"
   },
   "henoyso-lefty-notebooks": {
     "asin": "B0BBH5D765",
-    "name": "Henoyso Left-Handed Notebooks (5-Pack)"
+    "name": "Henoyso Left-Handed Notebooks (5-Pack)",
+    "title": "Henoyso 5 Pcs Jumbo Left Handed Notebook 100 Sheets/200pages Left Handed Workbook 11 x 9 Inches Spiral Notebook Lefty Notebooks for Easier Lefty Use Supplies(Elegant Color)",
+    "price": "$33.99",
+    "image": "/content/images/products/henoyso-lefty-notebooks.jpg",
+    "last_fetched": "2026-04-25"
   },
   "jilla-hla-acacia-spatula": {
     "asin": "B0CND5J96T",
-    "name": "Jilla-hla Acacia Wood Left-Handed Spatula"
+    "name": "Jilla-hla Acacia Wood Left-Handed Spatula",
+    "title": "Jilla-hla Wooden Spatula Nonstick Turner Acacia Wood, Left Long Handle Flat Frying Spatulas Handmade for Kitchen Gifts, Ideal Cookware Utensils for Cooking Eggs, Fish, Pancakes",
+    "price": "$7.99",
+    "image": "/content/images/products/jilla-hla-acacia-spatula.jpg",
+    "last_fetched": "2026-04-25"
   },
   "jutom-lefty-notebooks": {
     "asin": "B0BVT87DNL",
-    "name": "Jutom Left-Handed Notebooks"
+    "name": "Jutom Left-Handed Notebooks",
+    "title": "Jutom 2 Pads Jumbo Left Handed Notebook 11\" x 8.5\" Lefty Wire Bound Notebooks 200 Pages Inspirational Left Handed Journal Spiral for Lefties School Office(Black, Navy,Cute)",
+    "price": "$17.59",
+    "image": "/content/images/products/jutom-lefty-notebooks.jpg",
+    "last_fetched": "2026-04-25"
   },
   "lancaster-lefty-turner": {
     "asin": "B08GGCY5ZV",
-    "name": "Lancaster Handmade Cherry Wood Lefty Turner"
+    "name": "Lancaster Handmade Cherry Wood Lefty Turner",
+    "title": "Left Handed Wooden Spatula - 12” Handmade Wood Turner, Made in the USA - Angled Wooden Fish Spatula",
+    "price": "$29.00",
+    "image": "/content/images/products/lancaster-lefty-turner.jpg",
+    "last_fetched": "2026-04-25"
   },
   "lapgear-lap-desk": {
     "asin": "B0B3GQ63QR",
-    "name": "LapGear Home Office Lap Desk (Lefty)"
+    "name": "LapGear Home Office Lap Desk (Lefty)",
+    "title": "LAPGEAR Home Office Lap Desk - Left-Handed - with Mouse Pad, Device Ledge, and Phone Holder - Silver Carbon - Fits up to 15.6 Inch Laptops - Style No. 91405",
+    "image": "/content/images/products/lapgear-lap-desk.jpg",
+    "last_fetched": "2026-04-25"
   },
   "left-handed-easy-grip-can-opener": {
     "asin": "B0CP5VBFWL",
-    "name": "Multifunctional Effort-Saving Can Opener"
+    "name": "Multifunctional Effort-Saving Can Opener",
+    "title": "Beneno Heavy Duty Hand Can Opener Manual with Magnet, Durable Sharp Carbon Steel Blade Smooth Cutting, Big Effort-Saving Knob, Soft Grip Handle, Multifunctional Kitchen Tool with Bottle Opener, Orange",
+    "price": "$19.99",
+    "image": "/content/images/products/left-handed-easy-grip-can-opener.jpg",
+    "last_fetched": "2026-04-25"
   },
   "leftys-can-opener": {
     "asin": "B0C5S854BM",
-    "name": "Lefty's Left-Handed Can Opener"
+    "name": "Lefty's Left-Handed Can Opener",
+    "title": "Lefty’s Left Handed Can Opener - Premium Design Black Heavy duty Stainless Steel - Easy To Turn Sharp Blade - Smooth Edge - Great Gift for Left-Handed People, Adults, Men and Women",
+    "price": "$20.99",
+    "image": "/content/images/products/leftys-can-opener.jpg",
+    "last_fetched": "2026-04-25"
   },
   "leftys-college-notebooks": {
     "asin": "B07QR75WXR",
-    "name": "Lefty's Left-Handed College-Ruled Notebooks"
+    "name": "Lefty's Left-Handed College-Ruled Notebooks",
+    "title": "Left-Handed College Ruled Notebook Printed with \"Lefty's\" on the Cover, Set of 5, Assorted Colors",
+    "price": "$39.99",
+    "image": "/content/images/products/leftys-college-notebooks.jpg",
+    "last_fetched": "2026-04-25"
   },
   "leftys-rule-notebooks": {
     "asin": "B00YARD7HC",
-    "name": "Lefty's Rule Notebooks (Lefties Notebooks Set)"
+    "name": "Lefty's Rule Notebooks (Lefties Notebooks Set)",
+    "title": "2 Left-Handed \"Lefties Rule\" Wide Ruled Notebooks Plus 3 Left-Handed Visio Pens, Assorted Colors",
+    "price": "$27.95",
+    "image": "/content/images/products/leftys-rule-notebooks.jpg",
+    "last_fetched": "2026-04-25"
   },
   "leftys-scissors-set": {
     "asin": "B00IZ7JUHE",
-    "name": "Lefty's Left-Handed Scissors Set"
+    "name": "Lefty's Left-Handed Scissors Set",
+    "title": "Lefty's True Left-handed Scissors for General Purpose Use, 2 Sizes Included",
+    "image": "/content/images/products/leftys-scissors-set.jpg",
+    "last_fetched": "2026-04-25"
   },
   "leftys-writing-essentials": {
     "asin": "B00YARD5X8",
-    "name": "Lefty's Writing Essentials Pen + Notebook Set"
+    "name": "Lefty's Writing Essentials Pen + Notebook Set",
+    "title": "3 Left-Handed Visio Pens Plus 2 Left-Handed College Ruled Notebooks, Printed with the Word \"Left-Handed\" in 33 Languages",
+    "price": "$6.49",
+    "image": "/content/images/products/leftys-writing-essentials.jpg",
+    "last_fetched": "2026-04-25"
   },
   "legion-tech-l50-mouse": {
     "asin": "B0C57B7JV1",
-    "name": "Legion Tech L50 Left-Handed Gaming Mouse"
+    "name": "Legion Tech L50 Left-Handed Gaming Mouse",
+    "title": "L50 Left-Handed Wired Gaming Mouse, Lefty Mouse [Stock is Out for a While, Thank You Everyone!]",
+    "image": "/content/images/products/legion-tech-l50-mouse.jpg",
+    "last_fetched": "2026-04-25"
   },
   "liam-lu-left-handed-notebooks": {
     "asin": "B0BRNSHSVK",
-    "name": "Liam+Lu Left-Handed Waterproof Notebooks"
+    "name": "Liam+Lu Left-Handed Waterproof Notebooks",
+    "title": "Left Handed Spiral Notebooks College Ruled [3 Pack, 100 Sheets] | 9\"x11\" with Thick Paper, Spiral Binding and Waterproof Notebook | Stylish and Trendy Notebooks for Adults, Teens, and Pre-Teens | Single Subject Spiral Notebook | Campus Notebooks",
+    "price": "$25.99",
+    "image": "/content/images/products/liam-lu-left-handed-notebooks.jpg",
+    "last_fetched": "2026-04-25"
   },
   "lichamp-13-piece-drill-set": {
     "asin": "B099SFXVDX",
-    "name": "Lichamp 13-Piece Left-Hand Drill Bit Set"
+    "name": "Lichamp 13-Piece Left-Hand Drill Bit Set",
+    "title": "Lichamp Left Hand Drill Bit Set for Metal Sheet, 13-Piece Genuine M2 HSS Twist Reverse Drill Bits, 13 Sizes from 1/16 to 1/4 inches",
+    "price": "$14.99",
+    "image": "/content/images/products/lichamp-13-piece-drill-set.jpg",
+    "last_fetched": "2026-04-25"
   },
   "maped-expert-scissors": {
     "asin": "B0040Z42YG",
-    "name": "Maped Expert Left-Handed Scissors"
+    "name": "Maped Expert Left-Handed Scissors",
+    "title": "Maped - Expert Left-Handed 8.25 Inch Scissors - Cutting Paper for Crafts - Left-Handed Design - Ergonomic Comfort for Effortless Use - Multipurpose Use, Durable Blades, Precise Cutting",
+    "price": "$7.99",
+    "image": "/content/images/products/maped-expert-scissors.jpg",
+    "last_fetched": "2026-04-25"
   },
   "meetion-left-handed-mouse": {
     "asin": "B0C3D6853V",
-    "name": "MEETION Left-Handed Ergonomic Rechargeable Mouse"
+    "name": "MEETION Left-Handed Ergonomic Rechargeable Mouse",
+    "title": "MEETION Left-Handed Ergonomic Mouse, Wireless Vertical RGB Rechargeable Mouse, Bluetooth(5.2 + 3.0) & USB-A with USB-C Adapter 4 Adjustable DPI Mice for Mac/Windows/PC/Tablet/iPad Black",
+    "price": "$20.89",
+    "image": "/content/images/products/meetion-left-handed-mouse.jpg",
+    "last_fetched": "2026-04-25"
   },
   "mokoqi-levitating-globe": {
     "asin": "B016I5FHXU",
-    "name": "MOKOQI Magnetic Levitating Globe"
+    "name": "MOKOQI Magnetic Levitating Globe",
+    "title": "MOKOQI Magnetic Levitating Globe with LED Light, Cool Tech Gift for Men Father Boys and Girls , Birthday Gifts for Kids, Floating Globes World Desk Gadget Decor in Office Home/Display Frame Stand",
+    "price": "$36.99",
+    "image": "/content/images/products/mokoqi-levitating-globe.jpg",
+    "last_fetched": "2026-04-25"
   },
   "navaris-lefty-spatulas": {
     "asin": "B09GG16LCM",
-    "name": "Navaris Left-Handed Spatula Set (3-Piece)"
+    "name": "Navaris Left-Handed Spatula Set (3-Piece)",
+    "title": "Navaris Left Handed Spatula Set (3 Pieces) - Wood Lefty Turner Spatulas for Cooking - Kitchen Utensil Turners for Lefties - Wooden Acacia Utensils",
+    "image": "/content/images/products/navaris-lefty-spatulas.jpg",
+    "last_fetched": "2026-04-25"
   },
   "oxo-good-grips-can-opener": {
     "asin": "B00004OCJW",
-    "name": "OXO Good Grips Can Opener"
+    "name": "OXO Good Grips Can Opener",
+    "title": "OXO Good Grips Soft-Handled Manual Can Opener",
+    "price": "$9.98$9.98",
+    "image": "/content/images/products/oxo-good-grips-can-opener.jpg",
+    "last_fetched": "2026-04-25"
   },
   "our-leftys-choice-spatula": {
     "asin": "B07KXNG34B",
-    "name": "Lefty's Choice Nylon Spatula"
+    "name": "Lefty's Choice Nylon Spatula",
+    "title": "Seki Japan Left Handed Spatula Egg Flipper Fish Spatula Cookware - Slotted Turner Egg Flipper Utensils 12” for Left Handed Gifts",
+    "price": "$17.99",
+    "image": "/content/images/products/our-leftys-choice-spatula.jpg",
+    "last_fetched": "2026-04-25"
   },
   "patelai-jumbo-lefty-spiral-notebooks": {
     "asin": "B0CM31W2NM",
-    "name": "Patelai Jumbo Lefty Spiral Notebooks (6-Pack)"
+    "name": "Patelai Jumbo Lefty Spiral Notebooks (6-Pack)",
+    "title": "Patelai 6 Pack Jumbo Left Handed Spiral Notebooks 8.5 x 11'' Wide Ruled with Three Hole Paper Wire Bound Lefty Spiral Notebooks 100 Sheets Notebook School Supplies for Left Handed Use (Mixed Color)",
+    "image": "/content/images/products/patelai-jumbo-lefty-spiral-notebooks.jpg",
+    "last_fetched": "2026-04-25"
   },
   "razer-naga-left-handed": {
     "asin": "B00EO2ECUY",
-    "name": "Razer Naga Left-Handed Programmable Mouse"
+    "name": "Razer Naga Left-Handed Programmable Mouse",
+    "title": "Razer RZ01-01050100-R3M1 Naga Left-Handed - Ergonomic MMO Gaming Mouse with 12 Programmable Thumb Buttons - 8,200 Adjustible DPI",
+    "price": "$155.99",
+    "image": "/content/images/products/razer-naga-left-handed.jpg",
+    "last_fetched": "2026-04-25"
   },
   "rechargeable-wireless-ergonomic-mouse": {
     "asin": "B07KM3S6DP",
-    "name": "Rechargeable Wireless Ergonomic Left-Handed Mouse"
+    "name": "Rechargeable Wireless Ergonomic Left-Handed Mouse",
+    "title": "Left-Handed Mouse, Rechargeable 2.4G Wireless Ergonomic Vertical Mice with USB Receiver, 6 Buttons Optical Vertical Cordless Mice for Laptop Computer PC Desktop Computer Notebook,for Lefty Hands",
+    "price": "$16.89",
+    "image": "/content/images/products/rechargeable-wireless-ergonomic-mouse.jpg",
+    "last_fetched": "2026-04-25"
   },
   "roaring-spring-lefty-notebook": {
     "asin": "B01NADNGHB",
-    "name": "Roaring Spring Left-Handed Spiral Notebook"
+    "name": "Roaring Spring Left-Handed Spiral Notebook",
+    "title": "Roaring Spring Lefty Spiral Notebook, Wide Ruled One Subject Left Handed Notebook, 10.5\" x 8.5\", 100 Sheets, Assorted Color Covers",
+    "price": "$9.29",
+    "image": "/content/images/products/roaring-spring-lefty-notebook.jpg",
+    "last_fetched": "2026-04-25"
   },
   "westcott-carbotitanium-scissors": {
     "asin": "B07JFPH169",
-    "name": "Westcott CarboTitanium Straight Scissors"
+    "name": "Westcott CarboTitanium Straight Scissors",
+    "title": "Westcott 16935 8-Inch Heavy-Duty Lefty Carbo-Titanium Scissors For Office and Home, Straight (16935)",
+    "price": "$21.52",
+    "image": "/content/images/products/westcott-carbotitanium-scissors.jpg",
+    "last_fetched": "2026-04-25"
   },
   "yonex-ezone-night": {
     "asin": "B0CS8F5XQB",
-    "name": "Yonex EZONE Night Tennis Racquet"
+    "name": "Yonex EZONE Night Tennis Racquet",
+    "title": "Yonex EZONE 100 Aqua Night Black Tennis Racquet (7th Gen)",
+    "image": "/content/images/products/yonex-ezone-night.jpg",
+    "last_fetched": "2026-04-25"
   },
   "yonex-vcore-310g": {
     "asin": "B09BZXMPJJ",
-    "name": "Yonex VCORE 310G Tennis Racquet"
+    "name": "Yonex VCORE 310G Tennis Racquet",
+    "title": "Yonex VCORE Pro 97 (310G) Tennis Racquet",
+    "image": "/content/images/products/yonex-vcore-310g.jpg",
+    "last_fetched": "2026-04-25"
   },
   "yazemkel-left-hand-scissors": {
     "asin": "B07JBMSLFF",
-    "name": "YAZEMKEL Left-Hand Scissors (3-Pack)"
+    "name": "YAZEMKEL Left-Hand Scissors (3-Pack)",
+    "title": "Left-Hand Scissors Stainless Steel 3-Pack, 8 inch",
+    "price": "$8.99",
+    "image": "/content/images/products/yazemkel-left-hand-scissors.jpg",
+    "last_fetched": "2026-04-25"
   },
   "zyliss-lock-can-opener": {
     "asin": "B000HK03HI",
-    "name": "Zyliss Lock N' Lift Can Opener"
+    "name": "Zyliss Lock N' Lift Can Opener",
+    "title": "Zyliss Lock N' Lift Can Opener with Lid Lifter Magnet - Manual Opener with Locking Mechanism - Easy-to-Turn - Magnetic Can Opener - White/Gray",
+    "price": "$24.95",
+    "image": "/content/images/products/zyliss-lock-can-opener.jpg",
+    "last_fetched": "2026-04-25"
   }
 }

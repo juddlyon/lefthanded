@@ -32,53 +32,95 @@ isPage: false
 
 <p>Blunt-tip safety scissors. Lighter spring tension. Smaller finger holes.</p>
 
-<h3>Fiskars Left-Handed Blunt-Tip Kids Scissors (5 inch)</h3>
+<h3 id="fiskars-lefty-kids-blunt"><a href="/go/fiskars-lefty-kids-blunt" target="_blank" rel="nofollow sponsored noopener">Fiskars Left-Handed Blunt-Tip Kids Scissors (5 inch)</a></h3>
 
-<p>The classroom standard. Genuinely reversed blades, blunt tip, lightweight, easy spring action. Survives daily classroom use for a full year. Around $7. Buy two — one for school, one for home.</p>
+<div class="kg-card kg-product-card">
+  <div class="kg-product-card-container">
+    <a href="/go/fiskars-lefty-kids-blunt" target="_blank" rel="nofollow sponsored noopener"><img src="/content/images/products/fiskars-lefty-kids-blunt.jpg" class="kg-product-card-image" loading="lazy" alt="Fiskars left-handed blunt-tip kids scissors"></a>
+    <div class="kg-product-card-title-container">
+      <h4 class="kg-product-card-title"><span style="white-space: pre-wrap;">Fiskars Left-Handed Blunt-Tip Kids Scissors</span></h4>
+    </div>
+    <div class="kg-product-card-description"><p>The classroom standard. Genuinely reversed blades, blunt tip, lightweight, easy spring action. Survives daily classroom use for a full year. Buy two — one for school, one for home.</p></div>
+    <a class="kg-product-card-button kg-product-card-btn-accent" href="/go/fiskars-lefty-kids-blunt" target="_blank" rel="nofollow sponsored noopener"><span>Check Amazon Price</span></a>
+  </div>
+</div>
 
-<p><a href="/go/fiskars-lefty-kids-blunt" target="_blank" rel="nofollow sponsored noopener"><strong>Check Amazon price →</strong></a></p>
+<h3 id="maped-koopy-lefty-spring"><a href="/go/maped-koopy-lefty-spring" target="_blank" rel="nofollow sponsored noopener">Maped Koopy Spring-Assisted Lefty Scissors</a></h3>
 
-<h3>Maped Koopy Spring-Assisted Lefty Scissors</h3>
-
-<p>The spring-assist feature reopens the scissors automatically after each cut, which removes a major motor-control hurdle for early-stage cutters. Particularly good for kids who are physically struggling to reopen their hands or who fatigue quickly during cutting practice. Around $9.</p>
-
-<p><a href="/go/maped-koopy-lefty-spring" target="_blank" rel="nofollow sponsored noopener"><strong>Check Amazon price →</strong></a></p>
+<div class="kg-card kg-product-card">
+  <div class="kg-product-card-container">
+    <a href="/go/maped-koopy-lefty-spring" target="_blank" rel="nofollow sponsored noopener"><img src="/content/images/products/maped-koopy-lefty-spring.jpg" class="kg-product-card-image" loading="lazy" alt="Maped Koopy spring-assisted left-handed kids scissors"></a>
+    <div class="kg-product-card-title-container">
+      <h4 class="kg-product-card-title"><span style="white-space: pre-wrap;">Maped Koopy Spring-Assisted Lefty Scissors</span></h4>
+    </div>
+    <div class="kg-product-card-description"><p>The spring-assist feature reopens the scissors automatically after each cut, which removes a major motor-control hurdle for early-stage cutters. Particularly good for kids physically struggling to reopen their hands or who fatigue quickly during cutting practice.</p></div>
+    <a class="kg-product-card-button kg-product-card-btn-accent" href="/go/maped-koopy-lefty-spring" target="_blank" rel="nofollow sponsored noopener"><span>Check Amazon Price</span></a>
+  </div>
+</div>
 
 <h2 id="ages-7-to-10-elementary">Ages 7 to 10 (elementary)</h2>
 
 <p>Pointed tips become useful for craft precision. Larger handles fit growing hands.</p>
 
-<h3>Fiskars Left-Handed Pointed-Tip Kids Scissors (5 inch)</h3>
+<h3 id="fiskars-lefty-kids-pointed"><a href="/go/fiskars-lefty-kids-pointed" target="_blank" rel="nofollow sponsored noopener">Fiskars Left-Handed Pointed-Tip Kids Scissors (5 inch)</a></h3>
 
-<p>Same Fiskars build as the blunt-tip but with a sharper point for cleaner detail cuts. Use this when your kid has graduated past blunt-tip safety into actual craft work. Around $8.</p>
+<div class="kg-card kg-product-card">
+  <div class="kg-product-card-container">
+    <a href="/go/fiskars-lefty-kids-pointed" target="_blank" rel="nofollow sponsored noopener"><img src="/content/images/products/fiskars-lefty-kids-pointed.jpg" class="kg-product-card-image" loading="lazy" alt="Fiskars left-handed pointed-tip kids scissors"></a>
+    <div class="kg-product-card-title-container">
+      <h4 class="kg-product-card-title"><span style="white-space: pre-wrap;">Fiskars Left-Handed Pointed-Tip Kids Scissors</span></h4>
+    </div>
+    <div class="kg-product-card-description"><p>Same Fiskars build as the blunt-tip but with a sharper point for cleaner detail cuts. Use this when your kid has graduated past blunt-tip safety into actual craft work.</p></div>
+    <a class="kg-product-card-button kg-product-card-btn-accent" href="/go/fiskars-lefty-kids-pointed" target="_blank" rel="nofollow sponsored noopener"><span>Check Amazon Price</span></a>
+  </div>
+</div>
 
-<p><a href="/go/fiskars-lefty-kids-pointed" target="_blank" rel="nofollow sponsored noopener"><strong>Check Amazon price →</strong></a></p>
+<h3 id="westcott-kleenearth-lefty"><a href="/go/westcott-kleenearth-lefty" target="_blank" rel="nofollow sponsored noopener">Westcott KleenEarth Lefty Scissors (7 inch)</a></h3>
 
-<h3>Westcott KleenEarth Lefty Scissors (7 inch)</h3>
-
-<p>Step up to a full-size lefty scissor as hand size grows. Westcott's KleenEarth line uses a recycled-plastic handle that's surprisingly durable, and the lefty version is a true reversed blade. Around $10.</p>
-
-<p><a href="/go/westcott-kleenearth-lefty" target="_blank" rel="nofollow sponsored noopener"><strong>Check Amazon price →</strong></a></p>
+<div class="kg-card kg-product-card">
+  <div class="kg-product-card-container">
+    <a href="/go/westcott-kleenearth-lefty" target="_blank" rel="nofollow sponsored noopener"><img src="/content/images/products/westcott-kleenearth-lefty.jpg" class="kg-product-card-image" loading="lazy" alt="Westcott KleenEarth recycled left-handed scissors"></a>
+    <div class="kg-product-card-title-container">
+      <h4 class="kg-product-card-title"><span style="white-space: pre-wrap;">Westcott KleenEarth Lefty Scissors</span></h4>
+    </div>
+    <div class="kg-product-card-description"><p>Step up to a full-size lefty scissor as hand size grows. Westcott's KleenEarth line uses a recycled-plastic handle that's surprisingly durable, and the lefty version is a true reversed blade.</p></div>
+    <a class="kg-product-card-button kg-product-card-btn-accent" href="/go/westcott-kleenearth-lefty" target="_blank" rel="nofollow sponsored noopener"><span>Check Amazon Price</span></a>
+  </div>
+</div>
 
 <h2 id="ages-11-and-up-tweens-and-up">Ages 11 and up (tweens and into adult sizes)</h2>
 
 <p>By this age, the kid version is too small. They're cutting with full adult-size scissors but still benefit from a true lefty blade. Our broader <a href="/best-left-handed-scissors/">guide to left-handed scissors</a> covers the adult picks; below is the bridge option that works for both pre-teens and adults.</p>
 
-<h3>Fiskars Left-Handed 8-inch Bent Scissors</h3>
+<h3 id="fiskars-left-handed-scissors"><a href="/go/fiskars-left-handed-scissors" target="_blank" rel="nofollow sponsored noopener">Fiskars Left-Handed 8-inch Bent Scissors</a></h3>
 
-<p>The grown-up version of the kids' Fiskars. 8-inch blade, bent handle for ergonomic cutting on a flat surface. The same scissors many lefty adults end up using permanently. Around $13.</p>
-
-<p><a href="/go/fiskars-left-handed-scissors" target="_blank" rel="nofollow sponsored noopener"><strong>Check Amazon price →</strong></a></p>
+<div class="kg-card kg-product-card">
+  <div class="kg-product-card-container">
+    <a href="/go/fiskars-left-handed-scissors" target="_blank" rel="nofollow sponsored noopener"><img src="/content/images/products/fiskars-left-handed-scissors.jpg" class="kg-product-card-image" loading="lazy" alt="Fiskars left-handed 8-inch bent scissors"></a>
+    <div class="kg-product-card-title-container">
+      <h4 class="kg-product-card-title"><span style="white-space: pre-wrap;">Fiskars Left-Handed 8-inch Bent Scissors</span></h4>
+    </div>
+    <div class="kg-product-card-description"><p>The grown-up version of the kids' Fiskars. 8-inch blade, bent handle for ergonomic cutting on a flat surface. The same scissors many lefty adults end up using permanently.</p></div>
+    <a class="kg-product-card-button kg-product-card-btn-accent" href="/go/fiskars-left-handed-scissors" target="_blank" rel="nofollow sponsored noopener"><span>Check Amazon Price</span></a>
+  </div>
+</div>
 
 <h2 id="for-craft-and-art-projects">For craft and art projects</h2>
 
 <p>Detail cutting needs sharper, longer points. Worth a separate pair from the everyday classroom set.</p>
 
-<h3>Maped Expert Left-Handed Scissors</h3>
+<h3 id="maped-expert-scissors"><a href="/go/maped-expert-scissors" target="_blank" rel="nofollow sponsored noopener">Maped Expert Left-Handed Scissors</a></h3>
 
-<p>French-made, stainless blades with a finer point than the Fiskars. Better for cutting along curved lines, intricate cuts, and anything where the cut needs to be precise. Around $12.</p>
-
-<p><a href="/go/maped-expert-scissors" target="_blank" rel="nofollow sponsored noopener"><strong>Check Amazon price →</strong></a></p>
+<div class="kg-card kg-product-card">
+  <div class="kg-product-card-container">
+    <a href="/go/maped-expert-scissors" target="_blank" rel="nofollow sponsored noopener"><img src="/content/images/products/maped-expert-scissors.jpg" class="kg-product-card-image" loading="lazy" alt="Maped Expert left-handed scissors"></a>
+    <div class="kg-product-card-title-container">
+      <h4 class="kg-product-card-title"><span style="white-space: pre-wrap;">Maped Expert Left-Handed Scissors</span></h4>
+    </div>
+    <div class="kg-product-card-description"><p>French-made, stainless blades with a finer point than the Fiskars. Better for cutting along curved lines, intricate cuts, and anything where the cut needs to be precise.</p></div>
+    <a class="kg-product-card-button kg-product-card-btn-accent" href="/go/maped-expert-scissors" target="_blank" rel="nofollow sponsored noopener"><span>Check Amazon Price</span></a>
+  </div>
+</div>
 
 <h2 id="what-to-avoid">What to avoid</h2>
 
