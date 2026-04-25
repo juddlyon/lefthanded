@@ -56,6 +56,23 @@ const isProductsPost = tags.includes('Products');
 const isGiftHub = post.data.slug === 'best-gifts-for-left-handed-people';
 const showAmazonCta = !isProductsPost && !isGiftHub;
 
+// Split the body so the CTA can land between the intro/TL;DR and the first
+// real deep-dive H2 — that's where most readers' eyes are when they decide
+// whether to keep reading or bounce. Injecting here captures the cookie at
+// the highest-attention moment.
+function splitBodyAtFirstSection(html: string): [string, string] {
+  if (!html) return ['', ''];
+  const matches = [...html.matchAll(/<h2[^>]*>/gi)];
+  if (matches.length === 0) return [html, ''];
+  // Skip the TL;DR's own H2 (id="tldr") if present; split at the first
+  // content-section H2 instead.
+  const firstContentH2 = matches.find(m => !/id=["']tldr["']/i.test(m[0]))
+    ?? matches[0];
+  const idx = firstContentH2.index ?? 0;
+  return [html.slice(0, idx), html.slice(idx)];
+}
+const [bodyTop, bodyRest] = splitBodyAtFirstSection(post.body || '');
+
 // Build extra schemas
 const extraSchemas: Record<string, any>[] = [];
 const siteUrl = Astro.site?.toString().replace(/\/$/, '') || 'https://lefthanded.io';
@@ -139,10 +156,9 @@ if (post.body) {
           </figure>
         )}
 
-        <div class="post-content gh-content kg-canvas" set:html={post.body} />
-
-        {showAmazonCta && (
-          <div class="container medium">
+        <div class="post-content gh-content kg-canvas">
+          <Fragment set:html={bodyTop} />
+          {showAmazonCta && bodyRest && (
             <aside class="amazon-cta" aria-label="Shop left-handed gifts">
               <h3 class="amazon-cta-title">Looking for a great left-handed gift?</h3>
               <p class="amazon-cta-text">Browse our curated picks or jump straight to Amazon's full selection — funny mugs, lefty notebooks, ergonomic tools, and more.</p>
@@ -152,8 +168,9 @@ if (post.body) {
               </div>
               <p class="amazon-cta-disclosure">As an Amazon Associate, lefthanded.io earns from qualifying purchases.</p>
             </aside>
-          </div>
-        )}
+          )}
+          <Fragment set:html={bodyRest} />
+        </div>
 
         <div class="container medium">
           <section class="author">
@@ -245,5 +262,49 @@ if (post.body) {
   @media (max-width: 575px) {
     .amazon-cta { padding: 2rem 1.8rem; }
     .amazon-cta-btn { display: block; text-align: center; }
+  }
+
+  /* Thumbnail gallery for the famous-left-handed-people hub. */
+  .lefty-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 1.6rem;
+    margin: 2rem 0 1rem;
+    padding: 0;
+    list-style: none;
+  }
+  .lefty-gallery-item {
+    margin: 0;
+    text-align: center;
+  }
+  .lefty-gallery-item img {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: 8px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out;
+  }
+  .lefty-gallery-item img:hover {
+    transform: scale(1.03);
+  }
+  .lefty-gallery-item figcaption {
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin-top: 0.6rem;
+    text-align: center;
+    color: var(--primary-text-color, #333);
+  }
+  .lefty-gallery-credit {
+    font-size: 1.2rem;
+    color: var(--secondary-text-color, #888);
+    font-style: italic;
+    margin: 0.5rem 0 2rem;
+  }
+  .dark-mode .lefty-gallery-item figcaption {
+    color: var(--dark-mode-primary-text-color, #ccc);
+  }
+  .dark-mode .lefty-gallery-credit {
+    color: var(--dark-mode-secondary-text-color, #999);
   }
 </style>
