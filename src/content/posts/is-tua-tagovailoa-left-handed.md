@@ -5,7 +5,7 @@ slug: is-tua-tagovailoa-left-handed
 tags: ["People", "Sports"]
 pubDate: "2026-04-25T12:00:00.000Z"
 updatedDate: "2026-04-25T12:00:00.000Z"
-featuredImage: "/content/images/portraits/tua-tagovailoa.jpg"
+featuredImage: "/content/images/portraits/tua-tagovailoa-v2.jpg"
 isPage: false
 ---
 

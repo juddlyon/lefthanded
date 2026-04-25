@@ -27,8 +27,13 @@ const META_PATH = path.join(ROOT, 'src', 'data', 'portraits.json');
 // Slugs that get a larger image (used as a featured/hero image, not just a
 // gallery thumbnail). The fetcher rewrites the Wikipedia thumb URL to request
 // 1280px instead of the 320px default.
+//
+// Hero images are saved with a -v<N> suffix because /content/images/* is
+// served with `Cache-Control: immutable` — replacing the file at the same URL
+// won't bust the CDN edge cache. Bump HERO_VERSION when re-fetching.
 const HERO_SLUGS = new Set(['donald-trump', 'jayden-daniels', 'tua-tagovailoa']);
 const HERO_SIZE = 1280;
+const HERO_VERSION = 'v2';
 
 // slug → Wikipedia page title (URL-encoded form Wikipedia expects)
 const PORTRAITS = {
@@ -89,8 +94,11 @@ async function main() {
   let success = 0, failed = 0, skipped = 0;
 
   for (const [slug, title] of Object.entries(PORTRAITS)) {
-    const dest = path.join(OUT_DIR, `${slug}.jpg`);
     const isHero = HERO_SLUGS.has(slug);
+    // Hero images use a versioned filename so cache-bust is automatic when
+    // HERO_VERSION is bumped.
+    const filename = isHero ? `${slug}-${HERO_VERSION}.jpg` : `${slug}.jpg`;
+    const dest = path.join(OUT_DIR, filename);
     const expectedSize = isHero ? 80000 : 5000; // hero images should be ~100KB+
     if (
       fs.existsSync(dest) && fs.statSync(dest).size > expectedSize && meta[slug] &&
@@ -114,9 +122,10 @@ async function main() {
         name: summary.title,
         description: summary.description || '',
         wikipedia_url: summary.content_urls?.desktop?.page || `https://en.wikipedia.org/wiki/${title}`,
-        image_path: `/content/images/portraits/${slug}.jpg`,
+        image_path: `/content/images/portraits/${filename}`,
         source_image_url: imgUrl,
         is_hero: isHero,
+        version: isHero ? HERO_VERSION : null,
         fetched_at: new Date().toISOString().slice(0, 10),
       };
 

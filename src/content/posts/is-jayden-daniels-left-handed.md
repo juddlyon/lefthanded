@@ -5,7 +5,7 @@ slug: is-jayden-daniels-left-handed
 tags: ["People", "Sports"]
 pubDate: "2026-04-25T12:00:00.000Z"
 updatedDate: "2026-04-25T12:00:00.000Z"
-featuredImage: "/content/images/portraits/jayden-daniels.jpg"
+featuredImage: "/content/images/portraits/jayden-daniels-v2.jpg"
 isPage: false
 ---
 

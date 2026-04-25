@@ -1,31 +1,4 @@
 {
-  "donald-trump": {
-    "name": "Donald Trump",
-    "description": "President of the United States (2017–2021; since 2025)",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Donald_Trump",
-    "image_path": "/content/images/portraits/donald-trump.jpg",
-    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
-    "is_hero": true,
-    "fetched_at": "2026-04-25"
-  },
-  "jayden-daniels": {
-    "name": "Jayden Daniels",
-    "description": "American football player (born 2000)",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Jayden_Daniels",
-    "image_path": "/content/images/portraits/jayden-daniels.jpg",
-    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Jayden_Daniels_2025.jpg/1280px-Jayden_Daniels_2025.jpg",
-    "is_hero": true,
-    "fetched_at": "2026-04-25"
-  },
-  "tua-tagovailoa": {
-    "name": "Tua Tagovailoa",
-    "description": "American football player (born 1998)",
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Tua_Tagovailoa",
-    "image_path": "/content/images/portraits/tua-tagovailoa.jpg",
-    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tua_Tagovailoa_Miami_Dolphins_at_New_Orleans_Saints_2021_%28cropped%29.jpg/1280px-Tua_Tagovailoa_Miami_Dolphins_at_New_Orleans_Saints_2021_%28cropped%29.jpg",
-    "is_hero": true,
-    "fetched_at": "2026-04-25"
-  },
   "paul-mccartney": {
     "name": "Paul McCartney",
     "description": "English musician and songwriter (born 1942)",
@@ -159,6 +132,36 @@
     "image_path": "/content/images/portraits/bill-gates.jpg",
     "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bill_Gates_at_the_European_Commission_-_P067383-987995_%28cropped%29_5.jpg/330px-Bill_Gates_at_the_European_Commission_-_P067383-987995_%28cropped%29_5.jpg",
     "is_hero": false,
+    "fetched_at": "2026-04-25"
+  },
+  "donald-trump": {
+    "name": "Donald Trump",
+    "description": "President of the United States (2017–2021; since 2025)",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Donald_Trump",
+    "image_path": "/content/images/portraits/donald-trump-v2.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
+    "is_hero": true,
+    "version": "v2",
+    "fetched_at": "2026-04-25"
+  },
+  "jayden-daniels": {
+    "name": "Jayden Daniels",
+    "description": "American football player (born 2000)",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jayden_Daniels",
+    "image_path": "/content/images/portraits/jayden-daniels-v2.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Jayden_Daniels_2025.jpg/1280px-Jayden_Daniels_2025.jpg",
+    "is_hero": true,
+    "version": "v2",
+    "fetched_at": "2026-04-25"
+  },
+  "tua-tagovailoa": {
+    "name": "Tua Tagovailoa",
+    "description": "American football player (born 1998)",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tua_Tagovailoa",
+    "image_path": "/content/images/portraits/tua-tagovailoa-v2.jpg",
+    "source_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tua_Tagovailoa_Miami_Dolphins_at_New_Orleans_Saints_2021_%28cropped%29.jpg/1280px-Tua_Tagovailoa_Miami_Dolphins_at_New_Orleans_Saints_2021_%28cropped%29.jpg",
+    "is_hero": true,
+    "version": "v2",
     "fetched_at": "2026-04-25"
   }
 }

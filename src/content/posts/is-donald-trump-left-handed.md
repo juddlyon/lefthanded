@@ -5,7 +5,7 @@ slug: is-donald-trump-left-handed
 tags: ["People"]
 pubDate: "2026-04-25T12:00:00.000Z"
 updatedDate: "2026-04-25T12:00:00.000Z"
-featuredImage: "/content/images/portraits/donald-trump.jpg"
+featuredImage: "/content/images/portraits/donald-trump-v2.jpg"
 isPage: false
 ---
 
