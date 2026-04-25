@@ -48,6 +48,7 @@ function extractFaqItems(html: string) {
 const mins = post.body ? readingTime(post.body) : 1;
 const hasImage = featuredImage && !featuredImage.includes('ghost.org');
 const tagClasses = tags.map(t => `tag-${t.toLowerCase().replace(/\s+/g, '-')}`).join(' ');
+const bodyHasH1 = !!post.body && /^\s*(?:<[^>]+>\s*)*<h1\b/i.test(post.body);
 
 // Build extra schemas
 const extraSchemas: Record<string, any>[] = [];
@@ -103,7 +104,7 @@ if (post.body) {
     <main class="site-main">
       <article class={`post ${tagClasses} single-post`}>
         <header class="post-header big-title container medium">
-          <h1 class="post-title">{title}</h1>
+          {!bodyHasH1 && <h1 class="post-title">{title}</h1>}
           <div class="post-meta">
             <span class="post-meta-item post-meta-date">
               <time datetime={pubDate?.split('T')[0]}>

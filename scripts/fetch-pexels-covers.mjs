@@ -34,6 +34,11 @@ const QUERIES = {
   'left-handed-mouse-vs-ambidextrous-mouse': 'computer mouse desk hand',
   'left-handedness-and-longevity': 'elderly hands holding',
   'best-left-handed-childrens-scissors': 'kids craft scissors paper cutting',
+  'are-left-handed-people-smarter': 'brain puzzle thinking abstract',
+  'famous-left-handed-people': 'celebrity red carpet portrait',
+  'is-donald-trump-left-handed': 'white house podium speech',
+  'is-jayden-daniels-left-handed': 'american football quarterback throwing',
+  'is-tua-tagovailoa-left-handed': 'football stadium quarterback game',
 };
 
 async function searchPexels(query) {
@@ -75,6 +80,11 @@ async function main() {
 
   for (const [slug, query] of Object.entries(QUERIES)) {
     process.stdout.write(`  ${slug} (q: "${query}") ... `);
+    const dest = path.join(COVERS_DIR, `${slug}.jpg`);
+    if (fs.existsSync(dest) && fs.statSync(dest).size > 5000) {
+      console.log('skip (cover exists)');
+      continue;
+    }
     try {
       const data = await searchPexels(query);
       const photos = data.photos || [];
@@ -83,7 +93,6 @@ async function main() {
       // Pick the first landscape photo with reasonable dimensions
       const pick = photos.find(p => p.width >= 1200) || photos[0];
       const imgUrl = pick.src.large2x || pick.src.large || pick.src.original;
-      const dest = path.join(COVERS_DIR, `${slug}.jpg`);
       const ok = await downloadImage(imgUrl, dest);
       if (!ok) { console.log('download failed'); failed++; continue; }
 
