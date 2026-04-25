@@ -74,9 +74,16 @@ No cadence for traffic spikes. Each item below should be refreshed annually.
 These earn backlinks. Everything else just consumes them.
 
 - [x] Online Edinburgh Handedness Inventory (interactive, scored)
+- [ ] **Lifetime Cost of Being Left-Handed (interactive calculator)** — input age, profession, hobbies → output dollar cost of lifetime righty-tool workarounds (extra notebooks, replacement scissors, mouse RSI risk, etc.). Hybrid play: each cost line maps to an affiliate `/go/<slug>` "fix this" CTA. Reddit-shareable; Daily Mail-quotable. Highest viral potential on the roadmap.
+  - **Engineering**: similar to Edinburgh Inventory — single Astro page, vanilla JS, no framework. Form inputs → computed line items → shareable result.
+  - **Affiliate hookup**: result page lists the right lefty product for each pain point with `/go/<slug>` buttons.
+  - **Inputs**: age, occupation type (desk/manual/creative), hobbies (cooking/sports/music), kid status. ~10 questions max.
+  - **Output**: dollar total + breakdown chart + product fixes.
 - [ ] Dominant-eye test (paired with the bow article)
 - [ ] Annual *State of Left-Handedness* report (original survey or aggregated stats with charts)
 - [ ] "Is this product actually left-handed?" checker (interactive)
+- [ ] The Lefty Hall of Fame — single-page filterable timeline of notable lefties (most data already on site)
+- [ ] Free downloadable lefty handwriting worksheets (PDF) — teachers reflexively link to free classroom resources
 
 ## Tier 8: refresh strategy
 
