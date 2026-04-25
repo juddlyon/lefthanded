@@ -86,6 +86,7 @@ Pushes to `main` auto-deploy via Netlify. Cache headers configured in `netlify.t
 - `scripts/extract-content.mjs` — Original Ghost export extraction script
 - `scripts/localize-images.mjs` — Downloads external images and updates markdown references
 - `scripts/generate-redirects.mjs` — Generates `public/_redirects` from `src/data/products.json` (runs as `npm prebuild`)
+- `scripts/migrate-affiliate-links.mjs` — One-time migration: rewrites inline Amazon URLs to `/go/<slug>` cloaking (kept as record of the migration)
 
 ## Amazon Affiliate System
 
@@ -99,4 +100,20 @@ Mirrors the pattern from `~/projects/paintballer` and `~/projects/modernpb.com`.
 - **CTA convention**: `<a href="/go/<slug>" rel="nofollow sponsored noopener" target="_blank">Check Amazon Price</a>`
 - **No price display**: Amazon Operating Agreement Section 5 prohibits cached prices without PA-API access. Don't list prices on the site.
 - **Adding a product**: append a slug-keyed entry to `products.json` (with ASIN and name), then reference it in content as `/go/<slug>`. The redirect is generated on the next build.
-- **Migration note**: existing inline `?tag=lefthanded-io-20` and `amzn.to/...` links scattered across older posts (~36 unique ASINs) still work — they're already revenue-generating. Migrating them to `/go/<slug>` is a cleanup pass, not an emergency. The full ASIN inventory is already seeded in `products.json`.
+
+## SEO Tools (Global)
+
+- **seo-pulse** — Search engine feedback loop for content optimization
+  ```bash
+  seo-pulse write sc-domain:lefthanded.io --content-dir .  # Interactive optimization from GSC/Bing data
+  seo-pulse read sc-domain:lefthanded.io                   # View search performance report
+  seo-pulse read sc-domain:lefthanded.io --cached          # Use cached data (faster)
+  ```
+- **internal-linker** — SEO audit and internal linking for Astro projects
+  ```bash
+  internal-linker              # Run all checks (from project root)
+  internal-linker scan         # Find internal linking opportunities
+  internal-linker seo          # Run SEO audit (missing H1s, descriptions, etc.)
+  internal-linker orphans      # Find pages with no incoming links
+  internal-linker links        # Check for broken links
+  ```

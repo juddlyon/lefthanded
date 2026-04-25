@@ -13,6 +13,8 @@ isPage: false
 
 <p>These three adjustments prevent smudging, reduce fatigue, and build confidence from the start.</p>
 
+<p>Getting the right tools matters as much as technique. Our guide to <a href="/left-handed-school-supplies-kids/">left-handed school supplies for kids</a> covers everything a left-handed child needs — from correctly-bladed scissors to right-side-bound notebooks and ergonomic pencil grips.</p>
+
 <p>Most handwriting curricula are written with right-handed students in mind. When a left-handed child enters a classroom and receives the same instruction as their right-handed peers, they are effectively being asked to mirror a system that was not designed for them. The result can range from messy handwriting and smeared pages to genuine anxiety about writing. With a few deliberate adjustments, parents and teachers can set left-handed children up for confident, comfortable handwriting from the very beginning.</p>
 
 <h2>Recognizing left-handedness in young children</h2>

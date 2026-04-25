@@ -1,6 +1,6 @@
 ---
 title: "From Ringo to Travis: the 20 greatest left-handed drummers of all time"
-description: "The 20 greatest left-handed drummers of all time, from Ringo Starr to Travis Barker and their unique styles."
+description: "The 20 greatest left-handed drummers ever: Ringo Starr, Travis Barker, Phil Collins, and more — their setups, playing styles, and what made each one a southpaw legend."
 slug: greatest-left-handed-drummers
 tags: ["Music", "People"]
 pubDate: "2023-02-18T01:58:28.000Z"

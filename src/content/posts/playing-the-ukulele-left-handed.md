@@ -1,6 +1,6 @@
 ---
 title: A beginners guide to playing the ukulele left-handed
-description: "A beginner's guide to playing the ukulele left-handed, covering setup, restringing, and technique tips."
+description: "How to play the ukulele left-handed: whether to flip and restring, play a mirrored uke, or adapt standard technique — a complete beginner's guide for southpaw players."
 slug: playing-the-ukulele-left-handed
 tags: ["Music"]
 pubDate: "2022-10-31T19:50:47.000Z"

@@ -1,6 +1,6 @@
 ---
 title: "Left-Handers Day: celebrating the unique advantages of being a 'lefty'"
-description: "Celebrate International Left-Handers Day on August 13th. History, events, and why this day matters for lefties."
+description: "International Left-Handers Day is August 13th. Learn the history of this annual celebration, how to mark the occasion, and why raising awareness for southpaws still matters today."
 slug: left-handers-day
 tags: ["Facts"]
 pubDate: "2023-02-12T17:50:20.000Z"

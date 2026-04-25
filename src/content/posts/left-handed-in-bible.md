@@ -1,6 +1,6 @@
 ---
 title: What does the bible say about left-handed people?
-description: The bible isn’t without it’s own references to people who may have been left handed.
+description: "The Bible mentions left-handed people several times, including Ehud the judge and the Benjaminites. Here’s what scripture says about left-handedness and its cultural meaning."
 slug: left-handed-in-bible
 tags: ["Facts"]
 pubDate: "2022-01-19T02:53:36.000Z"

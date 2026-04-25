@@ -1,6 +1,6 @@
 ---
 title: The best left-handed scissors for precision cutting and comfort
-description: "Here's our recommendations for the finest scissors for southpaws."
+description: "The best left-handed scissors reverse the blade orientation so lefties cut cleanly without twisting. Top picks for school, craft, fabric, and kitchen use."
 slug: best-left-handed-scissors
 tags: ["Products"]
 pubDate: "2022-02-13T04:25:11.000Z"

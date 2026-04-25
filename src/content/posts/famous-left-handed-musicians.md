@@ -11,7 +11,7 @@ isPage: false
 
 <p><strong>Who are the most famous left-handed musicians?</strong> Paul McCartney, Jimi Hendrix, Kurt Cobain, David Bowie, and Tony Iommi rank among the most influential left-handed musicians across all genres.</p>
 
-<p>Left-handers make up about 10% of the population but have shaped music history disproportionately — often because adapting to right-handed instruments forced them to develop distinctive playing styles that defined new sounds.</p>
+<p>Left-handers make up about 10% of the population but have shaped music history disproportionately — often because adapting to right-handed instruments forced them to develop distinctive playing styles that defined new sounds. (Curious about current pop stars? <a href="/is-taylor-swift-left-handed/">Taylor Swift is actually right-handed</a>, despite common searches.)</p>
 
 <h2>Left-handed rock and pop guitarists</h2>
 

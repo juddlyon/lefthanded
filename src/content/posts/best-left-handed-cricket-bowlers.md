@@ -1,6 +1,6 @@
 ---
 title: "Best left-handed bowlers of all time: cricket's elite southpaws"
-description: "The greatest left-handed cricket bowlers of all time, from Wasim Akram to Mitchell Starc and their impact on the game."
+description: "The greatest left-handed cricket bowlers ever: Wasim Akram, Mitchell Starc, Chaminda Vaas, and more — their records, signature deliveries, and why left-arm pace unsettles batters."
 slug: best-left-handed-cricket-bowlers
 tags: ["Sports", "People"]
 pubDate: "2023-12-28T19:29:15.000Z"

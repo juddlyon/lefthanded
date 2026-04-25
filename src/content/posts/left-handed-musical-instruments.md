@@ -1,6 +1,6 @@
 ---
-title: "Left-handed musical instruments: finding your perfect match"
-description: A practical guide to left-handed musical instruments — guitars, bass, drums, keyboards, and the rare cases where reversal is worth the trouble.
+title: "Left-handed instruments: challenges and solutions"
+description: "Why left-handed musicians face unique challenges with standard instruments. Adaptations, modifications, and purpose-built lefty gear — what actually works."
 slug: left-handed-musical-instruments
 tags: ["Music", "How-to"]
 pubDate: "2023-02-18T01:12:49.000Z"

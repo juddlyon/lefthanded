@@ -1,6 +1,6 @@
 ---
 title: 10 famous left-handed artists who made history
-description: Explore the remarkable impact of left-handed artists in art history.
+description: "Famous left-handed artists include Leonardo da Vinci, Michelangelo, Rembrandt, M.C. Escher, and Paul Klee — and their left-handedness shaped their unique techniques."
 slug: famous-left-handed-artists
 tags: ["People"]
 pubDate: "2024-01-14T20:48:36.000Z"

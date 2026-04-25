@@ -99,7 +99,7 @@ isPage: false
 
 <h2 id="the-broader-context-handedness-and-neurodevelopment">The broader context: handedness and neurodevelopment</h2>
 
-<p>The handedness-ADHD connection does not exist in isolation. Research has found small statistical associations between non-right-handedness and several other neurodevelopmental conditions, including dyslexia, autism spectrum disorder, and developmental coordination disorder.</p>
+<p>The handedness-ADHD connection does not exist in isolation. Research has found small statistical associations between non-right-handedness and several other neurodevelopmental conditions, including <a href="/left-handedness-and-dyslexia/">dyslexia</a>, autism spectrum disorder, and developmental coordination disorder.</p>
 
 <p>These findings do not mean that left-handedness is a disorder or a risk factor for disorders. Rather, they suggest that the same prenatal and genetic factors that influence brain lateralization also influence other aspects of neurodevelopment. In most cases, the result is simply a left-handed person with typical neurodevelopment. In a small minority of cases, atypical lateralization may co-occur with other developmental differences.</p>
 

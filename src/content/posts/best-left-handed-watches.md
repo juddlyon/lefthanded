@@ -1,6 +1,6 @@
 ---
 title: "Best left-handed watches: crowns on the right side"
-description: "Find the best left-handed watches with left-side crowns, designed for lefties who wear watches on their right wrist."
+description: "The best left-handed watches have the crown on the right side so it doesn't dig into your wrist. Top picks from Seiko, Tissot, and more for lefties who wear watches on the right wrist."
 slug: best-left-handed-watches
 tags: ["Products"]
 pubDate: "2026-03-13T12:00:00.000Z"

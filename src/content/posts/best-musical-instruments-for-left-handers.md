@@ -1,6 +1,6 @@
 ---
-title: What are the best musical instruments for left-handers?
-description: Discover a range of musical instruments for left-handers, from guitars to violins and drums, tailored to suit your unique playing style.
+title: "9 Best Musical Instruments for Left-Handers"
+description: "The best instruments for left-handed musicians, from guitars and violins to drums and keyboards. Includes buying tips and what to look for."
 slug: best-musical-instruments-for-left-handers
 tags: ["Music"]
 pubDate: "2023-12-08T17:39:32.000Z"

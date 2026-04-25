@@ -1,6 +1,6 @@
 ---
 title: "Left-handed in a right-handed world: the battle against bias"
-description: "The history, origins, and impact of left-handed discrimination, and how the world is slowly becoming more inclusive."
+description: "Left-handed discrimination has deep historical roots — from Roman superstition to 20th-century forced conversion in schools. Explore the origins, cultural impact, and how attitudes have shifted."
 slug: left-handed-discrimination
 tags: ["Facts"]
 pubDate: "2023-02-12T18:14:10.000Z"

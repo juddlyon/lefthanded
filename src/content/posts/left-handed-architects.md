@@ -1,6 +1,6 @@
 ---
 title: Left-handed architects and their unique approach to design
-description: Discover how left-handed architects overcome challenges and creatively contribute to the world of design.
+description: "Famous left-handed architects include Frank Lloyd Wright and Le Corbusier. Discover how southpaw designers overcome a right-handed world and bring unique spatial thinking to their work."
 slug: left-handed-architects
 tags: ["Professions"]
 pubDate: "2023-12-30T16:07:16.000Z"
