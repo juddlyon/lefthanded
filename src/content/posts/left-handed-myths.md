@@ -63,7 +63,7 @@ isPage: false
 
 <h2 id="myth-left-handed-people-are-clumsy">Myth: left-handed people are clumsy</h2>
 
-<p>Left-handed people are sometimes perceived as awkward or clumsy, but this reputation has more to do with the world they navigate than any inherent lack of coordination. Most tools, workstations, and everyday objects are designed for right-handed use. When a left-hander struggles with a pair of standard scissors or bumps elbows at a dinner table, it is the design that fails them, not their motor skills.</p>
+<p>Left-handed people sometimes get tagged as awkward or clumsy. The reputation has more to do with the world they live in than any actual lack of coordination. Most tools, workstations, and everyday objects assume a right-handed user. When a lefty fights a pair of standard scissors or bumps elbows at a dinner table, the design failed — not the motor skills.</p>
 
 <p>Studies on motor coordination show no difference in fine or gross motor skills between left-handed and right-handed individuals when using tools designed for their dominant hand. In fact, left-handers often develop above-average ambidexterity precisely because they spend their lives adapting to right-handed equipment.</p>
 

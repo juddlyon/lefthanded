@@ -121,7 +121,7 @@ isPage: false
 <li><strong>Lighting.</strong> Position a desk lamp to the right or directly above. A lamp on the left will cast a hand shadow over the writing area.</li>
 </ul>
 
-<p>For a comprehensive workspace guide covering monitor placement, mouse position, and more, see our article on <a href="/left-handed-desk-setup/">left-handed desk setup</a>.</p>
+<p>For a full workspace guide covering monitor placement, mouse position, and more, see our article on <a href="/left-handed-desk-setup/">left-handed desk setup</a>.</p>
 
 <h2>Practice exercises for neater left-handed handwriting</h2>
 

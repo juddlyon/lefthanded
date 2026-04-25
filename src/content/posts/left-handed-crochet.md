@@ -203,7 +203,7 @@ isPage: false
 
 <h2>Connecting crochet to other left-handed skills</h2>
 
-<p>Many of the frustrations left-handed crocheters face, working from mirrored instructions, adapting right-handed tools, building muscle memory in the non-standard direction, are shared across left-handed craft and writing skills. If you are also learning handwriting techniques, our guide on <a href="/how-to-write-left-handed/">how to write left-handed</a> covers similar themes of adapting to a right-handed default. And for a broad overview of what it means to navigate the world as a left-hander, the <a href="/left-handed-101-the-definitive-guide/">left-handed 101 guide</a> is a good starting point.</p>
+<p>The frustrations left-handed crocheters face — mirrored instructions, right-handed tools, muscle memory built in the wrong direction — show up across left-handed crafts and writing too. If you're working on handwriting at the same time, see our guide on <a href="/how-to-write-left-handed/">writing left-handed</a>. And for a broader take on what it means to live in a right-handed world, start with the <a href="/left-handed-101-the-definitive-guide/">left-handed 101 guide</a>.</p>
 
 <h2>Frequently asked questions</h2>
 

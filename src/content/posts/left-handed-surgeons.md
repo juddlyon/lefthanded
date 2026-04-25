@@ -17,7 +17,7 @@ isPage: false
 
 <p>Nearly every element of a modern operating room is designed with right-handed surgeons in mind. The operating table positions the patient for right-handed access. Instruments are laid out on the surgeon's right side. Laparoscopic equipment, suture cutters, and even the ergonomic grips on surgical tools assume a right-handed user.</p>
 
-<p>This creates a constant adaptation challenge for left-handed surgeons. From their first day of surgical training, lefties must learn to navigate an environment built for the other 90%. Many describe it as similar to the everyday experience of <a href="/left-handed-product-design/">left-handed product design challenges</a>  - but with far higher stakes.</p>
+<p>This forces constant adaptation. From day one of surgical training, lefties work in an environment built for the other 90%. Many describe it as the same daily friction of <a href="/left-handed-product-design/">left-handed product design</a> — except the patient is on the table.</p>
 
 <h2>How left-handed surgeons adapt</h2>
 
@@ -81,4 +81,4 @@ isPage: false
 
 <h3>Should left-handed medical students avoid surgery?</h3>
 
-<p>Absolutely not. Left-handedness is not a barrier to a successful surgical career. While left-handed trainees may face some additional adaptation challenges early in training, these are manageable with practice and increasingly accommodated by modern training programs. Many left-handed surgeons report that their adaptation process ultimately made them more versatile and skilled.</p>
+<p>No. Left-handedness isn't a barrier to a surgical career. Left-handed trainees face extra friction early on, but it's manageable with practice and modern training programs are getting better at accommodating it. Many left-handed surgeons say the workaround period left them more versatile in the long run — not less.</p>

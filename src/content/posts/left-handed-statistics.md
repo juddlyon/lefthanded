@@ -29,7 +29,7 @@ isPage: false
 
 <h2 id="gender-differences">Gender differences in handedness</h2>
 
-<p>Males are consistently found to be left-handed at slightly higher rates than females. The most robust meta-analyses estimate the difference at about 2 percentage points:</p>
+<p>Males are consistently found to be left-handed at slightly higher rates than females. The largest meta-analyses pin the gap at about 2 percentage points:</p>
 
 <ul>
 <li>Males: approximately 11 to 13 percent left-handed</li>
@@ -103,11 +103,11 @@ isPage: false
 
 <h2 id="left-handedness-by-occupation">Left-handedness by profession</h2>
 
-<p>Handedness data by occupation is less robust than sports data, but a few patterns emerge from large surveys:</p>
+<p>Occupational handedness data is patchier than sports data, but a few patterns emerge from large surveys:</p>
 
 <ul>
 <li>Architects and artists may be slightly overrepresented among left-handers, though the effect sizes are small</li>
-<li>Musicians show no consistent skew toward left-handedness overall, though left-handed players must navigate a right-handed-default world of instruments</li>
+<li>Musicians show no consistent skew toward left-handedness overall, though left-handed players still face a right-handed-default world of instruments</li>
 <li>U.S. presidents are often cited as evidence of left-handed overrepresentation in leadership. Five of the last nine U.S. presidents have been left-handed, a rate of 56 percent compared to the population base of 10 percent</li>
 </ul>
 
@@ -151,7 +151,7 @@ isPage: false
 <li>Left-handedness among those born after 1960: approximately 11 to 12 percent</li>
 </ul>
 
-<p>Every August 13, the global left-handed community marks <a href="/left-handers-day/">International Left-Handers Day</a>, a reminder that the roughly 800 million left-handers worldwide share a distinct experience navigating a right-handed world.</p>
+<p>Every August 13, the global left-handed community marks <a href="/left-handers-day/">International Left-Handers Day</a> — a reminder that roughly 800 million left-handers share the same daily experience of working around a right-handed default.</p>
 
 <h2 id="faq">Frequently asked questions</h2>
 

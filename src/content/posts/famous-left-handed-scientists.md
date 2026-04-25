@@ -15,7 +15,7 @@ isPage: false
 
 <h2>The connection between left-handedness and scientific thinking</h2>
 
-<p>Research into handedness and cognition has produced some intriguing findings relevant to scientific ability. Studies have found that left-handed people tend to have a larger corpus callosum, the bundle of nerve fibers connecting the brain's two hemispheres. This enhanced connectivity may facilitate the kind of integrative, cross-domain thinking that characterizes breakthrough scientific work.</p>
+<p>Handedness research has turned up some interesting findings relevant to scientific work. Left-handed people tend to have a larger corpus callosum — the bundle of nerve fibers connecting the brain's two hemispheres. The extra connectivity may help support the kind of cross-domain thinking that produces scientific breakthroughs.</p>
 
 <p>A 2019 study published in <em>Brain and Behavior</em> found that left-handed individuals performed better on tasks requiring divergent thinking, the ability to generate multiple solutions to open-ended problems. This cognitive style aligns closely with the demands of scientific research, where novel hypotheses and unconventional approaches often lead to the most significant discoveries.</p>
 
@@ -113,4 +113,4 @@ isPage: false
 <p>Newton's handedness is debated among historians. Some scholars have analyzed his handwriting and manuscripts for signs of left-handedness, but the evidence is inconclusive. Unlike Einstein or Tesla, whose left-handedness is well-documented through photographs and firsthand accounts, Newton lived in an era when left-handedness was often actively discouraged, making it difficult to determine his natural hand preference.</p>
 
 <h3>Is there a link between left-handedness and genius?</h3>
-<p>The relationship between left-handedness and exceptional intellectual ability is real but modest. Studies have found that left-handed people are slightly overrepresented at both extremes of cognitive ability. Some research suggests that the different brain organization associated with left-handedness may facilitate certain types of creative and analytical thinking. However, left-handedness alone does not make someone a genius, and the vast majority of brilliant scientists throughout history have been right-handed.</p>
+<p>The link between left-handedness and exceptional intellectual ability is real but modest. Studies have found left-handed people are slightly overrepresented at both extremes of cognitive ability — high and low. The different brain organization may support certain kinds of creative and analytical thinking. But left-handedness alone doesn't make a genius, and most brilliant scientists in history have been right-handed.</p>

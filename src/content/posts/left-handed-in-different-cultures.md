@@ -31,7 +31,7 @@ isPage: false
 
 <p>In Japan, left-handedness was traditionally considered a sign of poor upbringing. Parents who allowed a child to remain left-handed could face social judgment. The Japanese language itself reflects this bias — the word for "left" (hidari) does not carry the same negative etymology as the Latin "sinister," but cultural practices around chopstick use, calligraphy, and tea ceremony all assume right-handedness.</p>
 
-<p>If you are a left-hander navigating East Asian dining customs, our guide on <a href="/how-to-use-chopsticks-left-handed/">how to use chopsticks left-handed</a> offers practical tips for a skill that can feel particularly challenging when the cultural expectation runs against your natural inclination.</p>
+<p>If you're a lefty traveling in East Asia, our guide to <a href="/how-to-use-chopsticks-left-handed/">using chopsticks left-handed</a> covers the practical side of a skill that can feel doubly hard when the cultural expectation is also pushing against you.</p>
 
 <h3 id="south-korea">South Korea</h3>
 
@@ -106,7 +106,7 @@ isPage: false
 <li><strong>Scientific consensus:</strong> The medical and educational communities worldwide have largely converged on the position that left-handedness is a normal variation and should not be corrected</li>
 </ul>
 
-<p>The cultural story of left-handedness is ultimately a story about how societies handle natural human variation. The trend toward acceptance is encouraging, but millions of left-handed people around the world still face daily social friction that their right-handed counterparts never have to consider.</p>
+<p>The cultural story of left-handedness is really a story about how societies treat natural human variation. The trend toward acceptance is real and encouraging — but millions of left-handed people around the world still deal with daily social friction their right-handed counterparts never even register.</p>
 
 <h2 id="frequently-asked-questions">Frequently asked questions</h2>
 

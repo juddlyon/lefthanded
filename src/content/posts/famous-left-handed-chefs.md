@@ -1,6 +1,6 @@
 ---
 title: "Famous left-handed chefs and their kitchen secrets"
-description: "From Gordon Ramsay to Julia Child, discover famous left-handed chefs and how they navigate a right-handed kitchen."
+description: "From Gordon Ramsay to Julia Child, the famous left-handed chefs who built careers in a kitchen built for the other hand."
 slug: famous-left-handed-chefs
 tags: ["People"]
 pubDate: "2026-03-13T12:00:00.000Z"

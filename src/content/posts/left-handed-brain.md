@@ -37,7 +37,7 @@ isPage: false
 
 <p>The corpus callosum is the thick bundle of nerve fibers connecting the left and right hemispheres. Several studies have found that left-handed individuals tend to have a slightly larger corpus callosum, particularly in the anterior (front) regions.</p>
 
-<p>A larger corpus callosum means more connections between the hemispheres, which could facilitate faster and richer communication between the two sides of the brain. Some researchers have speculated that this enhanced interhemispheric connectivity could contribute to certain cognitive strengths, though the evidence for specific advantages remains mixed.</p>
+<p>More fibers means more bandwidth between the two sides — potentially faster and richer cross-hemispheric communication. Some researchers have suggested this could contribute to certain cognitive strengths, though the evidence for specific advantages is still mixed.</p>
 
 <p>It is worth noting that the size difference is modest. We are talking about a few percentage points on average, and there is substantial overlap between the distributions for left-handers and right-handers.</p>
 

@@ -86,7 +86,7 @@ isPage: false
 <li>Seasonal birth effects (some studies find slightly higher rates of left-handedness among winter-born individuals)</li>
 </ul>
 
-<p>Epigenetic research on handedness is still in its early stages. However, it offers a plausible bridge between the genetic foundation and the environmental triggers that shape which hand ultimately becomes dominant.</p>
+<p>Epigenetic research on handedness is still early-stage. But it offers a plausible bridge between the genetic foundation and the environmental triggers that decide which hand ends up dominant.</p>
 
 <h2 id="environmental-and-prenatal-factors">Environmental and prenatal factors</h2>
 
@@ -126,7 +126,7 @@ isPage: false
 
 <p>The genetic architecture of handedness overlaps with genes involved in brain development, which has led researchers to investigate whether left-handedness is associated with other traits. Some studies have found modest correlations with <a href="/left-handed-personality-characteristics/">personality characteristics</a> and cognitive style, though effect sizes tend to be small.</p>
 
-<p>The most robust genetic overlap appears to be between handedness and brain structure, particularly the organization of language networks. This does not mean left-handed people think fundamentally differently. It means the same developmental genes that influence hand preference also influence how the brain wires itself for language and spatial processing.</p>
+<p>The strongest genetic overlap is between handedness and brain structure, particularly how language networks are organized. That doesn't mean left-handed people think fundamentally differently. It means the same developmental genes shaping hand preference also shape how the brain wires itself for language and spatial processing.</p>
 
 <h2 id="the-bottom-line">The bottom line</h2>
 

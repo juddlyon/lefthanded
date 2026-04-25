@@ -51,7 +51,7 @@ isPage: false
 
 <h3 id="interhemispheric-connectivity">Enhanced interhemispheric connectivity</h3>
 
-<p>Neuroimaging research has found that left-handers tend to have a slightly larger corpus callosum, the bridge of nerve fibers connecting the brain's two hemispheres. This could facilitate faster communication between the hemisphere associated with analytical processing and the one associated with spatial and holistic processing.</p>
+<p>Neuroimaging shows left-handers tend to have a slightly larger corpus callosum — the bridge of nerve fibers connecting the brain's two hemispheres. That could mean faster communication between the analytical hemisphere and the spatial/holistic one.</p>
 
 <p>The theory is that this enhanced connectivity allows left-handers to combine different types of information more fluidly, which could support certain aspects of creative thinking. It is a plausible mechanism, but the leap from "slightly better interhemispheric communication" to "more creative" involves several assumptions that have not been fully tested.</p>
 
@@ -117,7 +117,7 @@ isPage: false
 
 <p>For every famous left-handed artist, there are nine famous right-handed artists, reflecting the base rate of handedness in the population. The real question is whether left-handers are disproportionately represented among highly creative individuals, and the evidence for that is weak once you account for base rates and recall bias.</p>
 
-<p>What can be said is that left-handed creative figures often bring a distinctive perspective, partly because they have spent their lives navigating systems designed for right-handers. Whether that navigational challenge fosters creative problem-solving is an intriguing but unproven hypothesis.</p>
+<p>What can be said is that left-handed creative figures often bring a distinctive perspective, partly because they've spent their lives working around systems designed for right-handers. Whether that lifelong workaround actually builds creative problem-solving is an interesting hypothesis — but unproven.</p>
 
 <h2 id="creativity-beyond-handedness">What actually predicts creativity</h2>
 

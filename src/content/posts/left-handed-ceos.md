@@ -47,7 +47,7 @@ isPage: false
 
 <p>Steve Forbes, the chairman and editor-in-chief of Forbes Media, is left-handed. He inherited the family media business and expanded it into a global brand synonymous with wealth, business, and capitalism. Under his leadership, Forbes magazine maintained its position as one of the most influential business publications in the world while successfully transitioning to digital media.</p>
 
-<p>Forbes also made two notable runs for the Republican presidential nomination, in 1996 and 2000, campaigning primarily on a flat tax proposal. While neither campaign succeeded, they raised his public profile and demonstrated the kind of unconventional thinking that has characterized his career. His willingness to take positions outside the mainstream — both in business strategy and politics — reflects an independent streak that many attribute, rightly or not, to the left-handed experience of navigating a world not built for you.</p>
+<p>Forbes also made two notable runs for the Republican presidential nomination, in 1996 and 2000, campaigning primarily on a flat tax proposal. While neither campaign succeeded, they raised his public profile and demonstrated the kind of unconventional thinking that has characterized his career. His willingness to take positions outside the mainstream — in business strategy as much as politics — fits a pattern people often attribute, rightly or not, to growing up left-handed in a world built for someone else.</p>
 
 <h2 id="herb-kelleher">Herb Kelleher</h2>
 
@@ -71,7 +71,7 @@ isPage: false
 
 <h3 id="the-brain-organization-theory">The brain organization theory</h3>
 
-<p>Research on the <a href="/left-handed-brain/">left-handed brain</a> has found that left-handed individuals are more likely to have atypical brain lateralization, with cognitive functions distributed more evenly across both hemispheres rather than concentrated in one. Some neuroscientists have suggested that this bilateral organization may facilitate the kind of integrative thinking — connecting ideas across different domains — that characterizes successful entrepreneurs.</p>
+<p>Research on the <a href="/left-handed-brain/">left-handed brain</a> has found that left-handed individuals are more likely to have atypical brain lateralization, with cognitive functions distributed more evenly across both hemispheres rather than concentrated in one. Some neuroscientists have argued this bilateral organization could support the kind of integrative thinking — pulling ideas across unrelated domains — that shows up in successful entrepreneurs.</p>
 
 <p>The evidence for this theory is suggestive but not conclusive. Brain organization varies enormously among individuals, and the link between hemispheric distribution and business success has not been directly established by research.</p>
 
@@ -112,7 +112,7 @@ isPage: false
 
 <h3 id="what-percentage-of-ceos-are-left-handed">What percentage of CEOs are left-handed?</h3>
 
-<p>There is no comprehensive study tracking the handedness of all CEOs, so a precise percentage is not available. However, informal surveys and media reports suggest that left-handers appear among top business leaders at a rate somewhat higher than their 10 percent share of the general population. Whether this represents a genuine statistical overrepresentation or reflects selection bias in reporting remains unclear.</p>
+<p>No one has done a full study tracking handedness across all CEOs, so there's no precise figure. Informal surveys and media reports suggest left-handers show up among top business leaders at a rate somewhat higher than the 10% population baseline — but whether that's real overrepresentation or just reporting bias is still an open question.</p>
 
 <h3 id="is-bill-gates-really-left-handed">Is Bill Gates really left-handed?</h3>
 
@@ -120,7 +120,7 @@ isPage: false
 
 <h3 id="does-being-left-handed-make-you-a-better-leader">Does being left-handed make you a better leader?</h3>
 
-<p>There is no scientific evidence that left-handedness directly causes better leadership ability. Some researchers have proposed that the cognitive adaptations left-handers develop from navigating a right-handed world — such as flexible thinking and comfort with unconventional approaches — may indirectly benefit leadership. However, leadership is a complex trait influenced by personality, experience, education, and countless other factors far more significant than which hand you write with.</p>
+<p>No. There's no scientific evidence that left-handedness directly causes better leadership. Some researchers argue the cognitive workarounds lefties develop in a right-handed world — flexible thinking, comfort with unconventional approaches — could feed into leadership ability. But leadership depends on personality, experience, and education far more than on which hand signs the documents.</p>
 
 <h3 id="are-left-handed-people-more-likely-to-become-entrepreneurs">Are left-handed people more likely to become entrepreneurs?</h3>
 

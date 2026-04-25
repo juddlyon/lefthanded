@@ -91,9 +91,9 @@ isPage: false
 
 <p>If you need archival-quality writing, look for pens labeled as waterproof or document-proof. Many quick-dry inks are also water-resistant once set, which is a useful bonus for lefties who may touch the ink with damp hands.</p>
 
-<h3>Ink color and vibrancy</h3>
+<h3>Ink color and saturation</h3>
 
-<p>Fast-drying inks sometimes sacrifice color richness for speed. If vibrant color matters to you, gel pens tend to offer the best balance of quick drying and bold pigmentation. Fountain pen inks offer the widest color range but require more patience with drying.</p>
+<p>Fast-drying inks sometimes trade color depth for speed. If you want bold, saturated pigment, gel pens give you the best of both — quick drying and rich color. Fountain pen inks have the widest color range, but you'll wait longer for them to set.</p>
 
 <h2>Pairing your pen with the right paper</h2>
 
@@ -109,7 +109,7 @@ isPage: false
 
 <h2>Tips for smudge-free left-handed writing</h2>
 
-<p>Choosing the right pen is only part of the equation. These techniques can further reduce smudging. For a comprehensive look at left-handed writing technique, see our full guide on <a href="/how-to-write-left-handed/">how to write left-handed</a>.</p>
+<p>The pen is half the fix. The other half is technique. For the full breakdown, see our guide to <a href="/how-to-write-left-handed/">writing left-handed</a>.</p>
 
 <ul>
 <li><strong>Rotate the paper 30 to 45 degrees clockwise.</strong> This allows your hand to sit below the writing line rather than dragging through it.</li>
@@ -157,7 +157,7 @@ isPage: false
 
 <h3>What type of pen is best for left-handed writers?</h3>
 
-<p>Quick-dry gel pens are generally the best option for left-handed writers. They combine fast drying times with smooth ink flow and vibrant color. The Uni-Ball Jetstream and Zebra Sarasa Dry are two of the most popular choices among lefties. Ballpoint pens are also a safe choice due to their near-instant drying, though they require more pressure and produce a less smooth line.</p>
+<p>Quick-dry gel pens. They pair fast drying with smooth flow and saturated color. The Uni-Ball Jetstream and Zebra Sarasa Dry are the two names that come up most often among lefties. Ballpoints are a safe second pick — drying is essentially instant — but they need more pressure and lay down a thinner line.</p>
 
 <h3>Can left-handed people use fountain pens?</h3>
 

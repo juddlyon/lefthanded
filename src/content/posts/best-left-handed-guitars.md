@@ -13,7 +13,7 @@ isPage: false
 
 <p>Purpose-built left-handed guitars offer proper nut slots, correct intonation, and mirrored body contours — advantages that flipping a right-handed guitar cannot match. Today's selection covers acoustic and electric models at every budget.</p>
 
-<p>Playing guitar left-handed is not a compromise. Some of the most iconic players in music history were lefties, and instrument makers have responded by expanding their left-handed lineups significantly over the past decade. Whether you are picking up your first guitar or upgrading to a professional-grade instrument, this guide covers what to look for, which types of guitars are available, and how to make the best choice for your playing style and budget.</p>
+<p>Playing guitar left-handed isn't a compromise. Some of the most iconic players in history were lefties — Hendrix, McCartney, Cobain — and instrument makers have responded by expanding their left-handed lineups significantly over the past decade. The guide below covers what to look for, what's available, and how to pick well at any budget.</p>
 
 <h2>True left-handed guitars vs. flipped right-handed guitars</h2>
 
@@ -131,7 +131,7 @@ isPage: false
 
 <h2>Other instruments for left-handed players</h2>
 
-<p>If you are exploring beyond guitar, the same principles of hand orientation apply to other stringed instruments. Our guide to <a href="/left-handed-musical-instruments/">left-handed musical instruments</a> covers the full landscape, from bass guitars and violins to mandolins and banjos. You may also be interested in <a href="/playing-the-ukulele-left-handed/">playing the ukulele left-handed</a>, which is an excellent starting point for beginners who want a smaller, more approachable instrument. And our guide to the <a href="/best-musical-instruments-for-left-handers/">best musical instruments for left-handers</a> covers which instruments are most accessible for southpaw players.</p>
+<p>The same hand-orientation principles apply across stringed instruments. Our guide to <a href="/left-handed-musical-instruments/">left-handed musical instruments</a> covers bass, violin, mandolin, and banjo. For a smaller, easier first instrument, see <a href="/playing-the-ukulele-left-handed/">playing the ukulele left-handed</a>. And for a broader take on which instruments are most southpaw-friendly, see the <a href="/best-musical-instruments-for-left-handers/">best instruments for left-handers</a>.</p>
 
 <h2>Where to buy left-handed guitars</h2>
 
