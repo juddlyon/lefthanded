@@ -13,8 +13,6 @@ isPage: false
 
 <p>Left-handers make up about 10% of the population but appear at much higher rates in elite combat sports — a pattern that mirrors what we see in <a href="/best-left-handed-boxers/">left-handed boxing</a>, <a href="/left-handed-fencing/">left-handed fencing</a>, and other one-on-one combat disciplines. In the UFC and across mixed martial arts, southpaws have produced an outsized share of champions, and there's a real strategic reason why.</p>
 
-<figure class="kg-card kg-image-card"><img src="/content/images/external/unsplash/photo-1549719386-74dfcbf7dbed.jpg" class="kg-image" alt="MMA fighters in the octagon" loading="lazy" width="768" height="512" sizes="(min-width: 720px) 720px"></figure>
-
 <h2 id="why-southpaws-have-an-advantage-in-mma">Why southpaws have an advantage in MMA</h2>
 
 <p>Most fighters train against right-handed (orthodox) opponents because most fighters are right-handed. When a right-hander faces a left-hander (a southpaw), the angles, lead foot, and power-hand positioning all reverse. Jabs come from the unfamiliar side. Power punches arrive on a different line. The lead leg of the orthodox fighter sits opposite the southpaw's lead leg, which scrambles the usual outside-foot-positioning game.</p>
@@ -22,6 +20,8 @@ isPage: false
 <p>The result is a structural disadvantage for the right-handed fighter, who has fewer reps against southpaws. For the lefty, every fight is more or less a "normal" fight — they've been training against right-handers their entire careers. This is the same dynamic that makes southpaw boxers and fencers over-represented at the elite level, and it's why coaches widely treat southpaw matchups as a tactical problem requiring dedicated camp preparation. (See our explainer on <a href="/definition-of-southpaw/">what "southpaw" means</a> for the term's origins.)</p>
 
 <h2 id="conor-mcgregor">Conor McGregor</h2>
+
+<figure class="kg-card kg-image-card kg-card-hascaption"><img src="/content/images/2026/04/conor-mcgregor.jpg" class="kg-image" alt="Conor McGregor" loading="lazy" width="440" height="600"><figcaption>Conor McGregor, the most famous southpaw in MMA history</figcaption></figure>
 
 <p>McGregor is the most famous left-handed fighter in MMA history and the most-watched draw the sport has ever produced. The Irish southpaw became the UFC's first simultaneous two-weight champion in 2016, holding the featherweight and lightweight titles at the same time. His left-handed straight — the punch that ended José Aldo's decade-long unbeaten run in 13 seconds at UFC 194 — is among the most-replayed moments in UFC history.</p>
 
@@ -40,6 +40,8 @@ isPage: false
 <p>His characteristic style — long-range, evasive, with sudden-line straight punches and jumping knees — depends heavily on the angles his southpaw stance creates. The straight left, often delivered while moving backward and pulling an opponent forward into the punch, became Machida's signature finishing tool. His knockouts of Randy Couture (jumping front kick), Vitor Belfort (head kick), and Mark Muñoz (kick to the temple) all built off the spatial mismatch his left-handed stance produced.</p>
 
 <h2 id="holly-holm">Holly Holm</h2>
+
+<figure class="kg-card kg-image-card kg-card-hascaption"><img src="/content/images/2026/04/holly-holm.jpg" class="kg-image" alt="Holly Holm" loading="lazy" width="440" height="600"><figcaption>Holly Holm, southpaw striker who dethroned Ronda Rousey</figcaption></figure>
 
 <p>Holm, a left-handed former multi-division boxing world champion, transitioned to MMA in her thirties and built one of the most memorable upsets in UFC history. At UFC 193 in 2015, she dethroned Ronda Rousey — then considered unbeatable — by left head kick in the second round, ending Rousey's reign as bantamweight champion in front of 56,000 fans in Melbourne.</p>
 

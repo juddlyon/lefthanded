@@ -13,13 +13,13 @@ isPage: false
 
 <p>Left-handers make up roughly 10% of the population, yet they appear disproportionately on lists of comedy's biggest names — from silent-film pioneers to sitcom stars to modern stand-ups. Whether that's coincidence or something about the left-handed brain that lends itself to comedic timing, the lineup speaks for itself. (Curious whether a specific star is a lefty? See our guide to <a href="/iconic-left-handed-actors/">iconic left-handed actors</a>.)</p>
 
-<figure class="kg-card kg-image-card"><img src="/content/images/external/unsplash/photo-1527224857830-43a7acc85260.jpg" class="kg-image" alt="Stand-up comedy microphone on stage" loading="lazy" width="768" height="512" sizes="(min-width: 720px) 720px"></figure>
-
 <h2 id="silent-era-and-classic-hollywood">Silent-era and classic Hollywood comedy legends</h2>
 
 <p>The earliest superstars of screen comedy include some of the most-cited left-handers in entertainment history.</p>
 
 <h3 id="charlie-chaplin">Charlie Chaplin</h3>
+
+<figure class="kg-card kg-image-card kg-card-hascaption"><img src="/content/images/2026/04/charlie-chaplin.jpg" class="kg-image" alt="Charlie Chaplin as The Tramp" loading="lazy" width="440" height="600"><figcaption>Charlie Chaplin, the left-handed genius behind The Tramp</figcaption></figure>
 
 <p>Chaplin is widely reported to have been left-handed, a detail visible in surviving footage where he plays violin southpaw-style — bowing with his left hand and fingering with his right. As the creator of the iconic Tramp character, Chaplin essentially invented modern physical comedy. His meticulous visual gags in <em>The Gold Rush</em>, <em>City Lights</em>, and <em>Modern Times</em> set the template that every comic filmmaker since has either followed or rebelled against. The blend of pratfalls, pathos, and political satire he refined remains the gold standard for character-driven comedy.</p>
 
@@ -37,6 +37,8 @@ isPage: false
 
 <h3 id="carol-burnett">Carol Burnett</h3>
 
+<figure class="kg-card kg-image-card kg-card-hascaption"><img src="/content/images/2026/04/carol-burnett.jpg" class="kg-image" alt="Carol Burnett" loading="lazy" width="440" height="550"><figcaption>Carol Burnett, left-handed legend of TV comedy</figcaption></figure>
+
 <p>Burnett, one of the most beloved figures in television comedy history, is left-handed. <em>The Carol Burnett Show</em>, which ran from 1967 to 1978, won 25 Primetime Emmy Awards and helped define the variety-comedy format. Burnett's blend of physical comedy, character work, and warmth toward her co-stars — Tim Conway, Harvey Korman, Vicki Lawrence — made the show a Saturday-night institution. She paved the way for future women in comedy and proved that sketch comedy could be both broad and deeply human.</p>
 
 <h3 id="bob-newhart">Bob Newhart</h3>
@@ -53,6 +55,8 @@ isPage: false
 
 <h3 id="jim-carrey">Jim Carrey</h3>
 
+<figure class="kg-card kg-image-card kg-card-hascaption"><img src="/content/images/2026/04/jim-carrey.jpg" class="kg-image" alt="Jim Carrey" loading="lazy" width="440" height="600"><figcaption>Jim Carrey, the left-handed king of physical comedy</figcaption></figure>
+
 <p>Carrey is left-handed, and his rubber-faced physicality in <em>Ace Ventura: Pet Detective</em>, <em>The Mask</em>, and <em>Liar Liar</em> made him the defining mainstream comedian of the 1990s. He started in Toronto stand-up clubs before breaking out on <em>In Living Color</em>, and his commitment to extreme physical performance — the pet-detective butt-talking, the contortion gags in <em>The Mask</em> — set a new bar for comedic acting. His later dramatic turns in <em>The Truman Show</em> and <em>Eternal Sunshine of the Spotless Mind</em> showed that physical comedians can be among the most expressive dramatic actors. (For more on his story, see <a href="/is-jim-carrey-left-handed/">is Jim Carrey left-handed?</a>.)</p>
 
 <h3 id="whoopi-goldberg">Whoopi Goldberg</h3>
@@ -64,6 +68,8 @@ isPage: false
 <p>Carey, the comedian behind <em>The Drew Carey Show</em> and the long-running American host of <em>Whose Line Is It Anyway?</em>, is left-handed. His Cleveland-everyman stand-up persona and improvisational instincts made him a natural fit for both scripted sitcom and improv-game-show formats. He has hosted <em>The Price Is Right</em> since 2007, making him one of the most consistently visible comedians on American television over the past three decades.</p>
 
 <h3 id="bill-murray">Bill Murray</h3>
+
+<figure class="kg-card kg-image-card kg-card-hascaption"><img src="/content/images/2026/04/bill-murray.jpg" class="kg-image" alt="Bill Murray" loading="lazy" width="440" height="600"><figcaption>Bill Murray, left-handed SNL alum and comedy icon</figcaption></figure>
 
 <p>Murray is left-handed, and his deadpan, slightly-detached comedic style made him one of the most enduring comedy stars to come out of <em>Saturday Night Live</em>. From <em>Stripes</em> and <em>Caddyshack</em> in the early 1980s to <em>Groundhog Day</em>, <em>Lost in Translation</em>, and his work with Wes Anderson, Murray has built a career that defies the usual arc of comedic actors. His ability to bring melancholy and weight to comedic roles, and lightness to dramatic ones, makes him a rare cross-genre figure.</p>
 
