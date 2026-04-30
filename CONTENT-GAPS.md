@@ -100,7 +100,7 @@ No formal cadence for updating older listicles. Google rewards `updatedDate` on 
 Most of the old backlog is fine — just lower priority than the strategic gaps above.
 
 ### Sports
-- [ ] Left-handed MMA/UFC fighters
+- [x] Left-handed MMA/UFC fighters
 - [ ] Left-handed badminton players
 - [ ] Left-handed table tennis players
 - [ ] Left-handed swimmers
@@ -117,7 +117,7 @@ Most of the old backlog is fine — just lower priority than the strategic gaps 
 
 ### People (deprioritized)
 Cut most of these. Pick one or two with real volume.
-- [ ] Famous left-handed comedians (only one worth writing)
+- [x] Famous left-handed comedians (only one worth writing)
 - [ ] ~~Famous left-handed photographers~~
 - [ ] ~~Famous left-handed fashion designers~~
 - [ ] ~~Famous left-handed military leaders~~
@@ -133,7 +133,7 @@ Cut most of these. Pick one or two with real volume.
 - [ ] How to set up a left-handed gaming station
 
 ### Facts
-- [ ] Left-handedness in twins (genetics angle)
+- [x] Left-handedness in twins (genetics angle)
 - [ ] History of left-handedness (pillar piece)
 - [ ] Left-handed language etymology (beyond southpaw/sinister)
 

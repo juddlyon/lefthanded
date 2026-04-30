@@ -73,7 +73,7 @@ isPage: false
 <p>There's no direct proven connection between Carrey's handedness and his comedic style. However, research suggests left-handers may think more divergently and make unusual associations more readily, cognitive traits that could contribute to his creative, unconventional humor. His physical comedy uses his whole body, but his natural left-hand dominance is visible in how he handles props and gestures.</p>
 
 <h3>Are there other famous left-handed comedians?</h3>
-<p>Yes, several successful comedians are left-handed, including Tina Fey, Jerry Seinfeld, Jon Stewart, and Dan Aykroyd. Left-handers are well-represented in creative fields including comedy, acting, and music. The entertainment industry appears to have a higher proportion of left-handers than the general population.</p>
+<p>Yes, many of comedy's biggest names are left-handed, including Whoopi Goldberg, Drew Carey, Bill Murray, Carol Burnett, Charlie Chaplin, and Dan Aykroyd. See our full guide to <a href="/famous-left-handed-comedians/">famous left-handed comedians</a> for the lineup that shaped modern comedy. Left-handers are well-represented in creative fields including comedy, acting, and music.</p>
 
 <h3>Is Jim Carrey ambidextrous?</h3>
 <p>There is no evidence that Jim Carrey is ambidextrous. He consistently uses his left hand for writing, painting, and other fine motor tasks. While actors may use either hand for specific scenes when required by a script, Carrey's natural hand preference is clearly left.</p>
