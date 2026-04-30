@@ -5,7 +5,7 @@ Niche content site about everything left-handed. Migrated from Ghost CMS to Astr
 ## Stack
 
 - **Framework**: Astro 5.5 (static output)
-- **Hosting**: Netlify (auto-deploys from `main` branch)
+- **Hosting**: Netlify (manual deploy — upload `dist/` folder)
 - **Content**: Markdown files with HTML body content in `src/content/posts/`
 - **Theme**: Ghost "Alto" theme (CSS/JS in `public/assets/`)
 - **Fonts**: Google Fonts (Lora, Mulish)
@@ -75,9 +75,12 @@ public/
 npm run dev      # Local dev server
 npm run build    # Build to dist/
 npm run preview  # Preview built site
+netlify deploy --prod --dir=dist  # Deploy to production
 ```
 
-Pushes to `main` auto-deploy via Netlify. Cache headers configured in `netlify.toml`:
+Manual deploy workflow: build locally, then upload `dist/` via Netlify CLI or drag-and-drop in Netlify dashboard.
+
+Cache headers configured in `netlify.toml`:
 - `/assets/*` and `/content/images/*`: immutable, 1-year cache
 - `/*.html`: no cache, must-revalidate
 
