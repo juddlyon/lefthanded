@@ -49,6 +49,7 @@ public/
 - Articles include FAQ sections (`<h2>Frequently asked questions</h2>` + `<h3>`/`<p>` pairs)
 - All articles have `featuredImage` in frontmatter
 - **Body images required**: Every article must have at least one `<figure>` image in the body (not just featuredImage)
+- **People listicles need real photos**: Articles about famous people (comedians, athletes, musicians, etc.) must include actual photos of those people from Wikimedia Commons — not generic stock images. Use `curl -sL -H "User-Agent: LefthandedBot/1.0" "https://commons.wikimedia.org/wiki/Special:FilePath/FILENAME.jpg?width=440"`
 
 ## Pre-Deploy Quality Check
 
