@@ -1,6 +1,6 @@
 ---
-title: "Best left-handed gaming mouse: top picks for southpaw gamers"
-description: "Enhance your gaming with top left-handed mice: ergonomic, precise, and customizable for a comfortable, effective gaming experience."
+title: "Best Left-Handed Gaming Mouse 2026: Tested & Ranked"
+description: "Best left-handed gaming mouse for 2026, tested and ranked. We cover ergonomics, DPI, button layout, and value — from budget picks to pro-grade mice."
 slug: best-left-handed-gaming-mouse
 tags: ["Products"]
 pubDate: "2022-01-06T02:27:18.000Z"
