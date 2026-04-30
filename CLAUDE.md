@@ -48,6 +48,21 @@ public/
 - Articles open with AEO-optimized Q:A format (≤250 char first paragraph)
 - Articles include FAQ sections (`<h2>Frequently asked questions</h2>` + `<h3>`/`<p>` pairs)
 - All articles have `featuredImage` in frontmatter
+- **Body images required**: Every article must have at least one `<figure>` image in the body (not just featuredImage)
+
+## Pre-Deploy Quality Check
+
+Before deploying new articles, verify they have body images:
+
+```bash
+# Check specific new articles for body images
+grep -c '<img' src/content/posts/NEW-ARTICLE.md  # Should be ≥1
+
+# Find ALL articles missing body images (legacy debt exists)
+grep -L '<img' src/content/posts/*.md
+```
+
+New articles without body images are incomplete and should not ship. (Legacy articles without images are technical debt to address separately.)
 
 ## SEO & AEO
 

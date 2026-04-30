@@ -13,6 +13,8 @@ isPage: false
 
 <p>That elevation holds for both identical (monozygotic) and fraternal (dizygotic) twins, which is one reason researchers think twin handedness can't be explained by genetics alone. The full story involves shared womb environment, brain lateralization timing, and a long-debated theory about so-called "vanishing twins" that may explain a portion of left-handedness in singletons too.</p>
 
+<figure class="kg-card kg-image-card"><img src="/content/images/external/unsplash/photo-1609220136736-443140cffec6.jpg" class="kg-image" alt="Twin babies side by side" loading="lazy" width="768" height="512" sizes="(min-width: 720px) 720px"></figure>
+
 <h2 id="how-much-more-often-are-twins-left-handed">How much more often are twins left-handed?</h2>
 
 <p>Across multiple large studies, the rate of left-handedness in twins has ranged from about 17% to 23%, depending on how researchers defined handedness and which populations they sampled. The widely cited figure of around 21% appears in twin-registry studies that use writing hand as the primary measure — the same definition used in most population-level <a href="/left-handed-statistics/">left-handed statistics</a>.</p>

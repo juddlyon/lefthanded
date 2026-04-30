@@ -13,6 +13,8 @@ isPage: false
 
 <p>Left-handers make up roughly 10% of the population, yet they appear disproportionately on lists of comedy's biggest names — from silent-film pioneers to sitcom stars to modern stand-ups. Whether that's coincidence or something about the left-handed brain that lends itself to comedic timing, the lineup speaks for itself. (Curious whether a specific star is a lefty? See our guide to <a href="/iconic-left-handed-actors/">iconic left-handed actors</a>.)</p>
 
+<figure class="kg-card kg-image-card"><img src="/content/images/external/unsplash/photo-1527224857830-43a7acc85260.jpg" class="kg-image" alt="Stand-up comedy microphone on stage" loading="lazy" width="768" height="512" sizes="(min-width: 720px) 720px"></figure>
+
 <h2 id="silent-era-and-classic-hollywood">Silent-era and classic Hollywood comedy legends</h2>
 
 <p>The earliest superstars of screen comedy include some of the most-cited left-handers in entertainment history.</p>

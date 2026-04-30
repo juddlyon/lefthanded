@@ -13,6 +13,8 @@ isPage: false
 
 <p>Left-handers make up about 10% of the population but appear at much higher rates in elite combat sports — a pattern that mirrors what we see in <a href="/best-left-handed-boxers/">left-handed boxing</a>, <a href="/left-handed-fencing/">left-handed fencing</a>, and other one-on-one combat disciplines. In the UFC and across mixed martial arts, southpaws have produced an outsized share of champions, and there's a real strategic reason why.</p>
 
+<figure class="kg-card kg-image-card"><img src="/content/images/external/unsplash/photo-1549719386-74dfcbf7dbed.jpg" class="kg-image" alt="MMA fighters in the octagon" loading="lazy" width="768" height="512" sizes="(min-width: 720px) 720px"></figure>
+
 <h2 id="why-southpaws-have-an-advantage-in-mma">Why southpaws have an advantage in MMA</h2>
 
 <p>Most fighters train against right-handed (orthodox) opponents because most fighters are right-handed. When a right-hander faces a left-hander (a southpaw), the angles, lead foot, and power-hand positioning all reverse. Jabs come from the unfamiliar side. Power punches arrive on a different line. The lead leg of the orthodox fighter sits opposite the southpaw's lead leg, which scrambles the usual outside-foot-positioning game.</p>
