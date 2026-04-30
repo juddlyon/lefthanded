@@ -6,3 +6,4 @@ lefthanded.io/
 
 # Local Netlify folder
 .netlify
+.claude/
