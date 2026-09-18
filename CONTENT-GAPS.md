@@ -198,7 +198,7 @@ Long-tail buyer intent goes to standalone reviews, not roundups. Pick highest-co
 ## Carryover backlog (lower priority)
 
 ### Sports
-- [ ] Left-handed MMA/UFC fighters
+- [x] Left-handed MMA/UFC fighters
 - [ ] Left-handed badminton players
 - [ ] Left-handed table tennis players
 - [ ] Left-handed swimmers
@@ -214,7 +214,7 @@ Long-tail buyer intent goes to standalone reviews, not roundups. Pick highest-co
 - [ ] Best left-handed firearms overview (140/mo combined for guns/pistols/rifles "for left handed people"; informational, no affiliate)
 
 ### People (deprioritized — hub captures the volume)
-- [ ] Famous left-handed comedians (only "famous" niche worth writing — high search appeal)
+- [x] Famous left-handed comedians (only "famous" niche worth writing — high search appeal)
 - [ ] ~~Famous left-handed photographers~~
 - [ ] ~~Famous left-handed fashion designers~~
 - [ ] ~~Famous left-handed military leaders~~
@@ -230,7 +230,7 @@ Long-tail buyer intent goes to standalone reviews, not roundups. Pick highest-co
 - [ ] How to set up a left-handed gaming station
 
 ### Facts
-- [ ] Left-handedness in twins (genetics angle; pairs with vanishing-twin debunk)
+- [x] Left-handedness in twins (genetics angle; pairs with vanishing-twin debunk)
 - [ ] Left-handed language etymology (beyond southpaw/sinister; pairs with slurs piece)
 
 ### Music

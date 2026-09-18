@@ -39,6 +39,8 @@ isPage: false
 
 <p>About 18 to 25 percent of identical twin pairs are discordant for handedness, meaning one twin is left-handed while the other is right-handed. This figure is only slightly lower than the discordance rate in fraternal twins, which hovers around 25 to 27 percent.</p>
 
+<p>Twins as a group are also roughly twice as likely to be left-handed as singletons — a fact with its own developmental story. See our deep dive on <a href="/left-handed-twins/">left-handed twins</a> for the asymmetric-womb hypothesis, mirror-image twinning, and what twin discordance tells us about the limits of genetic explanations.</p>
+
 <p>These findings demonstrate that even with the same genome, something else is at work. Researchers point to prenatal positioning in the womb, differences in blood supply to each hemisphere of the brain, and stochastic (random) fluctuations during neural development as contributing factors.</p>
 
 <h2 id="genes-linked-to-left-handedness">Genes linked to left-handedness</h2>
