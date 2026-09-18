@@ -1,10 +1,10 @@
 ---
-title: "The history of left-handedness: from superstition to science"
-description: "A complete history of left-handedness from ancient superstition and forced conversion to modern neuroscience. How society's understanding of left-handed people changed over centuries."
+title: "History of Left-Handedness: A Timeline From Ancient Rome to Today"
+description: "History of left-handedness in one timeline: Roman omens, medieval superstition, forced hand-switching in schools, and modern genetics and brain science."
 slug: history-of-left-handedness
 tags: ["Facts"]
 pubDate: "2026-04-03T12:00:00.000Z"
-updatedDate: "2026-04-03T12:00:00.000Z"
+updatedDate: "2026-09-18T12:00:00.000Z"
 featuredImage: "/content/images/external/unsplash/photo-1688488496687-73e4e98dfc6b.jpg"
 isPage: false
 ---
@@ -12,6 +12,25 @@ isPage: false
 <p><strong>What is the history of left-handedness?</strong> Left-handedness has been documented throughout human history, but for most of recorded civilization it carried stigma — associated in different cultures with bad luck, spiritual impurity, weakness, and moral failing. The systematic suppression of left-handedness in schools peaked in the 19th and early 20th centuries before science and social reform gradually reversed that trajectory.</p>
 
 <p>Today, left-handedness is understood as a natural neurological variation present in approximately 10 to 13 percent of the human population. But that understanding is recent. The story of how humanity went from tying children's left hands behind their backs to celebrating left-handers' day is a window into how science, culture, and language intersect with the bodies we inhabit.</p>
+
+<h2>Timeline of left-handedness history</h2>
+
+<table>
+<thead><tr><th>Era</th><th>What happened</th></tr></thead>
+<tbody>
+<tr><td>Prehistory (1.5+ million years ago)</td><td>Tool wear and cave hand stencils show a stable ratio of roughly 90% right-handed to 10% left-handed.</td></tr>
+<tr><td>Mesopotamia</td><td>Omen texts link the left with the west, sunset, and death, so left-side signs are read as bad luck.</td></tr>
+<tr><td>Ancient Rome</td><td>Augurs treat birds seen on the left as ill omens. The Latin word <em>sinister</em> ("left") takes on its modern meaning.</td></tr>
+<tr><td>Medieval Europe</td><td>Christian symbolism places the condemned at God's left. Folklore makes the devil left-handed.</td></tr>
+<tr><td>Mid-to-late 1800s</td><td>Mass schooling standardizes right-handed handwriting. Left-handed children are tied, struck, or "corrected."</td></tr>
+<tr><td>1861</td><td>Paul Broca locates language in the brain's left hemisphere, starting the science of lateralization.</td></tr>
+<tr><td>Late 1800s to 1920s</td><td>Lombroso and others wrongly link left-handedness to criminality. Orton ties mixed dominance to reading problems.</td></tr>
+<tr><td>1960s</td><td>Marian Annett proposes the Right Shift Theory, a genetic explanation for handedness.</td></tr>
+<tr><td>1960s to 1970s</td><td>Most Western schools stop forced hand-switching after evidence of harm such as stuttering.</td></tr>
+<tr><td>1976</td><td>International Left Handers Day is founded, observed every August 13.</td></tr>
+<tr><td>Today</td><td>Genetic studies find many genes involved. About 10 to 13 percent of people are left-handed.</td></tr>
+</tbody>
+</table>
 
 <h2>Ancient origins: the first evidence of handedness</h2>
 
@@ -52,7 +71,7 @@ isPage: false
 <li><strong>Links</strong> — German for left, with connotations of going wrong or acting illegitimately (as in <em>linke Masche</em>, a underhanded trick)</li>
 <li><strong>Mancino</strong> — Italian for left-handed, derived from <em>mancus</em> meaning defective or one-armed</li>
 <li><strong>Zurdo</strong> — Spanish for left-handed, also used informally to mean clumsy</li>
-<li><strong>Sinistra</strong> — Italian and Spanish for left, sharing the Latin root</li>
+<li><strong>Sinistra</strong> — Italian for left, from the Latin <em>sinister</em></li>
 <li><strong>Cack-handed</strong> — British English slang for left-handed or clumsy, derived from <em>cack</em>, an old word for excrement — the left hand was the hand used for personal hygiene in many cultures where the right was reserved for eating</li>
 </ul>
 

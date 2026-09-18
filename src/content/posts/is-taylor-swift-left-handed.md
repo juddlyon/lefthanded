@@ -1,11 +1,11 @@
 ---
-title: "Is Taylor Swift left-handed?"
-description: "No, Taylor Swift is right-handed — she plays guitar, writes lyrics, and signs autographs with her right hand. Here's what the evidence shows and why fans ask."
+title: "Is Taylor Swift Left or Right-Handed? She's a Righty"
+description: "Taylor Swift is right-handed, not a lefty. She writes, signs autographs, and strums guitar with her right hand. The evidence, and why mirrored photos confuse fans."
 slug: is-taylor-swift-left-handed
 tags: ["People", "Music"]
 pubDate: "2025-03-24T12:00:00.000Z"
-updatedDate: "2025-03-24T12:00:00.000Z"
-featuredImage: "/content/images/external/unsplash/photo-1511671782779-c97d3d27a1d4.jpg"
+updatedDate: "2026-09-18T12:00:00.000Z"
+featuredImage: "/content/images/portraits/taylor-swift-v2.jpg"
 isPage: false
 ---
 
@@ -79,6 +79,9 @@ isPage: false
 <p>Whether playing left or right-handed, the principles of songwriting and musical expression remain the same. Swift's success as a songwriter demonstrates that musical talent transcends handedness.</p>
 
 <h2>Frequently asked questions</h2>
+
+<h3>Is Taylor Swift a lefty?</h3>
+<p>No. Taylor Swift is not a lefty. She is right-handed for writing, signing, and playing guitar and piano.</p>
 
 <h3>Is Taylor Swift right or left-handed?</h3>
 <p>Taylor Swift is right-handed. She plays guitar and piano right-handed and writes with her right hand. This is consistently visible across her performances, music videos, and documentary footage.</p>

@@ -163,5 +163,45 @@
     "is_hero": true,
     "version": "v2",
     "fetched_at": "2026-04-25"
+  },
+  "john-cena": {
+    "name": "John Cena",
+    "description": "American actor and professional wrestler (born 1977)",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/John_Cena",
+    "image_path": "/content/images/portraits/john-cena-v2.jpg",
+    "source_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/John_Cena_by_Gage_Skidmore.jpg/1280px-John_Cena_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "is_hero": true,
+    "version": "v2",
+    "fetched_at": "2026-09-18"
+  },
+  "taylor-swift": {
+    "name": "Taylor Swift",
+    "description": "American singer-songwriter (born 1989)",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Taylor_Swift",
+    "image_path": "/content/images/portraits/taylor-swift-v2.jpg",
+    "source_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png/1280px-Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "is_hero": true,
+    "version": "v2",
+    "fetched_at": "2026-09-18"
+  },
+  "jim-carrey": {
+    "name": "Jim Carrey",
+    "description": "Canadian and American actor (born 1962)",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jim_Carrey",
+    "image_path": "/content/images/portraits/jim-carrey-v2.jpg",
+    "source_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Jim_Carrey_2020_%28cropped2%29.jpg/1280px-Jim_Carrey_2020_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "is_hero": true,
+    "version": "v2",
+    "fetched_at": "2026-09-18"
+  },
+  "tom-cruise": {
+    "name": "Tom Cruise",
+    "description": "American actor and film producer (born 1962)",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tom_Cruise",
+    "image_path": "/content/images/portraits/tom-cruise-v2.jpg",
+    "source_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Tom_Cruise_at_53rd_Saturn_Awards_2026-01.jpg/1280px-Tom_Cruise_at_53rd_Saturn_Awards_2026-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "is_hero": true,
+    "version": "v2",
+    "fetched_at": "2026-09-18"
   }
 }

@@ -1,11 +1,11 @@
 ---
-title: "Is John Cena left-handed?"
-description: "Yes, John Cena is left-handed. The WWE Champion and Hollywood star writes and trains with his dominant left hand — here's the evidence and what it means for his fighting style."
+title: "Is John Cena Left-Handed? Yes, He Writes Lefty"
+description: "Yes, John Cena is a lefty. He writes and signs autographs left-handed but throws with his right arm. Photo evidence, his WWE style, and other left-handed wrestlers."
 slug: is-john-cena-left-handed
 tags: ["People", "Sports"]
 pubDate: "2025-03-24T12:00:00.000Z"
-updatedDate: "2025-03-24T12:00:00.000Z"
-featuredImage: "/content/images/external/unsplash/photo-1534438327276-14e5300c3a48.jpg"
+updatedDate: "2026-09-18T12:00:00.000Z"
+featuredImage: "/content/images/portraits/john-cena-v2.jpg"
 isPage: false
 ---
 
@@ -68,6 +68,12 @@ isPage: false
 <p>Learn more about the relationship between handedness and creative thinking in our article on <a href="/are-left-handed-people-more-creative/">whether left-handed people are more creative</a>.</p>
 
 <h2>Frequently asked questions</h2>
+
+<h3>Is John Cena a lefty?</h3>
+<p>Yes. John Cena is a lefty for writing and signing autographs, which are the tasks that best reveal a person's dominant hand. He throws right-handed and favors his right arm for many moves in the ring, so he is best described as a left-handed writer with mixed-handed athletic habits.</p>
+
+<h3>¿John Cena es zurdo?</h3>
+<p>Sí. John Cena es zurdo: escribe y firma autógrafos con la mano izquierda, aunque lanza con el brazo derecho.</p>
 
 <h3>Is John Cena right or left-handed?</h3>
 <p>John Cena is left-handed. He writes and signs autographs with his left hand, and this has been documented throughout his public career in wrestling and entertainment.</p>

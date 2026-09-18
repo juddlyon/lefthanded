@@ -31,7 +31,10 @@ const META_PATH = path.join(ROOT, 'src', 'data', 'portraits.json');
 // Hero images are saved with a -v<N> suffix because /content/images/* is
 // served with `Cache-Control: immutable` — replacing the file at the same URL
 // won't bust the CDN edge cache. Bump HERO_VERSION when re-fetching.
-const HERO_SLUGS = new Set(['donald-trump', 'jayden-daniels', 'tua-tagovailoa']);
+const HERO_SLUGS = new Set([
+  'donald-trump', 'jayden-daniels', 'tua-tagovailoa',
+  'john-cena', 'taylor-swift', 'jim-carrey', 'tom-cruise',
+]);
 const HERO_SIZE = 1280;
 const HERO_VERSION = 'v2';
 
@@ -41,6 +44,10 @@ const PORTRAITS = {
   'donald-trump': 'Donald_Trump',
   'jayden-daniels': 'Jayden_Daniels',
   'tua-tagovailoa': 'Tua_Tagovailoa',
+  'john-cena': 'John_Cena',
+  'taylor-swift': 'Taylor_Swift',
+  'jim-carrey': 'Jim_Carrey',
+  'tom-cruise': 'Tom_Cruise',
 
   // For the famous-left-handed-people hub gallery
   'paul-mccartney': 'Paul_McCartney',
