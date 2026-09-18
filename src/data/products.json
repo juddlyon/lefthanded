@@ -426,5 +426,68 @@
     "price": "$24.95",
     "image": "/content/images/products/zyliss-lock-can-opener.jpg",
     "last_fetched": "2026-04-25"
+  },
+  "uni-ball-jetstream": {
+    "asin": "B002FSZP5A",
+    "name": "Uni-Ball Jetstream",
+    "title": "Uni-Ball Jetstream RT Pens - NY Times Wirecutter Best Pen for Over a Decade - Pack of 3 Black Fine Point Pens, 0.7mm - Back to School Pens, Ballpoint Pens",
+    "price": "$7.22",
+    "query": "uni-ball jetstream pen",
+    "image": "/content/images/products/uni-ball-jetstream.jpg",
+    "last_fetched": "2026-05-15"
+  },
+  "zebra-sarasa-dry": {
+    "asin": "B01N6N34KO",
+    "name": "Zebra Sarasa Dry Gel Pen",
+    "title": "Zebra Sarasa Dry Gel Ink Pen Black (JJ31-BK), 0.5mm Fine, 5 pens per Pack (Japan Import)",
+    "price": "$7.56",
+    "query": "zebra sarasa dry gel pen",
+    "image": "/content/images/products/zebra-sarasa-dry.jpg",
+    "last_fetched": "2026-05-15"
+  },
+  "pilot-acroball": {
+    "asin": "B009QYH892",
+    "name": "Pilot Acroball",
+    "title": "Acroball PureWhite Advanced Ink Refillable & Retractable Ball Point Pens with Assorted Accents, Fine Point, Ballpoint Pens, Black Ink, 0.7mm, 5-Pack",
+    "price": "$8.05",
+    "query": "pilot acroball pen",
+    "image": "/content/images/products/pilot-acroball.jpg",
+    "last_fetched": "2026-05-15"
+  },
+  "uni-ball-signo-307": {
+    "asin": "B077KFZ2Y7",
+    "name": "Uni-Ball Signo 307 Gel Pen",
+    "title": "Signo 307 Retractable Gel Ink Pen, 6-Count (Medium, Black)",
+    "price": "$12.99",
+    "query": "uni-ball signo 307 gel pen",
+    "image": "/content/images/products/uni-ball-signo-307.jpg",
+    "last_fetched": "2026-05-15"
+  },
+  "stabilo-easyoriginal-lefty": {
+    "asin": "B00T7ULQ2U",
+    "name": "STABILO EASYoriginal Left-Handed Rollerball",
+    "title": "Ergonomic Rollerball EASYoriginal - Left-Handed - Dark Blue/Light Blue",
+    "price": "$16.46",
+    "query": "stabilo easyoriginal left handed rollerball pen",
+    "image": "/content/images/products/stabilo-easyoriginal-lefty.jpg",
+    "last_fetched": "2026-05-15"
+  },
+  "lamy-safari-fountain-pen": {
+    "asin": "B000FA5DRK",
+    "name": "LAMY Safari Fountain Pen",
+    "title": "safari umbra - Fountain Pen with ergonomic grip & polished steel nib in size F - ideal for any Writing & Calligraphy - including LAMY T 10 blue cartridge - Right-Handed",
+    "price": "$31.74",
+    "query": "lamy safari fountain pen",
+    "image": "/content/images/products/lamy-safari-fountain-pen.jpg",
+    "last_fetched": "2026-05-15"
+  },
+  "maped-visio-lefty": {
+    "asin": "B00819FUHK",
+    "name": "Maped Visio Left-Handed Quick-Drying Pen",
+    "title": "Maped - Visio Left-Handed Quick-Drying Ballpoint Pen - 3 Pack - Writing Notes - Left-Handed Design - Quick-Drying Ink for Smudge-Free Writing - Comfortable Grip, Versatile Colors",
+    "price": "$11.44",
+    "query": "maped visio left handed quick drying ballpoint pen",
+    "image": "/content/images/products/maped-visio-lefty.jpg",
+    "last_fetched": "2026-05-15"
   }
 }

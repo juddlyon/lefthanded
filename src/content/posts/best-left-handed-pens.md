@@ -15,6 +15,115 @@ isPage: false
 
 <p>If you are a lefty who has ever looked down at a page covered in smudges and ink stains on your pinky finger, you already know the frustration. The good news is that pen technology has advanced considerably, and there are now excellent options designed with left-handed writers in mind. This guide covers everything you need to know to find the right pen, from ink types and tip sizes to grip design and paper pairing.</p>
 
+<h2 id="top-left-handed-pen-picks">Top left-handed pen picks</h2>
+
+<p>These are the pens lefties reach for again and again, chosen for fast-drying ink, smooth flow under the push stroke, and grips that suit the left-handed wrist angle. Each link goes to the current listing on Amazon.</p>
+
+<h3 id="uni-ball-jetstream"><a href="/go/uni-ball-jetstream" target="_blank" rel="nofollow sponsored noopener">Uni-Ball Jetstream</a></h3>
+
+<div class="kg-card kg-product-card">
+  <div class="kg-product-card-container">
+    <a href="/go/uni-ball-jetstream" target="_blank" rel="nofollow sponsored noopener"><img src="/content/images/products/uni-ball-jetstream.jpg" class="kg-product-card-image" loading="lazy" alt="Uni-Ball Jetstream"></a>
+    <div class="kg-product-card-title-container">
+      <h4 class="kg-product-card-title"><span style="white-space: pre-wrap;">Uni-Ball Jetstream</span></h4>
+    </div>
+    <div class="kg-product-card-description"><p>The all-round best pen for lefties: hybrid ink that dries almost as fast as a ballpoint but glides like a gel.</p></div>
+    <a class="kg-product-card-button kg-product-card-btn-accent" href="/go/uni-ball-jetstream" target="_blank" rel="nofollow sponsored noopener"><span>Check Amazon Price</span></a>
+  </div>
+</div>
+
+<p>If you buy one pen from this list, make it the Jetstream. The hybrid ink sets in well under a second, so your hand passes over dry ink even at a quick writing pace. The 0.7mm tip is the sweet spot for lefties — fine enough to limit ink volume, smooth enough that you do not have to press hard.</p>
+
+<h3 id="zebra-sarasa-dry"><a href="/go/zebra-sarasa-dry" target="_blank" rel="nofollow sponsored noopener">Zebra Sarasa Dry Gel Pen</a></h3>
+
+<div class="kg-card kg-product-card">
+  <div class="kg-product-card-container">
+    <a href="/go/zebra-sarasa-dry" target="_blank" rel="nofollow sponsored noopener"><img src="/content/images/products/zebra-sarasa-dry.jpg" class="kg-product-card-image" loading="lazy" alt="Zebra Sarasa Dry Gel Pen"></a>
+    <div class="kg-product-card-title-container">
+      <h4 class="kg-product-card-title"><span style="white-space: pre-wrap;">Zebra Sarasa Dry Gel Pen</span></h4>
+    </div>
+    <div class="kg-product-card-description"><p>The fastest-drying true gel pen — bold, saturated lines without the smear.</p></div>
+    <a class="kg-product-card-button kg-product-card-btn-accent" href="/go/zebra-sarasa-dry" target="_blank" rel="nofollow sponsored noopener"><span>Check Amazon Price</span></a>
+  </div>
+</div>
+
+<p>Sarasa Dry uses a rapid-dry gel formula that sets dramatically faster than standard gel ink, so you keep the rich color of a gel without the trademark lefty smudge. This is the pick if you want gel saturation but write with the hook or overwriter grip.</p>
+
+<h3 id="uni-ball-signo-307"><a href="/go/uni-ball-signo-307" target="_blank" rel="nofollow sponsored noopener">Uni-Ball Signo 307 Gel Pen</a></h3>
+
+<div class="kg-card kg-product-card">
+  <div class="kg-product-card-container">
+    <a href="/go/uni-ball-signo-307" target="_blank" rel="nofollow sponsored noopener"><img src="/content/images/products/uni-ball-signo-307.jpg" class="kg-product-card-image" loading="lazy" alt="Uni-Ball Signo 307 Gel Pen"></a>
+    <div class="kg-product-card-title-container">
+      <h4 class="kg-product-card-title"><span style="white-space: pre-wrap;">Uni-Ball Signo 307 Gel Pen</span></h4>
+    </div>
+    <div class="kg-product-card-description"><p>Quick-drying pigment gel that is also water-resistant once set — good for documents.</p></div>
+    <a class="kg-product-card-button kg-product-card-btn-accent" href="/go/uni-ball-signo-307" target="_blank" rel="nofollow sponsored noopener"><span>Check Amazon Price</span></a>
+  </div>
+</div>
+
+<p>The Signo 307 pairs quick-drying pigment ink with a needle-fine tip. Choose it when you want archival, water-resistant writing that still clears your hand fast — handy for lefties who touch the page with damp hands.</p>
+
+<h3 id="pilot-acroball"><a href="/go/pilot-acroball" target="_blank" rel="nofollow sponsored noopener">Pilot Acroball</a></h3>
+
+<div class="kg-card kg-product-card">
+  <div class="kg-product-card-container">
+    <a href="/go/pilot-acroball" target="_blank" rel="nofollow sponsored noopener"><img src="/content/images/products/pilot-acroball.jpg" class="kg-product-card-image" loading="lazy" alt="Pilot Acroball"></a>
+    <div class="kg-product-card-title-container">
+      <h4 class="kg-product-card-title"><span style="white-space: pre-wrap;">Pilot Acroball</span></h4>
+    </div>
+    <div class="kg-product-card-description"><p>Ballpoint-fast drying without the heavy pressure ballpoints usually demand.</p></div>
+    <a class="kg-product-card-button kg-product-card-btn-accent" href="/go/pilot-acroball" target="_blank" rel="nofollow sponsored noopener"><span>Check Amazon Price</span></a>
+  </div>
+</div>
+
+<p>Acroball's low-viscosity ink keeps the near-instant drying of a ballpoint while removing the drag that makes most ballpoints tiring for lefties. The cushioned grip holds up over long writing sessions.</p>
+
+<h3 id="maped-visio-lefty"><a href="/go/maped-visio-lefty" target="_blank" rel="nofollow sponsored noopener">Maped Visio Left-Handed Pen</a></h3>
+
+<div class="kg-card kg-product-card">
+  <div class="kg-product-card-container">
+    <a href="/go/maped-visio-lefty" target="_blank" rel="nofollow sponsored noopener"><img src="/content/images/products/maped-visio-lefty.jpg" class="kg-product-card-image" loading="lazy" alt="Maped Visio Left-Handed Pen"></a>
+    <div class="kg-product-card-title-container">
+      <h4 class="kg-product-card-title"><span style="white-space: pre-wrap;">Maped Visio Left-Handed Pen</span></h4>
+    </div>
+    <div class="kg-product-card-description"><p>One of the few pens engineered specifically for left-handed writers.</p></div>
+    <a class="kg-product-card-button kg-product-card-btn-accent" href="/go/maped-visio-lefty" target="_blank" rel="nofollow sponsored noopener"><span>Check Amazon Price</span></a>
+  </div>
+</div>
+
+<p>The Visio combines quick-drying ink with a grip molded for the left-handed finger position. It is an inexpensive everyday pick, especially for left-handed students who are still building their writing technique.</p>
+
+<h3 id="stabilo-easyoriginal-lefty"><a href="/go/stabilo-easyoriginal-lefty" target="_blank" rel="nofollow sponsored noopener">STABILO EASYoriginal Left-Handed Rollerball</a></h3>
+
+<div class="kg-card kg-product-card">
+  <div class="kg-product-card-container">
+    <a href="/go/stabilo-easyoriginal-lefty" target="_blank" rel="nofollow sponsored noopener"><img src="/content/images/products/stabilo-easyoriginal-lefty.jpg" class="kg-product-card-image" loading="lazy" alt="STABILO EASYoriginal Left-Handed Rollerball"></a>
+    <div class="kg-product-card-title-container">
+      <h4 class="kg-product-card-title"><span style="white-space: pre-wrap;">STABILO EASYoriginal Left-Handed Rollerball</span></h4>
+    </div>
+    <div class="kg-product-card-description"><p>A refillable rollerball with a grip zone contoured specifically for the left hand.</p></div>
+    <a class="kg-product-card-button kg-product-card-btn-accent" href="/go/stabilo-easyoriginal-lefty" target="_blank" rel="nofollow sponsored noopener"><span>Check Amazon Price</span></a>
+  </div>
+</div>
+
+<p>Stabilo makes a dedicated left-handed version of the EASYoriginal with a grip zone shaped for the left-handed finger position. The rollerball ink is smooth, and the refillable barrel keeps long-term cost down.</p>
+
+<h3 id="lamy-safari-fountain-pen"><a href="/go/lamy-safari-fountain-pen" target="_blank" rel="nofollow sponsored noopener">LAMY Safari Fountain Pen</a></h3>
+
+<div class="kg-card kg-product-card">
+  <div class="kg-product-card-container">
+    <a href="/go/lamy-safari-fountain-pen" target="_blank" rel="nofollow sponsored noopener"><img src="/content/images/products/lamy-safari-fountain-pen.jpg" class="kg-product-card-image" loading="lazy" alt="LAMY Safari Fountain Pen"></a>
+    <div class="kg-product-card-title-container">
+      <h4 class="kg-product-card-title"><span style="white-space: pre-wrap;">LAMY Safari Fountain Pen</span></h4>
+    </div>
+    <div class="kg-product-card-description"><p>Proof lefties can use fountain pens — a fine nib and triangular grip do the work.</p></div>
+    <a class="kg-product-card-button kg-product-card-btn-accent" href="/go/lamy-safari-fountain-pen" target="_blank" rel="nofollow sponsored noopener"><span>Check Amazon Price</span></a>
+  </div>
+</div>
+
+<p>Choose a fine (F) or extra-fine (EF) nib to limit wet ink, pair it with a fast-drying ink, and the Safari's triangular grip handles the writing angle. Lamy also sells left-oblique (LH) nib units ground to match the left-handed push stroke.</p>
+
 <h2>Why left-handed writers need different pens</h2>
 
 <p>Right-handed writers pull the pen tip across the page, which allows the ink to dry before their hand passes over it. Left-handed writers do the opposite. The hand follows the pen, dragging directly through freshly laid ink.</p>
@@ -42,7 +151,7 @@ isPage: false
 
 <p>Gel pens are often the top recommendation for left-handed writers. The ink is pigment-based and tends to set faster on paper than liquid ink. Many gel pens are specifically marketed as "quick-dry" or "rapid-dry," and these formulations can be a game-changer for lefties.</p>
 
-<p>The Uni-Ball Jetstream is frequently cited as one of the best options. It uses a hybrid ink that combines the smoothness of gel with the quick-drying properties of a ballpoint. The Pilot Acroball and Zebra Sarasa Dry are other strong contenders that offer sub-second drying times.</p>
+<p>The <a href="/go/uni-ball-jetstream" target="_blank" rel="nofollow sponsored noopener">Uni-Ball Jetstream</a> is frequently cited as one of the best options. It uses a hybrid ink that combines the smoothness of gel with the quick-drying properties of a ballpoint. The <a href="/go/pilot-acroball" target="_blank" rel="nofollow sponsored noopener">Pilot Acroball</a> and <a href="/go/zebra-sarasa-dry" target="_blank" rel="nofollow sponsored noopener">Zebra Sarasa Dry</a> are other strong contenders that offer sub-second drying times.</p>
 
 <h3>Ballpoint pens</h3>
 
@@ -122,7 +231,7 @@ isPage: false
 
 <h3>Uni-Ball</h3>
 
-<p>Uni-Ball consistently produces pens that work well for lefties. The Jetstream series is the standout, combining hybrid ink technology with a smooth, consistent line. The Signo 307 is another excellent option with fast-drying gel ink.</p>
+<p>Uni-Ball consistently produces pens that work well for lefties. The Jetstream series is the standout, combining hybrid ink technology with a smooth, consistent line. The <a href="/go/uni-ball-signo-307" target="_blank" rel="nofollow sponsored noopener">Signo 307</a> is another excellent option with fast-drying gel ink.</p>
 
 <h3>Pilot</h3>
 
@@ -130,11 +239,11 @@ isPage: false
 
 <h3>Stabilo</h3>
 
-<p>Stabilo is one of the few brands that explicitly designs products for left-handed users. Their SMARTball pen has a grip zone specifically contoured for left-handed finger placement, and their EASYoriginal rollerball has a version made exclusively for lefties.</p>
+<p>Stabilo is one of the few brands that explicitly designs products for left-handed users. Their SMARTball pen has a grip zone specifically contoured for left-handed finger placement, and their <a href="/go/stabilo-easyoriginal-lefty" target="_blank" rel="nofollow sponsored noopener">EASYoriginal rollerball</a> has a version made exclusively for lefties.</p>
 
 <h3>Lamy</h3>
 
-<p>For fountain pen enthusiasts, Lamy offers left-handed nibs on models like the Safari and Al-Star. These nibs are ground to accommodate the push stroke that left-handed writers use, reducing scratchiness and improving ink flow.</p>
+<p>For fountain pen enthusiasts, Lamy offers left-handed nibs on models like the <a href="/go/lamy-safari-fountain-pen" target="_blank" rel="nofollow sponsored noopener">Safari</a> and Al-Star. These nibs are ground to accommodate the push stroke that left-handed writers use, reducing scratchiness and improving ink flow.</p>
 
 <h2>Choosing pens as gifts for lefties</h2>
 
@@ -169,4 +278,4 @@ isPage: false
 
 <h3>Are there pens specifically designed for left-handed people?</h3>
 
-<p>A few brands make pens with left-handed-specific features. Stabilo produces the EASYoriginal and SMARTball with left-handed grip zones. Lamy offers left-handed fountain pen nibs. Yoropen has an angled design that improves visibility for lefties. However, most left-handed writers find excellent results with standard pens that happen to have fast-drying ink, such as the Uni-Ball Jetstream or Pilot Acroball.</p>
+<p>A few brands make pens with left-handed-specific features. Stabilo produces the EASYoriginal and SMARTball with left-handed grip zones. Lamy offers left-handed fountain pen nibs. The <a href="/go/maped-visio-lefty" target="_blank" rel="nofollow sponsored noopener">Maped Visio</a> is built specifically for left-handers, pairing quick-drying ink with a grip molded for the left-handed finger position. Yoropen has an angled design that improves visibility for lefties. However, most left-handed writers find excellent results with standard pens that happen to have fast-drying ink, such as the <a href="/go/uni-ball-jetstream" target="_blank" rel="nofollow sponsored noopener">Uni-Ball Jetstream</a> or <a href="/go/pilot-acroball" target="_blank" rel="nofollow sponsored noopener">Pilot Acroball</a>.</p>

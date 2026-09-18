@@ -1,6 +1,6 @@
 ---
 title: "Left-handed fencing: the southpaw advantage on the piste"
-description: "Left-handed fencers have a proven competitive edge. Learn why lefties dominate fencing and how the sport's tactics shift against a southpaw."
+description: "Left-handed fencing: why southpaws dominate the piste, how foil/épée/sabre equipment plays for lefties, and the tactics that shift against a left-handed opponent."
 slug: left-handed-fencing
 tags: ["Sports"]
 pubDate: "2026-03-13T12:00:00.000Z"

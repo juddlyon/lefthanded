@@ -1,6 +1,6 @@
 ---
-title: "How to write left-handed without smudging: a complete guide"
-description: "Learn how to write left-handed without smudging with proper hand position, paper angle, pen grip, and ink choices for comfortable lefty writing."
+title: "Left-handed writing tips to avoid smudging (complete guide)"
+description: "Left-handed writing tips to avoid smudging: tilt paper 30-45° clockwise, use an underwriting grip, pick fast-drying ink. Pens and paper that work."
 slug: how-to-write-left-handed
 tags: ["How-to"]
 pubDate: "2026-03-07T12:00:00.000Z"
