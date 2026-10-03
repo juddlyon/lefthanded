@@ -777,5 +777,109 @@
     "query": "Powerbilt TPS Supertech golf driver left handed",
     "last_fetched": "2026-10-03",
     "image": "/content/images/products/powerbilt-tps-supertech-driver.jpg"
+  },
+  "rawlings-player-preferred-glove": {
+    "asin": "B01GX09VY6",
+    "name": "Rawlings Player Preferred Glove",
+    "title": "Rawlings Player Preferred Baseball Gloves | Baseball & Slowpitch Softball",
+    "query": "Rawlings Player Preferred baseball glove left hand throw",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/rawlings-player-preferred-glove.jpg"
+  },
+  "franklin-field-master-glove": {
+    "asin": "B013LPRKQ2",
+    "name": "Franklin Sports Field Master Glove",
+    "title": "Franklin Sports Field Master Baseball Glove",
+    "query": "Franklin Sports Field Master baseball glove left hand throw",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/franklin-field-master-glove.jpg"
+  },
+  "wilson-a700-glove": {
+    "asin": "B0CLHK3N89",
+    "name": "Wilson A700 Glove",
+    "title": "Wilson | A700 | Baseball Gloves + Mitts | Right + Left Hand Throw | Multiple Styles",
+    "query": "Wilson A700 baseball glove left hand throw",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/wilson-a700-glove.jpg"
+  },
+  "rawlings-remix-youth-glove": {
+    "asin": "B0882W7VPT",
+    "name": "Rawlings Remix Youth Glove",
+    "title": "Rawlings Remix Youth Baseball Gloves | Baseball, Softball, T-Ball Gloves",
+    "query": "Rawlings Remix youth baseball glove left hand throw",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/rawlings-remix-youth-glove.jpg"
+  },
+  "rawlings-sure-catch-glove": {
+    "asin": "B0DWH3648L",
+    "name": "Rawlings Sure Catch Glove",
+    "title": "Rawlings | Sure Catch Baseball & Softball Glove | T-Ball, Youth & Adult Rec Models | Multiple Sizes & Styles",
+    "query": "Rawlings Sure Catch youth glove left hand throw",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/rawlings-sure-catch-glove.jpg"
+  },
+  "rawlings-shut-out-first-base-mitt-lht": {
+    "asin": "B0CCZQ4HS8",
+    "name": "Rawlings Shut Out First Base Mitt, Left Hand Throw",
+    "title": "Rawlings | SHUT OUT Fastpitch Softball First Base Mitt | Left Hand Throw | 12\" - Single Post Double Bar Web | Black",
+    "query": "Rawlings Shut Out fastpitch softball first base mitt left hand throw",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/rawlings-shut-out-first-base-mitt-lht.jpg"
+  },
+  "ssk-z5-catchers-mitt": {
+    "asin": "B0CVBPPNPR",
+    "name": "SSK Z5 Craftsman Catcher's Mitt",
+    "title": "SSK Z5 Craftsman Baseball Catcher’s Mitt – 32.5” - 33” - 33.5” - 34\" – Right & Left Hand Throw",
+    "query": "SSK Z5 Craftsman catcher's mitt left hand throw",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/ssk-z5-catchers-mitt.jpg"
+  },
+  "kastking-royale-legend-ii": {
+    "asin": "B07VWJ3PMG",
+    "name": "KastKing Royale Legend II",
+    "title": "KastKing Royale Legend II Baitcasting Reels, Available in 5.4:1 and 7.2:1",
+    "query": "KastKing Royale Legend II baitcasting reel left hand",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/kastking-royale-legend-ii.jpg"
+  },
+  "lews-classic-pro-speed-spool-slp": {
+    "asin": "B07W6X4T19",
+    "name": "Lew's Classic Pro Speed Spool SLP",
+    "title": "Lew's Classic Pro Speed Spool SLP Baitcast Reel",
+    "query": "Lew's Classic Pro Speed Spool SLP baitcast reel left hand",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/lews-classic-pro-speed-spool-slp.jpg"
+  },
+  "piscifun-torrent-ii": {
+    "asin": "B0B2RBZVH4",
+    "name": "Piscifun Torrent II",
+    "title": "Piscifun Torrent II Baitcasting Reel, 20LB Drag, Magnetic Brake",
+    "query": "Piscifun Torrent II baitcasting reel left hand",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/piscifun-torrent-ii.jpg"
+  },
+  "kastking-spartacus-ii": {
+    "asin": "B09B582RN5",
+    "name": "KastKing Spartacus II",
+    "title": "KastKing Spartacus II Baitcasting Fishing Reels with 7.2:1 Gear Ratio",
+    "query": "KastKing Spartacus II baitcasting reel left hand",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/kastking-spartacus-ii.jpg"
+  },
+  "kastking-megatron": {
+    "asin": "B0BMLBW48W",
+    "name": "KastKing Megatron",
+    "title": "KastKing Megatron 100&200 Baitcasting Reels, Low Profile, High Capacity",
+    "query": "KastKing Megatron baitcasting reel left hand",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/kastking-megatron.jpg"
+  },
+  "piscifun-alinox-300": {
+    "asin": "B07PMJYD5T",
+    "name": "Piscifun Alinox 300",
+    "title": "Piscifun Alinox 300 Baitcasting Reel, 33LB Drag, Aluminum Frame",
+    "query": "Piscifun Alinox 300 baitcasting reel left hand",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/piscifun-alinox-300.jpg"
   }
 }

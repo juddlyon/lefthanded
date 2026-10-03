@@ -301,5 +301,83 @@
     "name": "PowerBilt TPS Supertech Driver",
     "query": "Powerbilt TPS Supertech golf driver left handed",
     "asin": "B0794FDLXH"
+  },
+  {
+    "slug": "rawlings-player-preferred-glove",
+    "name": "Rawlings Player Preferred Glove",
+    "query": "Rawlings Player Preferred baseball glove left hand throw",
+    "asin": "B01GX09VY6"
+  },
+  {
+    "slug": "franklin-field-master-glove",
+    "name": "Franklin Sports Field Master Glove",
+    "query": "Franklin Sports Field Master baseball glove left hand throw",
+    "asin": "B013LPRKQ2"
+  },
+  {
+    "slug": "wilson-a700-glove",
+    "name": "Wilson A700 Glove",
+    "query": "Wilson A700 baseball glove left hand throw",
+    "asin": "B0CLHK3N89"
+  },
+  {
+    "slug": "rawlings-remix-youth-glove",
+    "name": "Rawlings Remix Youth Glove",
+    "query": "Rawlings Remix youth baseball glove left hand throw",
+    "asin": "B0882W7VPT"
+  },
+  {
+    "slug": "rawlings-sure-catch-glove",
+    "name": "Rawlings Sure Catch Glove",
+    "query": "Rawlings Sure Catch youth glove left hand throw",
+    "asin": "B0DWH3648L"
+  },
+  {
+    "slug": "rawlings-shut-out-first-base-mitt-lht",
+    "name": "Rawlings Shut Out First Base Mitt, Left Hand Throw",
+    "query": "Rawlings Shut Out fastpitch softball first base mitt left hand throw",
+    "asin": "B0CCZQ4HS8"
+  },
+  {
+    "slug": "ssk-z5-catchers-mitt",
+    "name": "SSK Z5 Craftsman Catcher's Mitt",
+    "query": "SSK Z5 Craftsman catcher's mitt left hand throw",
+    "asin": "B0CVBPPNPR"
+  },
+  {
+    "slug": "kastking-royale-legend-ii",
+    "name": "KastKing Royale Legend II",
+    "query": "KastKing Royale Legend II baitcasting reel left hand",
+    "asin": "B07VWJ3PMG"
+  },
+  {
+    "slug": "lews-classic-pro-speed-spool-slp",
+    "name": "Lew's Classic Pro Speed Spool SLP",
+    "query": "Lew's Classic Pro Speed Spool SLP baitcast reel left hand",
+    "asin": "B07W6X4T19"
+  },
+  {
+    "slug": "piscifun-torrent-ii",
+    "name": "Piscifun Torrent II",
+    "query": "Piscifun Torrent II baitcasting reel left hand",
+    "asin": "B0B2RBZVH4"
+  },
+  {
+    "slug": "kastking-spartacus-ii",
+    "name": "KastKing Spartacus II",
+    "query": "KastKing Spartacus II baitcasting reel left hand",
+    "asin": "B09B582RN5"
+  },
+  {
+    "slug": "kastking-megatron",
+    "name": "KastKing Megatron",
+    "query": "KastKing Megatron baitcasting reel left hand",
+    "asin": "B0BMLBW48W"
+  },
+  {
+    "slug": "piscifun-alinox-300",
+    "name": "Piscifun Alinox 300",
+    "query": "Piscifun Alinox 300 baitcasting reel left hand",
+    "asin": "B07PMJYD5T"
   }
 ]

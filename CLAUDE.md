@@ -142,6 +142,7 @@ Mirrors the pattern from `~/projects/paintballer` and `~/projects/modernpb.com`.
 - **Roundup layout** (mirrors `~/projects/tcgolfcenter.com`): Q:A opener, `<top-picks>` with three picks, comparison table, one numbered heading per product with its card, buying guidance, FAQ.
 - **Honesty rules**: only describe a product with facts from the maker or the listing. No hands-on testing claims. If a listing sells both hand orientations, tell the reader to select the left-hand option. See `/how-we-choose-products/`.
 - Older roundups still contain hand-written `kg-product-card` HTML; new work uses the tokens.
+- **What to write next**: see `ARTICLE_PLAN.md` (keyword gaps with search volumes, and fixes owed on existing pages).
 
 ## SEO Tools (Global)
 

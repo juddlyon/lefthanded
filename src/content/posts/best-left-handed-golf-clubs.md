@@ -111,7 +111,7 @@ isPage: false
 <li><strong>Return policy.</strong> Left-hand stock is thin, so replacements can take longer. Check the return terms on the listing.</li>
 </ul>
 
-<p>For a fuller walk through fitting, see our guide on <a href="/how-to-choose-left-handed-golf-clubs/">how to choose left-handed golf clubs</a>. Left-handed golfers shopping for someone else can also browse our <a href="/best-gifts-for-left-handed-people/">gifts for left-handed people</a>.</p>
+<p>For a fuller walk through fitting, see our guide on <a href="/how-to-choose-left-handed-golf-clubs/">how to choose left-handed golf clubs</a>. Left-handed golfers shopping for someone else can also browse our <a href="/best-gifts-for-left-handed-people/">gifts for left-handed people</a>. We also cover <a href="/left-handed-baseball-gloves/">left-handed baseball gloves</a> and <a href="/best-left-handed-baitcasters/">left-handed baitcasters</a>.</p>
 
 <h2 id="why-fewer-options">Why are there fewer left-handed golf clubs?</h2>
 
