@@ -4,7 +4,7 @@ description: "Find the best left-handed calligraphy sets with oblique nibs, prop
 slug: best-left-handed-calligraphy-sets
 tags: ["Products", "How-to"]
 pubDate: "2026-03-07T12:00:00.000Z"
-updatedDate: "2026-03-07T12:00:00.000Z"
+updatedDate: "2026-10-03T12:00:00.000Z"
 featuredImage: "/content/images/external/unsplash/photo-1455390582262-044cdead277a.jpg"
 isPage: false
 ---
@@ -14,6 +14,32 @@ isPage: false
 <p>These three components solve the main lefty calligraphy problems: wrong letter angle, ink smearing, and nib catching. With proper left-handed tools, lefties produce calligraphy equal to right-handed work.</p>
 
 <p>Calligraphy has experienced a major resurgence in recent years, driven by interest in hand lettering, wedding invitations, journaling, and creative hobbies. Left-handed people are sometimes told that calligraphy is not for them, but that advice is flatly wrong. Thousands of left-handed calligraphers produce stunning work every day. The secret is understanding how left-handed writing mechanics differ and selecting tools that work with your hand rather than against it.</p>
+
+<top-picks>
+<pick slug="speedball-c-series-left-handed-set" badge="Best lefty set">A penholder with six nibs cut for left-handers.</pick>
+<pick slug="pilot-parallel-pen" badge="Best broad-edge pen">Cartridge-fed, so there is no dipping.</pick>
+<pick slug="nikko-g-nibs" badge="Best pointed nib">A firm pointed nib that suits beginners.</pick>
+</top-picks>
+
+<h2 id="our-picks">Best left-handed calligraphy tools: our picks</h2>
+
+<h3 id="speedball-c-series-left-handed">1. Speedball C-Series Left-Handed Lettering Set</h3>
+
+<product-card slug="speedball-c-series-left-handed-set">One penholder and six broad-edge nibs made for left-handed lettering.</product-card>
+
+<p>This is one of the few calligraphy sets sold specifically as left-handed. The nibs are cut at a left-oblique angle, which lets a left-hander hold the pen at a natural angle for broad-edge scripts.</p>
+
+<h3 id="pilot-parallel-pen">2. Pilot Parallel Pen</h3>
+
+<product-card slug="pilot-parallel-pen">A broad-edge calligraphy pen that feeds ink from a cartridge between two parallel plates.</product-card>
+
+<p>The Parallel Pen is not left-hand specific, but it works well for many left-handers because the ink flow is steady and there is no dipping. It is sold in several nib widths.</p>
+
+<h3 id="nikko-g-nibs">3. Nikko G pointed nibs</h3>
+
+<product-card slug="nikko-g-nibs">A pack of Nikko G pointed nibs for dip-pen calligraphy.</product-card>
+
+<p>The Nikko G is a firm pointed nib that many teachers recommend for beginners. A firmer nib is more forgiving of the pushed strokes left-handers make. You will need a pen holder to use it, as described in the next section.</p>
 
 <h2>Why left-handed calligraphy requires different tools</h2>
 

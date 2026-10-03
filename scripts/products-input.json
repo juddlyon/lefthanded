@@ -1,0 +1,305 @@
+[
+  {
+    "slug": "squier-sonic-stratocaster-left-handed",
+    "name": "Squier Sonic Stratocaster Left-Handed",
+    "query": "Squier Sonic Stratocaster Left-Handed",
+    "asin": "B0BVR95CKG"
+  },
+  {
+    "slug": "ibanez-gio-grx70qal-left-handed",
+    "name": "Ibanez GIO GRX70QAL Left-Handed",
+    "query": "Ibanez Gio GRX70QAL Left-Handed",
+    "asin": "B07M712KCM"
+  },
+  {
+    "slug": "fender-player-ii-stratocaster-left-handed",
+    "name": "Fender Player II Stratocaster Left-Handed",
+    "query": "Fender Player II Stratocaster Left-Handed",
+    "must": [
+      "fender",
+      "player",
+      "stratocaster",
+      "left"
+    ],
+    "reject": [
+      "bundle",
+      "squier"
+    ]
+  },
+  {
+    "slug": "epiphone-les-paul-standard-left-handed",
+    "name": "Epiphone Les Paul Standard Left-Handed",
+    "query": "Epiphone Les Paul Standard Left-Handed",
+    "must": [
+      "epiphone",
+      "les paul",
+      "left"
+    ],
+    "reject": [
+      "bundle"
+    ]
+  },
+  {
+    "slug": "fender-cd-60s-left-handed",
+    "name": "Fender CD-60S Left-Handed Acoustic",
+    "query": "Fender CD-60S Left-Handed acoustic guitar",
+    "asin": "B07FYWNJ2F"
+  },
+  {
+    "slug": "yamaha-fg820-left-handed",
+    "name": "Yamaha FG820 Left-Handed Acoustic",
+    "query": "Yamaha FG820 Left-Handed acoustic guitar",
+    "asin": "B01CFOAQO8"
+  },
+  {
+    "slug": "ibanez-gsr200-left-handed-bass",
+    "name": "Ibanez GIO GSR200 Left-Handed Bass",
+    "query": "Ibanez GSR200B GIO Left-Handed bass",
+    "asin": "B01BLLDUGM"
+  },
+  {
+    "slug": "squier-classic-vibe-70s-jazz-bass-left-handed",
+    "name": "Squier Classic Vibe '70s Jazz Bass Left-Handed",
+    "query": "Squier Classic Vibe 70s Jazz Bass Left-Handed",
+    "asin": "B07N29BK3B"
+  },
+  {
+    "slug": "logitech-g-pro-x-superlight-2",
+    "name": "Logitech G Pro X Superlight 2",
+    "query": "Logitech G Pro X Superlight 2 wireless gaming mouse",
+    "must": [
+      "logitech",
+      "superlight 2"
+    ],
+    "reject": [
+      "dex",
+      "grip tape",
+      "skates"
+    ]
+  },
+  {
+    "slug": "razer-viper-v3-pro",
+    "name": "Razer Viper V3 Pro",
+    "query": "Razer Viper V3 Pro wireless gaming mouse",
+    "must": [
+      "razer",
+      "viper v3 pro"
+    ],
+    "reject": [
+      "grip tape",
+      "skates"
+    ]
+  },
+  {
+    "slug": "evoluent-verticalmouse-left-hand",
+    "name": "Evoluent VerticalMouse Left Hand",
+    "query": "Evoluent VerticalMouse 4 Left Hand",
+    "must": [
+      "evoluent",
+      "left"
+    ]
+  },
+  {
+    "slug": "delux-left-handed-vertical-mouse",
+    "name": "Delux Left-Handed Vertical Mouse",
+    "query": "Delux left handed vertical mouse M618",
+    "must": [
+      "delux",
+      "left"
+    ]
+  },
+  {
+    "slug": "steelseries-aerox-3-wireless",
+    "name": "SteelSeries Aerox 3 Wireless",
+    "query": "SteelSeries Aerox 3 Wireless gaming mouse",
+    "must": [
+      "steelseries",
+      "aerox 3",
+      "wireless"
+    ]
+  },
+  {
+    "slug": "logitech-mx-ergo",
+    "name": "Logitech MX Ergo Trackball",
+    "query": "Logitech MX Ergo wireless trackball mouse",
+    "must": [
+      "logitech",
+      "mx ergo"
+    ]
+  },
+  {
+    "slug": "a4tech-left-handed-keyboard",
+    "name": "A4Tech Left-Handed Keyboard",
+    "query": "A4tech Ergonomic Left Handed Keyboard",
+    "asin": "B007YW7Z0U"
+  },
+  {
+    "slug": "rk-royal-kludge-l98-southpaw",
+    "name": "RK Royal Kludge L98 with Southpaw Numpad",
+    "query": "RK ROYAL KLUDGE L98 Southpaw Numpad",
+    "asin": "B0F6CL5XQ9"
+  },
+  {
+    "slug": "razer-tartarus-v2",
+    "name": "Razer Tartarus V2 Gaming Keypad",
+    "query": "Razer Tartarus V2 gaming keypad",
+    "asin": "B07754PYFK"
+  },
+  {
+    "slug": "logitech-mx-keys-mini",
+    "name": "Logitech MX Keys Mini",
+    "query": "Logitech MX Keys Mini wireless keyboard",
+    "must": [
+      "logitech",
+      "mx keys mini"
+    ],
+    "reject": [
+      "mac"
+    ]
+  },
+  {
+    "slug": "keychron-k3",
+    "name": "Keychron K3 Low-Profile Keyboard",
+    "query": "Keychron K3 wireless mechanical keyboard",
+    "must": [
+      "keychron",
+      "k3"
+    ]
+  },
+  {
+    "slug": "kinesis-advantage360",
+    "name": "Kinesis Advantage360",
+    "query": "Kinesis Advantage360 split ergonomic keyboard",
+    "must": [
+      "kinesis",
+      "advantage360"
+    ]
+  },
+  {
+    "slug": "havit-bluetooth-number-pad",
+    "name": "Havit Bluetooth Number Pad",
+    "query": "havit Bluetooth Number Pad",
+    "asin": "B08NWTS1YY"
+  },
+  {
+    "slug": "zsa-moonlander",
+    "name": "ZSA Moonlander",
+    "url": "https://www.zsa.io/moonlander",
+    "store": "ZSA"
+  },
+  {
+    "slug": "dygma-raise",
+    "name": "Dygma Raise",
+    "url": "https://dygma.com",
+    "store": "Dygma"
+  },
+  {
+    "slug": "speedball-c-series-left-handed-set",
+    "name": "Speedball C-Series Left-Handed Lettering Set",
+    "query": "Speedball C-Series Lettering Pen Set Left-handed",
+    "asin": "B008QBX322"
+  },
+  {
+    "slug": "pilot-parallel-pen",
+    "name": "Pilot Parallel Pen",
+    "query": "Pilot Parallel calligraphy pen",
+    "must": [
+      "pilot",
+      "parallel"
+    ]
+  },
+  {
+    "slug": "nikko-g-nibs",
+    "name": "Nikko G Pointed Nibs",
+    "query": "Nikko G nib calligraphy",
+    "must": [
+      "nikko",
+      "g"
+    ]
+  },
+  {
+    "slug": "casio-g-shock-gw-m5610",
+    "name": "Casio G-Shock GW-M5610",
+    "query": "Casio G-Shock GWM5610 tough solar",
+    "must": [
+      "casio",
+      "5610"
+    ]
+  },
+  {
+    "slug": "tudor-pelagos-lhd",
+    "name": "Tudor Pelagos LHD",
+    "url": "https://www.tudorwatch.com",
+    "store": "Tudor"
+  },
+  {
+    "slug": "panerai-luminor-left-handed",
+    "name": "Panerai Luminor Left-Handed",
+    "url": "https://www.panerai.com",
+    "store": "Panerai"
+  },
+  {
+    "slug": "rolex-gmt-master-ii-destro",
+    "name": "Rolex GMT-Master II (Ref. 126720VTNR)",
+    "url": "https://www.rolex.com",
+    "store": "Rolex"
+  },
+  {
+    "slug": "callaway-strata-complete-set",
+    "name": "Callaway Strata Complete Golf Set",
+    "query": "Callaway Strata complete golf set left hand",
+    "asin": "B07H2HQJR5"
+  },
+  {
+    "slug": "wilson-profile-sgi-left-handed",
+    "name": "Wilson Profile SGI Complete Set, Left Hand",
+    "query": "Wilson Profile SGI men's complete golf set left hand",
+    "must": [
+      "wilson",
+      "profile",
+      "left"
+    ],
+    "reject": [
+      "women",
+      "womens",
+      "ladies",
+      "junior"
+    ]
+  },
+  {
+    "slug": "precise-m5-complete-set",
+    "name": "Precise M5 Men's Complete Golf Set",
+    "query": "Precise M5 men's complete golf club set left hand",
+    "asin": "B07193KG9Q"
+  },
+  {
+    "slug": "wilson-womens-profile-left-hand",
+    "name": "Wilson Women's Profile Complete Set, Left Hand",
+    "query": "Wilson Women's Profile Complete Golf Set Left Hand",
+    "asin": "B0DVMFW34R"
+  },
+  {
+    "slug": "confidence-junior-golf-set-lefty",
+    "name": "Confidence Junior Golf Set, Lefty",
+    "query": "Confidence Golf Junior Golf Clubs Set Lefty",
+    "asin": "B08FT8XJ2T"
+  },
+  {
+    "slug": "precise-x7-kids-golf-set",
+    "name": "Precise X7 Kids Golf Set",
+    "query": "Precise X7 kids complete golf club set left hand",
+    "asin": "B071XJWZRS"
+  },
+  {
+    "slug": "wilson-harmonized-putter-left-hand",
+    "name": "Wilson Harmonized X5 Putter, Left Hand",
+    "query": "Wilson Harmonized X5 Golf Putter Left Hand",
+    "asin": "B0F4914HL6"
+  },
+  {
+    "slug": "powerbilt-tps-supertech-driver",
+    "name": "PowerBilt TPS Supertech Driver",
+    "query": "Powerbilt TPS Supertech golf driver left handed",
+    "asin": "B0794FDLXH"
+  }
+]

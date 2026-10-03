@@ -45,3 +45,5 @@ isPage: true
 <h2 id="questions">Questions</h2>
 
 <p>If you have questions about our business model or any specific recommendation, <a href="/contact/">get in touch</a>. We'd rather answer the question than have you wonder.</p>
+
+<p>For how products get into our guides, see <a href="/how-we-choose-products/">how we choose products</a>.</p>

@@ -489,5 +489,293 @@
     "query": "maped visio left handed quick drying ballpoint pen",
     "image": "/content/images/products/maped-visio-lefty.jpg",
     "last_fetched": "2026-05-15"
+  },
+  "squier-sonic-stratocaster-left-handed": {
+    "asin": "B0BVR95CKG",
+    "name": "Squier Sonic Stratocaster Left-Handed",
+    "title": "Squier Sonic Stratocaster Electric Guitar, with 2-Year Warranty, Black, Maple Fingerboard, White Pickguard, Left-Handed",
+    "query": "Squier Sonic Stratocaster Left-Handed",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/squier-sonic-stratocaster-left-handed.jpg"
+  },
+  "ibanez-gio-grx70qal-left-handed": {
+    "asin": "B07M712KCM",
+    "name": "Ibanez GIO GRX70QAL Left-Handed",
+    "title": "Ibanez Gio GRX70QAL Left-Handed - Transparent Blue Burst",
+    "query": "Ibanez Gio GRX70QAL Left-Handed",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/ibanez-gio-grx70qal-left-handed.jpg"
+  },
+  "fender-player-ii-stratocaster-left-handed": {
+    "asin": "B07W574WT4",
+    "name": "Fender Player II Stratocaster Left-Handed",
+    "title": "Fender Player II Stratocaster Left-Hand, Rosewood Fingerboard, 3-Color Sunburst",
+    "query": "Fender Player II Stratocaster Left-Handed",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/fender-player-ii-stratocaster-left-handed.jpg"
+  },
+  "epiphone-les-paul-standard-left-handed": {
+    "asin": "B0GQ56MTDP",
+    "name": "Epiphone Les Paul Standard Left-Handed",
+    "title": "Epiphone Inspired by Gibson Les Paul Standard 50s Lefty, Gold Top with Bag",
+    "query": "Epiphone Les Paul Standard Left-Handed",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/epiphone-les-paul-standard-left-handed.jpg"
+  },
+  "fender-cd-60s-left-handed": {
+    "asin": "B07FYWNJ2F",
+    "name": "Fender CD-60S Left-Handed Acoustic",
+    "title": "Fender Left-Handed Acoustic Guitar, CD-60S, with 2-Year Warranty, Dreadnought Classic Design with Rounded Walnut Fingerboard and Phosphor Bronze Strings, Glossed Natural Finish, Mahogany Construction",
+    "query": "Fender CD-60S Left-Handed acoustic guitar",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/fender-cd-60s-left-handed.jpg"
+  },
+  "yamaha-fg820-left-handed": {
+    "asin": "B01CFOAQO8",
+    "name": "Yamaha FG820 Left-Handed Acoustic",
+    "title": "Yamaha FG820 Left-Handed Solid Top Acoustic Guitar",
+    "query": "Yamaha FG820 Left-Handed acoustic guitar",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/yamaha-fg820-left-handed.jpg"
+  },
+  "ibanez-gsr200-left-handed-bass": {
+    "asin": "B01BLLDUGM",
+    "name": "Ibanez GIO GSR200 Left-Handed Bass",
+    "title": "Ibanez GSR200B GIO Left-Handed - Walnut Flat",
+    "query": "Ibanez GSR200B GIO Left-Handed bass",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/ibanez-gsr200-left-handed-bass.jpg"
+  },
+  "squier-classic-vibe-70s-jazz-bass-left-handed": {
+    "asin": "B07N29BK3B",
+    "name": "Squier Classic Vibe '70s Jazz Bass Left-Handed",
+    "title": "Squier Classic Vibe 70s Jazz Bass, Black, Left-Handed, Maple Fingerboard",
+    "query": "Squier Classic Vibe 70s Jazz Bass Left-Handed",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/squier-classic-vibe-70s-jazz-bass-left-handed.jpg"
+  },
+  "logitech-g-pro-x-superlight-2": {
+    "asin": "B09NBWL8J5",
+    "name": "Logitech G Pro X Superlight 2",
+    "title": "Logitech G PRO X Superlight 2 Wireless Gaming Mouse - Black",
+    "query": "Logitech G Pro X Superlight 2 wireless gaming mouse",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/logitech-g-pro-x-superlight-2.jpg"
+  },
+  "razer-viper-v3-pro": {
+    "asin": "B0CVRGCGWJ",
+    "name": "Razer Viper V3 Pro",
+    "title": "Razer Viper V3 Pro Wireless Esports Gaming Mouse, 54g Lightweight, Black",
+    "query": "Razer Viper V3 Pro wireless gaming mouse",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/razer-viper-v3-pro.jpg"
+  },
+  "evoluent-verticalmouse-left-hand": {
+    "asin": "B00427OTEU",
+    "name": "Evoluent VerticalMouse Left Hand",
+    "title": "Evoluent Inventor of The Vertical Mouse – VM4L Ergonomic Vertical Mouse Left Hand Wired USB, Sculpted for Comfort, Reduces Wrist Strain, 4 Speeds, 6 Customizable Buttons in Windows",
+    "query": "Evoluent VerticalMouse 4 Left Hand",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/evoluent-verticalmouse-left-hand.jpg"
+  },
+  "delux-left-handed-vertical-mouse": {
+    "name": "Delux Left-Handed Vertical Mouse",
+    "query": "Delux left handed vertical mouse M618",
+    "last_fetched": "2026-10-03"
+  },
+  "steelseries-aerox-3-wireless": {
+    "asin": "B0GSDRFJJN",
+    "name": "SteelSeries Aerox 3 Wireless",
+    "title": "SteelSeries Aerox 3 Wireless Gen 2 Gaming Mouse - Shadow",
+    "query": "SteelSeries Aerox 3 Wireless gaming mouse",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/steelseries-aerox-3-wireless.jpg"
+  },
+  "logitech-mx-ergo": {
+    "asin": "B0D6PTR6MP",
+    "name": "Logitech MX Ergo Trackball",
+    "title": "Logitech MX Ergo S Advanced Wireless Trackball Mouse USB C - Graphite",
+    "query": "Logitech MX Ergo wireless trackball mouse",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/logitech-mx-ergo.jpg"
+  },
+  "a4tech-left-handed-keyboard": {
+    "asin": "B007YW7Z0U",
+    "name": "A4Tech Left-Handed Keyboard",
+    "title": "A4tech Ergonomic Left Handed Keyboard for Business/Accounting - 8 Multimedia Hotkeys - Eliminates RSI and Carpal Tunnel - Patented Natural_Reduce Back and Shoulder Strain to Improve Posture",
+    "query": "A4tech Ergonomic Left Handed Keyboard",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/a4tech-left-handed-keyboard.jpg"
+  },
+  "rk-royal-kludge-l98-southpaw": {
+    "asin": "B0F6CL5XQ9",
+    "name": "RK Royal Kludge L98 with Southpaw Numpad",
+    "title": "RK ROYAL KLUDGE L98 Wireless Mechanical Keyboard w/Southpaw Numpad",
+    "query": "RK ROYAL KLUDGE L98 Southpaw Numpad",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/rk-royal-kludge-l98-southpaw.jpg"
+  },
+  "razer-tartarus-v2": {
+    "asin": "B07754PYFK",
+    "name": "Razer Tartarus V2 Gaming Keypad",
+    "title": "Razer Tartarus V2 Left-Handed Gaming Keypad, 32 Programmable Keys, Black",
+    "query": "Razer Tartarus V2 gaming keypad",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/razer-tartarus-v2.jpg"
+  },
+  "logitech-mx-keys-mini": {
+    "asin": "B098JPSVKY",
+    "name": "Logitech MX Keys Mini",
+    "title": "Logitech MX Keys Mini Minimalist Wireless Illuminated Keyboard - Graphite",
+    "query": "Logitech MX Keys Mini wireless keyboard",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/logitech-mx-keys-mini.jpg"
+  },
+  "keychron-k3": {
+    "asin": "B08LSJ4RHH",
+    "name": "Keychron K3 Low-Profile Keyboard",
+    "title": "Keychron K3 Version 2 QMK 75% Wireless Low-Profile Mechanical Keyboard",
+    "query": "Keychron K3 wireless mechanical keyboard",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/keychron-k3.jpg"
+  },
+  "kinesis-advantage360": {
+    "asin": "B0CT444BH6",
+    "name": "Kinesis Advantage360",
+    "title": "KINESIS Advantage360 Professional Split Ergonomic Keyboard - Bluetooth | Quiet Mechanical Switches | Fully Programmable Open Source | Contoured Shape | Adjustable Tenting | Backlit",
+    "query": "Kinesis Advantage360 split ergonomic keyboard",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/kinesis-advantage360.jpg"
+  },
+  "havit-bluetooth-number-pad": {
+    "asin": "B08NWTS1YY",
+    "name": "Havit Bluetooth Number Pad",
+    "title": "havit Bluetooth Number Pad Wireless Numeric Keypad Numpad 26 Keys Portable Mini Financial Accounting Rechargeable Numeric Pad for Windows Laptop Desktop, PC, Notebook (Black)",
+    "query": "havit Bluetooth Number Pad",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/havit-bluetooth-number-pad.jpg"
+  },
+  "zsa-moonlander": {
+    "name": "ZSA Moonlander",
+    "url": "https://www.zsa.io/moonlander",
+    "store": "ZSA",
+    "last_fetched": "2026-10-03"
+  },
+  "dygma-raise": {
+    "name": "Dygma Raise",
+    "url": "https://dygma.com",
+    "store": "Dygma",
+    "last_fetched": "2026-10-03"
+  },
+  "speedball-c-series-left-handed-set": {
+    "asin": "B008QBX322",
+    "name": "Speedball C-Series Left-Handed Lettering Set",
+    "title": "Speedball C-Series Lettering Pen Set, Left-handed - 1 Penholder w/ 6 Nibs",
+    "query": "Speedball C-Series Lettering Pen Set Left-handed",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/speedball-c-series-left-handed-set.jpg"
+  },
+  "pilot-parallel-pen": {
+    "asin": "B002RJPPMK",
+    "name": "Pilot Parallel Pen",
+    "title": "PILOT Parallel Calligraphy Pen Set, 3.8mm Nib with Black and Red Ink Cartridges (90052)",
+    "query": "Pilot Parallel calligraphy pen",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/pilot-parallel-pen.jpg"
+  },
+  "nikko-g-nibs": {
+    "asin": "B00KU0N9Y4",
+    "name": "Nikko G Pointed Nibs",
+    "title": "Nikko Manga Pen Nib G-Pen - 3pc",
+    "query": "Nikko G nib calligraphy",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/nikko-g-nibs.jpg"
+  },
+  "casio-g-shock-gw-m5610": {
+    "asin": "B0H2KBJ7KG",
+    "name": "Casio G-Shock GW-M5610",
+    "title": "Casio G-Shock GW-M5610U-1CF Digital Square Watch Tough Solar Multi-Band 6 Atomic Timekeeping 200M Water Resistant",
+    "query": "Casio G-Shock GWM5610 tough solar",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/casio-g-shock-gw-m5610.jpg"
+  },
+  "tudor-pelagos-lhd": {
+    "name": "Tudor Pelagos LHD",
+    "url": "https://www.tudorwatch.com",
+    "store": "Tudor",
+    "last_fetched": "2026-10-03"
+  },
+  "panerai-luminor-left-handed": {
+    "name": "Panerai Luminor Left-Handed",
+    "url": "https://www.panerai.com",
+    "store": "Panerai",
+    "last_fetched": "2026-10-03"
+  },
+  "rolex-gmt-master-ii-destro": {
+    "name": "Rolex GMT-Master II (Ref. 126720VTNR)",
+    "url": "https://www.rolex.com",
+    "store": "Rolex",
+    "last_fetched": "2026-10-03"
+  },
+  "callaway-strata-complete-set": {
+    "asin": "B07H2HQJR5",
+    "name": "Callaway Strata Complete Golf Set",
+    "title": "Callaway Golf Strata Complete Golf Set (Men's and Women's)",
+    "query": "Callaway Strata complete golf set left hand",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/callaway-strata-complete-set.jpg"
+  },
+  "wilson-profile-sgi-left-handed": {
+    "name": "Wilson Profile SGI Complete Set, Left Hand",
+    "query": "Wilson Profile SGI men's complete golf set left hand",
+    "last_fetched": "2026-10-03"
+  },
+  "precise-m5-complete-set": {
+    "asin": "B07193KG9Q",
+    "name": "Precise M5 Men's Complete Golf Set",
+    "title": "Precise M5 - Men's Complete Golf Club Set",
+    "query": "Precise M5 men's complete golf club set left hand",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/precise-m5-complete-set.jpg"
+  },
+  "wilson-womens-profile-left-hand": {
+    "asin": "B0DVMFW34R",
+    "name": "Wilson Women's Profile Complete Set, Left Hand",
+    "title": "Wilson Women's Profile Complete Golf Set with Cart Bag - Left Hand, Ladies",
+    "query": "Wilson Women's Profile Complete Golf Set Left Hand",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/wilson-womens-profile-left-hand.jpg"
+  },
+  "confidence-junior-golf-set-lefty": {
+    "asin": "B08FT8XJ2T",
+    "name": "Confidence Junior Golf Set, Lefty",
+    "title": "Confidence Golf Junior Golf Clubs Set - Lefty",
+    "query": "Confidence Golf Junior Golf Clubs Set Lefty",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/confidence-junior-golf-set-lefty.jpg"
+  },
+  "precise-x7-kids-golf-set": {
+    "asin": "B071XJWZRS",
+    "name": "Precise X7 Kids Golf Set",
+    "title": "Precise X7 - Kids Complete Golf Club Set",
+    "query": "Precise X7 kids complete golf club set left hand",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/precise-x7-kids-golf-set.jpg"
+  },
+  "wilson-harmonized-putter-left-hand": {
+    "asin": "B0F4914HL6",
+    "name": "Wilson Harmonized X5 Putter, Left Hand",
+    "title": "Wilson Harmonized X5 Golf Putter - Left Hand, 33\"",
+    "query": "Wilson Harmonized X5 Golf Putter Left Hand",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/wilson-harmonized-putter-left-hand.jpg"
+  },
+  "powerbilt-tps-supertech-driver": {
+    "asin": "B0794FDLXH",
+    "name": "PowerBilt TPS Supertech Driver",
+    "title": "Powerbilt TPS Supertech Golf Drivers for Men & Women, Right/Left Handed",
+    "query": "Powerbilt TPS Supertech golf driver left handed",
+    "last_fetched": "2026-10-03",
+    "image": "/content/images/products/powerbilt-tps-supertech-driver.jpg"
   }
 }

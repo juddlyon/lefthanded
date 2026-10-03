@@ -4,7 +4,7 @@ description: "Find the best left-handed keyboards and numeric keypads for office
 slug: best-left-handed-keyboards
 tags: ["Products"]
 pubDate: "2026-03-07T12:00:00.000Z"
-updatedDate: "2026-03-07T12:00:00.000Z"
+updatedDate: "2026-10-03T12:00:00.000Z"
 featuredImage: "/content/images/external/unsplash/photo-1737226416689-0651adf74bf0.jpg"
 isPage: false
 ---
@@ -16,6 +16,75 @@ isPage: false
 <p>For lefties who mouse with their left hand, this layout change is the single biggest ergonomic improvement available.</p>
 
 <p>Most keyboards are designed with right-handed assumptions baked into their layout. The numeric keypad sits on the right, the navigation cluster favors right-hand access, and the overall width pushes the mouse further from center. For lefties who mouse with their left hand, this standard layout creates an ergonomic mismatch that compounds over hours of daily use. This guide covers the keyboard categories, features, and configurations that work best for left-handed users.</p>
+
+<top-picks>
+<pick slug="a4tech-left-handed-keyboard" badge="Best true lefty">A full keyboard with the number pad on the left.</pick>
+<pick slug="rk-royal-kludge-l98-southpaw" badge="Best mechanical">Wireless mechanical board with a left-side number pad.</pick>
+<pick slug="logitech-mx-keys-mini" badge="Best compact">No number pad, so a left-hand mouse sits close.</pick>
+</top-picks>
+
+<h2 id="our-picks">Best keyboards for left-handed users: our picks</h2>
+
+<table>
+<thead>
+<tr><th>Pick</th><th>Type</th><th>Best for</th></tr>
+</thead>
+<tbody>
+<tr><td>A4Tech Left-Handed Keyboard</td><td>Full size, left number pad</td><td>Number entry with the left hand</td></tr>
+<tr><td>RK Royal Kludge L98</td><td>Mechanical, left number pad</td><td>Typists who want mechanical switches</td></tr>
+<tr><td>Logitech MX Keys Mini</td><td>Compact wireless</td><td>Office work with a left-hand mouse</td></tr>
+<tr><td>Keychron K3</td><td>75% low-profile mechanical</td><td>A compact mechanical board</td></tr>
+<tr><td>Havit Bluetooth Number Pad</td><td>Separate number pad</td><td>Adding a left-side number pad to any keyboard</td></tr>
+<tr><td>Kinesis Advantage360</td><td>Split ergonomic</td><td>Heavy typists</td></tr>
+<tr><td>Razer Tartarus V2</td><td>Gaming keypad</td><td>One-handed game controls</td></tr>
+</tbody>
+</table>
+
+<h3 id="a4tech-left-handed-keyboard">1. A4Tech Left-Handed Keyboard: best true left-handed layout</h3>
+
+<product-card slug="a4tech-left-handed-keyboard">A wired full-size keyboard with the number pad on the left side and eight multimedia hotkeys.</product-card>
+
+<p>This is the layout most people mean by a left-handed keyboard. The number pad sits on the left, so a left-hander can key in numbers with the dominant hand while the letter keys stay centered.</p>
+
+<h3 id="rk-royal-kludge-l98">2. RK Royal Kludge L98: best mechanical</h3>
+
+<product-card slug="rk-royal-kludge-l98-southpaw">A wireless mechanical keyboard with a "southpaw" number pad on the left.</product-card>
+
+<p>Mechanical keyboards with a left-side number pad are rare. The L98 is one of the few sold as a standard product rather than a custom build.</p>
+
+<h3 id="logitech-mx-keys-mini">3. Logitech MX Keys Mini: best compact</h3>
+
+<product-card slug="logitech-mx-keys-mini">A compact, backlit wireless keyboard with no number pad.</product-card>
+
+<p>A keyboard without a number pad is symmetrical in the way that matters: nothing extends to either side. A left-handed mouse can sit close on the left, and a right-handed colleague can use the same keyboard without changes.</p>
+
+<h3 id="keychron-k3">4. Keychron K3: best compact mechanical</h3>
+
+<product-card slug="keychron-k3">A 75% low-profile wireless mechanical keyboard.</product-card>
+
+<p>The K3 keeps the arrow keys and function row while dropping the number pad. It is a good fit if you want mechanical switches in a small footprint.</p>
+
+<h3 id="havit-number-pad">5. Havit Bluetooth Number Pad: best add-on</h3>
+
+<product-card slug="havit-bluetooth-number-pad">A separate wireless number pad you can place on the left of any keyboard.</product-card>
+
+<p>Pairing a compact keyboard with a separate number pad gives you a left-handed layout without replacing the keyboard you already like. Place the pad on the left and the mouse wherever suits you.</p>
+
+<h3 id="kinesis-advantage360">6. Kinesis Advantage360: best ergonomic</h3>
+
+<product-card slug="kinesis-advantage360">A split, contoured ergonomic keyboard with thumb key clusters for both hands.</product-card>
+
+<p>Split keyboards treat both hands equally, which removes the right-hand bias of a standard layout. The ZSA Moonlander and Dygma Raise are the other well-known split boards, and both are sold direct by their makers.</p>
+
+<product-card slug="zsa-moonlander"></product-card>
+
+<product-card slug="dygma-raise"></product-card>
+
+<h3 id="razer-tartarus-v2">7. Razer Tartarus V2: best gaming keypad</h3>
+
+<product-card slug="razer-tartarus-v2">A one-handed gaming keypad with 32 programmable keys.</product-card>
+
+<p>The Tartarus V2 is shaped for the left hand, so it suits left-handers who keep the mouse in the right hand. If you use the mouse left-handed, remapping a compact keyboard is the better option, as covered in the gaming section below.</p>
 
 <h2>Why standard keyboards are a problem for lefties</h2>
 

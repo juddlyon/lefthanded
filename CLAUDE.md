@@ -120,6 +120,7 @@ Cache headers configured in `netlify.toml`:
 - `scripts/extract-content.mjs` — Original Ghost export extraction script
 - `scripts/localize-images.mjs` — Downloads external images and updates markdown references
 - `scripts/generate-redirects.mjs` — Generates `public/_redirects` from `src/data/products.json` (runs as `npm prebuild`)
+- `scripts/fetch-products.mjs` — SerpAPI Amazon lookup for `scripts/products-input.json` → `products.json`, thumbnails, redirects
 - `scripts/migrate-affiliate-links.mjs` — One-time migration: rewrites inline Amazon URLs to `/go/<slug>` cloaking (kept as record of the migration)
 
 ## Amazon Affiliate System
@@ -133,7 +134,14 @@ Mirrors the pattern from `~/projects/paintballer` and `~/projects/modernpb.com`.
 - **Disclosures**: `/disclosures/` page (linked in footer) per Amazon Associates ToS
 - **CTA convention**: `<a href="/go/<slug>" rel="nofollow sponsored noopener" target="_blank">Check Amazon Price</a>`
 - **No price display**: Amazon Operating Agreement Section 5 prohibits cached prices without PA-API access. Don't list prices on the site.
-- **Adding a product**: append a slug-keyed entry to `products.json` (with ASIN and name), then reference it in content as `/go/<slug>`. The redirect is generated on the next build.
+- **Adding a product**: add an entry to `scripts/products-input.json` (`slug`, `name`, `query`, plus `must`/`reject` title tokens or an exact `asin`; or `url` and `store` for makers not on Amazon), then run `node scripts/fetch-products.mjs` (needs `SERPAPI_KEY`, set in `~/.zshrc`). It writes `products.json`, a 500px thumbnail, and the redirects. Flags: `--all`, `--refresh <slug>`, `--dry-run`.
+- **Link types** (set by the fetch script): `direct` (exact Amazon match, "Check Amazon Price"), `search` (no exact match, Amazon search, "Find It on Amazon"), `brand` (maker's own site, no affiliate tag, "View at <store>").
+- **Product tokens in post HTML** (expanded at build time by `src/lib/products.ts`; an unknown slug fails the build):
+  - `<product-card slug="x">Optional description.</product-card>`
+  - `<top-picks><pick slug="x" badge="Best overall">One-line reason.</pick></top-picks>`
+- **Roundup layout** (mirrors `~/projects/tcgolfcenter.com`): Q:A opener, `<top-picks>` with three picks, comparison table, one numbered heading per product with its card, buying guidance, FAQ.
+- **Honesty rules**: only describe a product with facts from the maker or the listing. No hands-on testing claims. If a listing sells both hand orientations, tell the reader to select the left-hand option. See `/how-we-choose-products/`.
+- Older roundups still contain hand-written `kg-product-card` HTML; new work uses the tokens.
 
 ## SEO Tools (Global)
 

@@ -36,6 +36,8 @@ function buildRedirects(products) {
 
   for (const slug of slugs) {
     const entry = products[slug] || {};
+    // Brand links go straight to the maker's site (no affiliate redirect).
+    if (entry.url) continue;
     const asin = (entry.asin || '').trim();
 
     if (asin) {
