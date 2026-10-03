@@ -4,7 +4,7 @@ description: "Tom Cruise is widely reported to be left-handed, but he throws and
 slug: is-tom-cruise-left-handed
 tags: ["People"]
 pubDate: "2026-09-18T12:00:00.000Z"
-updatedDate: "2026-09-18T12:00:00.000Z"
+updatedDate: "2026-10-03T12:00:00.000Z"
 featuredImage: "/content/images/portraits/tom-cruise-v2.jpg"
 isPage: false
 ---
@@ -35,7 +35,7 @@ isPage: false
 
 <h2>Other left-handed actors</h2>
 
-<p>If Cruise is a partial lefty, plenty of Hollywood stars are fully in the club. <a href="/is-jim-carrey-left-handed/">Jim Carrey</a> writes, signs, and paints with his left hand. <a href="/is-john-cena-left-handed/">John Cena</a> writes and signs autographs left-handed. Angelina Jolie, Julia Roberts, and Brad Pitt also appear on most lists. For a wider view across music, sports, and politics, see our hub of <a href="/famous-left-handed-people/">famous left-handed people</a>.</p>
+<p>If Cruise is a partial lefty, plenty of Hollywood stars are fully in the club. <a href="/is-john-cena-left-handed/">John Cena</a> writes and signs autographs left-handed, and Angelina Jolie, Julia Roberts, and Jennifer Lawrence all sign left-handed. Not every name on the lists holds up: <a href="/is-jim-carrey-left-handed/">Jim Carrey</a> signs and paints with his right hand. For a wider view across music, sports, and politics, see our hub of <a href="/famous-left-handed-people/">famous left-handed people</a>.</p>
 
 <h2>Frequently asked questions</h2>
 
@@ -49,4 +49,4 @@ isPage: false
 <p>In most of his films, Cruise handles firearms right-handed. Some fans cite an older interview in which he is described as shooting left-handed, but his on-screen work mostly shows right-handed technique.</p>
 
 <h3>Which famous actors are definitely left-handed?</h3>
-<p>Jim Carrey and John Cena are two well-documented examples, since both are regularly seen writing and signing autographs with their left hands. See our list of <a href="/iconic-left-handed-actors/">iconic left-handed actors</a> for more.</p>
+<p>John Cena, Angelina Jolie, Julia Roberts, and Jennifer Lawrence are well-documented examples, since all four are regularly photographed signing autographs with their left hands. See our list of <a href="/iconic-left-handed-actors/">iconic left-handed actors</a> for more.</p>

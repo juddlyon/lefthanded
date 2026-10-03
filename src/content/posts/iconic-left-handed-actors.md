@@ -20,7 +20,7 @@ isPage: false
 <p>Jennifer Lawrence, Julia Roberts, and Angelina Jolie all sign autographs with their left hand. Tom Cruise, Jim Carrey, Brad Pitt, Will Smith, Sylvester Stallone, Matt Damon, and Emma Watson are often listed as left-handed, but photos show them signing with their right hand.</p>
 
 <h3>Is Jim Carrey left-handed?</h3>
-<p>Jim Carrey is widely reported to be left-handed, but photos from 2003, 2007, and 2011 show him signing autographs with his right hand. Read more about <a href="/is-jim-carrey-left-handed/">Jim Carrey's handedness</a>.</p>
+<p>No. Jim Carrey is widely reported to be left-handed, but photos from 2003, 2007, and 2011 show him signing autographs with his right hand, and he paints right-handed in the documentary "I Needed Color." Read more about <a href="/is-jim-carrey-left-handed/">Jim Carrey's handedness</a>.</p>
 
 <h3>Are left-handed people more common in acting?</h3>
 <p>There is no solid data showing that actors are more likely to be left-handed than the general population, which is about 10% left-handed. Lists of left-handed actors feel long because Hollywood is large and many of the names on them are wrong.</p>

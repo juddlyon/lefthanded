@@ -122,7 +122,8 @@ const jsonLd = ogType === 'article'
     .post-image, .author-image { position: relative; height: auto; width: 100%; object-fit: cover; }
     .post-media .u-placeholder { overflow: hidden; }
     .post-media .u-placeholder .post-image { position: absolute; top: 0; left: 0; height: 100%; }
-    .post-media .u-placeholder .post-image.is-portrait { object-fit: contain; }
+    .post-media .u-placeholder .post-image.is-portrait { object-fit: contain; z-index: 1; }
+    .post-media .u-placeholder.has-portrait::after { content: ""; position: absolute; inset: -60px; background: var(--portrait) center / cover no-repeat; filter: blur(36px) brightness(0.8); }
     .skip-to-content {
       position: absolute;
       left: -9999px;

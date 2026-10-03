@@ -150,7 +150,7 @@ if (post.body) {
 
         {hasImage && (
           <figure class="post-media container large">
-            <div class="u-placeholder horizontal">
+            <div class={`u-placeholder horizontal ${featuredImage?.includes('/portraits/') ? 'has-portrait' : ''}`} style={featuredImage?.includes('/portraits/') ? `--portrait: url(${featuredImage})` : undefined}>
               <img class={`post-image u-object-fit ${featuredImage?.includes('/portraits/') ? 'is-portrait' : ''}`} src={featuredImage} alt={title} loading="eager" fetchpriority="high">
             </div>
           </figure>

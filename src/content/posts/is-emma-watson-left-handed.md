@@ -5,7 +5,7 @@ slug: is-emma-watson-left-handed
 tags: ["People"]
 pubDate: "2026-10-03T12:00:00.000Z"
 updatedDate: "2026-10-03T12:00:00.000Z"
-featuredImage: "/content/images/portraits/emma-watson-v2.jpg"
+featuredImage: "/content/images/portraits/emma-watson-v3.jpg"
 isPage: false
 ---
 
@@ -55,7 +55,7 @@ isPage: false
 
 <h2>Actors who really are left-handed</h2>
 
-<p>Plenty of well-known actors are well-documented lefties. <a href="/is-jim-carrey-left-handed/">Jim Carrey</a> writes, signs, and paints with his left hand, and John Cena signs autographs left-handed. For names across film, music, sports, and politics, see our hub of <a href="/famous-left-handed-people/">famous left-handed people</a>.</p>
+<p>Plenty of well-known actors are well-documented lefties. Jennifer Lawrence, Julia Roberts, and Angelina Jolie all sign autographs left-handed, and so does <a href="/is-john-cena-left-handed/">John Cena</a>. For names across film, music, sports, and politics, see our hub of <a href="/famous-left-handed-people/">famous left-handed people</a>.</p>
 
 <h2>Frequently asked questions</h2>
 

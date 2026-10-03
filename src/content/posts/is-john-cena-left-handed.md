@@ -4,7 +4,7 @@ description: "Yes, John Cena is a lefty. He writes and signs autographs left-han
 slug: is-john-cena-left-handed
 tags: ["People", "Sports"]
 pubDate: "2025-03-24T12:00:00.000Z"
-updatedDate: "2026-09-18T12:00:00.000Z"
+updatedDate: "2026-10-03T12:00:00.000Z"
 featuredImage: "/content/images/portraits/john-cena-v2.jpg"
 isPage: false
 ---
@@ -25,7 +25,7 @@ isPage: false
 
 <p>Since transitioning to acting, Cena has appeared in major films including <em>Bumblebee</em> (2018), <em>F9</em> (2021), <em>The Suicide Squad</em> (2021), and the HBO Max series <em>Peacemaker</em> (2022-present). He's also become known for his comedic roles in films like <em>Blockers</em> (2018) and <em>Vacation Friends</em> (2021).</p>
 
-<p>Cena joins other <a href="/iconic-left-handed-actors/">left-handed Hollywood actors</a> including Tom Cruise, Brad Pitt, and Sylvester Stallone. The entertainment industry has a notable concentration of left-handed performers, with some researchers suggesting that creative fields may attract or favor individuals with the cognitive differences associated with left-handedness.</p>
+<p>Cena joins other <a href="/iconic-left-handed-actors/">left-handed Hollywood actors</a> including Jennifer Lawrence, Julia Roberts, and Angelina Jolie. The entertainment industry has a notable concentration of left-handed performers, with some researchers suggesting that creative fields may attract or favor individuals with the cognitive differences associated with left-handedness.</p>
 
 <p>In action sequences, Cena's natural athleticism translates well to screen fighting, where choreographers work with actors' natural movement patterns. His left-handed tendencies may be visible to observant viewers in how he handles props and performs physical sequences.</p>
 
@@ -85,7 +85,7 @@ isPage: false
 <p>While Cena has developed skills with both hands through his athletic career, his primary hand preference is left. He is not considered truly ambidextrous, which would mean equal skill with both hands for the same tasks.</p>
 
 <h3>What other celebrities are left-handed like John Cena?</h3>
-<p>Many celebrities are left-handed, including actors like Tom Cruise, Julia Roberts, and Angelina Jolie, <a href="/famous-left-handed-musicians/">musicians like Paul McCartney</a> and Jimi Hendrix, and athletes across various sports. Left-handers make up about 10% of the general population but may be overrepresented in creative and entertainment fields.</p>
+<p>Many celebrities are left-handed, including actors like Jennifer Lawrence, Julia Roberts, and Angelina Jolie, <a href="/famous-left-handed-musicians/">musicians like Paul McCartney</a> and Jimi Hendrix, and athletes across various sports. Left-handers make up about 10% of the general population but may be overrepresented in creative and entertainment fields.</p>
 
 <h3>How many Make-A-Wish requests has John Cena granted?</h3>
 <p>John Cena has granted over 650 wishes through the Make-A-Wish Foundation, more than any other celebrity. At these appearances, he signs autographs with his left hand for the children and families he meets.</p>

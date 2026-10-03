@@ -4,7 +4,7 @@ description: "From Leonardo da Vinci to Lady Gaga, Obama to Oprah — a comprehe
 slug: famous-left-handed-people
 tags: ["People"]
 pubDate: "2026-04-25T12:00:00.000Z"
-updatedDate: "2026-04-25T12:00:00.000Z"
+updatedDate: "2026-10-03T12:00:00.000Z"
 featuredImage: "/content/images/covers/famous-left-handed-people.jpg"
 isPage: false
 ---
@@ -19,7 +19,7 @@ isPage: false
 <li><strong>Most-cited famous lefties:</strong> Leonardo da Vinci, Barack Obama, Paul McCartney, Oprah Winfrey, Jimi Hendrix, Babe Ruth, Lady Gaga, Prince William.</li>
 <li><strong>Presidents:</strong> 5 of the last 9 US presidents are left-handed (Garfield, Hoover, Truman, Ford, Reagan, Bush 41, Clinton, Obama).</li>
 <li><strong>Sports overrepresentation:</strong> 20–30% of elite boxers, 15–20% of top tennis players, and 25–30% of MLB hitters are left-handed.</li>
-<li><strong>Hollywood:</strong> Keanu Reeves, Julia Roberts, Nicole Kidman, Angelina Jolie, Hugh Jackman, Jennifer Lawrence, Morgan Freeman, Whoopi Goldberg, Tom Cruise, Bruce Willis.</li>
+<li><strong>Hollywood:</strong> Keanu Reeves, Julia Roberts, Nicole Kidman, Angelina Jolie, Hugh Jackman, Jennifer Lawrence, Morgan Freeman, Whoopi Goldberg, Bruce Willis.</li>
 <li><strong>Music:</strong> Paul McCartney and Jimi Hendrix top the list; Kurt Cobain, Lady Gaga, Eminem, Justin Bieber, and Cardi B are also lefties.</li>
 </ul>
 </aside>
@@ -108,8 +108,8 @@ isPage: false
 <li><strong>Morgan Freeman</strong> — left-handed; injured his left arm in a 2008 car accident, which he has discussed publicly.</li>
 <li><strong>Sarah Jessica Parker</strong> — left-handed; visible across the run of <em>Sex and the City</em>.</li>
 <li><strong>Will Ferrell</strong> — left-handed; has joked about it in interviews.</li>
-<li><strong>Tom Cruise</strong> — left-handed (though writes with his right after early-childhood training).</li>
-<li><strong>Robert De Niro</strong>, <strong>Whoopi Goldberg</strong>, <strong>Bruce Willis</strong>, and <strong>Jim Carrey</strong> are all left-handed. We have a fuller breakdown in our list of <a href="/iconic-left-handed-actors/">iconic left-handed actors</a> and a dedicated page on <a href="/is-jim-carrey-left-handed/">whether Jim Carrey is left-handed</a>.</li>
+<li><strong>Tom Cruise</strong> — widely reported to be left-handed, but unconfirmed. He signs autographs and throws with his right hand. See <a href="/is-tom-cruise-left-handed/">is Tom Cruise left-handed?</a></li>
+<li><strong>Robert De Niro</strong>, <strong>Whoopi Goldberg</strong>, and <strong>Bruce Willis</strong> are all left-handed. We have a fuller breakdown in our list of <a href="/iconic-left-handed-actors/">iconic left-handed actors</a>. Jim Carrey is on most lists too, but photos show him signing and painting right-handed: see <a href="/is-jim-carrey-left-handed/">whether Jim Carrey is left-handed</a>.</li>
 </ul>
 
 <h2 id="musicians">Famous left-handed musicians</h2>

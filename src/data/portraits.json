@@ -218,10 +218,10 @@
     "name": "Emma Watson",
     "description": "English actress (born 1990)",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Emma_Watson",
-    "image_path": "/content/images/portraits/emma-watson-v2.jpg",
-    "source_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Emma_Watson_2013.jpg/1280px-Emma_Watson_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "image_path": "/content/images/portraits/emma-watson-v3.jpg",
+    "source_image_url": "https://commons.wikimedia.org/wiki/File:Emma_Watson_2012_Shankbone.JPG",
     "is_hero": true,
-    "version": "v2",
+    "version": "v3",
     "fetched_at": "2026-10-03"
   },
   "jimmy-page": {

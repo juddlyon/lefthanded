@@ -55,7 +55,7 @@ isPage: false
 
 <h2>Actors who really are left-handed</h2>
 
-<p>Some actors on the lefty lists have much better evidence behind them. <a href="/is-jim-carrey-left-handed/">Jim Carrey</a> writes, signs, and paints with his left hand. John Cena signs autographs left-handed. For a wider view across film, music, sports, and politics, see our hub of <a href="/famous-left-handed-people/">famous left-handed people</a>.</p>
+<p>Some actors on the lefty lists have much better evidence behind them. <a href="/is-john-cena-left-handed/">John Cena</a>, Angelina Jolie, and Julia Roberts all sign autographs left-handed. Others fail the same test Damon does: <a href="/is-jim-carrey-left-handed/">Jim Carrey</a> also signs right-handed. For a wider view across film, music, sports, and politics, see our hub of <a href="/famous-left-handed-people/">famous left-handed people</a>.</p>
 
 <h2>Frequently asked questions</h2>
 

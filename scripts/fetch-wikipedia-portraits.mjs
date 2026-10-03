@@ -50,7 +50,7 @@ const PORTRAITS = {
   'jim-carrey': 'Jim_Carrey',
   'tom-cruise': 'Tom_Cruise',
   'matt-damon': 'Matt_Damon',
-  'emma-watson': 'Emma_Watson',
+  'emma-watson': 'Emma_Watson', // hero is a manual override (emma-watson-v3.jpg, Commons 2012 Shankbone); the Wikipedia lead image is low-res
   'jimmy-page': 'Jimmy_Page',
 
   // For the famous-left-handed-people hub gallery

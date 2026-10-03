@@ -1,6 +1,6 @@
 ---
 title: "Famous left-handed comedians who shaped modern comedy"
-description: "Discover the famous left-handed comedians who shaped modern comedy, from Jim Carrey and Whoopi Goldberg to Charlie Chaplin and Carol Burnett."
+description: "Discover the famous left-handed comedians who shaped modern comedy, from Whoopi Goldberg and Bill Murray to Charlie Chaplin and Carol Burnett."
 slug: famous-left-handed-comedians
 tags: ["People"]
 pubDate: "2026-04-30T12:00:00.000Z"
@@ -9,7 +9,7 @@ featuredImage: "/content/images/external/unsplash/photo-1594663805807-29a7cc1847
 isPage: false
 ---
 
-<p><strong>Who are the most famous left-handed comedians?</strong> Jim Carrey, Whoopi Goldberg, Drew Carey, Bill Murray, Charlie Chaplin, and Carol Burnett rank among the most famous left-handed comedians who shaped modern comedy.</p>
+<p><strong>Who are the most famous left-handed comedians?</strong> Whoopi Goldberg, Drew Carey, Bill Murray, Charlie Chaplin, and Carol Burnett rank among the most famous left-handed comedians who shaped modern comedy.</p>
 
 <p>Left-handers make up roughly 10% of the population, yet they appear disproportionately on lists of comedy's biggest names — from silent-film pioneers to sitcom stars to modern stand-ups. Whether that's coincidence or something about the left-handed brain that lends itself to comedic timing, the lineup speaks for itself. (Curious whether a specific star is a lefty? See our guide to <a href="/iconic-left-handed-actors/">iconic left-handed actors</a>.)</p>
 
@@ -52,12 +52,6 @@ isPage: false
 <h2 id="modern-stand-up-and-screen-comedians">Modern stand-up and screen comedians</h2>
 
 <p>The most-cited contemporary left-handed comedians span stand-up, sitcom, and film.</p>
-
-<h3 id="jim-carrey">Jim Carrey</h3>
-
-<figure class="kg-card kg-image-card kg-card-hascaption"><img src="/content/images/2026/04/jim-carrey.jpg" class="kg-image" alt="Jim Carrey" loading="lazy" width="440" height="600"><figcaption>Jim Carrey, the left-handed king of physical comedy</figcaption></figure>
-
-<p>Carrey is left-handed, and his rubber-faced physicality in <em>Ace Ventura: Pet Detective</em>, <em>The Mask</em>, and <em>Liar Liar</em> made him the defining mainstream comedian of the 1990s. He started in Toronto stand-up clubs before breaking out on <em>In Living Color</em>, and his commitment to extreme physical performance — the pet-detective butt-talking, the contortion gags in <em>The Mask</em> — set a new bar for comedic acting. His later dramatic turns in <em>The Truman Show</em> and <em>Eternal Sunshine of the Spotless Mind</em> showed that physical comedians can be among the most expressive dramatic actors. (For more on his story, see <a href="/is-jim-carrey-left-handed/">is Jim Carrey left-handed?</a>.)</p>
 
 <h3 id="whoopi-goldberg">Whoopi Goldberg</h3>
 
@@ -103,7 +97,7 @@ isPage: false
 
 <h3 id="are-most-stand-up-comedians-left-handed">Are most stand-up comedians left-handed?</h3>
 
-<p>No. Most stand-up comedians are right-handed, in line with the general population's roughly 90% right-handed rate. However, well-known left-handed stand-ups — Jim Carrey, Drew Carey, Sarah Silverman, Bob Newhart, Whoopi Goldberg — appear at higher rates than chance might predict, fueling the perception that comedy attracts lefties.</p>
+<p>No. Most stand-up comedians are right-handed, in line with the general population's roughly 90% right-handed rate. However, well-known left-handed stand-ups — Drew Carey, Sarah Silverman, Bob Newhart, Whoopi Goldberg — appear at higher rates than chance might predict, fueling the perception that comedy attracts lefties.</p>
 
 <h3 id="is-jerry-seinfeld-left-handed">Is Jerry Seinfeld left-handed?</h3>
 
@@ -111,7 +105,7 @@ isPage: false
 
 <h3 id="is-jim-carrey-left-handed">Is Jim Carrey left-handed?</h3>
 
-<p>Yes, Jim Carrey is left-handed. He has discussed his left-handedness in interviews and is regularly seen writing and signing autographs with his left hand. He's covered in detail in our article on <a href="/is-jim-carrey-left-handed/">Jim Carrey's left-handedness</a>.</p>
+<p>No. Jim Carrey appears on most lists of left-handed comedians, but press photos show him signing autographs with his right hand, and he paints right-handed in the documentary <em>I Needed Color</em>. See the evidence in <a href="/is-jim-carrey-left-handed/">is Jim Carrey left-handed?</a></p>
 
 <h3 id="are-left-handed-people-funnier">Are left-handed people funnier?</h3>
 
@@ -119,7 +113,7 @@ isPage: false
 
 <h3 id="who-are-other-famous-left-handed-entertainers">Who are other famous left-handed entertainers?</h3>
 
-<p>Beyond comedy, well-known left-handed entertainers include Tom Cruise, Angelina Jolie, Brad Pitt, Julia Roberts, Paul McCartney, Jimi Hendrix, Kurt Cobain, Lady Gaga, and Oprah Winfrey. Our articles on <a href="/iconic-left-handed-actors/">left-handed actors</a> and <a href="/famous-left-handed-musicians/">left-handed musicians</a> cover the broader entertainment lineup in depth.</p>
+<p>Beyond comedy, well-known left-handed entertainers include Angelina Jolie, Julia Roberts, Jennifer Lawrence, Paul McCartney, Jimi Hendrix, Kurt Cobain, Lady Gaga, and Oprah Winfrey. Our articles on <a href="/iconic-left-handed-actors/">left-handed actors</a> and <a href="/famous-left-handed-musicians/">left-handed musicians</a> cover the broader entertainment lineup in depth.</p>
 
 <h3 id="who-was-the-first-famous-left-handed-comedian">Who was the first famous left-handed comedian?</h3>
 

@@ -38,7 +38,7 @@ function readingTime(html: string) {
             <article class={`post ${hasImage ? '' : 'no-image'} ${tag ? `tag-${tagSlug}` : ''}`}>
               {hasImage && (
                 <figure class="post-media container large">
-                  <div class="u-placeholder horizontal">
+                  <div class={`u-placeholder horizontal ${post.data.featuredImage?.includes('/portraits/') ? 'has-portrait' : ''}`} style={post.data.featuredImage?.includes('/portraits/') ? `--portrait: url(${post.data.featuredImage})` : undefined}>
                     <a class="post-image-link" href={`/${post.data.slug}/`} tabindex="-1" aria-hidden="true">
                       <img class={`post-image u-object-fit ${post.data.featuredImage?.includes('/portraits/') ? 'is-portrait' : ''}`} src={post.data.featuredImage} alt="" loading={i === 0 ? 'eager' : 'lazy'} fetchpriority={i === 0 ? 'high' : undefined}>
                     </a>
