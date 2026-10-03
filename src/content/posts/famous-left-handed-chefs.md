@@ -1,6 +1,6 @@
 ---
-title: "Famous left-handed chefs and their kitchen secrets"
-description: "Famous left-handed chefs include Gordon Ramsay and Julia Child. How southpaw culinary professionals work around knives, stations, and tools designed for right-handers."
+title: "Famous left-handed chefs: who really is a lefty?"
+description: "Gordon Ramsay and Curtis Stone are left-handed chefs. Julia Child, Wolfgang Puck, Ina Garten and Yotam Ottolenghi are often listed as lefties but are not."
 slug: famous-left-handed-chefs
 tags: ["People"]
 pubDate: "2026-03-13T12:00:00.000Z"
@@ -9,31 +9,19 @@ featuredImage: "/content/images/external/unsplash/photo-1556910103-1c02745aae4d.
 isPage: false
 ---
 
-<p><strong>Which famous chefs are left-handed?</strong> Gordon Ramsay, Julia Child, Wolfgang Puck, and Ina Garten are all left-handed. These celebrated chefs have thrived despite working in kitchens designed almost entirely for right-handed cooks.</p>
+<p><strong>Which famous chefs are left-handed?</strong> Gordon Ramsay and Curtis Stone are left-handed. Julia Child, Wolfgang Puck, Ina Garten, and Yotam Ottolenghi are often listed as lefties, but photos show them working right-handed.</p>
 
-<p>Left-handed chefs face unique challenges  - from knife orientation to workstation layout  - but many have turned their different perspective into a creative advantage.</p>
+<p>Left-handed chefs deal with knife grinds and workstation layouts built for right-handers. Lists of left-handed chefs also tend to copy each other, so we checked each name against photos and footage of the chef signing books and using a knife.</p>
 
 <h2>Notable left-handed chefs</h2>
 
 <h3>Gordon Ramsay</h3>
 
-<p>Perhaps the world's most recognizable chef, Gordon Ramsay is left-handed. The British chef, restaurateur, and television personality behind <em>Hell's Kitchen</em> and <em>MasterChef</em> has built a global restaurant empire spanning multiple Michelin stars. Ramsay has spoken about adapting to right-handed kitchen equipment throughout his career, noting that his early training in French kitchens required him to develop strong ambidextrous skills.</p>
+<p>Gordon Ramsay is left-handed. The British chef, restaurateur, and television personality behind <em>Hell's Kitchen</em> and <em>MasterChef</em> has built a global restaurant group with multiple Michelin stars. Press photos from his <em>Kitchen Heaven</em> book signing at Books Etc in Canary Wharf on June 23, 2004 show him signing with his left hand, and overhead footage from his own YouTube channel shows him holding the knife in his left hand.</p>
 
-<h3>Julia Child</h3>
+<h3>Curtis Stone</h3>
 
-<p>The woman who introduced French cuisine to the American public is widely reported to have been left-handed. Julia Child's influence on American cooking cannot be overstated  - her 1961 book <em>Mastering the Art of French Cooking</em> and her television series <em>The French Chef</em> changed how Americans thought about food. As a left-hander working in professional French kitchens in the 1950s, she adapted without complaint, a testament to her determination and passion for the craft.</p>
-
-<h3>Wolfgang Puck</h3>
-
-<p>The Austrian-American chef who revolutionized fine dining in Los Angeles is left-handed. Puck's Spago restaurant helped define California cuisine, and his culinary empire now spans restaurants, catering, packaged foods, and cookware. His left-handedness is visible in cooking demonstrations, where he holds his knife in his left hand with the practiced ease of decades of professional cooking.</p>
-
-<h3>Ina Garten</h3>
-
-<p>The Barefoot Contessa is left-handed. Ina Garten's approach to cooking  - elegant but accessible  - has made her one of the most beloved food personalities in America. She has mentioned in interviews that being left-handed influenced how she sets up her home kitchen, arranging workstations to flow naturally for left-handed movement.</p>
-
-<h3>Yotam Ottolenghi</h3>
-
-<p>The Israeli-British chef who transformed how the Western world thinks about vegetable-forward cooking is left-handed. Ottolenghi's cookbooks, including <em>Plenty</em> and <em>Jerusalem</em>, have sold millions of copies worldwide. His left-handedness is most apparent in his plating style, which he approaches from a different angle than most chefs.</p>
+<p>Curtis Stone is left-handed. The Australian chef and restaurateur is a regular on American and Australian food television. Press photos show him signing books with his left hand in Melbourne in 2004 and in Toronto in 2015, and whisking with his left hand at a 2013 cooking event in New York.</p>
 
 <h2>The right-handed kitchen problem</h2>
 
@@ -46,6 +34,8 @@ isPage: false
 <p>The most significant equipment issue for left-handed chefs is knives. Most Western-style chef's knives are symmetrically ground and can be used with either hand. However, Japanese knives  - increasingly popular in professional kitchens  - are often ground with a right-hand bevel. Bread knives, boning knives, and serrated knives are frequently right-hand only.</p>
 
 <p>Left-handed chefs have several options. They can seek out left-handed knives, which are available from most major knife manufacturers. They can learn to use right-handed knives with modified technique. Or they can stick to symmetrically ground Western-style knives. Many professional left-handed chefs own a mix of all three.</p>
+
+<figure><img src="/content/images/covers/best-left-handed-kitchen-knives.jpg" alt="A cook slicing tomatoes with a chef's knife held in the left hand" loading="lazy"><figcaption>A left-handed cook slicing with a chef's knife. See our picks for the <a href="/best-left-handed-kitchen-knives/">best left-handed kitchen knives</a>.</figcaption></figure>
 
 <p>The knife situation is reminiscent of the <a href="/best-left-handed-scissors/">left-handed scissors problem</a>  - seemingly simple tools that actually encode a strong right-hand bias in their design.</p>
 
@@ -71,11 +61,31 @@ isPage: false
 <li><strong>Consider can openers and peelers.</strong> A <a href="/best-lefthanded-can-opener/">left-handed can opener</a> and left-handed peeler eliminate daily frustration.</li>
 </ul>
 
+<h2>Chefs often wrongly listed as left-handed</h2>
+
+<p>These four chefs appear on many lists of left-handed chefs, including earlier versions of this page. The photo evidence shows each of them writing or cutting with the right hand.</p>
+
+<h3>Julia Child</h3>
+
+<p>Julia Child was right-handed as far as the evidence shows. Press photos from a book signing in Boston on November 4, 1998 show her signing with her right hand, and kitchen portraits show her holding a knife and a cleaver in her right hand. The left-handed claim seems to come from overhead shots on <em>The French Chef</em> that may have been filmed through a mirror. A 2022 review of the HBO series <em>Julia</em> noted that actress Sarah Lancashire is left-handed while Child was right-handed.</p>
+
+<h3>Wolfgang Puck</h3>
+
+<p>Wolfgang Puck is right-handed in every photo we found. He holds the knife in his right hand in photos of a cooking demonstration in New York on November 16, 2015, and he signs books with his right hand in photos from several signings.</p>
+
+<h3>Ina Garten</h3>
+
+<p>Ina Garten is right-handed in the photos we found. She signs cookbooks with her right hand in press photos from the New York City Wine &amp; Food Festival on October 13, 2018, and she slices with the knife in her right hand in photos from a <em>Today</em> show segment on November 22, 2022. We found no interview in which she describes herself as left-handed.</p>
+
+<h3>Yotam Ottolenghi</h3>
+
+<p>Yotam Ottolenghi signs books with his right hand in press photos from a New York Times event in New York on October 19, 2015. We found no photo, footage, or statement that shows him to be left-handed.</p>
+
 <h2>Frequently asked questions</h2>
 
 <h3>Is Gordon Ramsay really left-handed?</h3>
 
-<p>Yes. Gordon Ramsay is left-handed and can be seen holding knives and writing with his left hand in his television shows and cooking demonstrations. He has discussed being left-handed in interviews and how it influenced his early training in professional French kitchens.</p>
+<p>Yes. Gordon Ramsay is left-handed. Press photos from a 2004 book signing in London show him signing with his left hand, and overhead footage from his own YouTube channel shows him holding the knife in his left hand.</p>
 
 <h3>Do left-handed chefs need special knives?</h3>
 
@@ -83,11 +93,11 @@ isPage: false
 
 <h3>Is it harder to become a chef if you are left-handed?</h3>
 
-<p>Left-handed chefs face some additional adaptation challenges, particularly with equipment and workstation layout, but left-handedness is not a barrier to culinary success. Many of the world's most celebrated chefs are left-handed. Modern culinary schools are increasingly aware of left-handed students' needs and provide appropriate equipment and instruction.</p>
+<p>Left-handed chefs face some additional adaptation challenges, particularly with equipment and workstation layout, but left-handedness is not a barrier to culinary success. Gordon Ramsay and Curtis Stone both built major careers as left-handed chefs. Modern culinary schools are increasingly aware of left-handed students' needs and provide appropriate equipment and instruction.</p>
 
 <h3>Are left-handed people better cooks?</h3>
 
 <p>There is no scientific evidence that handedness affects cooking ability. However, left-handed cooks who have adapted to right-handed kitchens often develop strong ambidextrous skills and a heightened awareness of ergonomic workflow  - qualities that can enhance efficiency and creativity in the kitchen.</p>
 
 <h3>Was Julia Child left-handed?</h3>
-<p>Julia Child is widely listed as a left-handed chef, but the claim is unconfirmed. Overhead shots on <em>The French Chef</em> appear to show her whisking left-handed, while face-on shots show her working with her right hand, and viewers have suggested the overhead angle was filmed through a mirror. There is no on-record statement from Child herself.</p>
+<p>Probably not. Julia Child is widely listed as a left-handed chef, but press photos show her signing books and holding knives with her right hand. Overhead shots on <em>The French Chef</em> appear to show her whisking left-handed, while face-on shots show her working with her right hand, and viewers have suggested the overhead angle was filmed through a mirror. There is no on-record statement from Child herself.</p>

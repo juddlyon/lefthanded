@@ -56,11 +56,6 @@ const jsonLd = ogType === 'article'
       name: 'lefthanded.io',
       url: Astro.site,
       description,
-      potentialAction: {
-        '@type': 'SearchAction',
-        target: `${Astro.site}?q={search_term_string}`,
-        'query-input': 'required name=search_term_string',
-      },
     };
 ---
 
@@ -117,8 +112,8 @@ const jsonLd = ogType === 'article'
     }
   </script>
   <style is:global>
-    :root {--ghost-accent-color: #FF1A75; --secondary-text-color: #6b6b6b;}
-    .dark-mode {--secondary-text-color: #999;}
+    :root {--ghost-accent-color: #d4005c; --secondary-text-color: #6b6b6b;}
+    .dark-mode {--ghost-accent-color: #FF1A75; --secondary-text-color: #999;}
     .u-sr-only { position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
     a:focus-visible, button:focus-visible, [role="button"]:focus-visible { outline: 3px solid #1a1a1a; outline-offset: 2px; }
     .dark-mode a:focus-visible, .dark-mode [role="button"]:focus-visible { outline-color: #fff; }
@@ -127,6 +122,7 @@ const jsonLd = ogType === 'article'
     .post-image, .author-image { position: relative; height: auto; width: 100%; object-fit: cover; }
     .post-media .u-placeholder { overflow: hidden; }
     .post-media .u-placeholder .post-image { position: absolute; top: 0; left: 0; height: 100%; }
+    .post-media .u-placeholder .post-image.is-portrait { object-fit: contain; }
     .skip-to-content {
       position: absolute;
       left: -9999px;

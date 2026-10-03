@@ -73,7 +73,7 @@ function readingTime(html: string) {
                 <figure class="post-media container large">
                   <div class="u-placeholder horizontal">
                     <a class="post-image-link" href={`/${post.data.slug}/`} tabindex="-1" aria-hidden="true">
-                      <img class="post-image u-object-fit" src={post.data.featuredImage} alt="" loading={i === 0 ? 'eager' : 'lazy'} fetchpriority={i === 0 ? 'high' : undefined}>
+                      <img class={`post-image u-object-fit ${post.data.featuredImage?.includes('/portraits/') ? 'is-portrait' : ''}`} src={post.data.featuredImage} alt="" loading={i === 0 ? 'eager' : 'lazy'} fetchpriority={i === 0 ? 'high' : undefined}>
                     </a>
                   </div>
                 </figure>

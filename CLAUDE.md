@@ -87,7 +87,7 @@ A post that is *about a specific person* should show that person — never a gen
 - Twitter Card tags (summary_large_image when image present)
 - Default OG image fallback (`og-default.svg`) for pages without featured images
 - JSON-LD structured data:
-  - `WebSite` with `SearchAction` on homepage
+  - `WebSite` on homepage
   - `Article` on post pages
   - `BreadcrumbList` on posts and tag pages
   - `FAQPage` auto-extracted from FAQ sections in post HTML
