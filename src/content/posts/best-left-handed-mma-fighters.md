@@ -1,10 +1,10 @@
 ---
-title: "Best left-handed MMA fighters and the southpaw advantage"
-description: "Conor McGregor, B.J. Penn, Lyoto Machida, and Holly Holm lead the best left-handed MMA fighters who used the southpaw advantage to win UFC titles."
+title: "Best Left-Handed UFC and MMA Fighters (Southpaw Advantage)"
+description: "The best left-handed UFC fighters: Conor McGregor, B.J. Penn, Lyoto Machida, Holly Holm, and the Diaz brothers, and why southpaws win more often in MMA."
 slug: best-left-handed-mma-fighters
 tags: ["Sports"]
 pubDate: "2026-04-30T12:00:00.000Z"
-updatedDate: "2026-04-30T12:00:00.000Z"
+updatedDate: "2026-10-03T12:00:00.000Z"
 featuredImage: "/content/images/external/unsplash/photo-1591117207239-788bf8de6c3b.jpg"
 isPage: false
 ---
@@ -102,3 +102,12 @@ isPage: false
 <h3 id="who-is-the-best-left-handed-female-mma-fighter">Who is the best left-handed female MMA fighter?</h3>
 
 <p>Holly Holm and Joanna Jędrzejczyk are the two most decorated southpaws in women's MMA. Holm is best known for her left head-kick knockout of Ronda Rousey at UFC 193, and Jędrzejczyk's five strawweight title defenses make her one of the most dominant champions in UFC women's history. Both built their MMA careers on world-class left-handed striking foundations from boxing and Muay Thai respectively.</p>
+
+<h3>Is Nate Diaz left-handed?</h3>
+<p>Nate Diaz fights from a southpaw stance, with his right hand leading and his left hand as the power hand, and he is widely listed as a left-handed fighter. Which hand he writes with is not confirmed on the record, so "southpaw fighter" is the safest description.</p>
+
+<h3>Is Nick Diaz left-handed?</h3>
+<p>Nick Diaz also fights southpaw and is usually described as left-handed. Some fans argue he is a right-hander who chose a southpaw stance to lead with his stronger hand, but neither Diaz nor his coaches have confirmed that publicly.</p>
+
+<h3>Who are the best left-handed UFC fighters?</h3>
+<p>Conor McGregor, B.J. Penn, Lyoto Machida, Holly Holm, Cody Garbrandt, Vitor Belfort, and Nick and Nate Diaz are among the best-known left-handed or southpaw UFC fighters. McGregor, Penn, Machida, Holm, Garbrandt, and Belfort all held UFC titles.</p>

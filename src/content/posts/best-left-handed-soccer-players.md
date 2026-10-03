@@ -4,7 +4,7 @@ description: "Discover the greatest left-footed soccer players ever, from Messi 
 slug: best-left-handed-soccer-players
 tags: ["Sports", "People"]
 pubDate: "2026-03-07T12:00:00.000Z"
-updatedDate: "2026-03-07T12:00:00.000Z"
+updatedDate: "2026-10-03T12:00:00.000Z"
 featuredImage: "/content/images/external/unsplash/photo-1535940408559-534474708822.jpg"
 isPage: false
 ---
@@ -127,3 +127,6 @@ isPage: false
 
 <h3>Who is the greatest left-footed soccer player of all time?</h3>
 <p>Most experts and fans consider Lionel Messi to be the greatest left-footed soccer player of all time, given his record eight Ballon d'Or awards, over 800 career goals, and a World Cup title. Diego Maradona is the other leading candidate, with many older fans and pundits arguing his 1986 World Cup performance remains the single greatest individual tournament by any player in history.</p>
+
+<h3>Is Gareth Bale left-handed?</h3>
+<p>Gareth Bale is left-footed, which is not the same as being left-handed. He took free kicks, penalties, and long-range shots with his left foot throughout his career at Tottenham, Real Madrid, and Wales. Which hand he writes with is not well documented.</p>

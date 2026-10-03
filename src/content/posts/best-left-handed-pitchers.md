@@ -1,5 +1,5 @@
 ---
-title: "The greatest southpaws: celebrating the best left-handed pitchers in baseball history"
+title: "The Best Left-Handed Pitchers in Baseball History"
 description: "The greatest left-handed pitchers in baseball history: Sandy Koufax, Randy Johnson, Clayton Kershaw, Warren Spahn, and Whitey Ford — their stats, styles, and lasting legacies."
 slug: best-left-handed-pitchers
 tags: ["Sports"]

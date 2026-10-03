@@ -4,7 +4,7 @@ description: "Yes, Jim Carrey is left-handed. The Ace Ventura and Truman Show st
 slug: is-jim-carrey-left-handed
 tags: ["People"]
 pubDate: "2025-03-24T12:00:00.000Z"
-updatedDate: "2026-09-18T12:00:00.000Z"
+updatedDate: "2026-10-03T12:00:00.000Z"
 featuredImage: "/content/images/portraits/jim-carrey-v2.jpg"
 isPage: false
 ---
@@ -46,7 +46,6 @@ isPage: false
 <li><strong>Brad Pitt</strong> - Oscar-winning actor and producer</li>
 <li><strong>Angelina Jolie</strong> - Actress, filmmaker, and humanitarian</li>
 <li><strong>Julia Roberts</strong> - Romantic comedy icon and Oscar winner</li>
-<li><strong>Matt Damon</strong> - Star of the Bourne franchise</li>
 <li><strong>Sylvester Stallone</strong> - Creator and star of Rocky and Rambo</li>
 <li><strong>Jennifer Lawrence</strong> - Oscar-winning actress</li>
 </ul>

@@ -4,7 +4,7 @@ description: "Famous left-handed chefs include Gordon Ramsay and Julia Child. Ho
 slug: famous-left-handed-chefs
 tags: ["People"]
 pubDate: "2026-03-13T12:00:00.000Z"
-updatedDate: "2026-03-13T12:00:00.000Z"
+updatedDate: "2026-10-03T12:00:00.000Z"
 featuredImage: "/content/images/external/unsplash/photo-1556910103-1c02745aae4d.jpg"
 isPage: false
 ---
@@ -21,7 +21,7 @@ isPage: false
 
 <h3>Julia Child</h3>
 
-<p>The woman who introduced French cuisine to the American public was left-handed. Julia Child's influence on American cooking cannot be overstated  - her 1961 book <em>Mastering the Art of French Cooking</em> and her television series <em>The French Chef</em> changed how Americans thought about food. As a left-hander working in professional French kitchens in the 1950s, she adapted without complaint, a testament to her determination and passion for the craft.</p>
+<p>The woman who introduced French cuisine to the American public is widely reported to have been left-handed. Julia Child's influence on American cooking cannot be overstated  - her 1961 book <em>Mastering the Art of French Cooking</em> and her television series <em>The French Chef</em> changed how Americans thought about food. As a left-hander working in professional French kitchens in the 1950s, she adapted without complaint, a testament to her determination and passion for the craft.</p>
 
 <h3>Wolfgang Puck</h3>
 
@@ -88,3 +88,6 @@ isPage: false
 <h3>Are left-handed people better cooks?</h3>
 
 <p>There is no scientific evidence that handedness affects cooking ability. However, left-handed cooks who have adapted to right-handed kitchens often develop strong ambidextrous skills and a heightened awareness of ergonomic workflow  - qualities that can enhance efficiency and creativity in the kitchen.</p>
+
+<h3>Was Julia Child left-handed?</h3>
+<p>Julia Child is widely listed as a left-handed chef, but the claim is unconfirmed. Overhead shots on <em>The French Chef</em> appear to show her whisking left-handed, while face-on shots show her working with her right hand, and viewers have suggested the overhead angle was filmed through a mirror. There is no on-record statement from Child herself.</p>

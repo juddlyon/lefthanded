@@ -203,5 +203,35 @@
     "is_hero": true,
     "version": "v2",
     "fetched_at": "2026-09-18"
+  },
+  "matt-damon": {
+    "name": "Matt Damon",
+    "description": "American actor (born 1970)",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Matt_Damon",
+    "image_path": "/content/images/portraits/matt-damon-v2.jpg",
+    "source_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/MattDamon-byPhilipRomano2.jpg/1280px-MattDamon-byPhilipRomano2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "is_hero": true,
+    "version": "v2",
+    "fetched_at": "2026-10-03"
+  },
+  "emma-watson": {
+    "name": "Emma Watson",
+    "description": "English actress (born 1990)",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Emma_Watson",
+    "image_path": "/content/images/portraits/emma-watson-v2.jpg",
+    "source_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Emma_Watson_2013.jpg/1280px-Emma_Watson_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "is_hero": true,
+    "version": "v2",
+    "fetched_at": "2026-10-03"
+  },
+  "jimmy-page": {
+    "name": "Jimmy Page",
+    "description": "English guitarist (born 1944)",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jimmy_Page",
+    "image_path": "/content/images/portraits/jimmy-page-v2.jpg",
+    "source_image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Jimmy_Page_at_the_Echo_music_award_2013.jpg/1280px-Jimmy_Page_at_the_Echo_music_award_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "is_hero": true,
+    "version": "v2",
+    "fetched_at": "2026-10-03"
   }
 }

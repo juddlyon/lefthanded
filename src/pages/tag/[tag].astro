@@ -62,7 +62,7 @@ function readingTime(html: string) {
         </div>
       </section>
       <div class="post-feed">
-        {tagPosts.map(post => {
+        {tagPosts.map((post, i) => {
           const hasImage = post.data.featuredImage && !post.data.featuredImage.includes('ghost.org');
           const firstTag = post.data.tags[0];
           const firstTagSlug = firstTag ? firstTag.toLowerCase().replace(/\s+/g, '-') : '';
@@ -72,8 +72,8 @@ function readingTime(html: string) {
               {hasImage && (
                 <figure class="post-media container large">
                   <div class="u-placeholder horizontal">
-                    <a class="post-image-link" href={`/${post.data.slug}/`}>
-                      <img class="post-image u-object-fit" src={post.data.featuredImage} alt={post.data.title} loading="lazy">
+                    <a class="post-image-link" href={`/${post.data.slug}/`} tabindex="-1" aria-hidden="true">
+                      <img class="post-image u-object-fit" src={post.data.featuredImage} alt="" loading={i === 0 ? 'eager' : 'lazy'} fetchpriority={i === 0 ? 'high' : undefined}>
                     </a>
                   </div>
                 </figure>

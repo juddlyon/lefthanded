@@ -16,7 +16,7 @@ const aboutPost = allPosts.find(p => p.data.slug === 'about');
         {aboutPost?.data.featuredImage && !aboutPost.data.featuredImage.includes('ghost.org') && (
           <figure class="post-media container large">
             <div class="u-placeholder horizontal">
-              <img class="post-image u-object-fit" src={aboutPost.data.featuredImage} alt="Left handed artist with marker" loading="lazy">
+              <img class="post-image u-object-fit" src={aboutPost.data.featuredImage} alt="Left handed artist with marker" loading="eager" fetchpriority="high">
             </div>
           </figure>
         )}

@@ -4,7 +4,7 @@ description: "About 9-10% of women are left-handed, slightly lower than the 11-1
 slug: left-handed-women-statistics
 tags: ["Facts"]
 pubDate: "2025-03-24T12:00:00.000Z"
-updatedDate: "2025-03-24T12:00:00.000Z"
+updatedDate: "2026-10-03T12:00:00.000Z"
 featuredImage: "/content/images/external/unsplash/photo-1581091226825-a6a2a5aee158.jpg"
 isPage: false
 ---
@@ -68,7 +68,6 @@ isPage: false
 <li><strong>Nicole Kidman</strong> - Academy Award-winning actress</li>
 <li><strong>Scarlett Johansson</strong> - One of the highest-grossing box office stars</li>
 <li><strong>Jennifer Lawrence</strong> - Academy Award winner</li>
-<li><strong>Emma Watson</strong> - <em>Harry Potter</em> star and UN Women Goodwill Ambassador</li>
 </ul>
 
 <p>See our full list of <a href="/iconic-left-handed-actors/">iconic left-handed actors</a> for more Hollywood lefties.</p>

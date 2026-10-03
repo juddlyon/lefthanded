@@ -11,7 +11,7 @@ isPage: false
 
 <p><strong>What are the best left-handed guitars?</strong> Fender Player Stratocaster LH, Epiphone Les Paul Standard LH, and Ibanez GRX20L rank among the top picks across price ranges.</p>
 
-<p>Purpose-built left-handed guitars offer proper nut slots, correct intonation, and mirrored body contours — advantages that flipping a right-handed guitar cannot match. Today's selection covers acoustic and electric models at every budget.</p>
+<p>Purpose-built left-handed guitars offer proper nut slots, correct intonation, and mirrored body contours — advantages that flipping a right-handed guitar cannot match. Today's selection covers acoustic and electric models at every budget. If you have not decided which way to play yet, read <a href="/should-i-learn-guitar-left-or-right-handed/">should I learn guitar left or right-handed</a> first.</p>
 
 <p>Playing guitar left-handed isn't a compromise. Some of the most iconic players in history were lefties — Hendrix, McCartney, Cobain — and instrument makers have responded by expanding their left-handed lineups significantly over the past decade. The guide below covers what to look for, what's available, and how to pick well at any budget.</p>
 

@@ -4,7 +4,7 @@ description: "About 10% of the world's population is left-handed — roughly 800
 slug: left-handed-statistics
 tags: ["Facts"]
 pubDate: "2026-03-07T12:00:00.000Z"
-updatedDate: "2026-04-25T12:00:00.000Z"
+updatedDate: "2026-10-03T12:00:00.000Z"
 featuredImage: "/content/images/external/unsplash/photo-1551288049-bebda4e38f71.jpg"
 isPage: false
 ---
@@ -98,7 +98,7 @@ isPage: false
 
 <ul>
 <li><strong>Cohort effects</strong>: older individuals grew up in an era when left-handedness was suppressed, so many converted left-handers still identify as right-handed</li>
-<li><strong>Elimination bias</strong>: a controversial hypothesis suggests that left-handers may face slightly higher mortality risks, but the evidence for this is weak and highly debated</li>
+<li><strong>Elimination bias</strong>: a controversial hypothesis suggests that left-handers may face slightly higher mortality risks, but the evidence for this is weak and highly debated (see <a href="/left-handedness-and-longevity/">left-handedness and longevity</a>)</li>
 </ul>
 
 <p>The cohort effect is the dominant explanation. When researchers compare only individuals born after 1960 across different age groups, the left-handedness rate remains stable at around 10 to 12 percent.</p>
@@ -114,12 +114,12 @@ isPage: false
 <li><strong>Tennis</strong>: about 15 to 20 percent of top-ranked players have been left-handed, including legends like Rafael Nadal and John McEnroe</li>
 <li><strong>Baseball</strong>: left-handed batters and pitchers are prized for strategic reasons, with left-handers making up roughly 25 to 30 percent of Major League hitters</li>
 <li><strong><a href="/left-handed-fencing/">Fencing</a></strong>: approximately 15 to 20 percent of elite fencers are left-handed, benefiting from the element of surprise in one-on-one combat</li>
-<li><strong>Cricket</strong>: left-handed batsmen are valued for the variety they bring, comprising about 20 percent of top-order players</li>
+<li><strong>Cricket</strong>: left-handed batsmen are valued for the variety they bring, comprising about 20 percent of top-order players. See the <a href="/best-left-handed-cricket-bowlers/">best left-handed cricket bowlers</a> for the bowling side.</li>
 </ul>
 
 <h3 id="underrepresented-sports">Sports where handedness matters less</h3>
 
-<p>In non-interactive sports such as swimming, track and field, and gymnastics, left-handers appear at roughly the same rate as the general population. The tactical advantage of left-handedness only emerges when you are directly competing against another person's motor patterns.</p>
+<p>In non-interactive sports such as swimming, track and field, and gymnastics, left-handers appear at roughly the same rate as the general population. The tactical advantage of left-handedness only emerges when you are directly competing against another person's motor patterns. Archery is a special case: eye dominance matters more than hand dominance when <a href="/left-hand-vs-right-hand-bow/">choosing a left-handed or right-handed bow</a>.</p>
 
 <h2 id="why-rare">Why is left-handedness so rare?</h2>
 
@@ -217,3 +217,6 @@ isPage: false
 <h3 id="faq-special">What makes left-handed people special?</h3>
 
 <p>The honest answer is "less than you've heard." The popular claims that left-handers are smarter, more creative, or shorter-lived than right-handers are mostly weak or unreplicated. What is real: left-handers process language slightly more bilaterally on average, are overrepresented in some elite sports, and have lived through measurable cultural discrimination. The mythology around left-handedness exceeds the data.</p>
+
+<h3>How many people in the world are left-handed in 2026?</h3>
+<p>About 800 million people are left-handed in 2026. That figure applies the 10% global left-handedness rate to a world population of roughly 8 billion.</p>

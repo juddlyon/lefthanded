@@ -1,5 +1,5 @@
 ---
-title: "Best left-handed kitchen knives: chef's, paring, and bread knife picks"
+title: "Best Left-Handed Kitchen Knives: Chef's, Paring, and Bread"
 description: "True left-handed kitchen knives have an asymmetric grind that flips the cutting bevel. Top picks across chef's, paring, and bread knives — plus what to skip."
 slug: best-left-handed-kitchen-knives
 tags: ["Products"]

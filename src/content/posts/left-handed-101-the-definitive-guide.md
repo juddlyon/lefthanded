@@ -1,5 +1,5 @@
 ---
-title: "Left-handed 101: understanding, living with, and celebrating your left-handedness"
+title: "Left-Handed 101: The Definitive Guide to Being a Lefty"
 description: A field guide to being left-handed — the science, the history, the daily friction, and the cognitive payoffs that come with the wiring.
 slug: left-handed-101-the-definitive-guide
 tags: ["Facts"]

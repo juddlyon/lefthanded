@@ -34,6 +34,7 @@ const META_PATH = path.join(ROOT, 'src', 'data', 'portraits.json');
 const HERO_SLUGS = new Set([
   'donald-trump', 'jayden-daniels', 'tua-tagovailoa',
   'john-cena', 'taylor-swift', 'jim-carrey', 'tom-cruise',
+  'matt-damon', 'emma-watson', 'jimmy-page',
 ]);
 const HERO_SIZE = 1280;
 const HERO_VERSION = 'v2';
@@ -48,6 +49,9 @@ const PORTRAITS = {
   'taylor-swift': 'Taylor_Swift',
   'jim-carrey': 'Jim_Carrey',
   'tom-cruise': 'Tom_Cruise',
+  'matt-damon': 'Matt_Damon',
+  'emma-watson': 'Emma_Watson',
+  'jimmy-page': 'Jimmy_Page',
 
   // For the famous-left-handed-people hub gallery
   'paul-mccartney': 'Paul_McCartney',

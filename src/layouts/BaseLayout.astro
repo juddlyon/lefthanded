@@ -117,7 +117,12 @@ const jsonLd = ogType === 'article'
     }
   </script>
   <style is:global>
-    :root {--ghost-accent-color: #FF1A75;}
+    :root {--ghost-accent-color: #FF1A75; --secondary-text-color: #6b6b6b;}
+    .dark-mode {--secondary-text-color: #999;}
+    .u-sr-only { position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+    a:focus-visible, button:focus-visible, [role="button"]:focus-visible { outline: 3px solid #1a1a1a; outline-offset: 2px; }
+    .dark-mode a:focus-visible, .dark-mode [role="button"]:focus-visible { outline-color: #fff; }
+    .footer-nav .menu-item-link { display: inline-block; padding: 15px 5px; }
     .lazyload, .lazyloading { opacity: 1 !important; }
     .post-image, .author-image { position: relative; height: auto; width: 100%; object-fit: cover; }
     .post-media .u-placeholder { overflow: hidden; }
@@ -207,5 +212,33 @@ const jsonLd = ogType === 'article'
   <script is:inline defer src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
   <script is:inline defer src="/assets/built/main.min.js"></script>
   <script is:inline defer src="/ghost-public/cards.min.js"></script>
+  <script is:inline>
+    document.addEventListener('keydown', function (e) {
+      if (e.key !== 'Enter' && e.key !== ' ') return;
+      var el = e.target.closest && e.target.closest('div[role="button"]');
+      if (!el) return;
+      e.preventDefault();
+      el.click();
+    });
+    window.addEventListener('load', function () {
+      var canvas = document.querySelector('.off-canvas');
+      if (!canvas) return;
+      var fixLinks = function () {
+        canvas.querySelectorAll('.mobile-menu [aria-hidden="true"]').forEach(function (el) { el.removeAttribute('aria-hidden'); });
+        canvas.querySelectorAll('.mobile-menu a').forEach(function (a) {
+          if (a.getAttribute('href') === '#') { a.tabIndex = -1; a.setAttribute('aria-hidden', 'true'); }
+          else a.tabIndex = 0;
+        });
+      };
+      var sync = function () {
+        var open = document.documentElement.classList.contains('canvas-opened');
+        canvas.setAttribute('aria-hidden', open ? 'false' : 'true');
+        canvas.inert = !open;
+        if (open) setTimeout(fixLinks, 0);
+      };
+      new MutationObserver(sync).observe(document.documentElement, { attributes: true, attributeFilter: ['class'] });
+      sync();
+    });
+  </script>
 </body>
 </html>

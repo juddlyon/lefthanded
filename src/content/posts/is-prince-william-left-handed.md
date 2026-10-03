@@ -1,10 +1,10 @@
 ---
-title: "Is Prince William left-handed?"
+title: "Is Prince William Left-Handed? Yes, He Signs Left-Handed"
 description: "Yes, Prince William is left-handed — the Prince of Wales writes, waves, and carries out royal duties with his dominant left hand, following a royal family tradition."
 slug: is-prince-william-left-handed
 tags: ["People"]
 pubDate: "2025-03-24T12:00:00.000Z"
-updatedDate: "2025-03-24T12:00:00.000Z"
+updatedDate: "2026-10-03T12:00:00.000Z"
 featuredImage: "/content/images/external/unsplash/photo-1578662996442-48f60103fc96.jpg"
 isPage: false
 ---

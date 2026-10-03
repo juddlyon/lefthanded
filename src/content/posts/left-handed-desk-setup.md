@@ -4,7 +4,7 @@ description: "Set up an ergonomic left-handed desk with optimal monitor, mouse, 
 slug: left-handed-desk-setup
 tags: ["How-to"]
 pubDate: "2026-03-07T12:00:00.000Z"
-updatedDate: "2026-03-07T12:00:00.000Z"
+updatedDate: "2026-10-03T12:00:00.000Z"
 featuredImage: "/content/images/external/unsplash/photo-1742198865450-cf9ce4335a33.jpg"
 isPage: false
 ---
@@ -80,6 +80,17 @@ isPage: false
 <h3>Dual monitors</h3>
 
 <p>For a dual-monitor setup, place the primary monitor directly in front of you and the secondary monitor to the right. This prevents your left arm from having to cross the mouse over a wide area and keeps the most-used screen in the most neutral neck position.</p>
+
+<h3>Monitor arms for left-handers</h3>
+
+<p>A monitor arm suits a left-handed desk because it lets you offset the screen without moving the whole desk layout. Clamp the arm to the rear right corner or the rear center of the desk. That keeps the clamp, the arm, and the cables away from the left side, where your mouse and writing hand need clear space.</p>
+
+<ul>
+<li><strong>Clamp position.</strong> Rear right or rear center. Avoid the rear left corner, where the arm swings over your mouse area.</li>
+<li><strong>Reach.</strong> Choose an arm with enough horizontal reach to place the screen 5 to 10 centimeters right of your center line.</li>
+<li><strong>Adjustment.</strong> A gas-spring arm lets you push the screen back when you write by hand and pull it forward for screen work.</li>
+<li><strong>Cables.</strong> Route cables down the right side of the arm so nothing crosses your writing surface.</li>
+</ul>
 
 <h2>Lighting</h2>
 
@@ -221,3 +232,6 @@ isPage: false
 <h3>Does monitor placement really differ for left-handers?</h3>
 
 <p>The difference is minor but meaningful over an eight-hour workday. With the mouse on the left, your body's center of gravity shifts slightly leftward. Nudging the monitor 5 to 10 centimeters to the right of center compensates for this shift and keeps your head and neck in a neutral position. For dual monitors, place the primary screen directly ahead and the secondary screen to the right.</p>
+
+<h3>Where should a monitor arm go on a left-handed desk?</h3>
+<p>Clamp the monitor arm to the rear right corner or the rear center of the desk. This keeps the arm and its cables clear of the left side, where a left-hander uses the mouse and writes, and still lets you shift the screen slightly right of center.</p>

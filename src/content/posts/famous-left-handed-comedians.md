@@ -4,7 +4,7 @@ description: "Discover the famous left-handed comedians who shaped modern comedy
 slug: famous-left-handed-comedians
 tags: ["People"]
 pubDate: "2026-04-30T12:00:00.000Z"
-updatedDate: "2026-04-30T12:00:00.000Z"
+updatedDate: "2026-10-03T12:00:00.000Z"
 featuredImage: "/content/images/external/unsplash/photo-1594663805807-29a7cc1847c0.jpg"
 isPage: false
 ---
@@ -124,3 +124,6 @@ isPage: false
 <h3 id="who-was-the-first-famous-left-handed-comedian">Who was the first famous left-handed comedian?</h3>
 
 <p>Charlie Chaplin, who rose to international fame in the 1910s, is among the earliest globally famous comedians widely reported to have been left-handed. Vaudeville performers from the 19th and early 20th centuries also included known southpaws, but Chaplin's silent-film stardom made him the first left-handed comedian to be recognized worldwide.</p>
+
+<h3>Is Drew Carey left-handed?</h3>
+<p>Yes, Drew Carey is widely reported to be left-handed. The star of <em>The Drew Carey Show</em> and host of <em>The Price Is Right</em> since 2007 appears on most published lists of left-handed comedians.</p>

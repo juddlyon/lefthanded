@@ -1,5 +1,5 @@
 ---
-title: "How to teach a left-handed child to write: tips for parents and teachers"
+title: "How to Teach a Left-Handed Child to Write: Tips for Parents"
 description: "Practical tips for teaching a left-handed child to write, covering pencil grip, paper angle, letter formation, and emotional support."
 slug: how-to-teach-left-handed-child-to-write
 tags: ["How-to"]
